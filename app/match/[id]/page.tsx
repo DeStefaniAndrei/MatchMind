@@ -4,14 +4,16 @@ import { MatchLeaderboard } from "@/components/match/match-leaderboard"
 import { UpcomingMatch } from "@/components/match/upcoming-match"
 
 interface MatchPageProps {
-  params: {
+  params: Promise<{
     id: string
-  }
+  }>
 }
 
-export default function MatchPage({ params }: MatchPageProps) {
-  // Check if this is the PSG vs Nantes match (ID: "10")
-  const isPSGvsNantes = params.id === "10"
+export default async function MatchPage({ params }: MatchPageProps) {
+  const { id } = await params
+  console.log('Match page accessed with ID:', id)
+  // Check if this is the PSG vs Nantes match (ID: "10") or contains PSG vs Nantes
+  const isPSGvsNantes = id === "10" || id.includes("psg") || id.includes("nantes")
   
   if (isPSGvsNantes) {
     return (
@@ -19,7 +21,7 @@ export default function MatchPage({ params }: MatchPageProps) {
         <Header />
         <main className="container mx-auto px-4 py-8">
           <div className="max-w-4xl mx-auto">
-            <UpcomingMatch matchId={params.id} />
+            <UpcomingMatch matchId={id} />
           </div>
         </main>
       </div>
@@ -33,10 +35,10 @@ export default function MatchPage({ params }: MatchPageProps) {
       <main className="container mx-auto px-4 py-8">
         <div className="grid gap-8 lg:grid-cols-3">
           <div className="lg:col-span-2">
-            <LiveMatch matchId={params.id} />
+            <LiveMatch matchId={id} />
           </div>
           <div>
-            <MatchLeaderboard matchId={params.id} />
+            <MatchLeaderboard matchId={id} />
           </div>
         </div>
       </main>

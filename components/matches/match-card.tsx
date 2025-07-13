@@ -69,7 +69,9 @@ export function MatchCard({ match }: MatchCardProps) {
           )}
           {match.status === "upcoming" && (
             <Button asChild variant="outline" className="flex-1 bg-transparent">
-              <Link href={`/stake?match=${match.id}`}>Stake Now</Link>
+              <Link href={`/stake?match=${match.homeTeam === "PSG" && match.awayTeam === "Nantes" ? "10" : match.id}`}>
+                Stake Now
+              </Link>
             </Button>
           )}
           {match.status === "completed" && (

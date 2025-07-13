@@ -207,32 +207,32 @@ export const mockPredictions = [
 export const mockQuestions = [
   {
     id: "1",
-    text: "Who will score the next goal?",
-    options: ["Home Team", "Away Team", "No Goal"],
+    text: "Will there be more than 10 passes in the next minute?",
+    options: ["True", "False"],
     timeLeft: 60,
     answered: false,
     match_id: "1"
   },
   {
     id: "2", 
-    text: "Will there be a corner kick in the next 5 minutes?",
-    options: ["Yes", "No"],
+    text: "Will there be more than 10 passes in the next minute?",
+    options: ["True", "False"],
     timeLeft: 60,
     answered: false,
     match_id: "1"
   },
   {
     id: "3",
-    text: "Which team will have more possession in this period?",
-    options: ["Home Team", "Away Team", "Equal"],
+    text: "Will there be more than 10 passes in the next minute?",
+    options: ["True", "False"],
     timeLeft: 60,
     answered: false,
     match_id: "1"
   },
   {
     id: "4",
-    text: "Will there be a yellow card in the next 10 minutes?",
-    options: ["Yes", "No"],
+    text: "Will there be more than 10 passes in the next minute?",
+    options: ["True", "False"],
     timeLeft: 60,
     answered: false,
     match_id: "1"

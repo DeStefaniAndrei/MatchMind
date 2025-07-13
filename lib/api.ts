@@ -25,6 +25,12 @@ export interface MatchEvent {
 
 // Fetch all matches
 export async function fetchMatches() {
+  // Force use mock data for demo
+  console.log('Using mock matches data for demo')
+  return mockMatches
+  
+  // Commented out Supabase call for demo
+  /*
   try {
     const { data, error } = await supabase.from('matches').select('*')
     if (error) throw error
@@ -51,6 +57,7 @@ export async function fetchMatches() {
     console.log('Using mock matches data')
     return mockMatches
   }
+  */
 }
 
 // Fetch a single match by ID

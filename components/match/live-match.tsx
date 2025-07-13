@@ -82,13 +82,23 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
     if (!selectedAnswer || !currentQuestion) return
 
     setCurrentQuestion({ ...currentQuestion, answered: true })
-    const points = Math.floor(Math.random() * 20) + 10 // 10-30 points
-    setScore(score + points)
-
+    
+    // Show immediate submission feedback
     toast({
       title: "Answer Submitted!",
-      description: `You selected: ${selectedAnswer} (+${points} points)`,
+      description: `You selected: ${selectedAnswer}. Calculating points...`,
     })
+
+    // Add 10-second delay before awarding points
+    setTimeout(() => {
+      const points = Math.floor(Math.random() * 20) + 10 // 10-30 points
+      setScore(score + points)
+      
+      toast({
+        title: "Points Awarded!",
+        description: `You earned ${points} points for your prediction!`,
+      })
+    }, 10000) // 10 seconds delay
   }
 
   const isTimeUp = timeLeft === 0

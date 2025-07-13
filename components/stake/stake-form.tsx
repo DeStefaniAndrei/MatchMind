@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { useSearchParams } from "next/navigation"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Label } from "@/components/ui/label"
@@ -33,6 +34,7 @@ export function StakeForm() {
   const { chain } = useAccount()
   const chainId = useChainId()
   const { data: walletClient } = useWalletClient()
+  const searchParams = useSearchParams()
 
   // Use mock data for demo
   const demoWalletData = mockWalletData
@@ -50,6 +52,21 @@ export function StakeForm() {
     }
     fetchData()
   }, [])
+
+  // Set selected match from URL parameter
+  useEffect(() => {
+    const matchParam = searchParams.get('match')
+    if (matchParam) {
+      console.log('Setting selected match from URL param:', matchParam)
+      setSelectedMatch(matchParam)
+    }
+  }, [searchParams])
+
+  // Debug: Log available matches
+  useEffect(() => {
+    console.log('Available matches:', matches)
+    console.log('Upcoming matches:', matches.filter((m) => m.status === "upcoming" || m.status === "scheduled"))
+  }, [matches])
 
   const handleStake = async () => {
     if (!selectedMatch || !stakeAmount) {
@@ -72,9 +89,9 @@ export function StakeForm() {
     
     // Simulate staking process for demo
     setTimeout(() => {
+      console.log('Staking on match ID:', selectedMatch)
       toast({ title: "Stake Successful", description: `You staked ${amount} CHZ!` })
       setStakeAmount("")
-      setSelectedMatch("")
       setLoading(false)
       
       // Redirect to match page
@@ -230,7 +247,10 @@ export function StakeForm() {
           <TabsContent value="staking" className="space-y-4">
             <div className="space-y-2">
               <Label htmlFor="match">Select Match</Label>
-              <Select value={selectedMatch} onValueChange={setSelectedMatch} disabled={loading}>
+              <Select value={selectedMatch} onValueChange={(value) => {
+                console.log('Selected match:', value)
+                setSelectedMatch(value)
+              }} disabled={loading}>
                 <SelectTrigger>
                   <SelectValue placeholder="Choose a match to stake on" />
                 </SelectTrigger>
@@ -273,7 +293,10 @@ export function StakeForm() {
           <TabsContent value="betting" className="space-y-4">
             <div className="space-y-2">
               <Label htmlFor="match">Select Match</Label>
-              <Select value={selectedMatch} onValueChange={setSelectedMatch} disabled={loading}>
+              <Select value={selectedMatch} onValueChange={(value) => {
+                console.log('Selected match (betting):', value)
+                setSelectedMatch(value)
+              }} disabled={loading}>
                 <SelectTrigger>
                   <SelectValue placeholder="Choose a match to bet on" />
                 </SelectTrigger>
