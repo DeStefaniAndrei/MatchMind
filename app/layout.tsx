@@ -5,6 +5,7 @@ import "./globals.css"
 import { Toaster } from "@/components/ui/toaster"
 import { WalletProvider } from "@/contexts/wallet-context"
 import { ThemeProvider } from "@/components/theme-provider"
+import { WagmiProvider } from './wagmi-provider'
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -22,12 +23,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
-          <WalletProvider>
-            {children}
-            <Toaster />
-          </WalletProvider>
-        </ThemeProvider>
+        <WagmiProvider>
+          <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
+            <WalletProvider>
+              {children}
+              <Toaster />
+            </WalletProvider>
+          </ThemeProvider>
+        </WagmiProvider>
       </body>
     </html>
   )

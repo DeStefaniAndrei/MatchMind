@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { MatchCard } from "./match-card"
-import { mockMatches } from "@/lib/mock-data"
+import { fetchMatches } from "@/lib/api"
 import type { Match } from "@/lib/types"
 
 export function MatchList() {
@@ -10,14 +10,19 @@ export function MatchList() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    // Simulate API call to fetch matches
-    const fetchMatches = async () => {
-      await new Promise((resolve) => setTimeout(resolve, 1000))
-      setMatches(mockMatches)
+    // Fetch matches from Supabase
+    const fetchData = async () => {
+      try {
+        const data = await fetchMatches()
+        console.log('Fetched matches:', data)
+        setMatches(data)
+      } catch (error) {
+        console.error('Error fetching matches:', error)
+        setMatches([])
+      }
       setLoading(false)
     }
-
-    fetchMatches()
+    fetchData()
   }, [])
 
   if (loading) {
@@ -26,6 +31,14 @@ export function MatchList() {
         {[...Array(6)].map((_, i) => (
           <div key={i} className="h-48 bg-muted animate-pulse rounded-lg" />
         ))}
+      </div>
+    )
+  }
+
+  if (matches.length === 0) {
+    return (
+      <div className="text-center py-8">
+        <p className="text-muted-foreground">No matches available</p>
       </div>
     )
   }

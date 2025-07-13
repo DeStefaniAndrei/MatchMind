@@ -8,6 +8,18 @@ export interface Match {
   totalStake: number
   homeScore?: number
   awayScore?: number
+  contract_address?: string
+  minute?: number
+  events?: MatchEvent[]
+}
+
+export interface MatchEvent {
+  id: string
+  type: "goal" | "yellow_card" | "red_card" | "corner" | "substitution"
+  minute: number
+  player?: string
+  team: "home" | "away"
+  description: string
 }
 
 export interface User {

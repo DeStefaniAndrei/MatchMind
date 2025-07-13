@@ -2,7 +2,9 @@
 
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { WalletButton } from "@/components/wallet/wallet-button"
+import { WalletConnectButton } from "@/components/wallet/connect-button"
+import { SociosConnect } from "@/components/wallet/socios-connect"
+import { NetworkSwitcher } from "@/components/wallet/network-switcher"
 import { Menu, X } from "lucide-react"
 import { useState } from "react"
 
@@ -25,16 +27,24 @@ export function Header() {
             <Link href="/" className="text-sm font-medium hover:text-primary transition-colors">
               Home
             </Link>
+            <Link href="/psg-matches" className="text-sm font-medium hover:text-primary transition-colors">
+              PSG Matches
+            </Link>
             <Link href="/stake" className="text-sm font-medium hover:text-primary transition-colors">
               Stake
             </Link>
             <Link href="/admin" className="text-sm font-medium hover:text-primary transition-colors">
               Admin
             </Link>
+            <Link href="/test-wallet" className="text-sm font-medium hover:text-primary transition-colors">
+              Test Wallet
+            </Link>
           </nav>
 
           <div className="flex items-center space-x-4">
-            <WalletButton />
+            <NetworkSwitcher />
+            <SociosConnect />
+            <WalletConnectButton />
 
             {/* Mobile menu button */}
             <Button
@@ -60,6 +70,13 @@ export function Header() {
                 Home
               </Link>
               <Link
+                href="/psg-matches"
+                className="text-sm font-medium hover:text-primary transition-colors"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                PSG Matches
+              </Link>
+              <Link
                 href="/stake"
                 className="text-sm font-medium hover:text-primary transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
@@ -72,6 +89,13 @@ export function Header() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Admin
+              </Link>
+              <Link
+                href="/test-wallet"
+                className="text-sm font-medium hover:text-primary transition-colors"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Test Wallet
               </Link>
             </nav>
           </div>

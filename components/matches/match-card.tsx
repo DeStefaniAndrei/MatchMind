@@ -10,6 +10,9 @@ interface MatchCardProps {
 }
 
 export function MatchCard({ match }: MatchCardProps) {
+  // Debug logging
+  console.log('MatchCard received match:', match)
+  
   const getStatusColor = (status: string) => {
     switch (status) {
       case "live":
