@@ -5,11 +5,13 @@
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 -- Users table
+
+--TO DO REMOVE EMAAIL IF FINE
 CREATE TABLE IF NOT EXISTS users (
     id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     wallet_address VARCHAR(42) UNIQUE NOT NULL,
     username VARCHAR(50) UNIQUE,
-    email VARCHAR(255),
+    email VARCHAR(255), 
     chz_balance DECIMAL(18, 8) DEFAULT 0,
     total_staked DECIMAL(18, 8) DEFAULT 0,
     total_rewards DECIMAL(18, 8) DEFAULT 0,
