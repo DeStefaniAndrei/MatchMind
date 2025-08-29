@@ -21,16 +21,12 @@ module.exports = {
     chiliz: {
       url: "https://rpc.chiliz.com",
       chainId: 88888,
-      accounts: [
-        "0x6ac767029147ca423267ec4a001285fec314564a46fdc56436e38934c6bf3c70"
-      ]
+      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : []
     },
     chilizTestnet: {
       url: "https://spicy-rpc.chiliz.com",
       chainId: 88882,
-      accounts: [
-        "0x6ac767029147ca423267ec4a001285fec314564a46fdc56436e38934c6bf3c70"
-      ]
+      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : []
     }
   },
   paths: {

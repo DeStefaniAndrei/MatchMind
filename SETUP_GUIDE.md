@@ -56,11 +56,12 @@ pnpm dev
 
 ## 5. Admin Dashboard Setup
 
-1. Navigate to `/admin` in your browser
-2. Go to the "Contracts" tab
-3. Enter your private key for admin operations
-4. Click "Initialize Integration"
-5. Use the sync functions to connect matches with contracts
+1. Open your local host (port 3000 currently)
+2. Navigate to `/admin` in your browser
+3. Go to the "Contracts" tab
+4. Enter your private key for admin operations
+5. Click "Initialize Integration"
+6. Use the sync functions to connect matches with contracts
 
 ## 6. API Integration
 
