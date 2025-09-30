@@ -12,21 +12,7 @@ interface MatchPageProps {
 export default async function MatchPage({ params }: MatchPageProps) {
   const { id } = await params
   console.log('Match page accessed with ID:', id)
-  // Check if this is the PSG vs Nantes match (ID: "10") or contains PSG vs Nantes
-  const isPSGvsNantes = id === "10" || id.includes("psg") || id.includes("nantes")
   
-  if (isPSGvsNantes) {
-    return (
-      <div className="min-h-screen bg-background">
-        <Header />
-        <main className="container mx-auto px-4 py-8">
-          <div className="max-w-4xl mx-auto">
-            <UpcomingMatch matchId={id} />
-          </div>
-        </main>
-      </div>
-    )
-  }
 
   // Default layout for live matches (Liverpool vs Manchester United)
   return (
