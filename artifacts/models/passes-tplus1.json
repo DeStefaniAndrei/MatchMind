@@ -1,0 +1,28 @@
+{
+  "name": "passes_tplus1_linear_no_deps",
+  "input": {
+    "features": [
+      "cumHome(t)",
+      "cumAway(t)",
+      "minute"
+    ]
+  },
+  "output": {
+    "labels": [
+      "cumHome(t+1)",
+      "cumAway(t+1)"
+    ]
+  },
+  "coefficients": {
+    "home": [
+      28.323191808011778,
+      0.03222463658497787,
+      -0.5040339073868836
+    ],
+    "away": [
+      17.272358805839477,
+      1.0410322017146854,
+      -0.3109643774963615
+    ]
+  }
+}
