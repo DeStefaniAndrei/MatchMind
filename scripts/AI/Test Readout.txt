@@ -1,0 +1,62 @@
+-------------Last model test Readout for refrance-------
+
+
+Testing Pass...
+  Samples: 48631
+  MAE: 6.114
+  Avg Actual: 19.441
+  Error Rate: 31.4%
+
+Testing Shot...
+  Samples: 48631
+  MAE: 0.616
+  Avg Actual: 0.523
+  Error Rate: 117.9%
+
+Testing Foul Committed...
+  Samples: 48631
+  MAE: 0.584
+  Avg Actual: 0.508
+  Error Rate: 114.9%
+
+Testing Duel...
+  Samples: 48631
+  MAE: 1.027
+  Avg Actual: 1.458
+  Error Rate: 70.5%
+
+Testing Block...
+  Samples: 48631
+  MAE: 0.744
+  Avg Actual: 0.770
+  Error Rate: 96.6%
+
+Testing Ball Recovery...
+  Samples: 48631
+  MAE: 1.315
+  Avg Actual: 2.203
+  Error Rate: 59.7%
+
+Testing Pressure...
+  Samples: 48631
+  MAE: 2.712
+  Avg Actual: 6.302
+  Error Rate: 43.0%
+
+Testing Miscontrol...
+  Samples: 48631
+  MAE: 0.645
+  Avg Actual: 0.571
+  Error Rate: 112.9%
+
+Testing Interception...
+  Samples: 48631
+  MAE: 0.547
+  Avg Actual: 0.431
+  Error Rate: 126.9%
+
+Testing Possession Change...
+  Samples: 48631
+  MAE: 2.312
+  Avg Actual: 5.170
+  Error Rate: 44.7%

@@ -1,4 +1,4 @@
-//TO DO DELETE THIS FILE
+//TO DO replace this with better tests
 //Just exists for sanity checks on agent 
 
 
@@ -110,5 +110,6 @@ function main() {
 }
 
 main();
+
 
 

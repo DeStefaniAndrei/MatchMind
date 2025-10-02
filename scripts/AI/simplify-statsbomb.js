@@ -1,7 +1,7 @@
 // This simplifies the Json files give by "https://github.com/statsbomb/open-data" into a more readable & usable format.
 
 // Usage:
-//   npm run ai:simplify -- --input "C:/Users/you/Downloads/statsbomb/events" --outDir "artifacts/modified-stats-json"
+//   npm run ai:simplify --input "C:\Users\zacmo\StatsBombJson --outDir "artifacts/modified-stats-json" //download the files locally 
 
 const fs = require('fs');
 const path = require('path');
@@ -84,8 +84,27 @@ function simplifyEvent(event, eventsData, eventsById) {
     const skipTypes = new Set(['Starting XI', 'Half Start', 'Half End', 'Injury Stoppage', 'Referee Ball-Drop']);
     if (skipTypes.has(eventType)) return null;
 
+    // normalize event type for Pass and Shot, leave others as-is
+    function normalizeEventType(et, ev) {
+      try {
+        if (et === 'Pass') {
+          const hasFailureOutcome = !!(ev?.pass?.outcome?.name);
+          return hasFailureOutcome ? 'pass_failure' : 'pass_success';
+        }
+        if (et === 'Shot') {
+          const outcome = ev?.shot?.outcome?.name || '';
+          if (outcome === 'Goal') return 'shot_goal';
+          const onTargetOutcomes = new Set(['Saved', 'Saved To Post', 'Shot On Target', 'Blocked']);
+          return onTargetOutcomes.has(outcome) ? 'shot_on_target' : 'shot_miss';
+        }
+        return et;
+      } catch {
+        return et;
+      }
+    }
+
     return {
-      event_type: eventType,
+      event_type: normalizeEventType(eventType, event),
       player1: player1Name,
       player2: player2Name,
       player1_team: player1Team,
