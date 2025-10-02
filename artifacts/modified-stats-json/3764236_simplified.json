@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:04.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -72,7 +72,7 @@
     "timestamp": "00:00:06.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -96,7 +96,7 @@
     "timestamp": "00:00:09.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -184,7 +184,7 @@
     "timestamp": "00:00:20.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:27.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -224,7 +224,7 @@
     "timestamp": "00:00:29.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -312,7 +312,7 @@
     "timestamp": "00:00:34.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -344,7 +344,7 @@
     "timestamp": "00:00:47.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -360,7 +360,7 @@
     "timestamp": "00:00:51.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -392,7 +392,7 @@
     "timestamp": "00:00:53.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -416,7 +416,7 @@
     "timestamp": "00:00:54.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -432,7 +432,7 @@
     "timestamp": "00:00:55.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -448,7 +448,7 @@
     "timestamp": "00:00:58.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -520,7 +520,7 @@
     "timestamp": "00:01:05.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -568,7 +568,7 @@
     "timestamp": "00:01:08.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -600,7 +600,7 @@
     "timestamp": "00:01:11.326"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -616,7 +616,7 @@
     "timestamp": "00:01:15.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -640,7 +640,7 @@
     "timestamp": "00:01:31.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -656,7 +656,7 @@
     "timestamp": "00:01:36.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -680,7 +680,7 @@
     "timestamp": "00:01:38.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -712,7 +712,7 @@
     "timestamp": "00:01:43.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -744,7 +744,7 @@
     "timestamp": "00:01:47.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -792,7 +792,7 @@
     "timestamp": "00:02:03.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -864,7 +864,7 @@
     "timestamp": "00:02:19.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -896,7 +896,7 @@
     "timestamp": "00:02:22.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -928,7 +928,7 @@
     "timestamp": "00:02:24.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -960,7 +960,7 @@
     "timestamp": "00:02:26.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -992,7 +992,7 @@
     "timestamp": "00:02:30.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -1024,7 +1024,7 @@
     "timestamp": "00:02:34.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:02:38.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1080,7 +1080,7 @@
     "timestamp": "00:02:40.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -1104,7 +1104,7 @@
     "timestamp": "00:02:41.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -1136,7 +1136,7 @@
     "timestamp": "00:02:44.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:02:48.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:02:56.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -1280,7 +1280,7 @@
     "timestamp": "00:02:59.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1288,7 +1288,7 @@
     "timestamp": "00:02:59.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -1312,7 +1312,7 @@
     "timestamp": "00:03:03.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -1384,7 +1384,7 @@
     "timestamp": "00:03:06.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -1416,7 +1416,7 @@
     "timestamp": "00:03:12.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:03:18.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:03:22.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:03:51.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:03:52.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1528,7 +1528,7 @@
     "timestamp": "00:03:53.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marisa Ewers",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -1560,7 +1560,7 @@
     "timestamp": "00:03:57.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:04:21.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Carter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:04:25.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -1640,7 +1640,7 @@
     "timestamp": "00:04:26.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1648,7 +1648,7 @@
     "timestamp": "00:04:26.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marisa Ewers",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:04:28.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:04:35.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:04:39.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1800,7 +1800,7 @@
     "timestamp": "00:04:43.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:05:06.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:05:29.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -1912,7 +1912,7 @@
     "timestamp": "00:05:34.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -1944,7 +1944,7 @@
     "timestamp": "00:05:40.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:05:43.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1992,7 +1992,7 @@
     "timestamp": "00:05:44.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -2024,7 +2024,7 @@
     "timestamp": "00:05:48.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -2048,7 +2048,7 @@
     "timestamp": "00:05:50.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:05:55.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -2096,7 +2096,7 @@
     "timestamp": "00:05:58.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:06:03.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -2184,7 +2184,7 @@
     "timestamp": "00:06:09.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:06:21.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:06:24.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:06:26.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Deanna Cooper",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:06:27.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Deanna Cooper",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2304,7 +2304,7 @@
     "timestamp": "00:06:31.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:06:34.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:06:40.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2384,7 +2384,7 @@
     "timestamp": "00:06:42.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -2400,7 +2400,7 @@
     "timestamp": "00:06:45.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -2440,7 +2440,7 @@
     "timestamp": "00:06:47.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:06:48.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:06:49.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -2520,7 +2520,7 @@
     "timestamp": "00:06:54.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:06:57.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:07:20.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -2600,7 +2600,7 @@
     "timestamp": "00:07:23.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:07:27.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:07:30.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -2688,7 +2688,7 @@
     "timestamp": "00:07:32.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -2712,7 +2712,7 @@
     "timestamp": "00:07:37.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2760,7 +2760,7 @@
     "timestamp": "00:09:22.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -2792,7 +2792,7 @@
     "timestamp": "00:09:29.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:09:32.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2824,7 +2824,7 @@
     "timestamp": "00:09:32.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -2848,7 +2848,7 @@
     "timestamp": "00:09:51.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -2888,7 +2888,7 @@
     "timestamp": "00:09:53.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -2960,7 +2960,7 @@
     "timestamp": "00:09:57.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -2984,7 +2984,7 @@
     "timestamp": "00:09:59.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -3008,7 +3008,7 @@
     "timestamp": "00:10:00.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -3056,7 +3056,7 @@
     "timestamp": "00:10:08.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -3080,7 +3080,7 @@
     "timestamp": "00:10:43.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -3104,7 +3104,7 @@
     "timestamp": "00:10:48.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Caroline Siems",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3128,7 +3128,7 @@
     "timestamp": "00:10:49.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -3144,7 +3144,7 @@
     "timestamp": "00:10:58.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3168,7 +3168,7 @@
     "timestamp": "00:11:16.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -3192,7 +3192,7 @@
     "timestamp": "00:11:24.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:11:28.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:11:32.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Caroline Siems",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -3312,7 +3312,7 @@
     "timestamp": "00:11:47.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:11:59.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -3400,7 +3400,7 @@
     "timestamp": "00:12:08.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -3448,7 +3448,7 @@
     "timestamp": "00:12:10.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:12:44.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:12:45.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -3512,7 +3512,7 @@
     "timestamp": "00:12:48.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -3536,7 +3536,7 @@
     "timestamp": "00:12:51.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:12:55.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -3600,7 +3600,7 @@
     "timestamp": "00:12:59.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:13:01.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:13:02.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:13:03.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -3720,7 +3720,7 @@
     "timestamp": "00:13:07.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3744,7 +3744,7 @@
     "timestamp": "00:13:09.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:13:11.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -3792,7 +3792,7 @@
     "timestamp": "00:13:14.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -3824,7 +3824,7 @@
     "timestamp": "00:13:17.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -3848,7 +3848,7 @@
     "timestamp": "00:13:18.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3880,7 +3880,7 @@
     "timestamp": "00:13:22.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -3904,7 +3904,7 @@
     "timestamp": "00:13:24.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Deanna Cooper",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:13:27.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:13:30.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:13:32.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4032,7 +4032,7 @@
     "timestamp": "00:13:43.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:13:44.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4104,7 +4104,7 @@
     "timestamp": "00:13:53.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:14:00.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4192,7 +4192,7 @@
     "timestamp": "00:14:04.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4224,7 +4224,7 @@
     "timestamp": "00:14:06.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -4248,7 +4248,7 @@
     "timestamp": "00:14:38.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:14:39.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -4320,7 +4320,7 @@
     "timestamp": "00:14:44.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -4352,7 +4352,7 @@
     "timestamp": "00:14:46.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -4368,7 +4368,7 @@
     "timestamp": "00:14:47.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:14:48.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:14:54.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -4496,7 +4496,7 @@
     "timestamp": "00:14:58.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:15:02.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -4536,7 +4536,7 @@
     "timestamp": "00:15:05.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4552,7 +4552,7 @@
     "timestamp": "00:15:07.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:15:08.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:15:29.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:15:36.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:15:39.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -4688,7 +4688,7 @@
     "timestamp": "00:15:44.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -4704,7 +4704,7 @@
     "timestamp": "00:15:48.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -4728,7 +4728,7 @@
     "timestamp": "00:15:49.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -4760,7 +4760,7 @@
     "timestamp": "00:15:52.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4808,7 +4808,7 @@
     "timestamp": "00:15:56.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Caroline Siems",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:16:14.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:16:14.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4912,7 +4912,7 @@
     "timestamp": "00:16:23.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4936,7 +4936,7 @@
     "timestamp": "00:16:25.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:16:30.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -4984,7 +4984,7 @@
     "timestamp": "00:17:12.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:17:13.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:17:15.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:17:19.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -5088,7 +5088,7 @@
     "timestamp": "00:17:24.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:17:28.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -5144,7 +5144,7 @@
     "timestamp": "00:17:30.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -5168,7 +5168,7 @@
     "timestamp": "00:17:35.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -5184,7 +5184,7 @@
     "timestamp": "00:17:41.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -5200,7 +5200,7 @@
     "timestamp": "00:17:43.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -5208,7 +5208,7 @@
     "timestamp": "00:17:43.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:17:46.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:17:49.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:17:52.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -5328,7 +5328,7 @@
     "timestamp": "00:17:58.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:18:00.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -5360,7 +5360,7 @@
     "timestamp": "00:18:22.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5416,7 +5416,7 @@
     "timestamp": "00:18:25.547"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:18:28.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:18:47.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -5488,7 +5488,7 @@
     "timestamp": "00:18:50.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:18:51.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:18:54.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -5600,7 +5600,7 @@
     "timestamp": "00:18:59.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -5624,7 +5624,7 @@
     "timestamp": "00:19:02.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -5648,7 +5648,7 @@
     "timestamp": "00:19:07.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -5672,7 +5672,7 @@
     "timestamp": "00:19:07.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -5704,7 +5704,7 @@
     "timestamp": "00:19:28.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -5792,7 +5792,7 @@
     "timestamp": "00:19:31.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -5824,7 +5824,7 @@
     "timestamp": "00:19:35.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:19:39.351"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ramona Petzelberger",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -5856,7 +5856,7 @@
     "timestamp": "00:19:40.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:19:54.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:19:57.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -5928,7 +5928,7 @@
     "timestamp": "00:20:02.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -5952,7 +5952,7 @@
     "timestamp": "00:20:10.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -5984,7 +5984,7 @@
     "timestamp": "00:20:11.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:20:15.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -6032,7 +6032,7 @@
     "timestamp": "00:20:16.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -6064,7 +6064,7 @@
     "timestamp": "00:20:22.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -6088,7 +6088,7 @@
     "timestamp": "00:20:34.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:20:37.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:20:39.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:20:43.080"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6248,7 +6248,7 @@
     "timestamp": "00:20:45.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:21:24.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6304,7 +6304,7 @@
     "timestamp": "00:21:27.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:21:30.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6352,7 +6352,7 @@
     "timestamp": "00:21:33.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -6376,7 +6376,7 @@
     "timestamp": "00:21:35.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:21:43.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -6520,7 +6520,7 @@
     "timestamp": "00:22:06.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:22:12.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marisa Ewers",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:22:13.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:22:19.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -6640,7 +6640,7 @@
     "timestamp": "00:22:46.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -6656,7 +6656,7 @@
     "timestamp": "00:22:53.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -6688,7 +6688,7 @@
     "timestamp": "00:22:54.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6720,7 +6720,7 @@
     "timestamp": "00:22:58.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -6736,7 +6736,7 @@
     "timestamp": "00:23:01.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:23:02.773"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:23:03.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -6800,7 +6800,7 @@
     "timestamp": "00:23:58.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marisa Ewers",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:23:58.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6840,7 +6840,7 @@
     "timestamp": "00:24:16.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:24:18.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Deanna Cooper",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -6880,7 +6880,7 @@
     "timestamp": "00:24:24.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:24:28.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -6952,7 +6952,7 @@
     "timestamp": "00:25:13.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:25:16.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6992,7 +6992,7 @@
     "timestamp": "00:25:19.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:25:22.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:25:24.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -7064,7 +7064,7 @@
     "timestamp": "00:25:27.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:25:28.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -7144,7 +7144,7 @@
     "timestamp": "00:25:39.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -7168,7 +7168,7 @@
     "timestamp": "00:25:42.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:25:44.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:26:05.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:26:07.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:26:15.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -7328,7 +7328,7 @@
     "timestamp": "00:26:18.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -7352,7 +7352,7 @@
     "timestamp": "00:26:33.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:26:37.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:26:41.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:26:51.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:26:58.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -7504,7 +7504,7 @@
     "timestamp": "00:27:47.516"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7520,7 +7520,7 @@
     "timestamp": "00:27:50.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -7552,7 +7552,7 @@
     "timestamp": "00:28:17.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:28:23.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -7672,7 +7672,7 @@
     "timestamp": "00:28:27.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:28:29.157"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:28:32.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -7784,7 +7784,7 @@
     "timestamp": "00:28:45.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:29:14.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -7848,7 +7848,7 @@
     "timestamp": "00:29:15.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -7880,7 +7880,7 @@
     "timestamp": "00:29:20.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:29:27.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7952,7 +7952,7 @@
     "timestamp": "00:30:05.719"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -7976,7 +7976,7 @@
     "timestamp": "00:32:19.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -8000,7 +8000,7 @@
     "timestamp": "00:32:36.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -8024,7 +8024,7 @@
     "timestamp": "00:32:40.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -8056,7 +8056,7 @@
     "timestamp": "00:32:43.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Deanna Cooper",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:32:48.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -8088,7 +8088,7 @@
     "timestamp": "00:32:49.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:32:54.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:32:57.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:33:00.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:33:03.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:33:09.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:33:11.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:33:16.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -8344,7 +8344,7 @@
     "timestamp": "00:33:23.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -8400,7 +8400,7 @@
     "timestamp": "00:33:29.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:33:33.045"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:33:33.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:34:08.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:34:11.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -8512,7 +8512,7 @@
     "timestamp": "00:34:28.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:34:32.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Caroline Siems",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:34:34.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8608,7 +8608,7 @@
     "timestamp": "00:34:35.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -8664,7 +8664,7 @@
     "timestamp": "00:34:38.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -8696,7 +8696,7 @@
     "timestamp": "00:34:41.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -8720,7 +8720,7 @@
     "timestamp": "00:34:49.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:34:53.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:34:55.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:34:55.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:34:59.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:35:14.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:35:20.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -8888,7 +8888,7 @@
     "timestamp": "00:35:21.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:35:25.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8960,7 +8960,7 @@
     "timestamp": "00:35:29.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -8984,7 +8984,7 @@
     "timestamp": "00:35:31.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:35:36.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:35:39.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -9072,7 +9072,7 @@
     "timestamp": "00:35:43.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:35:49.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:36:19.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:36:19.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:36:23.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -9184,7 +9184,7 @@
     "timestamp": "00:36:25.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -9216,7 +9216,7 @@
     "timestamp": "00:36:29.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:36:33.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -9296,7 +9296,7 @@
     "timestamp": "00:36:39.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -9320,7 +9320,7 @@
     "timestamp": "00:36:42.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -9344,7 +9344,7 @@
     "timestamp": "00:36:44.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -9368,7 +9368,7 @@
     "timestamp": "00:36:48.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:36:51.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -9472,7 +9472,7 @@
     "timestamp": "00:37:05.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -9504,7 +9504,7 @@
     "timestamp": "00:37:15.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:37:22.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:37:30.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -9736,7 +9736,7 @@
     "timestamp": "00:37:33.306"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:37:36.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:37:39.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -9920,7 +9920,7 @@
     "timestamp": "00:37:45.499"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -9936,7 +9936,7 @@
     "timestamp": "00:37:48.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:38:29.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:38:35.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:38:52.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:38:55.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:39:22.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10112,7 +10112,7 @@
     "timestamp": "00:39:44.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:39:46.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -10184,7 +10184,7 @@
     "timestamp": "00:39:48.617"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10200,7 +10200,7 @@
     "timestamp": "00:39:49.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:40:39.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:40:42.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:40:45.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:40:49.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:40:52.603"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10360,7 +10360,7 @@
     "timestamp": "00:40:54.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10424,7 +10424,7 @@
     "timestamp": "00:41:32.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -10448,7 +10448,7 @@
     "timestamp": "00:41:39.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:41:47.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -10528,7 +10528,7 @@
     "timestamp": "00:42:18.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -10544,7 +10544,7 @@
     "timestamp": "00:42:20.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -10560,7 +10560,7 @@
     "timestamp": "00:42:22.575"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -10656,7 +10656,7 @@
     "timestamp": "00:42:44.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10696,7 +10696,7 @@
     "timestamp": "00:42:48.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -10720,7 +10720,7 @@
     "timestamp": "00:42:50.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:42:52.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:42:57.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:43:02.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -10832,7 +10832,7 @@
     "timestamp": "00:43:05.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:43:08.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10872,7 +10872,7 @@
     "timestamp": "00:43:10.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -10936,7 +10936,7 @@
     "timestamp": "00:43:19.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:43:21.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:43:34.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:43:40.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:44:08.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:44:12.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:44:36.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:44:38.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:45:43.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:45:46.350"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jessica Fishlock",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:45:49.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -11384,7 +11384,7 @@
     "timestamp": "00:46:10.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -11416,7 +11416,7 @@
     "timestamp": "00:46:12.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:46:14.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -11472,7 +11472,7 @@
     "timestamp": "00:46:26.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -11528,7 +11528,7 @@
     "timestamp": "00:46:29.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -11552,7 +11552,7 @@
     "timestamp": "00:46:32.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -11584,7 +11584,7 @@
     "timestamp": "00:46:34.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:46:36.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -11696,7 +11696,7 @@
     "timestamp": "00:46:39.004"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11712,7 +11712,7 @@
     "timestamp": "00:47:32.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -11736,7 +11736,7 @@
     "timestamp": "00:48:07.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -11752,7 +11752,7 @@
     "timestamp": "00:00:00.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -11776,7 +11776,7 @@
     "timestamp": "00:00:01.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -11808,7 +11808,7 @@
     "timestamp": "00:00:05.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:00:08.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -11872,7 +11872,7 @@
     "timestamp": "00:00:10.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -11888,7 +11888,7 @@
     "timestamp": "00:00:12.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -11912,7 +11912,7 @@
     "timestamp": "00:00:16.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -11976,7 +11976,7 @@
     "timestamp": "00:00:20.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -12000,7 +12000,7 @@
     "timestamp": "00:00:47.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:00:58.090"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -12168,7 +12168,7 @@
     "timestamp": "00:01:01.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:01:19.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -12224,7 +12224,7 @@
     "timestamp": "00:01:23.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -12248,7 +12248,7 @@
     "timestamp": "00:01:24.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:01:25.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12288,7 +12288,7 @@
     "timestamp": "00:01:26.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -12312,7 +12312,7 @@
     "timestamp": "00:01:34.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:01:39.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:01:44.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12400,7 +12400,7 @@
     "timestamp": "00:01:45.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -12432,7 +12432,7 @@
     "timestamp": "00:02:07.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -12456,7 +12456,7 @@
     "timestamp": "00:02:08.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -12472,7 +12472,7 @@
     "timestamp": "00:02:11.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -12512,7 +12512,7 @@
     "timestamp": "00:02:14.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -12536,7 +12536,7 @@
     "timestamp": "00:02:17.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -12584,7 +12584,7 @@
     "timestamp": "00:02:26.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12600,7 +12600,7 @@
     "timestamp": "00:02:26.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:02:30.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12656,7 +12656,7 @@
     "timestamp": "00:02:31.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -12688,7 +12688,7 @@
     "timestamp": "00:02:55.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12712,7 +12712,7 @@
     "timestamp": "00:02:57.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12736,7 +12736,7 @@
     "timestamp": "00:03:21.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -12752,7 +12752,7 @@
     "timestamp": "00:03:42.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:03:45.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -12832,7 +12832,7 @@
     "timestamp": "00:03:56.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -12872,7 +12872,7 @@
     "timestamp": "00:03:59.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -12912,7 +12912,7 @@
     "timestamp": "00:04:24.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -12944,7 +12944,7 @@
     "timestamp": "00:04:39.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -12960,7 +12960,7 @@
     "timestamp": "00:04:40.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -12976,7 +12976,7 @@
     "timestamp": "00:04:42.262"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:04:43.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -13024,7 +13024,7 @@
     "timestamp": "00:04:49.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:04:54.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:05:06.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13096,7 +13096,7 @@
     "timestamp": "00:05:08.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:05:09.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:05:10.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:05:11.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13216,7 +13216,7 @@
     "timestamp": "00:05:14.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:05:17.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:05:22.199"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13368,7 +13368,7 @@
     "timestamp": "00:05:24.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:05:28.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:05:31.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13448,7 +13448,7 @@
     "timestamp": "00:05:35.211"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13464,7 +13464,7 @@
     "timestamp": "00:05:37.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -13504,7 +13504,7 @@
     "timestamp": "00:06:07.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:06:33.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13584,7 +13584,7 @@
     "timestamp": "00:06:37.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -13608,7 +13608,7 @@
     "timestamp": "00:06:42.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -13624,7 +13624,7 @@
     "timestamp": "00:06:44.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -13648,7 +13648,7 @@
     "timestamp": "00:06:46.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -13664,7 +13664,7 @@
     "timestamp": "00:06:50.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -13688,7 +13688,7 @@
     "timestamp": "00:06:55.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -13720,7 +13720,7 @@
     "timestamp": "00:07:00.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -13744,7 +13744,7 @@
     "timestamp": "00:07:01.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13784,7 +13784,7 @@
     "timestamp": "00:07:03.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -13808,7 +13808,7 @@
     "timestamp": "00:07:05.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:07:09.084"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13848,7 +13848,7 @@
     "timestamp": "00:07:16.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -13856,7 +13856,7 @@
     "timestamp": "00:08:00.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -13936,7 +13936,7 @@
     "timestamp": "00:08:05.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -13960,7 +13960,7 @@
     "timestamp": "00:08:07.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:08:16.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -14088,7 +14088,7 @@
     "timestamp": "00:08:19.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -14144,7 +14144,7 @@
     "timestamp": "00:08:26.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:08:31.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -14280,7 +14280,7 @@
     "timestamp": "00:08:32.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -14360,7 +14360,7 @@
     "timestamp": "00:08:38.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -14376,7 +14376,7 @@
     "timestamp": "00:09:00.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -14504,7 +14504,7 @@
     "timestamp": "00:09:29.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -14528,7 +14528,7 @@
     "timestamp": "00:09:31.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:09:31.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -14584,7 +14584,7 @@
     "timestamp": "00:09:32.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -14600,7 +14600,7 @@
     "timestamp": "00:09:33.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14608,7 +14608,7 @@
     "timestamp": "00:09:33.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -14632,7 +14632,7 @@
     "timestamp": "00:09:38.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -14664,7 +14664,7 @@
     "timestamp": "00:09:44.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Caroline Siems",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:10:01.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -14752,7 +14752,7 @@
     "timestamp": "00:10:06.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -14800,7 +14800,7 @@
     "timestamp": "00:10:14.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14808,7 +14808,7 @@
     "timestamp": "00:10:37.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -14832,7 +14832,7 @@
     "timestamp": "00:11:07.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:11:11.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:11:35.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:11:40.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:11:43.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -14952,7 +14952,7 @@
     "timestamp": "00:11:49.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14984,7 +14984,7 @@
     "timestamp": "00:11:52.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:11:55.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -15056,7 +15056,7 @@
     "timestamp": "00:11:59.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15064,7 +15064,7 @@
     "timestamp": "00:11:59.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:12:24.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -15112,7 +15112,7 @@
     "timestamp": "00:12:25.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -15136,7 +15136,7 @@
     "timestamp": "00:12:25.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -15160,7 +15160,7 @@
     "timestamp": "00:12:27.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -15192,7 +15192,7 @@
     "timestamp": "00:12:29.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:12:34.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -15224,7 +15224,7 @@
     "timestamp": "00:12:37.195"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:12:38.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -15288,7 +15288,7 @@
     "timestamp": "00:12:44.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:12:45.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:14:42.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15408,7 +15408,7 @@
     "timestamp": "00:14:56.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -15424,7 +15424,7 @@
     "timestamp": "00:15:00.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -15448,7 +15448,7 @@
     "timestamp": "00:15:14.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -15464,7 +15464,7 @@
     "timestamp": "00:15:17.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:15:19.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -15536,7 +15536,7 @@
     "timestamp": "00:15:25.470"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -15560,7 +15560,7 @@
     "timestamp": "00:15:28.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marisa Ewers",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -15592,7 +15592,7 @@
     "timestamp": "00:15:33.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Caroline Siems",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:15:42.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Caroline Siems",
     "player1_team": "Aston Villa",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:15:44.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Caroline Siems",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -15688,7 +15688,7 @@
     "timestamp": "00:15:47.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -15704,7 +15704,7 @@
     "timestamp": "00:15:51.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -15792,7 +15792,7 @@
     "timestamp": "00:15:54.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Carter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:15:59.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -15872,7 +15872,7 @@
     "timestamp": "00:16:05.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -15896,7 +15896,7 @@
     "timestamp": "00:16:20.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -15968,7 +15968,7 @@
     "timestamp": "00:16:24.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -15992,7 +15992,7 @@
     "timestamp": "00:16:26.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16032,7 +16032,7 @@
     "timestamp": "00:16:31.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:16:33.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:16:37.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:16:42.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -16200,7 +16200,7 @@
     "timestamp": "00:16:55.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16248,7 +16248,7 @@
     "timestamp": "00:18:07.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:18:13.689"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -16296,7 +16296,7 @@
     "timestamp": "00:18:15.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:18:54.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -16392,7 +16392,7 @@
     "timestamp": "00:19:01.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:19:03.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:19:07.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:19:11.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16504,7 +16504,7 @@
     "timestamp": "00:19:13.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16528,7 +16528,7 @@
     "timestamp": "00:19:14.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:19:15.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:19:20.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:19:33.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -16632,7 +16632,7 @@
     "timestamp": "00:19:33.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:19:35.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:19:36.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16696,7 +16696,7 @@
     "timestamp": "00:19:37.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:19:40.701"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16736,7 +16736,7 @@
     "timestamp": "00:19:42.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16752,7 +16752,7 @@
     "timestamp": "00:19:44.163"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16784,7 +16784,7 @@
     "timestamp": "00:19:46.011"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16808,7 +16808,7 @@
     "timestamp": "00:20:09.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -16840,7 +16840,7 @@
     "timestamp": "00:20:34.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -16864,7 +16864,7 @@
     "timestamp": "00:20:37.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -16896,7 +16896,7 @@
     "timestamp": "00:20:38.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:20:40.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -16952,7 +16952,7 @@
     "timestamp": "00:20:43.841"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:20:45.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:20:50.846"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17080,7 +17080,7 @@
     "timestamp": "00:20:52.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -17096,7 +17096,7 @@
     "timestamp": "00:20:56.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:20:57.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:21:01.211"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17216,7 +17216,7 @@
     "timestamp": "00:21:56.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17224,7 +17224,7 @@
     "timestamp": "00:21:59.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:22:01.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:22:09.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -17304,7 +17304,7 @@
     "timestamp": "00:22:12.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Haywood",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -17352,7 +17352,7 @@
     "timestamp": "00:22:31.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:22:39.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:23:16.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -17472,7 +17472,7 @@
     "timestamp": "00:23:47.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -17512,7 +17512,7 @@
     "timestamp": "00:24:14.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Haywood",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -17560,7 +17560,7 @@
     "timestamp": "00:24:41.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Haywood",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:24:46.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:24:55.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -17680,7 +17680,7 @@
     "timestamp": "00:25:00.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -17704,7 +17704,7 @@
     "timestamp": "00:25:04.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Carter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -17784,7 +17784,7 @@
     "timestamp": "00:25:08.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -17824,7 +17824,7 @@
     "timestamp": "00:25:11.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17832,7 +17832,7 @@
     "timestamp": "00:25:12.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -17848,7 +17848,7 @@
     "timestamp": "00:25:34.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -17880,7 +17880,7 @@
     "timestamp": "00:25:36.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:25:39.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Fishlock",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:25:43.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:25:46.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Deanna Cooper",
     "player1_team": "Reading WFC",
@@ -17984,7 +17984,7 @@
     "timestamp": "00:25:49.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Deanna Cooper",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18000,7 +18000,7 @@
     "timestamp": "00:25:50.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -18032,7 +18032,7 @@
     "timestamp": "00:25:54.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18064,7 +18064,7 @@
     "timestamp": "00:25:57.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -18088,7 +18088,7 @@
     "timestamp": "00:26:11.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -18112,7 +18112,7 @@
     "timestamp": "00:26:26.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:26:31.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -18200,7 +18200,7 @@
     "timestamp": "00:26:37.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -18216,7 +18216,7 @@
     "timestamp": "00:27:02.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -18248,7 +18248,7 @@
     "timestamp": "00:27:04.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -18264,7 +18264,7 @@
     "timestamp": "00:27:05.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18280,7 +18280,7 @@
     "timestamp": "00:27:06.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18328,7 +18328,7 @@
     "timestamp": "00:27:08.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -18352,7 +18352,7 @@
     "timestamp": "00:27:12.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Syme",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:27:18.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -18408,7 +18408,7 @@
     "timestamp": "00:27:26.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:27:32.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:27:34.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:27:37.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -18512,7 +18512,7 @@
     "timestamp": "00:27:39.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -18536,7 +18536,7 @@
     "timestamp": "00:27:41.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:27:43.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:27:46.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:27:49.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:27:52.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:27:54.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18680,7 +18680,7 @@
     "timestamp": "00:27:54.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jessica Fishlock",
     "player1_team": "Reading WFC",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:27:56.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jessica Fishlock",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:28:21.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -18792,7 +18792,7 @@
     "timestamp": "00:30:13.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Syme",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18816,7 +18816,7 @@
     "timestamp": "00:30:16.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:30:20.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:30:22.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -18880,7 +18880,7 @@
     "timestamp": "00:30:23.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18920,7 +18920,7 @@
     "timestamp": "00:30:36.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18944,7 +18944,7 @@
     "timestamp": "00:30:39.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:30:44.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -18984,7 +18984,7 @@
     "timestamp": "00:31:10.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -19016,7 +19016,7 @@
     "timestamp": "00:31:13.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -19040,7 +19040,7 @@
     "timestamp": "00:31:15.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -19064,7 +19064,7 @@
     "timestamp": "00:31:24.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Emma Mukandi",
     "player1_team": "Reading WFC",
@@ -19088,7 +19088,7 @@
     "timestamp": "00:31:26.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -19144,7 +19144,7 @@
     "timestamp": "00:31:29.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -19176,7 +19176,7 @@
     "timestamp": "00:31:32.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -19248,7 +19248,7 @@
     "timestamp": "00:31:35.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -19344,7 +19344,7 @@
     "timestamp": "00:31:46.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Haywood",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -19400,7 +19400,7 @@
     "timestamp": "00:31:53.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -19424,7 +19424,7 @@
     "timestamp": "00:31:56.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:31:58.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:32:03.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:32:46.105"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -19600,7 +19600,7 @@
     "timestamp": "00:33:27.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:34:01.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -19744,7 +19744,7 @@
     "timestamp": "00:34:02.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Haywood",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:34:08.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:34:13.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:34:42.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:34:43.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:34:45.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -19928,7 +19928,7 @@
     "timestamp": "00:34:47.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -19984,7 +19984,7 @@
     "timestamp": "00:34:55.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -20016,7 +20016,7 @@
     "timestamp": "00:35:14.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -20032,7 +20032,7 @@
     "timestamp": "00:35:55.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -20064,7 +20064,7 @@
     "timestamp": "00:35:57.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -20136,7 +20136,7 @@
     "timestamp": "00:36:02.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20160,7 +20160,7 @@
     "timestamp": "00:36:07.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:36:11.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -20224,7 +20224,7 @@
     "timestamp": "00:36:14.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -20248,7 +20248,7 @@
     "timestamp": "00:36:17.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -20272,7 +20272,7 @@
     "timestamp": "00:36:24.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:36:25.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -20336,7 +20336,7 @@
     "timestamp": "00:36:28.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -20368,7 +20368,7 @@
     "timestamp": "00:36:31.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -20400,7 +20400,7 @@
     "timestamp": "00:36:37.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:36:40.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20488,7 +20488,7 @@
     "timestamp": "00:36:44.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:36:56.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -20584,7 +20584,7 @@
     "timestamp": "00:37:00.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -20608,7 +20608,7 @@
     "timestamp": "00:37:01.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:37:18.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20672,7 +20672,7 @@
     "timestamp": "00:37:20.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:37:21.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Deanna Cooper",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20712,7 +20712,7 @@
     "timestamp": "00:37:22.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -20736,7 +20736,7 @@
     "timestamp": "00:37:29.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -20752,7 +20752,7 @@
     "timestamp": "00:37:30.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:37:32.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:37:32.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:37:35.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:37:38.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:37:42.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:37:45.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:37:46.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:37:51.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Haywood",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -20968,7 +20968,7 @@
     "timestamp": "00:37:53.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21000,7 +21000,7 @@
     "timestamp": "00:37:55.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -21024,7 +21024,7 @@
     "timestamp": "00:37:59.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:38:02.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -21040,7 +21040,7 @@
     "timestamp": "00:38:04.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Deanna Cooper",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21064,7 +21064,7 @@
     "timestamp": "00:38:11.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -21088,7 +21088,7 @@
     "timestamp": "00:38:17.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -21112,7 +21112,7 @@
     "timestamp": "00:38:19.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -21136,7 +21136,7 @@
     "timestamp": "00:38:22.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -21160,7 +21160,7 @@
     "timestamp": "00:38:27.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -21176,7 +21176,7 @@
     "timestamp": "00:38:53.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -21208,7 +21208,7 @@
     "timestamp": "00:38:54.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -21232,7 +21232,7 @@
     "timestamp": "00:38:55.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21288,7 +21288,7 @@
     "timestamp": "00:38:58.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -21328,7 +21328,7 @@
     "timestamp": "00:39:01.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:39:11.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21416,7 +21416,7 @@
     "timestamp": "00:39:13.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21464,7 +21464,7 @@
     "timestamp": "00:39:19.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -21504,7 +21504,7 @@
     "timestamp": "00:42:02.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21512,7 +21512,7 @@
     "timestamp": "00:42:27.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -21528,7 +21528,7 @@
     "timestamp": "00:42:32.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -21552,7 +21552,7 @@
     "timestamp": "00:42:35.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -21584,7 +21584,7 @@
     "timestamp": "00:42:36.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -21608,7 +21608,7 @@
     "timestamp": "00:42:39.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Haywood",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -21624,7 +21624,7 @@
     "timestamp": "00:42:43.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -21648,7 +21648,7 @@
     "timestamp": "00:42:45.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Haywood",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -21680,7 +21680,7 @@
     "timestamp": "00:42:51.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -21696,7 +21696,7 @@
     "timestamp": "00:42:52.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -21720,7 +21720,7 @@
     "timestamp": "00:42:53.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -21760,7 +21760,7 @@
     "timestamp": "00:43:00.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -21800,7 +21800,7 @@
     "timestamp": "00:43:02.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -21832,7 +21832,7 @@
     "timestamp": "00:43:08.505"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21848,7 +21848,7 @@
     "timestamp": "00:43:09.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:43:52.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21880,7 +21880,7 @@
     "timestamp": "00:43:56.900"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:44:02.907"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21976,7 +21976,7 @@
     "timestamp": "00:44:04.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -22000,7 +22000,7 @@
     "timestamp": "00:44:08.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Haywood",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -22024,7 +22024,7 @@
     "timestamp": "00:44:12.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -22056,7 +22056,7 @@
     "timestamp": "00:44:16.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -22088,7 +22088,7 @@
     "timestamp": "00:44:45.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22104,7 +22104,7 @@
     "timestamp": "00:44:45.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -22176,7 +22176,7 @@
     "timestamp": "00:45:19.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -22216,7 +22216,7 @@
     "timestamp": "00:45:21.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22248,7 +22248,7 @@
     "timestamp": "00:45:24.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Haywood",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:45:25.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -22296,7 +22296,7 @@
     "timestamp": "00:45:26.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Amy West",
     "player1_team": "Aston Villa",
@@ -22360,7 +22360,7 @@
     "timestamp": "00:45:30.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:45:33.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:45:55.033"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -22432,7 +22432,7 @@
     "timestamp": "00:45:56.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Amy West",
     "player1_team": "Aston Villa",
@@ -22464,7 +22464,7 @@
     "timestamp": "00:45:58.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy West",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -22552,7 +22552,7 @@
     "timestamp": "00:46:11.745"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Danielle Carter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22600,7 +22600,7 @@
     "timestamp": "00:46:14.692"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22648,7 +22648,7 @@
     "timestamp": "00:46:17.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -22680,7 +22680,7 @@
     "timestamp": "00:46:20.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -22696,7 +22696,7 @@
     "timestamp": "00:46:21.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Carter",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -22728,7 +22728,7 @@
     "timestamp": "00:46:22.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -22752,7 +22752,7 @@
     "timestamp": "00:46:24.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -22776,7 +22776,7 @@
     "timestamp": "00:46:34.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22800,7 +22800,7 @@
     "timestamp": "00:46:37.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -22856,7 +22856,7 @@
     "timestamp": "00:46:42.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22864,7 +22864,7 @@
     "timestamp": "00:46:44.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -22888,7 +22888,7 @@
     "timestamp": "00:47:08.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -22936,7 +22936,7 @@
     "timestamp": "00:47:10.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22960,7 +22960,7 @@
     "timestamp": "00:47:40.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -22984,7 +22984,7 @@
     "timestamp": "00:47:43.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -23000,7 +23000,7 @@
     "timestamp": "00:47:58.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -23008,7 +23008,7 @@
     "timestamp": "00:47:58.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -23024,7 +23024,7 @@
     "timestamp": "00:48:04.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -23048,7 +23048,7 @@
     "timestamp": "00:48:10.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -23096,7 +23096,7 @@
     "timestamp": "00:48:12.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -23128,7 +23128,7 @@
     "timestamp": "00:48:24.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Haywood",
     "player2": "Amy West",
     "player1_team": "Aston Villa",
@@ -23176,7 +23176,7 @@
     "timestamp": "00:48:31.090"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Amy West",
     "player1_team": "Aston Villa",
@@ -23224,7 +23224,7 @@
     "timestamp": "00:48:42.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -23248,7 +23248,7 @@
     "timestamp": "00:48:45.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Ella Franklin-Fraiture",
     "player1_team": "Aston Villa",
@@ -23280,7 +23280,7 @@
     "timestamp": "00:48:50.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Franklin-Fraiture",
     "player2": "Amy West",
     "player1_team": "Aston Villa",
@@ -23312,7 +23312,7 @@
     "timestamp": "00:48:53.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy West",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -23344,7 +23344,7 @@
     "timestamp": "00:48:54.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -23392,7 +23392,7 @@
     "timestamp": "00:48:57.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Danielle Carter",
     "player1_team": "Reading WFC",
@@ -23424,7 +23424,7 @@
     "timestamp": "00:49:06.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Carter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -23440,7 +23440,7 @@
     "timestamp": "00:49:12.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Haywood",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -23456,7 +23456,7 @@
     "timestamp": "00:49:13.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -23504,7 +23504,7 @@
     "timestamp": "00:49:16.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -23552,7 +23552,7 @@
     "timestamp": "00:49:38.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -23592,7 +23592,7 @@
     "timestamp": "00:50:25.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -23616,7 +23616,7 @@
     "timestamp": "00:50:27.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -23656,7 +23656,7 @@
     "timestamp": "00:50:34.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -23728,7 +23728,7 @@
     "timestamp": "00:50:41.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -23760,7 +23760,7 @@
     "timestamp": "00:50:55.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -23784,7 +23784,7 @@
     "timestamp": "00:50:57.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Sophie Haywood",
     "player1_team": "Aston Villa",
@@ -23808,7 +23808,7 @@
     "timestamp": "00:51:02.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Haywood",
     "player2": "Emma Follis",
     "player1_team": "Aston Villa",
@@ -23840,7 +23840,7 @@
     "timestamp": "00:51:08.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",

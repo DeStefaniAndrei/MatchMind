@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:02.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -40,7 +40,7 @@
     "timestamp": "00:00:04.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -56,7 +56,7 @@
     "timestamp": "00:00:06.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:07.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia Fergusson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -104,7 +104,7 @@
     "timestamp": "00:00:09.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -160,7 +160,7 @@
     "timestamp": "00:00:13.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:19.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -232,7 +232,7 @@
     "timestamp": "00:00:21.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Buet",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -264,7 +264,7 @@
     "timestamp": "00:00:23.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -344,7 +344,7 @@
     "timestamp": "00:00:30.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -360,7 +360,7 @@
     "timestamp": "00:00:33.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -392,7 +392,7 @@
     "timestamp": "00:00:37.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Donovan",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -432,7 +432,7 @@
     "timestamp": "00:00:43.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -456,7 +456,7 @@
     "timestamp": "00:01:27.564"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ellie Mason",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -472,7 +472,7 @@
     "timestamp": "00:01:28.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Harris",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -496,7 +496,7 @@
     "timestamp": "00:01:44.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Sophie Harris",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -520,7 +520,7 @@
     "timestamp": "00:01:50.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -560,7 +560,7 @@
     "timestamp": "00:02:00.269"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kayleigh Green",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -576,7 +576,7 @@
     "timestamp": "00:02:02.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -584,7 +584,7 @@
     "timestamp": "00:02:18.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -608,7 +608,7 @@
     "timestamp": "00:02:22.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -624,7 +624,7 @@
     "timestamp": "00:02:24.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Evans",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:27.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -704,7 +704,7 @@
     "timestamp": "00:02:33.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -736,7 +736,7 @@
     "timestamp": "00:03:12.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Donovan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -768,7 +768,7 @@
     "timestamp": "00:03:17.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -800,7 +800,7 @@
     "timestamp": "00:03:20.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Chloe Peplow",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -824,7 +824,7 @@
     "timestamp": "00:03:23.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -872,7 +872,7 @@
     "timestamp": "00:03:26.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -904,7 +904,7 @@
     "timestamp": "00:03:36.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -928,7 +928,7 @@
     "timestamp": "00:03:38.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -952,7 +952,7 @@
     "timestamp": "00:03:43.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -984,7 +984,7 @@
     "timestamp": "00:03:46.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1024,7 +1024,7 @@
     "timestamp": "00:03:51.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1072,7 +1072,7 @@
     "timestamp": "00:03:59.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:04:04.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1144,7 +1144,7 @@
     "timestamp": "00:04:07.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:04:11.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -1256,7 +1256,7 @@
     "timestamp": "00:04:15.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -1288,7 +1288,7 @@
     "timestamp": "00:04:20.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1336,7 +1336,7 @@
     "timestamp": "00:04:28.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:04:50.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1384,7 +1384,7 @@
     "timestamp": "00:04:52.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1416,7 +1416,7 @@
     "timestamp": "00:04:58.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:05:00.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:05:09.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1528,7 +1528,7 @@
     "timestamp": "00:05:15.049"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kate Natkiel",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1552,7 +1552,7 @@
     "timestamp": "00:05:15.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1576,7 +1576,7 @@
     "timestamp": "00:05:42.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:06:13.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Peplow",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:06:16.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -1640,7 +1640,7 @@
     "timestamp": "00:06:17.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Evans",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -1656,7 +1656,7 @@
     "timestamp": "00:06:20.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:06:21.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1696,7 +1696,7 @@
     "timestamp": "00:06:25.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -1752,7 +1752,7 @@
     "timestamp": "00:06:33.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -1776,7 +1776,7 @@
     "timestamp": "00:06:35.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:06:39.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:06:42.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -1864,7 +1864,7 @@
     "timestamp": "00:06:44.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Evans",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:06:48.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:06:56.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1992,7 +1992,7 @@
     "timestamp": "00:07:01.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2040,7 +2040,7 @@
     "timestamp": "00:07:03.861"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:07:59.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2088,7 +2088,7 @@
     "timestamp": "00:08:22.184"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kayleigh Green",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2104,7 +2104,7 @@
     "timestamp": "00:08:22.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -2128,7 +2128,7 @@
     "timestamp": "00:08:51.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:08:53.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2200,7 +2200,7 @@
     "timestamp": "00:08:55.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:08:58.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2312,7 +2312,7 @@
     "timestamp": "00:09:03.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -2328,7 +2328,7 @@
     "timestamp": "00:09:34.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Peplow",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:09:36.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -2368,7 +2368,7 @@
     "timestamp": "00:09:36.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:09:40.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -2448,7 +2448,7 @@
     "timestamp": "00:09:44.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:09:48.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2480,7 +2480,7 @@
     "timestamp": "00:09:49.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2504,7 +2504,7 @@
     "timestamp": "00:09:50.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2520,7 +2520,7 @@
     "timestamp": "00:09:53.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:09:55.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:09:55.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2592,7 +2592,7 @@
     "timestamp": "00:09:56.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -2608,7 +2608,7 @@
     "timestamp": "00:10:08.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:10:09.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -2680,7 +2680,7 @@
     "timestamp": "00:10:16.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -2696,7 +2696,7 @@
     "timestamp": "00:10:17.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -2712,7 +2712,7 @@
     "timestamp": "00:10:23.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:10:58.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -2744,7 +2744,7 @@
     "timestamp": "00:11:18.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne-Marie Heatherson",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -2776,7 +2776,7 @@
     "timestamp": "00:11:20.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:11:21.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:11:21.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:11:39.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2928,7 +2928,7 @@
     "timestamp": "00:11:41.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2976,7 +2976,7 @@
     "timestamp": "00:11:45.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Sophie Harris",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3000,7 +3000,7 @@
     "timestamp": "00:11:48.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Harris",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:12:00.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:12:04.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3056,7 +3056,7 @@
     "timestamp": "00:12:07.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -3064,7 +3064,7 @@
     "timestamp": "00:12:32.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3088,7 +3088,7 @@
     "timestamp": "00:12:40.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:12:46.401"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3136,7 +3136,7 @@
     "timestamp": "00:12:49.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:13:15.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -3160,7 +3160,7 @@
     "timestamp": "00:13:15.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:13:19.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Chloe Peplow",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3256,7 +3256,7 @@
     "timestamp": "00:13:23.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:13:25.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:13:26.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3328,7 +3328,7 @@
     "timestamp": "00:13:28.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:13:37.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3400,7 +3400,7 @@
     "timestamp": "00:13:43.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Chloe Peplow",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:13:46.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:13:49.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:13:52.125"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Aileen Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:13:53.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:14:20.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -3536,7 +3536,7 @@
     "timestamp": "00:14:22.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3552,7 +3552,7 @@
     "timestamp": "00:14:24.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3608,7 +3608,7 @@
     "timestamp": "00:14:30.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3632,7 +3632,7 @@
     "timestamp": "00:14:31.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:14:33.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:14:35.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3680,7 +3680,7 @@
     "timestamp": "00:14:37.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -3704,7 +3704,7 @@
     "timestamp": "00:14:38.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Peplow",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3720,7 +3720,7 @@
     "timestamp": "00:14:41.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -3744,7 +3744,7 @@
     "timestamp": "00:15:00.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:15:10.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Evans",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:15:12.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Chloe Peplow",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:15:17.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:15:19.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Sophie Harris",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3856,7 +3856,7 @@
     "timestamp": "00:15:23.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Harris",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3880,7 +3880,7 @@
     "timestamp": "00:15:28.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3960,7 +3960,7 @@
     "timestamp": "00:15:31.648"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:15:52.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia Fergusson",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:15:56.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:15:58.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:16:02.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:16:03.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Sophie Harris",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4160,7 +4160,7 @@
     "timestamp": "00:16:06.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:16:06.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -4200,7 +4200,7 @@
     "timestamp": "00:16:11.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:16:14.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -4264,7 +4264,7 @@
     "timestamp": "00:16:17.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -4296,7 +4296,7 @@
     "timestamp": "00:16:24.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne-Marie Heatherson",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -4320,7 +4320,7 @@
     "timestamp": "00:21:04.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -4360,7 +4360,7 @@
     "timestamp": "00:21:26.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:21:28.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Donovan",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -4408,7 +4408,7 @@
     "timestamp": "00:21:30.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4432,7 +4432,7 @@
     "timestamp": "00:21:34.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:21:45.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -4552,7 +4552,7 @@
     "timestamp": "00:21:49.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4576,7 +4576,7 @@
     "timestamp": "00:21:51.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4632,7 +4632,7 @@
     "timestamp": "00:21:54.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:21:57.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Donovan",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:22:02.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4728,7 +4728,7 @@
     "timestamp": "00:22:06.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4760,7 +4760,7 @@
     "timestamp": "00:22:10.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:22:20.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:22:21.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4856,7 +4856,7 @@
     "timestamp": "00:22:24.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -4880,7 +4880,7 @@
     "timestamp": "00:22:25.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:22:31.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -5000,7 +5000,7 @@
     "timestamp": "00:22:40.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:22:46.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5088,7 +5088,7 @@
     "timestamp": "00:22:50.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:23:04.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5152,7 +5152,7 @@
     "timestamp": "00:23:38.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -5184,7 +5184,7 @@
     "timestamp": "00:23:41.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Sophie Harris",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5208,7 +5208,7 @@
     "timestamp": "00:24:04.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:24:14.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:24:20.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5304,7 +5304,7 @@
     "timestamp": "00:24:36.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:24:38.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:24:38.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5368,7 +5368,7 @@
     "timestamp": "00:25:01.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5416,7 +5416,7 @@
     "timestamp": "00:25:22.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5440,7 +5440,7 @@
     "timestamp": "00:25:26.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:25:28.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:25:34.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -5496,7 +5496,7 @@
     "timestamp": "00:26:06.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5528,7 +5528,7 @@
     "timestamp": "00:26:08.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5560,7 +5560,7 @@
     "timestamp": "00:26:11.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5584,7 +5584,7 @@
     "timestamp": "00:26:13.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:26:16.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5648,7 +5648,7 @@
     "timestamp": "00:26:21.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:26:50.928"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Victoria Williams",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5680,7 +5680,7 @@
     "timestamp": "00:26:51.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -5712,7 +5712,7 @@
     "timestamp": "00:27:37.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -5744,7 +5744,7 @@
     "timestamp": "00:27:40.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:27:43.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -5800,7 +5800,7 @@
     "timestamp": "00:27:47.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -5848,7 +5848,7 @@
     "timestamp": "00:28:05.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -5872,7 +5872,7 @@
     "timestamp": "00:28:40.269"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Hannah Short",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:28:41.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Harris",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:28:56.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Evans",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -5952,7 +5952,7 @@
     "timestamp": "00:28:58.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5984,7 +5984,7 @@
     "timestamp": "00:29:15.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:29:16.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -6048,7 +6048,7 @@
     "timestamp": "00:29:20.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:29:25.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:29:27.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Buet",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6128,7 +6128,7 @@
     "timestamp": "00:29:32.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -6152,7 +6152,7 @@
     "timestamp": "00:29:34.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -6184,7 +6184,7 @@
     "timestamp": "00:29:36.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -6208,7 +6208,7 @@
     "timestamp": "00:29:38.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:29:39.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:29:42.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -6288,7 +6288,7 @@
     "timestamp": "00:29:43.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Mclauchlan",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -6352,7 +6352,7 @@
     "timestamp": "00:29:47.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6384,7 +6384,7 @@
     "timestamp": "00:30:19.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6416,7 +6416,7 @@
     "timestamp": "00:30:23.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:30:44.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -6496,7 +6496,7 @@
     "timestamp": "00:31:21.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:31:23.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia Fergusson",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -6536,7 +6536,7 @@
     "timestamp": "00:31:24.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:31:30.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:31:36.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:31:37.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6640,7 +6640,7 @@
     "timestamp": "00:31:37.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:31:42.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:32:09.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6736,7 +6736,7 @@
     "timestamp": "00:32:13.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:32:17.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -6824,7 +6824,7 @@
     "timestamp": "00:32:25.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -6856,7 +6856,7 @@
     "timestamp": "00:32:26.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Evans",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:32:28.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:32:29.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:32:31.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Sophie Harris",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6936,7 +6936,7 @@
     "timestamp": "00:32:36.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6976,7 +6976,7 @@
     "timestamp": "00:32:41.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:32:43.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:32:46.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:32:58.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7104,7 +7104,7 @@
     "timestamp": "00:33:01.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7168,7 +7168,7 @@
     "timestamp": "00:33:05.506"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7216,7 +7216,7 @@
     "timestamp": "00:33:31.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -7240,7 +7240,7 @@
     "timestamp": "00:33:41.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:33:43.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7272,7 +7272,7 @@
     "timestamp": "00:33:43.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -7288,7 +7288,7 @@
     "timestamp": "00:34:29.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -7320,7 +7320,7 @@
     "timestamp": "00:34:35.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:34:40.838"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ellie Mason",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:34:43.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia Fergusson",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -7440,7 +7440,7 @@
     "timestamp": "00:34:49.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -7464,7 +7464,7 @@
     "timestamp": "00:34:51.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:34:54.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:34:55.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7536,7 +7536,7 @@
     "timestamp": "00:34:59.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -7552,7 +7552,7 @@
     "timestamp": "00:35:19.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7616,7 +7616,7 @@
     "timestamp": "00:35:23.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:35:52.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:36:07.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:36:09.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:36:10.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7744,7 +7744,7 @@
     "timestamp": "00:36:24.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7760,7 +7760,7 @@
     "timestamp": "00:36:27.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -7808,7 +7808,7 @@
     "timestamp": "00:36:29.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7832,7 +7832,7 @@
     "timestamp": "00:36:30.908"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:36:37.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:36:40.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:36:41.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -7968,7 +7968,7 @@
     "timestamp": "00:36:42.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:36:46.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:36:51.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:36:55.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8104,7 +8104,7 @@
     "timestamp": "00:36:57.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8136,7 +8136,7 @@
     "timestamp": "00:36:59.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8168,7 +8168,7 @@
     "timestamp": "00:37:02.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -8216,7 +8216,7 @@
     "timestamp": "00:37:11.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:37:31.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:38:20.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:38:57.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:39:02.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:39:34.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -8496,7 +8496,7 @@
     "timestamp": "00:39:39.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:39:40.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Mclauchlan",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -8536,7 +8536,7 @@
     "timestamp": "00:39:41.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:39:42.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Mclauchlan",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -8584,7 +8584,7 @@
     "timestamp": "00:39:43.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8608,7 +8608,7 @@
     "timestamp": "00:39:44.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:39:49.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -8640,7 +8640,7 @@
     "timestamp": "00:39:51.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:39:53.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -8696,7 +8696,7 @@
     "timestamp": "00:39:54.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -8720,7 +8720,7 @@
     "timestamp": "00:39:59.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:41:24.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:41:28.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -8840,7 +8840,7 @@
     "timestamp": "00:41:30.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -8872,7 +8872,7 @@
     "timestamp": "00:41:35.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -8904,7 +8904,7 @@
     "timestamp": "00:41:38.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8912,7 +8912,7 @@
     "timestamp": "00:41:38.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -8952,7 +8952,7 @@
     "timestamp": "00:41:55.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8960,7 +8960,7 @@
     "timestamp": "00:41:55.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8984,7 +8984,7 @@
     "timestamp": "00:42:19.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:42:21.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9024,7 +9024,7 @@
     "timestamp": "00:42:25.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:42:29.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:42:31.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:42:35.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:42:36.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:42:37.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -9184,7 +9184,7 @@
     "timestamp": "00:42:39.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:42:42.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:42:45.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -9264,7 +9264,7 @@
     "timestamp": "00:42:50.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -9288,7 +9288,7 @@
     "timestamp": "00:42:54.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -9312,7 +9312,7 @@
     "timestamp": "00:42:55.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Evans",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:43:14.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9384,7 +9384,7 @@
     "timestamp": "00:43:15.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:43:21.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:43:24.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9464,7 +9464,7 @@
     "timestamp": "00:43:25.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:43:27.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:43:30.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:43:31.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -9552,7 +9552,7 @@
     "timestamp": "00:43:32.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -9584,7 +9584,7 @@
     "timestamp": "00:43:38.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -9624,7 +9624,7 @@
     "timestamp": "00:43:45.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:43:50.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9672,7 +9672,7 @@
     "timestamp": "00:43:52.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:43:54.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9736,7 +9736,7 @@
     "timestamp": "00:43:55.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9768,7 +9768,7 @@
     "timestamp": "00:43:59.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9792,7 +9792,7 @@
     "timestamp": "00:44:01.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:44:03.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9840,7 +9840,7 @@
     "timestamp": "00:44:04.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Mason",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:44:07.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Buet",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9904,7 +9904,7 @@
     "timestamp": "00:44:11.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -9920,7 +9920,7 @@
     "timestamp": "00:44:58.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:45:04.521"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Bonnie Horwood",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:45:06.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10088,7 +10088,7 @@
     "timestamp": "00:45:15.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Harris",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:45:48.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:45:50.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:45:53.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10200,7 +10200,7 @@
     "timestamp": "00:45:58.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10232,7 +10232,7 @@
     "timestamp": "00:46:01.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10256,7 +10256,7 @@
     "timestamp": "00:46:04.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:46:07.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -10304,7 +10304,7 @@
     "timestamp": "00:46:15.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -10336,7 +10336,7 @@
     "timestamp": "00:46:21.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:46:24.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:46:28.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:47:13.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10448,7 +10448,7 @@
     "timestamp": "00:47:16.066"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kayleigh Green",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10464,7 +10464,7 @@
     "timestamp": "00:47:18.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -10472,7 +10472,7 @@
     "timestamp": "00:47:37.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:47:42.185"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10520,7 +10520,7 @@
     "timestamp": "00:47:44.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:48:01.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10552,7 +10552,7 @@
     "timestamp": "00:48:02.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -10568,7 +10568,7 @@
     "timestamp": "00:48:05.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne-Marie Heatherson",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:48:06.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10624,7 +10624,7 @@
     "timestamp": "00:48:10.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -10656,7 +10656,7 @@
     "timestamp": "00:48:13.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -10728,7 +10728,7 @@
     "timestamp": "00:48:25.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10752,7 +10752,7 @@
     "timestamp": "00:48:26.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:48:48.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:48:49.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10816,7 +10816,7 @@
     "timestamp": "00:48:51.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10840,7 +10840,7 @@
     "timestamp": "00:48:52.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:48:58.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10912,7 +10912,7 @@
     "timestamp": "00:00:01.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10920,7 +10920,7 @@
     "timestamp": "00:00:01.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -10936,7 +10936,7 @@
     "timestamp": "00:00:05.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Mason",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -11024,7 +11024,7 @@
     "timestamp": "00:00:11.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:00:28.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11064,7 +11064,7 @@
     "timestamp": "00:00:29.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:00:30.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -11104,7 +11104,7 @@
     "timestamp": "00:00:32.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:00:34.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11152,7 +11152,7 @@
     "timestamp": "00:00:49.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11184,7 +11184,7 @@
     "timestamp": "00:00:50.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -11200,7 +11200,7 @@
     "timestamp": "00:01:07.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11208,7 +11208,7 @@
     "timestamp": "00:01:07.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:01:22.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:01:24.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11320,7 +11320,7 @@
     "timestamp": "00:01:26.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:01:30.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11368,7 +11368,7 @@
     "timestamp": "00:01:32.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11392,7 +11392,7 @@
     "timestamp": "00:01:33.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11408,7 +11408,7 @@
     "timestamp": "00:01:53.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -11432,7 +11432,7 @@
     "timestamp": "00:01:56.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -11504,7 +11504,7 @@
     "timestamp": "00:02:05.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Buet",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:02:09.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -11560,7 +11560,7 @@
     "timestamp": "00:02:13.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11584,7 +11584,7 @@
     "timestamp": "00:02:15.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:02:19.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:02:29.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11656,7 +11656,7 @@
     "timestamp": "00:02:31.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:02:36.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:02:42.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -11728,7 +11728,7 @@
     "timestamp": "00:02:57.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:03:00.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11776,7 +11776,7 @@
     "timestamp": "00:03:02.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -11800,7 +11800,7 @@
     "timestamp": "00:03:03.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:03:05.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -11848,7 +11848,7 @@
     "timestamp": "00:03:08.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -11872,7 +11872,7 @@
     "timestamp": "00:03:12.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -11888,7 +11888,7 @@
     "timestamp": "00:03:15.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11912,7 +11912,7 @@
     "timestamp": "00:03:17.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:03:29.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:03:32.902"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12008,7 +12008,7 @@
     "timestamp": "00:03:39.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -12064,7 +12064,7 @@
     "timestamp": "00:03:46.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:03:48.105"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -12112,7 +12112,7 @@
     "timestamp": "00:03:50.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:03:52.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -12160,7 +12160,7 @@
     "timestamp": "00:03:58.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -12184,7 +12184,7 @@
     "timestamp": "00:04:03.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -12208,7 +12208,7 @@
     "timestamp": "00:04:05.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Hannah Short",
     "player1_team": "Yeovil Town LFC",
@@ -12240,7 +12240,7 @@
     "timestamp": "00:04:10.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:04:17.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:04:37.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -12296,7 +12296,7 @@
     "timestamp": "00:04:39.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -12368,7 +12368,7 @@
     "timestamp": "00:04:44.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:04:48.648"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12400,7 +12400,7 @@
     "timestamp": "00:05:00.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12424,7 +12424,7 @@
     "timestamp": "00:05:01.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12456,7 +12456,7 @@
     "timestamp": "00:05:03.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:05:09.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12504,7 +12504,7 @@
     "timestamp": "00:05:13.014"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kate Natkiel",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:05:14.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -12584,7 +12584,7 @@
     "timestamp": "00:05:32.033"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12600,7 +12600,7 @@
     "timestamp": "00:05:45.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -12616,7 +12616,7 @@
     "timestamp": "00:06:03.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:06:03.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Mclauchlan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -12640,7 +12640,7 @@
     "timestamp": "00:06:06.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12656,7 +12656,7 @@
     "timestamp": "00:06:08.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Donovan",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -12744,7 +12744,7 @@
     "timestamp": "00:06:15.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:06:23.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -12816,7 +12816,7 @@
     "timestamp": "00:07:10.229"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emily Donovan",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -12832,7 +12832,7 @@
     "timestamp": "00:07:11.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Harris",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:07:39.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12872,7 +12872,7 @@
     "timestamp": "00:07:41.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:07:41.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12920,7 +12920,7 @@
     "timestamp": "00:08:23.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:09:16.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:09:18.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13032,7 +13032,7 @@
     "timestamp": "00:09:20.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:09:24.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -13072,7 +13072,7 @@
     "timestamp": "00:09:31.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13096,7 +13096,7 @@
     "timestamp": "00:09:37.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -13136,7 +13136,7 @@
     "timestamp": "00:09:40.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:10:22.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13184,7 +13184,7 @@
     "timestamp": "00:10:26.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13216,7 +13216,7 @@
     "timestamp": "00:10:39.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:10:41.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13272,7 +13272,7 @@
     "timestamp": "00:10:43.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:10:46.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:10:51.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -13368,7 +13368,7 @@
     "timestamp": "00:10:55.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Mclauchlan",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:10:58.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13464,7 +13464,7 @@
     "timestamp": "00:11:03.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13480,7 +13480,7 @@
     "timestamp": "00:11:39.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:12:02.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:12:08.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:12:14.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:12:17.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13616,7 +13616,7 @@
     "timestamp": "00:12:18.584"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emily Simpkins",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13648,7 +13648,7 @@
     "timestamp": "00:12:23.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:12:52.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:12:56.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:12:57.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Buet",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13744,7 +13744,7 @@
     "timestamp": "00:12:57.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:13:16.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -13824,7 +13824,7 @@
     "timestamp": "00:13:20.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -13856,7 +13856,7 @@
     "timestamp": "00:13:22.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne-Marie Heatherson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -13888,7 +13888,7 @@
     "timestamp": "00:13:23.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13920,7 +13920,7 @@
     "timestamp": "00:13:27.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13944,7 +13944,7 @@
     "timestamp": "00:13:29.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -13976,7 +13976,7 @@
     "timestamp": "00:13:33.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -14032,7 +14032,7 @@
     "timestamp": "00:13:38.663"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kate Natkiel",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14048,7 +14048,7 @@
     "timestamp": "00:13:41.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -14072,7 +14072,7 @@
     "timestamp": "00:13:59.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:14:06.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -14144,7 +14144,7 @@
     "timestamp": "00:14:22.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -14168,7 +14168,7 @@
     "timestamp": "00:14:24.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:14:27.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14192,7 +14192,7 @@
     "timestamp": "00:14:53.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Mclauchlan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -14224,7 +14224,7 @@
     "timestamp": "00:14:57.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:15:02.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14288,7 +14288,7 @@
     "timestamp": "00:15:03.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14312,7 +14312,7 @@
     "timestamp": "00:15:06.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14344,7 +14344,7 @@
     "timestamp": "00:15:12.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:15:13.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:15:19.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14456,7 +14456,7 @@
     "timestamp": "00:15:22.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14480,7 +14480,7 @@
     "timestamp": "00:15:25.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -14520,7 +14520,7 @@
     "timestamp": "00:15:28.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:15:30.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14568,7 +14568,7 @@
     "timestamp": "00:15:31.250"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14584,7 +14584,7 @@
     "timestamp": "00:15:33.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -14640,7 +14640,7 @@
     "timestamp": "00:16:04.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14664,7 +14664,7 @@
     "timestamp": "00:16:07.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14688,7 +14688,7 @@
     "timestamp": "00:16:08.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:16:11.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14728,7 +14728,7 @@
     "timestamp": "00:16:16.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -14752,7 +14752,7 @@
     "timestamp": "00:16:29.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -14776,7 +14776,7 @@
     "timestamp": "00:16:32.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -14800,7 +14800,7 @@
     "timestamp": "00:16:38.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -14832,7 +14832,7 @@
     "timestamp": "00:16:40.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -14856,7 +14856,7 @@
     "timestamp": "00:16:43.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:16:46.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:16:49.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:16:51.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:16:53.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:16:54.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14992,7 +14992,7 @@
     "timestamp": "00:16:56.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15024,7 +15024,7 @@
     "timestamp": "00:17:01.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:17:06.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -15072,7 +15072,7 @@
     "timestamp": "00:17:07.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:17:08.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -15120,7 +15120,7 @@
     "timestamp": "00:17:10.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Mclauchlan",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -15152,7 +15152,7 @@
     "timestamp": "00:17:13.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -15192,7 +15192,7 @@
     "timestamp": "00:17:28.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Short",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:18:06.877"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Ellie Mason",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -15224,7 +15224,7 @@
     "timestamp": "00:18:07.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15248,7 +15248,7 @@
     "timestamp": "00:19:00.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:19:01.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Georgia Evans",
     "player1_team": "Yeovil Town LFC",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:19:05.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Evans",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -15296,7 +15296,7 @@
     "timestamp": "00:19:07.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:19:08.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -15368,7 +15368,7 @@
     "timestamp": "00:19:12.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia Fergusson",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:19:16.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:19:23.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Charlotte Buxton",
     "player1_team": "Yeovil Town LFC",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:19:28.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:20:08.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:20:25.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -15536,7 +15536,7 @@
     "timestamp": "00:20:54.470"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:20:57.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Harris",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:21:01.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15624,7 +15624,7 @@
     "timestamp": "00:21:05.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15656,7 +15656,7 @@
     "timestamp": "00:21:09.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15696,7 +15696,7 @@
     "timestamp": "00:21:16.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:23:42.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15736,7 +15736,7 @@
     "timestamp": "00:23:44.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -15760,7 +15760,7 @@
     "timestamp": "00:23:50.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15792,7 +15792,7 @@
     "timestamp": "00:24:14.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:24:19.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:24:21.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15904,7 +15904,7 @@
     "timestamp": "00:24:29.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15928,7 +15928,7 @@
     "timestamp": "00:24:34.041"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Aileen Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:24:37.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:25:07.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -15984,7 +15984,7 @@
     "timestamp": "00:25:08.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Mason",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:25:13.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:25:19.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16128,7 +16128,7 @@
     "timestamp": "00:25:40.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16176,7 +16176,7 @@
     "timestamp": "00:25:49.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16224,7 +16224,7 @@
     "timestamp": "00:25:53.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:25:58.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16304,7 +16304,7 @@
     "timestamp": "00:26:00.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:26:01.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:26:04.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Buet",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:26:48.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:27:06.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16464,7 +16464,7 @@
     "timestamp": "00:27:09.090"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:27:35.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Syme",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:27:36.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16504,7 +16504,7 @@
     "timestamp": "00:27:36.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne-Marie Heatherson",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -16520,7 +16520,7 @@
     "timestamp": "00:27:39.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Buet",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16536,7 +16536,7 @@
     "timestamp": "00:27:43.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:28:10.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:28:15.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:28:22.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:28:34.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -16632,7 +16632,7 @@
     "timestamp": "00:28:35.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -16704,7 +16704,7 @@
     "timestamp": "00:28:42.841"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -16736,7 +16736,7 @@
     "timestamp": "00:28:57.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -16768,7 +16768,7 @@
     "timestamp": "00:29:10.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16816,7 +16816,7 @@
     "timestamp": "00:29:21.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16896,7 +16896,7 @@
     "timestamp": "00:29:29.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:29:42.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16944,7 +16944,7 @@
     "timestamp": "00:29:46.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlotte Buxton",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:30:08.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16976,7 +16976,7 @@
     "timestamp": "00:30:12.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:30:14.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:30:51.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17072,7 +17072,7 @@
     "timestamp": "00:30:55.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Fern Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17096,7 +17096,7 @@
     "timestamp": "00:30:56.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fern Whelan",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17104,7 +17104,7 @@
     "timestamp": "00:30:57.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:31:25.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17160,7 +17160,7 @@
     "timestamp": "00:31:33.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17184,7 +17184,7 @@
     "timestamp": "00:31:36.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:31:44.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17288,7 +17288,7 @@
     "timestamp": "00:31:48.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17312,7 +17312,7 @@
     "timestamp": "00:31:52.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:31:58.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17392,7 +17392,7 @@
     "timestamp": "00:32:04.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -17416,7 +17416,7 @@
     "timestamp": "00:32:11.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:32:12.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -17480,7 +17480,7 @@
     "timestamp": "00:32:15.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:32:19.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia Fergusson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -17536,7 +17536,7 @@
     "timestamp": "00:32:28.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17560,7 +17560,7 @@
     "timestamp": "00:32:29.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:32:37.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Megan Walsh",
     "player1_team": "Yeovil Town LFC",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:32:41.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -17672,7 +17672,7 @@
     "timestamp": "00:32:45.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:32:49.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlotte Buxton",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -17784,7 +17784,7 @@
     "timestamp": "00:35:26.491"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17800,7 +17800,7 @@
     "timestamp": "00:35:29.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -17808,7 +17808,7 @@
     "timestamp": "00:35:52.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:35:57.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:35:57.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:36:04.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17952,7 +17952,7 @@
     "timestamp": "00:36:06.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17976,7 +17976,7 @@
     "timestamp": "00:36:10.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:36:13.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18032,7 +18032,7 @@
     "timestamp": "00:36:14.672"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kayleigh Green",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18048,7 +18048,7 @@
     "timestamp": "00:36:16.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -18064,7 +18064,7 @@
     "timestamp": "00:36:30.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:36:30.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Mason",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:36:38.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -18192,7 +18192,7 @@
     "timestamp": "00:36:40.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -18224,7 +18224,7 @@
     "timestamp": "00:36:43.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Donovan",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -18248,7 +18248,7 @@
     "timestamp": "00:36:52.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Alexander",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:37:09.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18304,7 +18304,7 @@
     "timestamp": "00:37:09.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Syme",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -18320,7 +18320,7 @@
     "timestamp": "00:37:12.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18344,7 +18344,7 @@
     "timestamp": "00:37:13.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Ellie Mason",
     "player1_team": "Yeovil Town LFC",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:38:10.853"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ellie Mason",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -18384,7 +18384,7 @@
     "timestamp": "00:38:56.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Harris",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18400,7 +18400,7 @@
     "timestamp": "00:39:05.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:39:07.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:39:09.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:39:35.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne-Marie Heatherson",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:39:38.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:39:39.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:39:42.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18576,7 +18576,7 @@
     "timestamp": "00:39:45.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:39:51.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -18624,7 +18624,7 @@
     "timestamp": "00:40:18.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fern Whelan",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18640,7 +18640,7 @@
     "timestamp": "00:40:20.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:40:21.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:40:29.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:40:35.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:40:37.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -18800,7 +18800,7 @@
     "timestamp": "00:40:44.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Short",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:41:29.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Nicola Cousins",
     "player1_team": "Yeovil Town LFC",
@@ -18840,7 +18840,7 @@
     "timestamp": "00:41:30.718"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Nicola Cousins",
     "player2": "",
     "player1_team": "Yeovil Town LFC",
@@ -18872,7 +18872,7 @@
     "timestamp": "00:41:49.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nicola Cousins",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:41:51.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Nicola Cousins",
     "player1_team": "Yeovil Town LFC",
@@ -18936,7 +18936,7 @@
     "timestamp": "00:41:53.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:41:58.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18984,7 +18984,7 @@
     "timestamp": "00:42:04.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19032,7 +19032,7 @@
     "timestamp": "00:42:32.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19056,7 +19056,7 @@
     "timestamp": "00:42:36.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19080,7 +19080,7 @@
     "timestamp": "00:42:40.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Natkiel",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:42:41.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Nicola Cousins",
     "player1_team": "Yeovil Town LFC",
@@ -19112,7 +19112,7 @@
     "timestamp": "00:42:42.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nicola Cousins",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:42:49.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19216,7 +19216,7 @@
     "timestamp": "00:42:53.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Syme",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -19248,7 +19248,7 @@
     "timestamp": "00:42:56.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19272,7 +19272,7 @@
     "timestamp": "00:43:00.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19296,7 +19296,7 @@
     "timestamp": "00:43:02.335"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kate Natkiel",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:43:05.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -19328,7 +19328,7 @@
     "timestamp": "00:43:30.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -19352,7 +19352,7 @@
     "timestamp": "00:43:31.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -19384,7 +19384,7 @@
     "timestamp": "00:43:34.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Nicola Cousins",
     "player1_team": "Yeovil Town LFC",
@@ -19416,7 +19416,7 @@
     "timestamp": "00:43:39.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nicola Cousins",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -19456,7 +19456,7 @@
     "timestamp": "00:43:41.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:43:49.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:44:02.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne-Marie Heatherson",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -19536,7 +19536,7 @@
     "timestamp": "00:44:07.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -19568,7 +19568,7 @@
     "timestamp": "00:44:14.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -19592,7 +19592,7 @@
     "timestamp": "00:44:19.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bonnie Horwood",
     "player2": "Megan Alexander",
     "player1_team": "Yeovil Town LFC",
@@ -19624,7 +19624,7 @@
     "timestamp": "00:44:22.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Alexander",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -19648,7 +19648,7 @@
     "timestamp": "00:44:23.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Syme",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -19696,7 +19696,7 @@
     "timestamp": "00:44:30.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Harris",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:44:44.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -19744,7 +19744,7 @@
     "timestamp": "00:45:01.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:45:02.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia Fergusson",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:45:03.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -19824,7 +19824,7 @@
     "timestamp": "00:45:05.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia Fergusson",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:45:06.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Donovan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:45:08.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19912,7 +19912,7 @@
     "timestamp": "00:45:10.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19944,7 +19944,7 @@
     "timestamp": "00:45:14.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "Emily Donovan",
     "player1_team": "Yeovil Town LFC",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:45:50.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20008,7 +20008,7 @@
     "timestamp": "00:45:53.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20040,7 +20040,7 @@
     "timestamp": "00:46:03.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Connolly",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20072,7 +20072,7 @@
     "timestamp": "00:46:08.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Mason",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:46:10.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Mclauchlan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -20136,7 +20136,7 @@
     "timestamp": "00:46:14.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -20160,7 +20160,7 @@
     "timestamp": "00:46:16.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Nicola Cousins",
     "player1_team": "Yeovil Town LFC",
@@ -20248,7 +20248,7 @@
     "timestamp": "00:46:26.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20272,7 +20272,7 @@
     "timestamp": "00:46:32.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20328,7 +20328,7 @@
     "timestamp": "00:46:47.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20368,7 +20368,7 @@
     "timestamp": "00:46:51.478"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20384,7 +20384,7 @@
     "timestamp": "00:46:53.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Walsh",
     "player2": "Bonnie Horwood",
     "player1_team": "Yeovil Town LFC",
@@ -20400,7 +20400,7 @@
     "timestamp": "00:47:26.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bonnie Horwood",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:47:27.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Donovan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -20472,7 +20472,7 @@
     "timestamp": "00:47:31.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:47:36.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Syme",
     "player2": "Rachel Mclauchlan",
     "player1_team": "Yeovil Town LFC",
@@ -20528,7 +20528,7 @@
     "timestamp": "00:47:41.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Mclauchlan",
     "player2": "Nicola Cousins",
     "player1_team": "Yeovil Town LFC",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:47:42.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nicola Cousins",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -20600,7 +20600,7 @@
     "timestamp": "00:47:54.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:47:59.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Mason",
     "player2": "Emily Syme",
     "player1_team": "Yeovil Town LFC",
@@ -20680,7 +20680,7 @@
     "timestamp": "00:48:05.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:48:08.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20728,7 +20728,7 @@
     "timestamp": "00:48:10.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:48:18.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Natkiel",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:48:20.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:48:24.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Donovan",
     "player2": "Olivia Fergusson",
     "player1_team": "Yeovil Town LFC",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:48:27.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia Fergusson",
     "player2": "Anne-Marie Heatherson",
     "player1_team": "Yeovil Town LFC",
@@ -20872,7 +20872,7 @@
     "timestamp": "00:48:29.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Buet",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20896,7 +20896,7 @@
     "timestamp": "00:48:37.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Megan Connolly",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:48:39.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Connolly",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:48:42.398"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Iniabasi Anefiok Umotong",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20960,7 +20960,7 @@
     "timestamp": "00:48:43.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Yeovil Town LFC",

@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -16,7 +16,7 @@
     "timestamp": "00:00:01.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -40,7 +40,7 @@
     "timestamp": "00:00:16.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -104,7 +104,7 @@
     "timestamp": "00:00:18.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -192,7 +192,7 @@
     "timestamp": "00:00:22.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:23.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Alexandra MacIver",
     "player1_team": "Everton LFC",
@@ -216,7 +216,7 @@
     "timestamp": "00:00:30.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -240,7 +240,7 @@
     "timestamp": "00:00:32.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -288,7 +288,7 @@
     "timestamp": "00:00:37.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -304,7 +304,7 @@
     "timestamp": "00:00:42.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -312,7 +312,7 @@
     "timestamp": "00:00:42.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -352,7 +352,7 @@
     "timestamp": "00:00:50.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -376,7 +376,7 @@
     "timestamp": "00:01:04.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -408,7 +408,7 @@
     "timestamp": "00:01:05.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -416,7 +416,7 @@
     "timestamp": "00:01:06.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -440,7 +440,7 @@
     "timestamp": "00:01:24.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -456,7 +456,7 @@
     "timestamp": "00:01:31.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -464,7 +464,7 @@
     "timestamp": "00:01:43.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -504,7 +504,7 @@
     "timestamp": "00:01:48.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -528,7 +528,7 @@
     "timestamp": "00:01:50.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -544,7 +544,7 @@
     "timestamp": "00:01:51.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -552,7 +552,7 @@
     "timestamp": "00:01:51.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -568,7 +568,7 @@
     "timestamp": "00:02:13.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -648,7 +648,7 @@
     "timestamp": "00:02:18.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:32.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -672,7 +672,7 @@
     "timestamp": "00:02:36.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -688,7 +688,7 @@
     "timestamp": "00:02:37.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -712,7 +712,7 @@
     "timestamp": "00:02:41.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -720,7 +720,7 @@
     "timestamp": "00:02:41.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -736,7 +736,7 @@
     "timestamp": "00:02:45.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabrielle George",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -840,7 +840,7 @@
     "timestamp": "00:02:52.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -864,7 +864,7 @@
     "timestamp": "00:03:25.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -896,7 +896,7 @@
     "timestamp": "00:03:42.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabrielle George",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -936,7 +936,7 @@
     "timestamp": "00:03:50.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -968,7 +968,7 @@
     "timestamp": "00:04:06.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -1000,7 +1000,7 @@
     "timestamp": "00:04:07.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:04:09.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -1176,7 +1176,7 @@
     "timestamp": "00:04:18.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:04:21.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -1240,7 +1240,7 @@
     "timestamp": "00:04:26.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Kelly",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:04:27.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -1288,7 +1288,7 @@
     "timestamp": "00:04:28.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -1312,7 +1312,7 @@
     "timestamp": "00:04:31.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -1360,7 +1360,7 @@
     "timestamp": "00:04:36.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -1384,7 +1384,7 @@
     "timestamp": "00:04:38.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:04:42.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1416,7 +1416,7 @@
     "timestamp": "00:04:45.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:04:47.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:04:48.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -1496,7 +1496,7 @@
     "timestamp": "00:04:54.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1520,7 +1520,7 @@
     "timestamp": "00:04:57.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:04:58.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabrielle George",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -1568,7 +1568,7 @@
     "timestamp": "00:05:22.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -1600,7 +1600,7 @@
     "timestamp": "00:05:26.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:05:27.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -1624,7 +1624,7 @@
     "timestamp": "00:05:35.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -1648,7 +1648,7 @@
     "timestamp": "00:05:35.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:05:40.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:05:40.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:05:44.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -1760,7 +1760,7 @@
     "timestamp": "00:05:49.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -1784,7 +1784,7 @@
     "timestamp": "00:06:02.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:06:07.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1864,7 +1864,7 @@
     "timestamp": "00:06:24.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1880,7 +1880,7 @@
     "timestamp": "00:06:27.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:06:30.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1952,7 +1952,7 @@
     "timestamp": "00:06:32.294"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1968,7 +1968,7 @@
     "timestamp": "00:06:32.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -2000,7 +2000,7 @@
     "timestamp": "00:07:08.382"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2032,7 +2032,7 @@
     "timestamp": "00:07:11.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:07:30.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -2080,7 +2080,7 @@
     "timestamp": "00:07:32.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2112,7 +2112,7 @@
     "timestamp": "00:07:40.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2176,7 +2176,7 @@
     "timestamp": "00:07:47.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabrielle George",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -2200,7 +2200,7 @@
     "timestamp": "00:08:14.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:08:19.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:08:49.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:08:54.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:09:03.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:09:05.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2384,7 +2384,7 @@
     "timestamp": "00:09:10.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:09:14.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:09:15.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2456,7 +2456,7 @@
     "timestamp": "00:09:16.516"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2472,7 +2472,7 @@
     "timestamp": "00:09:18.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -2496,7 +2496,7 @@
     "timestamp": "00:09:33.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -2520,7 +2520,7 @@
     "timestamp": "00:09:36.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:09:38.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:09:41.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:09:41.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -2592,7 +2592,7 @@
     "timestamp": "00:09:54.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:09:55.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:09:57.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -2688,7 +2688,7 @@
     "timestamp": "00:09:58.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:09:59.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -2744,7 +2744,7 @@
     "timestamp": "00:10:00.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:10:06.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2784,7 +2784,7 @@
     "timestamp": "00:10:12.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -2800,7 +2800,7 @@
     "timestamp": "00:10:13.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -2832,7 +2832,7 @@
     "timestamp": "00:10:37.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2848,7 +2848,7 @@
     "timestamp": "00:10:38.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Kelly",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -2880,7 +2880,7 @@
     "timestamp": "00:10:41.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -2896,7 +2896,7 @@
     "timestamp": "00:10:43.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:10:44.275"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -2936,7 +2936,7 @@
     "timestamp": "00:10:46.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -2952,7 +2952,7 @@
     "timestamp": "00:11:33.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -2976,7 +2976,7 @@
     "timestamp": "00:11:35.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2992,7 +2992,7 @@
     "timestamp": "00:11:41.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -3016,7 +3016,7 @@
     "timestamp": "00:11:41.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:11:44.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -3072,7 +3072,7 @@
     "timestamp": "00:11:45.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:11:47.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3128,7 +3128,7 @@
     "timestamp": "00:11:52.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:11:57.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:11:58.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -3208,7 +3208,7 @@
     "timestamp": "00:12:01.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -3240,7 +3240,7 @@
     "timestamp": "00:12:07.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:12:30.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:12:32.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:12:33.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -3368,7 +3368,7 @@
     "timestamp": "00:12:35.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:12:36.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -3416,7 +3416,7 @@
     "timestamp": "00:12:42.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -3424,7 +3424,7 @@
     "timestamp": "00:12:42.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:12:47.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:12:50.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3528,7 +3528,7 @@
     "timestamp": "00:12:54.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -3552,7 +3552,7 @@
     "timestamp": "00:12:55.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3576,7 +3576,7 @@
     "timestamp": "00:12:58.964"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:13:01.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:13:37.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:13:39.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -3672,7 +3672,7 @@
     "timestamp": "00:13:39.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -3704,7 +3704,7 @@
     "timestamp": "00:13:43.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -3720,7 +3720,7 @@
     "timestamp": "00:14:04.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -3736,7 +3736,7 @@
     "timestamp": "00:14:06.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -3744,7 +3744,7 @@
     "timestamp": "00:14:06.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:14:10.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:14:13.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3848,7 +3848,7 @@
     "timestamp": "00:14:21.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -3872,7 +3872,7 @@
     "timestamp": "00:14:22.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -3904,7 +3904,7 @@
     "timestamp": "00:14:25.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -3920,7 +3920,7 @@
     "timestamp": "00:14:31.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Alexandra MacIver",
     "player1_team": "Everton LFC",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:14:33.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:14:37.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4000,7 +4000,7 @@
     "timestamp": "00:14:40.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -4032,7 +4032,7 @@
     "timestamp": "00:14:45.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:14:46.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:15:06.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:15:08.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:15:22.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:15:25.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:15:30.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -4288,7 +4288,7 @@
     "timestamp": "00:15:54.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:15:57.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4328,7 +4328,7 @@
     "timestamp": "00:15:59.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -4336,7 +4336,7 @@
     "timestamp": "00:16:04.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -4368,7 +4368,7 @@
     "timestamp": "00:16:22.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:16:25.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -4408,7 +4408,7 @@
     "timestamp": "00:16:27.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4416,7 +4416,7 @@
     "timestamp": "00:16:29.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -4432,7 +4432,7 @@
     "timestamp": "00:16:52.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:16:52.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -4464,7 +4464,7 @@
     "timestamp": "00:16:55.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:16:58.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:17:15.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -4576,7 +4576,7 @@
     "timestamp": "00:17:19.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4584,7 +4584,7 @@
     "timestamp": "00:17:20.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -4592,7 +4592,7 @@
     "timestamp": "00:17:22.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:17:31.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -4656,7 +4656,7 @@
     "timestamp": "00:17:43.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -4672,7 +4672,7 @@
     "timestamp": "00:17:44.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4688,7 +4688,7 @@
     "timestamp": "00:17:46.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -4704,7 +4704,7 @@
     "timestamp": "00:17:46.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -4720,7 +4720,7 @@
     "timestamp": "00:17:49.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:17:52.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:17:58.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:18:01.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -4856,7 +4856,7 @@
     "timestamp": "00:18:04.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -4888,7 +4888,7 @@
     "timestamp": "00:18:30.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -4912,7 +4912,7 @@
     "timestamp": "00:18:32.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -4928,7 +4928,7 @@
     "timestamp": "00:18:33.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:19:00.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:19:02.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:19:03.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:19:06.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -5088,7 +5088,7 @@
     "timestamp": "00:19:08.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Kelly",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:19:11.290"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -5144,7 +5144,7 @@
     "timestamp": "00:19:12.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -5160,7 +5160,7 @@
     "timestamp": "00:19:24.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -5200,7 +5200,7 @@
     "timestamp": "00:19:26.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -5248,7 +5248,7 @@
     "timestamp": "00:19:30.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:19:35.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -5280,7 +5280,7 @@
     "timestamp": "00:19:51.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:19:52.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -5312,7 +5312,7 @@
     "timestamp": "00:20:08.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -5328,7 +5328,7 @@
     "timestamp": "00:20:09.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:20:10.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:20:13.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -5424,7 +5424,7 @@
     "timestamp": "00:20:27.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -5440,7 +5440,7 @@
     "timestamp": "00:20:30.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:20:30.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -5496,7 +5496,7 @@
     "timestamp": "00:20:32.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:20:37.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -5608,7 +5608,7 @@
     "timestamp": "00:20:44.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -5640,7 +5640,7 @@
     "timestamp": "00:20:48.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:20:49.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -5672,7 +5672,7 @@
     "timestamp": "00:21:27.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -5704,7 +5704,7 @@
     "timestamp": "00:21:44.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabrielle George",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -5720,7 +5720,7 @@
     "timestamp": "00:21:47.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -5768,7 +5768,7 @@
     "timestamp": "00:22:10.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Alexandra MacIver",
     "player1_team": "Everton LFC",
@@ -5800,7 +5800,7 @@
     "timestamp": "00:22:15.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -5824,7 +5824,7 @@
     "timestamp": "00:22:17.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabrielle George",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:22:21.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:22:23.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:22:24.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -5936,7 +5936,7 @@
     "timestamp": "00:22:28.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -5968,7 +5968,7 @@
     "timestamp": "00:22:35.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -5984,7 +5984,7 @@
     "timestamp": "00:22:38.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:22:40.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -6024,7 +6024,7 @@
     "timestamp": "00:22:42.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -6104,7 +6104,7 @@
     "timestamp": "00:22:49.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:22:53.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -6152,7 +6152,7 @@
     "timestamp": "00:22:54.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:22:56.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:23:04.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -6272,7 +6272,7 @@
     "timestamp": "00:23:07.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -6304,7 +6304,7 @@
     "timestamp": "00:23:10.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:23:18.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -6368,7 +6368,7 @@
     "timestamp": "00:23:21.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:23:24.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:23:28.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:23:33.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:23:37.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:23:39.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -6536,7 +6536,7 @@
     "timestamp": "00:24:14.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:24:18.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -6576,7 +6576,7 @@
     "timestamp": "00:24:19.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -6608,7 +6608,7 @@
     "timestamp": "00:24:20.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:24:25.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabrielle George",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:24:29.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:24:35.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:24:38.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:24:41.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:24:45.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -6904,7 +6904,7 @@
     "timestamp": "00:24:48.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -6944,7 +6944,7 @@
     "timestamp": "00:24:53.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabrielle George",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -6960,7 +6960,7 @@
     "timestamp": "00:24:54.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -6976,7 +6976,7 @@
     "timestamp": "00:25:15.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -7016,7 +7016,7 @@
     "timestamp": "00:25:17.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:25:24.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -7104,7 +7104,7 @@
     "timestamp": "00:25:58.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -7152,7 +7152,7 @@
     "timestamp": "00:26:02.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -7168,7 +7168,7 @@
     "timestamp": "00:26:36.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -7192,7 +7192,7 @@
     "timestamp": "00:26:51.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:26:56.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -7224,7 +7224,7 @@
     "timestamp": "00:26:58.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7248,7 +7248,7 @@
     "timestamp": "00:27:06.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -7272,7 +7272,7 @@
     "timestamp": "00:27:07.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:27:11.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:27:17.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:27:20.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:27:24.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -7488,7 +7488,7 @@
     "timestamp": "00:27:27.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -7536,7 +7536,7 @@
     "timestamp": "00:27:39.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -7560,7 +7560,7 @@
     "timestamp": "00:27:42.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -7592,7 +7592,7 @@
     "timestamp": "00:27:45.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:27:48.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7640,7 +7640,7 @@
     "timestamp": "00:27:56.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Alexandra MacIver",
     "player1_team": "Everton LFC",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:27:59.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -7688,7 +7688,7 @@
     "timestamp": "00:28:03.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -7720,7 +7720,7 @@
     "timestamp": "00:28:04.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -7752,7 +7752,7 @@
     "timestamp": "00:28:07.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -7776,7 +7776,7 @@
     "timestamp": "00:28:11.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -7800,7 +7800,7 @@
     "timestamp": "00:28:19.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -7824,7 +7824,7 @@
     "timestamp": "00:28:21.507"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:28:23.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:28:40.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:28:46.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:28:51.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:28:53.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -7984,7 +7984,7 @@
     "timestamp": "00:28:56.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:29:01.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:29:04.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:29:06.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:29:12.926"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8168,7 +8168,7 @@
     "timestamp": "00:30:20.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -8192,7 +8192,7 @@
     "timestamp": "00:30:54.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:30:58.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8240,7 +8240,7 @@
     "timestamp": "00:31:19.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8248,7 +8248,7 @@
     "timestamp": "00:31:19.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:31:25.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:31:28.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:31:31.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -8416,7 +8416,7 @@
     "timestamp": "00:31:38.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:31:41.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:31:43.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:31:44.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:31:45.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -8528,7 +8528,7 @@
     "timestamp": "00:31:48.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:31:49.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:31:54.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:32:18.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:32:25.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -8640,7 +8640,7 @@
     "timestamp": "00:32:28.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:32:30.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:32:32.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -8696,7 +8696,7 @@
     "timestamp": "00:32:32.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:32:35.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:33:22.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -8848,7 +8848,7 @@
     "timestamp": "00:35:21.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Alexandra MacIver",
     "player1_team": "Everton LFC",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:35:23.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -8888,7 +8888,7 @@
     "timestamp": "00:35:23.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8912,7 +8912,7 @@
     "timestamp": "00:36:20.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:36:27.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -9000,7 +9000,7 @@
     "timestamp": "00:36:39.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -9064,7 +9064,7 @@
     "timestamp": "00:36:44.834"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:36:45.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -9096,7 +9096,7 @@
     "timestamp": "00:37:05.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -9112,7 +9112,7 @@
     "timestamp": "00:37:12.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -9144,7 +9144,7 @@
     "timestamp": "00:37:13.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:37:15.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -9216,7 +9216,7 @@
     "timestamp": "00:37:26.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -9240,7 +9240,7 @@
     "timestamp": "00:37:29.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -9264,7 +9264,7 @@
     "timestamp": "00:37:33.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -9328,7 +9328,7 @@
     "timestamp": "00:37:41.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -9344,7 +9344,7 @@
     "timestamp": "00:37:44.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -9368,7 +9368,7 @@
     "timestamp": "00:37:45.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9392,7 +9392,7 @@
     "timestamp": "00:37:47.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:37:57.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:38:26.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -9448,7 +9448,7 @@
     "timestamp": "00:38:31.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -9464,7 +9464,7 @@
     "timestamp": "00:38:34.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:38:44.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -9496,7 +9496,7 @@
     "timestamp": "00:38:44.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:39:05.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -9560,7 +9560,7 @@
     "timestamp": "00:39:07.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:39:13.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:39:16.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -9688,7 +9688,7 @@
     "timestamp": "00:39:30.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:39:32.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -9728,7 +9728,7 @@
     "timestamp": "00:39:32.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -9752,7 +9752,7 @@
     "timestamp": "00:39:34.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -9792,7 +9792,7 @@
     "timestamp": "00:39:37.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -9832,7 +9832,7 @@
     "timestamp": "00:39:42.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Kelly",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:39:45.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -9888,7 +9888,7 @@
     "timestamp": "00:39:49.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -9928,7 +9928,7 @@
     "timestamp": "00:39:54.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:39:58.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:40:01.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -10000,7 +10000,7 @@
     "timestamp": "00:41:13.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:41:56.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -10040,7 +10040,7 @@
     "timestamp": "00:41:58.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -10080,7 +10080,7 @@
     "timestamp": "00:42:15.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -10144,7 +10144,7 @@
     "timestamp": "00:42:19.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:42:21.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -10232,7 +10232,7 @@
     "timestamp": "00:42:24.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10264,7 +10264,7 @@
     "timestamp": "00:42:50.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:42:58.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -10328,7 +10328,7 @@
     "timestamp": "00:43:00.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:43:09.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:43:15.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:43:18.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:43:20.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10496,7 +10496,7 @@
     "timestamp": "00:43:51.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -10512,7 +10512,7 @@
     "timestamp": "00:43:52.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:43:53.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -10568,7 +10568,7 @@
     "timestamp": "00:43:55.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -10640,7 +10640,7 @@
     "timestamp": "00:44:00.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -10664,7 +10664,7 @@
     "timestamp": "00:44:04.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -10688,7 +10688,7 @@
     "timestamp": "00:44:08.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:44:09.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10712,7 +10712,7 @@
     "timestamp": "00:44:09.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:44:35.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:45:17.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:45:18.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10816,7 +10816,7 @@
     "timestamp": "00:45:31.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -10840,7 +10840,7 @@
     "timestamp": "00:45:34.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10872,7 +10872,7 @@
     "timestamp": "00:45:38.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:45:53.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -10904,7 +10904,7 @@
     "timestamp": "00:45:54.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10920,7 +10920,7 @@
     "timestamp": "00:46:09.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:46:11.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -11008,7 +11008,7 @@
     "timestamp": "00:46:16.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:46:35.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11048,7 +11048,7 @@
     "timestamp": "00:46:36.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -11072,7 +11072,7 @@
     "timestamp": "00:46:54.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:46:54.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -11112,7 +11112,7 @@
     "timestamp": "00:00:03.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:00:07.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -11176,7 +11176,7 @@
     "timestamp": "00:00:09.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:00:26.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:00:30.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:00:32.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:00:35.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:00:39.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11368,7 +11368,7 @@
     "timestamp": "00:00:41.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:00:44.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:00:48.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -11480,7 +11480,7 @@
     "timestamp": "00:00:55.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:01:02.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:01:04.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabrielle George",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -11528,7 +11528,7 @@
     "timestamp": "00:01:30.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:01:34.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:01:41.364"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -11624,7 +11624,7 @@
     "timestamp": "00:02:35.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -11648,7 +11648,7 @@
     "timestamp": "00:02:39.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:02:42.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11688,7 +11688,7 @@
     "timestamp": "00:02:43.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:02:57.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:03:00.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -11792,7 +11792,7 @@
     "timestamp": "00:03:05.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:03:06.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:03:07.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:03:11.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -11888,7 +11888,7 @@
     "timestamp": "00:03:22.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:03:22.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -11992,7 +11992,7 @@
     "timestamp": "00:03:26.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -12024,7 +12024,7 @@
     "timestamp": "00:03:46.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12056,7 +12056,7 @@
     "timestamp": "00:03:50.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:03:59.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -12112,7 +12112,7 @@
     "timestamp": "00:04:05.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -12128,7 +12128,7 @@
     "timestamp": "00:04:15.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -12152,7 +12152,7 @@
     "timestamp": "00:04:18.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -12176,7 +12176,7 @@
     "timestamp": "00:04:24.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:04:26.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -12240,7 +12240,7 @@
     "timestamp": "00:04:33.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:04:42.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:04:45.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:04:46.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -12376,7 +12376,7 @@
     "timestamp": "00:04:50.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -12392,7 +12392,7 @@
     "timestamp": "00:04:51.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -12424,7 +12424,7 @@
     "timestamp": "00:04:52.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Kelly",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -12448,7 +12448,7 @@
     "timestamp": "00:04:53.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:05:01.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:05:02.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:05:25.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12536,7 +12536,7 @@
     "timestamp": "00:05:30.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -12656,7 +12656,7 @@
     "timestamp": "00:05:42.537"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12688,7 +12688,7 @@
     "timestamp": "00:05:46.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -12752,7 +12752,7 @@
     "timestamp": "00:05:54.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -12784,7 +12784,7 @@
     "timestamp": "00:05:57.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:06:03.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -12832,7 +12832,7 @@
     "timestamp": "00:06:06.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:06:14.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:06:54.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:06:55.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -12936,7 +12936,7 @@
     "timestamp": "00:07:00.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:07:27.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13016,7 +13016,7 @@
     "timestamp": "00:07:29.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13056,7 +13056,7 @@
     "timestamp": "00:08:01.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13112,7 +13112,7 @@
     "timestamp": "00:08:06.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:08:08.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:08:17.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -13168,7 +13168,7 @@
     "timestamp": "00:08:21.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -13192,7 +13192,7 @@
     "timestamp": "00:08:25.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -13208,7 +13208,7 @@
     "timestamp": "00:08:31.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -13232,7 +13232,7 @@
     "timestamp": "00:08:32.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13256,7 +13256,7 @@
     "timestamp": "00:08:37.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -13296,7 +13296,7 @@
     "timestamp": "00:08:46.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -13328,7 +13328,7 @@
     "timestamp": "00:08:54.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:09:17.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:09:18.827"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:10:15.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:10:42.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -13464,7 +13464,7 @@
     "timestamp": "00:10:55.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:11:08.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:11:27.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -13560,7 +13560,7 @@
     "timestamp": "00:11:35.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -13576,7 +13576,7 @@
     "timestamp": "00:11:36.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:11:36.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -13632,7 +13632,7 @@
     "timestamp": "00:11:44.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:11:48.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -13720,7 +13720,7 @@
     "timestamp": "00:12:05.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -13744,7 +13744,7 @@
     "timestamp": "00:12:19.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -13808,7 +13808,7 @@
     "timestamp": "00:12:25.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:12:26.974"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -13848,7 +13848,7 @@
     "timestamp": "00:12:57.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -13872,7 +13872,7 @@
     "timestamp": "00:13:39.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -13896,7 +13896,7 @@
     "timestamp": "00:13:41.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -13920,7 +13920,7 @@
     "timestamp": "00:13:44.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -13936,7 +13936,7 @@
     "timestamp": "00:13:47.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -13960,7 +13960,7 @@
     "timestamp": "00:13:50.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -13976,7 +13976,7 @@
     "timestamp": "00:13:56.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -13984,7 +13984,7 @@
     "timestamp": "00:14:17.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -14008,7 +14008,7 @@
     "timestamp": "00:14:21.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:14:28.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -14136,7 +14136,7 @@
     "timestamp": "00:14:31.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -14176,7 +14176,7 @@
     "timestamp": "00:14:35.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -14224,7 +14224,7 @@
     "timestamp": "00:14:39.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:15:03.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -14280,7 +14280,7 @@
     "timestamp": "00:15:08.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -14304,7 +14304,7 @@
     "timestamp": "00:15:10.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -14320,7 +14320,7 @@
     "timestamp": "00:15:14.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -14344,7 +14344,7 @@
     "timestamp": "00:15:15.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:15:19.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:15:21.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -14424,7 +14424,7 @@
     "timestamp": "00:15:26.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:15:28.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:15:31.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14600,7 +14600,7 @@
     "timestamp": "00:15:40.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:15:48.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -14680,7 +14680,7 @@
     "timestamp": "00:16:15.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:16:23.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -14744,7 +14744,7 @@
     "timestamp": "00:16:24.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -14768,7 +14768,7 @@
     "timestamp": "00:16:25.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14800,7 +14800,7 @@
     "timestamp": "00:16:33.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabrielle George",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -14824,7 +14824,7 @@
     "timestamp": "00:16:37.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -14856,7 +14856,7 @@
     "timestamp": "00:16:50.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:16:54.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:16:57.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:16:59.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:17:00.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -15000,7 +15000,7 @@
     "timestamp": "00:17:06.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -15032,7 +15032,7 @@
     "timestamp": "00:17:10.105"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -15056,7 +15056,7 @@
     "timestamp": "00:17:14.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -15088,7 +15088,7 @@
     "timestamp": "00:17:21.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15120,7 +15120,7 @@
     "timestamp": "00:17:29.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:17:31.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:17:38.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -15240,7 +15240,7 @@
     "timestamp": "00:17:40.378"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:17:43.090"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:17:52.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -15304,7 +15304,7 @@
     "timestamp": "00:17:56.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -15328,7 +15328,7 @@
     "timestamp": "00:17:59.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:18:02.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:18:03.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -15392,7 +15392,7 @@
     "timestamp": "00:18:11.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabrielle George",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:18:44.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -15520,7 +15520,7 @@
     "timestamp": "00:19:07.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:19:08.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -15592,7 +15592,7 @@
     "timestamp": "00:19:11.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:19:13.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -15640,7 +15640,7 @@
     "timestamp": "00:19:16.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:19:21.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:19:27.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Kelly",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -15768,7 +15768,7 @@
     "timestamp": "00:19:34.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -15792,7 +15792,7 @@
     "timestamp": "00:19:37.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:19:40.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -15832,7 +15832,7 @@
     "timestamp": "00:19:43.980"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:20:40.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -15888,7 +15888,7 @@
     "timestamp": "00:20:56.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -15912,7 +15912,7 @@
     "timestamp": "00:21:00.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -15936,7 +15936,7 @@
     "timestamp": "00:21:03.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:21:08.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -15976,7 +15976,7 @@
     "timestamp": "00:21:14.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:21:16.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:21:22.461"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16064,7 +16064,7 @@
     "timestamp": "00:21:24.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabrielle George",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:21:27.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:21:27.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:21:32.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -16160,7 +16160,7 @@
     "timestamp": "00:21:52.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -16176,7 +16176,7 @@
     "timestamp": "00:22:01.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -16184,7 +16184,7 @@
     "timestamp": "00:22:01.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -16240,7 +16240,7 @@
     "timestamp": "00:22:18.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:22:46.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -16312,7 +16312,7 @@
     "timestamp": "00:22:50.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:22:54.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:22:58.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:23:23.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -16416,7 +16416,7 @@
     "timestamp": "00:23:25.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:23:26.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -16464,7 +16464,7 @@
     "timestamp": "00:23:31.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:23:35.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16528,7 +16528,7 @@
     "timestamp": "00:23:42.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:23:44.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:23:48.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:23:50.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:23:55.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Millie Laura Farrow",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:23:57.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16672,7 +16672,7 @@
     "timestamp": "00:23:58.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -16688,7 +16688,7 @@
     "timestamp": "00:24:21.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -16736,7 +16736,7 @@
     "timestamp": "00:24:23.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:25:01.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:25:05.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:25:08.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -16904,7 +16904,7 @@
     "timestamp": "00:25:11.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:25:15.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:25:23.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -17048,7 +17048,7 @@
     "timestamp": "00:25:26.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -17072,7 +17072,7 @@
     "timestamp": "00:25:31.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:25:32.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:25:59.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Esme Beth Morgan",
     "player1_team": "Everton LFC",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:26:00.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -17144,7 +17144,7 @@
     "timestamp": "00:26:02.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -17160,7 +17160,7 @@
     "timestamp": "00:26:23.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -17176,7 +17176,7 @@
     "timestamp": "00:26:24.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:26:30.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:26:33.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -17312,7 +17312,7 @@
     "timestamp": "00:26:38.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -17336,7 +17336,7 @@
     "timestamp": "00:26:41.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -17368,7 +17368,7 @@
     "timestamp": "00:26:45.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:26:50.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:26:54.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:26:55.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -17536,7 +17536,7 @@
     "timestamp": "00:27:15.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:27:16.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17592,7 +17592,7 @@
     "timestamp": "00:27:28.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:27:37.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:27:39.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -17640,7 +17640,7 @@
     "timestamp": "00:27:40.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:27:42.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -17688,7 +17688,7 @@
     "timestamp": "00:27:44.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -17704,7 +17704,7 @@
     "timestamp": "00:27:46.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17736,7 +17736,7 @@
     "timestamp": "00:27:50.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17744,7 +17744,7 @@
     "timestamp": "00:27:50.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:28:13.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -17792,7 +17792,7 @@
     "timestamp": "00:28:14.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -17824,7 +17824,7 @@
     "timestamp": "00:28:31.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -17848,7 +17848,7 @@
     "timestamp": "00:28:35.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -17880,7 +17880,7 @@
     "timestamp": "00:28:41.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:28:47.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:29:10.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -17944,7 +17944,7 @@
     "timestamp": "00:29:11.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17968,7 +17968,7 @@
     "timestamp": "00:29:46.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -17984,7 +17984,7 @@
     "timestamp": "00:29:48.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -18008,7 +18008,7 @@
     "timestamp": "00:29:49.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -18048,7 +18048,7 @@
     "timestamp": "00:29:55.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:30:07.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -18112,7 +18112,7 @@
     "timestamp": "00:30:29.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -18136,7 +18136,7 @@
     "timestamp": "00:30:42.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa-Marie Utland",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:30:53.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Kelly",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -18240,7 +18240,7 @@
     "timestamp": "00:30:56.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -18272,7 +18272,7 @@
     "timestamp": "00:30:57.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -18304,7 +18304,7 @@
     "timestamp": "00:31:00.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18328,7 +18328,7 @@
     "timestamp": "00:31:03.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:31:20.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabrielle George",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:31:23.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:31:25.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18424,7 +18424,7 @@
     "timestamp": "00:31:25.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alexandra MacIver",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -18440,7 +18440,7 @@
     "timestamp": "00:31:51.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -18464,7 +18464,7 @@
     "timestamp": "00:32:16.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18496,7 +18496,7 @@
     "timestamp": "00:32:37.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:32:40.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:32:44.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:32:46.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18696,7 +18696,7 @@
     "timestamp": "00:32:54.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:32:54.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:33:19.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -18784,7 +18784,7 @@
     "timestamp": "00:33:22.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:33:28.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:33:37.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -18872,7 +18872,7 @@
     "timestamp": "00:33:41.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -18904,7 +18904,7 @@
     "timestamp": "00:33:46.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18936,7 +18936,7 @@
     "timestamp": "00:33:49.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:33:54.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18992,7 +18992,7 @@
     "timestamp": "00:33:58.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -19016,7 +19016,7 @@
     "timestamp": "00:34:00.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -19048,7 +19048,7 @@
     "timestamp": "00:34:04.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa-Marie Utland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -19072,7 +19072,7 @@
     "timestamp": "00:34:09.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -19120,7 +19120,7 @@
     "timestamp": "00:34:16.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa-Marie Utland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -19144,7 +19144,7 @@
     "timestamp": "00:34:19.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:34:22.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -19176,7 +19176,7 @@
     "timestamp": "00:34:45.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -19192,7 +19192,7 @@
     "timestamp": "00:34:48.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -19216,7 +19216,7 @@
     "timestamp": "00:34:51.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19240,7 +19240,7 @@
     "timestamp": "00:34:53.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -19304,7 +19304,7 @@
     "timestamp": "00:35:01.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:35:06.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -19392,7 +19392,7 @@
     "timestamp": "00:35:07.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -19416,7 +19416,7 @@
     "timestamp": "00:35:11.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -19544,7 +19544,7 @@
     "timestamp": "00:35:21.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -19592,7 +19592,7 @@
     "timestamp": "00:35:24.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Kelly",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -19608,7 +19608,7 @@
     "timestamp": "00:36:15.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -19632,7 +19632,7 @@
     "timestamp": "00:36:29.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -19656,7 +19656,7 @@
     "timestamp": "00:36:33.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -19680,7 +19680,7 @@
     "timestamp": "00:36:37.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -19712,7 +19712,7 @@
     "timestamp": "00:36:42.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:36:49.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -19808,7 +19808,7 @@
     "timestamp": "00:36:58.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -19840,7 +19840,7 @@
     "timestamp": "00:37:15.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -19856,7 +19856,7 @@
     "timestamp": "00:37:17.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19872,7 +19872,7 @@
     "timestamp": "00:37:17.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -19912,7 +19912,7 @@
     "timestamp": "00:37:25.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -19928,7 +19928,7 @@
     "timestamp": "00:37:38.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa-Marie Utland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -19952,7 +19952,7 @@
     "timestamp": "00:37:41.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -19968,7 +19968,7 @@
     "timestamp": "00:38:02.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa-Marie Utland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:38:05.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20016,7 +20016,7 @@
     "timestamp": "00:38:10.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maéva Clemaron",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -20032,7 +20032,7 @@
     "timestamp": "00:38:14.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:38:15.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:38:18.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabrielle George",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20112,7 +20112,7 @@
     "timestamp": "00:38:47.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -20128,7 +20128,7 @@
     "timestamp": "00:38:49.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -20240,7 +20240,7 @@
     "timestamp": "00:38:56.847"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gabrielle George",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20280,7 +20280,7 @@
     "timestamp": "00:39:00.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:39:06.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -20320,7 +20320,7 @@
     "timestamp": "00:39:10.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -20344,7 +20344,7 @@
     "timestamp": "00:39:11.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -20368,7 +20368,7 @@
     "timestamp": "00:39:13.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:39:14.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:39:17.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -20472,7 +20472,7 @@
     "timestamp": "00:39:23.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -20496,7 +20496,7 @@
     "timestamp": "00:39:27.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -20520,7 +20520,7 @@
     "timestamp": "00:39:33.537"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -20568,7 +20568,7 @@
     "timestamp": "00:39:40.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maéva Clemaron",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -20600,7 +20600,7 @@
     "timestamp": "00:39:42.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -20624,7 +20624,7 @@
     "timestamp": "00:39:45.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:39:52.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -20688,7 +20688,7 @@
     "timestamp": "00:39:56.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -20712,7 +20712,7 @@
     "timestamp": "00:39:59.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:40:10.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:40:13.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Kelly",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -20848,7 +20848,7 @@
     "timestamp": "00:40:23.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -20880,7 +20880,7 @@
     "timestamp": "00:40:27.980"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:41:03.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:41:33.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20960,7 +20960,7 @@
     "timestamp": "00:41:41.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Millie Laura Farrow",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -21000,7 +21000,7 @@
     "timestamp": "00:41:44.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Laura Farrow",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -21024,7 +21024,7 @@
     "timestamp": "00:41:46.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21048,7 +21048,7 @@
     "timestamp": "00:41:47.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -21072,7 +21072,7 @@
     "timestamp": "00:41:49.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -21104,7 +21104,7 @@
     "timestamp": "00:41:55.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Laura Farrow",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -21136,7 +21136,7 @@
     "timestamp": "00:41:59.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21160,7 +21160,7 @@
     "timestamp": "00:42:01.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:42:04.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -21208,7 +21208,7 @@
     "timestamp": "00:42:07.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -21240,7 +21240,7 @@
     "timestamp": "00:42:10.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:42:14.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -21288,7 +21288,7 @@
     "timestamp": "00:42:18.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -21312,7 +21312,7 @@
     "timestamp": "00:42:21.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -21344,7 +21344,7 @@
     "timestamp": "00:42:24.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21368,7 +21368,7 @@
     "timestamp": "00:42:26.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -21392,7 +21392,7 @@
     "timestamp": "00:42:31.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa-Marie Utland",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -21416,7 +21416,7 @@
     "timestamp": "00:42:33.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -21464,7 +21464,7 @@
     "timestamp": "00:42:38.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -21480,7 +21480,7 @@
     "timestamp": "00:42:40.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21512,7 +21512,7 @@
     "timestamp": "00:42:42.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -21544,7 +21544,7 @@
     "timestamp": "00:42:45.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21584,7 +21584,7 @@
     "timestamp": "00:42:50.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -21624,7 +21624,7 @@
     "timestamp": "00:42:53.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -21640,7 +21640,7 @@
     "timestamp": "00:42:55.853"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21656,7 +21656,7 @@
     "timestamp": "00:42:57.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -21672,7 +21672,7 @@
     "timestamp": "00:43:23.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21720,7 +21720,7 @@
     "timestamp": "00:43:25.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -21760,7 +21760,7 @@
     "timestamp": "00:43:29.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21808,7 +21808,7 @@
     "timestamp": "00:43:40.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -21856,7 +21856,7 @@
     "timestamp": "00:43:48.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:44:24.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -21936,7 +21936,7 @@
     "timestamp": "00:44:28.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:44:31.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Laura Farrow",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21984,7 +21984,7 @@
     "timestamp": "00:44:34.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -22008,7 +22008,7 @@
     "timestamp": "00:44:38.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -22032,7 +22032,7 @@
     "timestamp": "00:44:44.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -22056,7 +22056,7 @@
     "timestamp": "00:44:48.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22080,7 +22080,7 @@
     "timestamp": "00:44:53.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -22096,7 +22096,7 @@
     "timestamp": "00:45:13.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Cain",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -22136,7 +22136,7 @@
     "timestamp": "00:45:17.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22168,7 +22168,7 @@
     "timestamp": "00:45:22.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22176,7 +22176,7 @@
     "timestamp": "00:45:24.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -22200,7 +22200,7 @@
     "timestamp": "00:45:46.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -22240,7 +22240,7 @@
     "timestamp": "00:45:48.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -22256,7 +22256,7 @@
     "timestamp": "00:45:53.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22296,7 +22296,7 @@
     "timestamp": "00:45:57.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22328,7 +22328,7 @@
     "timestamp": "00:46:43.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22352,7 +22352,7 @@
     "timestamp": "00:46:52.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -22360,7 +22360,7 @@
     "timestamp": "00:47:20.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Millie Laura Farrow",
     "player1_team": "Reading WFC",
@@ -22384,7 +22384,7 @@
     "timestamp": "00:47:24.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Laura Farrow",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:47:25.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22432,7 +22432,7 @@
     "timestamp": "00:47:30.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -22488,7 +22488,7 @@
     "timestamp": "00:47:37.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -22504,7 +22504,7 @@
     "timestamp": "00:47:41.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -22536,7 +22536,7 @@
     "timestamp": "00:47:43.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22568,7 +22568,7 @@
     "timestamp": "00:47:46.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22632,7 +22632,7 @@
     "timestamp": "00:47:55.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -22656,7 +22656,7 @@
     "timestamp": "00:47:59.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:48:03.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Lisa-Marie Utland",
     "player1_team": "Reading WFC",
@@ -22712,7 +22712,7 @@
     "timestamp": "00:48:07.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa-Marie Utland",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -22752,7 +22752,7 @@
     "timestamp": "00:48:43.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alexandra MacIver",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -22776,7 +22776,7 @@
     "timestamp": "00:49:00.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -22800,7 +22800,7 @@
     "timestamp": "00:49:01.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",

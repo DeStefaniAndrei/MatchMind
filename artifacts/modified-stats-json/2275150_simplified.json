@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:00.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:03.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -72,7 +72,7 @@
     "timestamp": "00:00:06.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -96,7 +96,7 @@
     "timestamp": "00:00:09.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -120,7 +120,7 @@
     "timestamp": "00:00:15.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -144,7 +144,7 @@
     "timestamp": "00:00:19.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "",
     "player1_team": "Manchester United",
@@ -160,7 +160,7 @@
     "timestamp": "00:00:21.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -208,7 +208,7 @@
     "timestamp": "00:00:25.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -264,7 +264,7 @@
     "timestamp": "00:00:36.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Hendrix",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -344,7 +344,7 @@
     "timestamp": "00:00:42.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -360,7 +360,7 @@
     "timestamp": "00:00:47.458"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Kirsty Hanson",
     "player2": "",
     "player1_team": "Manchester United",
@@ -376,7 +376,7 @@
     "timestamp": "00:00:48.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -408,7 +408,7 @@
     "timestamp": "00:01:31.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -424,7 +424,7 @@
     "timestamp": "00:01:41.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Millie Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -456,7 +456,7 @@
     "timestamp": "00:01:42.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -488,7 +488,7 @@
     "timestamp": "00:01:46.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -520,7 +520,7 @@
     "timestamp": "00:01:48.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -552,7 +552,7 @@
     "timestamp": "00:01:50.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -576,7 +576,7 @@
     "timestamp": "00:01:53.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -600,7 +600,7 @@
     "timestamp": "00:01:58.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -616,7 +616,7 @@
     "timestamp": "00:02:33.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -672,7 +672,7 @@
     "timestamp": "00:02:36.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -696,7 +696,7 @@
     "timestamp": "00:02:39.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -720,7 +720,7 @@
     "timestamp": "00:02:43.144"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -744,7 +744,7 @@
     "timestamp": "00:03:41.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -768,7 +768,7 @@
     "timestamp": "00:03:45.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -784,7 +784,7 @@
     "timestamp": "00:03:49.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -808,7 +808,7 @@
     "timestamp": "00:03:51.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -832,7 +832,7 @@
     "timestamp": "00:03:54.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -864,7 +864,7 @@
     "timestamp": "00:04:00.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -888,7 +888,7 @@
     "timestamp": "00:04:03.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leanne Kiernan",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -904,7 +904,7 @@
     "timestamp": "00:04:06.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -936,7 +936,7 @@
     "timestamp": "00:04:07.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -952,7 +952,7 @@
     "timestamp": "00:04:10.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -984,7 +984,7 @@
     "timestamp": "00:04:18.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -1008,7 +1008,7 @@
     "timestamp": "00:04:23.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:04:26.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mary Alexandra Earps",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:04:35.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1088,7 +1088,7 @@
     "timestamp": "00:05:09.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:05:10.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:05:12.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -1160,7 +1160,7 @@
     "timestamp": "00:05:13.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:05:18.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mary Alexandra Earps",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -1216,7 +1216,7 @@
     "timestamp": "00:05:20.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:05:34.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -1320,7 +1320,7 @@
     "timestamp": "00:06:24.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:06:28.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -1376,7 +1376,7 @@
     "timestamp": "00:06:31.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:06:34.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -1416,7 +1416,7 @@
     "timestamp": "00:06:41.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:06:43.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:06:46.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:06:50.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -1520,7 +1520,7 @@
     "timestamp": "00:06:53.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:06:54.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -1568,7 +1568,7 @@
     "timestamp": "00:07:25.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:07:31.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:07:34.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -1640,7 +1640,7 @@
     "timestamp": "00:07:39.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:07:43.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:07:46.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -1736,7 +1736,7 @@
     "timestamp": "00:07:48.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -1760,7 +1760,7 @@
     "timestamp": "00:07:52.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -1784,7 +1784,7 @@
     "timestamp": "00:07:55.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:07:57.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -1832,7 +1832,7 @@
     "timestamp": "00:08:02.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "",
     "player1_team": "Manchester United",
@@ -1864,7 +1864,7 @@
     "timestamp": "00:08:06.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -1880,7 +1880,7 @@
     "timestamp": "00:08:10.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:08:12.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:08:19.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy Turner",
     "player2": "",
     "player1_team": "Manchester United",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:08:25.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:08:32.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -2016,7 +2016,7 @@
     "timestamp": "00:08:35.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -2040,7 +2040,7 @@
     "timestamp": "00:08:39.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:09:02.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -2088,7 +2088,7 @@
     "timestamp": "00:09:04.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:09:05.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:09:07.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -2184,7 +2184,7 @@
     "timestamp": "00:09:08.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:09:11.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Manchester United",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:09:12.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -2248,7 +2248,7 @@
     "timestamp": "00:09:15.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:09:19.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:09:22.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:09:25.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:09:29.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Brooke Hendrix",
     "player1_team": "West Ham United LFC",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:09:36.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -2448,7 +2448,7 @@
     "timestamp": "00:09:40.746"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Leah Galton",
     "player2": "",
     "player1_team": "Manchester United",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:09:42.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -2480,7 +2480,7 @@
     "timestamp": "00:10:13.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:10:51.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -2584,7 +2584,7 @@
     "timestamp": "00:10:54.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -2608,7 +2608,7 @@
     "timestamp": "00:10:59.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -2632,7 +2632,7 @@
     "timestamp": "00:11:01.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:11:04.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -2688,7 +2688,7 @@
     "timestamp": "00:11:06.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -2736,7 +2736,7 @@
     "timestamp": "00:11:09.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -2760,7 +2760,7 @@
     "timestamp": "00:11:58.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:12:02.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -2856,7 +2856,7 @@
     "timestamp": "00:12:52.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:12:55.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -2936,7 +2936,7 @@
     "timestamp": "00:14:05.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -2968,7 +2968,7 @@
     "timestamp": "00:14:12.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -2984,7 +2984,7 @@
     "timestamp": "00:14:29.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -3016,7 +3016,7 @@
     "timestamp": "00:14:31.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:14:36.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -3064,7 +3064,7 @@
     "timestamp": "00:14:38.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:14:42.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:14:44.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -3136,7 +3136,7 @@
     "timestamp": "00:14:51.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirsty Hanson",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -3160,7 +3160,7 @@
     "timestamp": "00:14:52.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -3184,7 +3184,7 @@
     "timestamp": "00:15:29.182"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Millie Turner",
     "player2": "",
     "player1_team": "Manchester United",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:15:29.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:15:45.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -3256,7 +3256,7 @@
     "timestamp": "00:15:49.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:15:51.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:15:53.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -3328,7 +3328,7 @@
     "timestamp": "00:15:57.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:15:58.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -3368,7 +3368,7 @@
     "timestamp": "00:16:00.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy Turner",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -3384,7 +3384,7 @@
     "timestamp": "00:16:04.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -3424,7 +3424,7 @@
     "timestamp": "00:16:06.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:16:09.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:16:11.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:16:12.363"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:16:15.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -3552,7 +3552,7 @@
     "timestamp": "00:16:32.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -3576,7 +3576,7 @@
     "timestamp": "00:16:51.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -3600,7 +3600,7 @@
     "timestamp": "00:16:54.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:17:04.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -3672,7 +3672,7 @@
     "timestamp": "00:17:09.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -3704,7 +3704,7 @@
     "timestamp": "00:17:12.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:17:16.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:17:21.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:17:22.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:17:25.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:17:28.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -3920,7 +3920,7 @@
     "timestamp": "00:17:35.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:17:53.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -3960,7 +3960,7 @@
     "timestamp": "00:17:57.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:18:03.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -3992,7 +3992,7 @@
     "timestamp": "00:18:25.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -4008,7 +4008,7 @@
     "timestamp": "00:18:28.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -4032,7 +4032,7 @@
     "timestamp": "00:18:31.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:18:36.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:18:39.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:18:41.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:18:43.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leanne Kiernan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -4160,7 +4160,7 @@
     "timestamp": "00:18:48.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:19:38.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:19:41.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:19:46.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -4256,7 +4256,7 @@
     "timestamp": "00:19:47.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:19:52.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -4296,7 +4296,7 @@
     "timestamp": "00:20:09.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:20:14.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -4432,7 +4432,7 @@
     "timestamp": "00:20:18.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:20:22.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:20:25.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -4528,7 +4528,7 @@
     "timestamp": "00:20:28.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:21:22.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Hendrix",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4592,7 +4592,7 @@
     "timestamp": "00:21:26.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:21:28.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:21:32.708"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4712,7 +4712,7 @@
     "timestamp": "00:21:41.637"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:21:44.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:22:26.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:22:26.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:22:38.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mary Alexandra Earps",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -4840,7 +4840,7 @@
     "timestamp": "00:23:07.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:23:07.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:23:14.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -4904,7 +4904,7 @@
     "timestamp": "00:23:17.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -4952,7 +4952,7 @@
     "timestamp": "00:23:22.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -4976,7 +4976,7 @@
     "timestamp": "00:23:29.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -5024,7 +5024,7 @@
     "timestamp": "00:23:46.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:24:08.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:24:11.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:24:14.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -5168,7 +5168,7 @@
     "timestamp": "00:24:20.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -5216,7 +5216,7 @@
     "timestamp": "00:24:27.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:24:40.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:24:43.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -5312,7 +5312,7 @@
     "timestamp": "00:24:44.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Manchester United",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:24:49.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -5360,7 +5360,7 @@
     "timestamp": "00:25:16.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "",
     "player1_team": "Manchester United",
@@ -5368,7 +5368,7 @@
     "timestamp": "00:25:16.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5408,7 +5408,7 @@
     "timestamp": "00:25:38.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:25:42.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:25:47.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:25:50.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -5504,7 +5504,7 @@
     "timestamp": "00:25:52.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -5520,7 +5520,7 @@
     "timestamp": "00:25:58.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:26:36.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -5576,7 +5576,7 @@
     "timestamp": "00:26:37.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5600,7 +5600,7 @@
     "timestamp": "00:26:54.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -5632,7 +5632,7 @@
     "timestamp": "00:26:55.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:26:59.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -5688,7 +5688,7 @@
     "timestamp": "00:27:03.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -5720,7 +5720,7 @@
     "timestamp": "00:27:17.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -5752,7 +5752,7 @@
     "timestamp": "00:27:20.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "",
     "player1_team": "Manchester United",
@@ -5832,7 +5832,7 @@
     "timestamp": "00:27:25.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -5864,7 +5864,7 @@
     "timestamp": "00:27:26.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:27:29.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -5912,7 +5912,7 @@
     "timestamp": "00:27:32.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:27:54.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -5968,7 +5968,7 @@
     "timestamp": "00:27:56.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -5992,7 +5992,7 @@
     "timestamp": "00:27:58.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:28:00.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -6032,7 +6032,7 @@
     "timestamp": "00:28:28.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:28:31.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -6128,7 +6128,7 @@
     "timestamp": "00:28:49.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -6152,7 +6152,7 @@
     "timestamp": "00:28:52.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:28:57.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -6200,7 +6200,7 @@
     "timestamp": "00:29:00.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -6224,7 +6224,7 @@
     "timestamp": "00:29:03.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -6248,7 +6248,7 @@
     "timestamp": "00:29:05.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -6272,7 +6272,7 @@
     "timestamp": "00:29:09.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:29:15.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy Turner",
     "player2": "",
     "player1_team": "Manchester United",
@@ -6320,7 +6320,7 @@
     "timestamp": "00:29:28.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:29:31.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:29:34.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -6424,7 +6424,7 @@
     "timestamp": "00:29:36.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:29:39.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -6488,7 +6488,7 @@
     "timestamp": "00:29:43.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:29:47.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:29:49.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:29:52.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:30:13.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:30:14.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -6656,7 +6656,7 @@
     "timestamp": "00:30:17.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:30:35.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:30:40.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -6720,7 +6720,7 @@
     "timestamp": "00:30:43.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:30:45.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:30:48.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -6800,7 +6800,7 @@
     "timestamp": "00:30:49.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -6824,7 +6824,7 @@
     "timestamp": "00:30:53.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:30:58.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:31:03.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:31:08.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jane Ross",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -6944,7 +6944,7 @@
     "timestamp": "00:31:10.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:31:13.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -6992,7 +6992,7 @@
     "timestamp": "00:31:15.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -7024,7 +7024,7 @@
     "timestamp": "00:31:36.648"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:31:37.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -7064,7 +7064,7 @@
     "timestamp": "00:31:38.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -7088,7 +7088,7 @@
     "timestamp": "00:31:39.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:31:41.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -7136,7 +7136,7 @@
     "timestamp": "00:31:45.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -7168,7 +7168,7 @@
     "timestamp": "00:31:51.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -7192,7 +7192,7 @@
     "timestamp": "00:31:56.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -7224,7 +7224,7 @@
     "timestamp": "00:32:01.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:32:03.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:32:06.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -7312,7 +7312,7 @@
     "timestamp": "00:32:11.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:32:17.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -7352,7 +7352,7 @@
     "timestamp": "00:32:18.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:32:19.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:32:23.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:32:26.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -7448,7 +7448,7 @@
     "timestamp": "00:32:27.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "",
     "player1_team": "Manchester United",
@@ -7464,7 +7464,7 @@
     "timestamp": "00:32:29.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:33:05.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:33:06.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -7536,7 +7536,7 @@
     "timestamp": "00:33:07.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -7552,7 +7552,7 @@
     "timestamp": "00:33:08.763"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jackie Groenen",
     "player2": "",
     "player1_team": "Manchester United",
@@ -7600,7 +7600,7 @@
     "timestamp": "00:33:12.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:33:16.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -7656,7 +7656,7 @@
     "timestamp": "00:33:20.713"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Amy Turner",
     "player2": "",
     "player1_team": "Manchester United",
@@ -7704,7 +7704,7 @@
     "timestamp": "00:33:24.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -7720,7 +7720,7 @@
     "timestamp": "00:33:32.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -7744,7 +7744,7 @@
     "timestamp": "00:33:34.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:33:36.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:33:38.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -7824,7 +7824,7 @@
     "timestamp": "00:33:42.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:33:44.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:33:45.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -7880,7 +7880,7 @@
     "timestamp": "00:33:53.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:34:18.470"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:34:19.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy Turner",
     "player2": "",
     "player1_team": "Manchester United",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:34:19.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -7968,7 +7968,7 @@
     "timestamp": "00:34:57.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:35:01.908"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -8024,7 +8024,7 @@
     "timestamp": "00:35:21.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:35:23.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:35:25.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:35:28.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:35:31.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -8144,7 +8144,7 @@
     "timestamp": "00:35:33.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:35:42.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -8288,7 +8288,7 @@
     "timestamp": "00:35:48.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -8312,7 +8312,7 @@
     "timestamp": "00:35:49.596"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -8336,7 +8336,7 @@
     "timestamp": "00:35:51.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -8368,7 +8368,7 @@
     "timestamp": "00:36:25.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:36:33.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -8456,7 +8456,7 @@
     "timestamp": "00:36:39.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:36:53.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:36:56.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -8544,7 +8544,7 @@
     "timestamp": "00:37:03.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -8568,7 +8568,7 @@
     "timestamp": "00:37:07.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -8592,7 +8592,7 @@
     "timestamp": "00:37:09.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -8616,7 +8616,7 @@
     "timestamp": "00:37:11.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -8640,7 +8640,7 @@
     "timestamp": "00:37:12.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Brooke Hendrix",
     "player1_team": "West Ham United LFC",
@@ -8664,7 +8664,7 @@
     "timestamp": "00:37:15.537"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Hendrix",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -8688,7 +8688,7 @@
     "timestamp": "00:37:17.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -8712,7 +8712,7 @@
     "timestamp": "00:37:20.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -8760,7 +8760,7 @@
     "timestamp": "00:37:26.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:37:50.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:37:54.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:37:59.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:38:02.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:38:06.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -8952,7 +8952,7 @@
     "timestamp": "00:38:10.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -8968,7 +8968,7 @@
     "timestamp": "00:38:13.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:38:14.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:38:17.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -9096,7 +9096,7 @@
     "timestamp": "00:38:26.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -9112,7 +9112,7 @@
     "timestamp": "00:38:51.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:38:53.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:38:57.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:39:01.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -9256,7 +9256,7 @@
     "timestamp": "00:39:04.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -9280,7 +9280,7 @@
     "timestamp": "00:39:06.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -9304,7 +9304,7 @@
     "timestamp": "00:39:09.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -9328,7 +9328,7 @@
     "timestamp": "00:39:13.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:39:17.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -9376,7 +9376,7 @@
     "timestamp": "00:39:23.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:39:25.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Hendrix",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:39:26.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -9448,7 +9448,7 @@
     "timestamp": "00:39:49.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -9480,7 +9480,7 @@
     "timestamp": "00:39:51.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:39:56.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -9536,7 +9536,7 @@
     "timestamp": "00:40:00.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -9560,7 +9560,7 @@
     "timestamp": "00:40:04.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -9584,7 +9584,7 @@
     "timestamp": "00:40:07.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:40:10.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -9640,7 +9640,7 @@
     "timestamp": "00:40:13.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:40:17.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -9752,7 +9752,7 @@
     "timestamp": "00:40:38.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:40:44.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -9800,7 +9800,7 @@
     "timestamp": "00:40:46.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -9872,7 +9872,7 @@
     "timestamp": "00:41:33.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -9888,7 +9888,7 @@
     "timestamp": "00:41:39.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -9912,7 +9912,7 @@
     "timestamp": "00:41:40.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -9992,7 +9992,7 @@
     "timestamp": "00:42:00.636"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Katharina Baunach",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:43:17.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mary Alexandra Earps",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:43:50.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -10056,7 +10056,7 @@
     "timestamp": "00:43:52.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Brooke Hendrix",
     "player1_team": "West Ham United LFC",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:43:57.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Hendrix",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:44:00.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -10128,7 +10128,7 @@
     "timestamp": "00:44:03.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -10160,7 +10160,7 @@
     "timestamp": "00:44:08.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -10200,7 +10200,7 @@
     "timestamp": "00:44:12.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -10216,7 +10216,7 @@
     "timestamp": "00:44:14.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:44:15.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:44:17.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:44:19.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -10320,7 +10320,7 @@
     "timestamp": "00:44:21.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:44:26.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -10392,7 +10392,7 @@
     "timestamp": "00:44:31.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -10408,7 +10408,7 @@
     "timestamp": "00:44:46.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:44:52.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:44:53.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirsty Hanson",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -10496,7 +10496,7 @@
     "timestamp": "00:44:58.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -10512,7 +10512,7 @@
     "timestamp": "00:45:00.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:45:36.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -10560,7 +10560,7 @@
     "timestamp": "00:45:50.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:45:53.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -10616,7 +10616,7 @@
     "timestamp": "00:46:21.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:00:00.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -10656,7 +10656,7 @@
     "timestamp": "00:00:02.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -10680,7 +10680,7 @@
     "timestamp": "00:00:06.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -10736,7 +10736,7 @@
     "timestamp": "00:00:11.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -10752,7 +10752,7 @@
     "timestamp": "00:00:16.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jane Ross",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -10784,7 +10784,7 @@
     "timestamp": "00:00:18.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:00:24.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -10832,7 +10832,7 @@
     "timestamp": "00:00:27.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "",
     "player1_team": "Manchester United",
@@ -10864,7 +10864,7 @@
     "timestamp": "00:00:34.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -10896,7 +10896,7 @@
     "timestamp": "00:00:45.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "",
     "player1_team": "Manchester United",
@@ -10920,7 +10920,7 @@
     "timestamp": "00:01:41.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:02:09.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -10976,7 +10976,7 @@
     "timestamp": "00:02:11.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -11000,7 +11000,7 @@
     "timestamp": "00:02:13.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -11064,7 +11064,7 @@
     "timestamp": "00:02:17.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:02:19.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -11112,7 +11112,7 @@
     "timestamp": "00:02:21.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -11136,7 +11136,7 @@
     "timestamp": "00:02:24.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:02:28.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirsty Hanson",
     "player2": "",
     "player1_team": "Manchester United",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:02:28.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -11200,7 +11200,7 @@
     "timestamp": "00:03:05.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -11224,7 +11224,7 @@
     "timestamp": "00:03:07.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:03:09.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -11264,7 +11264,7 @@
     "timestamp": "00:03:10.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11304,7 +11304,7 @@
     "timestamp": "00:03:14.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:03:17.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11392,7 +11392,7 @@
     "timestamp": "00:03:27.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -11416,7 +11416,7 @@
     "timestamp": "00:03:45.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11432,7 +11432,7 @@
     "timestamp": "00:03:46.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -11472,7 +11472,7 @@
     "timestamp": "00:03:48.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -11488,7 +11488,7 @@
     "timestamp": "00:03:52.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mary Alexandra Earps",
     "player2": "",
     "player1_team": "Manchester United",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:03:52.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -11504,7 +11504,7 @@
     "timestamp": "00:04:26.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -11528,7 +11528,7 @@
     "timestamp": "00:04:46.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -11576,7 +11576,7 @@
     "timestamp": "00:04:57.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:05:29.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:05:32.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -11640,7 +11640,7 @@
     "timestamp": "00:05:34.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -11656,7 +11656,7 @@
     "timestamp": "00:05:39.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:05:40.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -11720,7 +11720,7 @@
     "timestamp": "00:05:42.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:05:46.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -11784,7 +11784,7 @@
     "timestamp": "00:05:51.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:05:53.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:06:41.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -11888,7 +11888,7 @@
     "timestamp": "00:06:47.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -11920,7 +11920,7 @@
     "timestamp": "00:06:52.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -11944,7 +11944,7 @@
     "timestamp": "00:06:54.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -11984,7 +11984,7 @@
     "timestamp": "00:07:00.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jane Ross",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -12008,7 +12008,7 @@
     "timestamp": "00:07:04.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -12032,7 +12032,7 @@
     "timestamp": "00:07:14.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -12064,7 +12064,7 @@
     "timestamp": "00:07:19.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:07:21.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -12112,7 +12112,7 @@
     "timestamp": "00:07:24.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -12160,7 +12160,7 @@
     "timestamp": "00:07:30.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -12176,7 +12176,7 @@
     "timestamp": "00:07:33.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -12192,7 +12192,7 @@
     "timestamp": "00:08:06.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -12208,7 +12208,7 @@
     "timestamp": "00:08:09.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -12232,7 +12232,7 @@
     "timestamp": "00:08:11.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -12248,7 +12248,7 @@
     "timestamp": "00:08:14.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Millie Turner",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -12264,7 +12264,7 @@
     "timestamp": "00:08:16.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:08:17.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:08:35.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -12392,7 +12392,7 @@
     "timestamp": "00:10:33.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "",
     "player1_team": "Manchester United",
@@ -12416,7 +12416,7 @@
     "timestamp": "00:10:37.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:10:42.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:10:52.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -12536,7 +12536,7 @@
     "timestamp": "00:11:19.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:11:30.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -12584,7 +12584,7 @@
     "timestamp": "00:11:34.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -12616,7 +12616,7 @@
     "timestamp": "00:11:39.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "Jane Ross",
     "player1_team": "Manchester United",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:11:41.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -12680,7 +12680,7 @@
     "timestamp": "00:11:44.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:11:47.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -12728,7 +12728,7 @@
     "timestamp": "00:11:50.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:11:55.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:11:59.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -12816,7 +12816,7 @@
     "timestamp": "00:12:01.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -12832,7 +12832,7 @@
     "timestamp": "00:12:03.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:12:04.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -12872,7 +12872,7 @@
     "timestamp": "00:12:29.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:12:44.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -12936,7 +12936,7 @@
     "timestamp": "00:12:49.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:13:12.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -12968,7 +12968,7 @@
     "timestamp": "00:13:14.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:13:15.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -13008,7 +13008,7 @@
     "timestamp": "00:13:17.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Millie Turner",
     "player2": "",
     "player1_team": "Manchester United",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:13:20.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:13:22.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -13080,7 +13080,7 @@
     "timestamp": "00:13:25.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -13104,7 +13104,7 @@
     "timestamp": "00:13:56.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:14:03.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -13184,7 +13184,7 @@
     "timestamp": "00:14:16.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -13216,7 +13216,7 @@
     "timestamp": "00:14:20.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:14:22.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -13272,7 +13272,7 @@
     "timestamp": "00:14:28.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -13296,7 +13296,7 @@
     "timestamp": "00:14:31.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:14:32.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:14:34.030"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Martha Thomas",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13368,7 +13368,7 @@
     "timestamp": "00:14:35.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -13392,7 +13392,7 @@
     "timestamp": "00:14:40.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:14:51.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -13504,7 +13504,7 @@
     "timestamp": "00:15:22.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -13560,7 +13560,7 @@
     "timestamp": "00:15:24.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -13584,7 +13584,7 @@
     "timestamp": "00:15:27.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -13608,7 +13608,7 @@
     "timestamp": "00:15:31.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -13632,7 +13632,7 @@
     "timestamp": "00:15:33.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -13664,7 +13664,7 @@
     "timestamp": "00:15:36.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "",
     "player1_team": "Manchester United",
@@ -13688,7 +13688,7 @@
     "timestamp": "00:15:39.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:15:42.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:15:43.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -13760,7 +13760,7 @@
     "timestamp": "00:15:46.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:15:51.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -13824,7 +13824,7 @@
     "timestamp": "00:16:20.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren James",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -13840,7 +13840,7 @@
     "timestamp": "00:16:21.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jackie Groenen",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -13856,7 +13856,7 @@
     "timestamp": "00:16:24.105"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Brooke Hendrix",
     "player1_team": "West Ham United LFC",
@@ -13896,7 +13896,7 @@
     "timestamp": "00:16:25.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -13928,7 +13928,7 @@
     "timestamp": "00:17:05.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -13992,7 +13992,7 @@
     "timestamp": "00:17:19.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -14016,7 +14016,7 @@
     "timestamp": "00:18:35.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:18:40.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -14064,7 +14064,7 @@
     "timestamp": "00:18:46.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -14088,7 +14088,7 @@
     "timestamp": "00:18:49.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:18:51.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -14144,7 +14144,7 @@
     "timestamp": "00:18:55.354"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lauren James",
     "player2": "",
     "player1_team": "Manchester United",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:19:00.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -14216,7 +14216,7 @@
     "timestamp": "00:19:32.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:19:34.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14248,7 +14248,7 @@
     "timestamp": "00:19:36.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:19:38.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -14304,7 +14304,7 @@
     "timestamp": "00:19:39.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -14328,7 +14328,7 @@
     "timestamp": "00:19:42.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -14352,7 +14352,7 @@
     "timestamp": "00:19:48.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:19:50.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14400,7 +14400,7 @@
     "timestamp": "00:20:04.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -14440,7 +14440,7 @@
     "timestamp": "00:20:13.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren James",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:20:18.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -14496,7 +14496,7 @@
     "timestamp": "00:20:25.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -14528,7 +14528,7 @@
     "timestamp": "00:20:29.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:20:30.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:20:52.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14592,7 +14592,7 @@
     "timestamp": "00:20:53.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -14608,7 +14608,7 @@
     "timestamp": "00:21:03.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:21:07.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -14664,7 +14664,7 @@
     "timestamp": "00:21:26.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14680,7 +14680,7 @@
     "timestamp": "00:21:28.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:21:31.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -14728,7 +14728,7 @@
     "timestamp": "00:21:32.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -14768,7 +14768,7 @@
     "timestamp": "00:21:35.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -14792,7 +14792,7 @@
     "timestamp": "00:21:37.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -14824,7 +14824,7 @@
     "timestamp": "00:21:41.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren James",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:21:52.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14888,7 +14888,7 @@
     "timestamp": "00:22:40.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -14912,7 +14912,7 @@
     "timestamp": "00:22:42.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jackie Groenen",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -14928,7 +14928,7 @@
     "timestamp": "00:22:43.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katie Zelem",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:22:48.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -14984,7 +14984,7 @@
     "timestamp": "00:22:51.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -15016,7 +15016,7 @@
     "timestamp": "00:22:54.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -15048,7 +15048,7 @@
     "timestamp": "00:22:56.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:22:59.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -15104,7 +15104,7 @@
     "timestamp": "00:23:00.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -15136,7 +15136,7 @@
     "timestamp": "00:23:10.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adriana Kristina Leon",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:23:14.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:23:16.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "",
     "player1_team": "Manchester United",
@@ -15224,7 +15224,7 @@
     "timestamp": "00:23:17.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -15248,7 +15248,7 @@
     "timestamp": "00:23:33.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren James",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:23:41.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -15304,7 +15304,7 @@
     "timestamp": "00:23:43.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:24:04.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:24:09.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:24:12.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:24:18.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren James",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -15448,7 +15448,7 @@
     "timestamp": "00:24:24.452"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -15472,7 +15472,7 @@
     "timestamp": "00:26:12.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:26:27.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:26:31.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -15536,7 +15536,7 @@
     "timestamp": "00:26:33.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:26:36.087"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ella Toone",
     "player2": "",
     "player1_team": "Manchester United",
@@ -15592,7 +15592,7 @@
     "timestamp": "00:26:38.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -15608,7 +15608,7 @@
     "timestamp": "00:27:00.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:27:01.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -15656,7 +15656,7 @@
     "timestamp": "00:27:05.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:27:10.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -15744,7 +15744,7 @@
     "timestamp": "00:27:12.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -15792,7 +15792,7 @@
     "timestamp": "00:27:16.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -15808,7 +15808,7 @@
     "timestamp": "00:27:33.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:27:36.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:27:41.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy Turner",
     "player2": "",
     "player1_team": "Manchester United",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:27:51.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -15896,7 +15896,7 @@
     "timestamp": "00:27:55.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren James",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -15912,7 +15912,7 @@
     "timestamp": "00:27:56.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -15928,7 +15928,7 @@
     "timestamp": "00:27:58.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:28:01.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren James",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -15984,7 +15984,7 @@
     "timestamp": "00:28:05.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -16016,7 +16016,7 @@
     "timestamp": "00:28:36.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",
@@ -16048,7 +16048,7 @@
     "timestamp": "00:28:52.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Toone",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -16064,7 +16064,7 @@
     "timestamp": "00:28:53.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy Turner",
     "player2": "",
     "player1_team": "Manchester United",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:28:56.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:28:59.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:29:01.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:29:03.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -16192,7 +16192,7 @@
     "timestamp": "00:29:04.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -16224,7 +16224,7 @@
     "timestamp": "00:29:07.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -16248,7 +16248,7 @@
     "timestamp": "00:29:10.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:29:12.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Hendrix",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:29:15.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -16344,7 +16344,7 @@
     "timestamp": "00:29:20.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:29:50.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -16376,7 +16376,7 @@
     "timestamp": "00:29:53.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:30:13.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:30:16.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mary Alexandra Earps",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -16488,7 +16488,7 @@
     "timestamp": "00:31:41.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -16504,7 +16504,7 @@
     "timestamp": "00:33:12.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:33:14.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "",
     "player1_team": "Manchester United",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:33:18.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:33:19.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -16632,7 +16632,7 @@
     "timestamp": "00:33:23.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adriana Kristina Leon",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16672,7 +16672,7 @@
     "timestamp": "00:33:29.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -16696,7 +16696,7 @@
     "timestamp": "00:33:47.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -16720,7 +16720,7 @@
     "timestamp": "00:33:48.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -16752,7 +16752,7 @@
     "timestamp": "00:33:52.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -16808,7 +16808,7 @@
     "timestamp": "00:33:54.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -16840,7 +16840,7 @@
     "timestamp": "00:33:57.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:34:04.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -16912,7 +16912,7 @@
     "timestamp": "00:34:07.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:34:10.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:34:12.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -16984,7 +16984,7 @@
     "timestamp": "00:34:14.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:34:16.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Katharina Baunach",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:34:20.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:34:24.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Toone",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -17080,7 +17080,7 @@
     "timestamp": "00:34:25.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirsty Hanson",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",
@@ -17104,7 +17104,7 @@
     "timestamp": "00:34:27.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Toone",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:34:32.628"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Lauren James",
     "player2": "",
     "player1_team": "Manchester United",
@@ -17160,7 +17160,7 @@
     "timestamp": "00:35:45.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -17184,7 +17184,7 @@
     "timestamp": "00:36:01.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Brooke Hendrix",
     "player1_team": "West Ham United LFC",
@@ -17208,7 +17208,7 @@
     "timestamp": "00:36:03.450"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Hendrix",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:36:04.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Brooke Hendrix",
     "player1_team": "West Ham United LFC",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:36:07.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Hendrix",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -17312,7 +17312,7 @@
     "timestamp": "00:36:09.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Katharina Baunach",
     "player1_team": "West Ham United LFC",
@@ -17336,7 +17336,7 @@
     "timestamp": "00:36:15.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katharina Baunach",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -17360,7 +17360,7 @@
     "timestamp": "00:36:17.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -17376,7 +17376,7 @@
     "timestamp": "00:36:21.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:36:22.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:36:26.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "",
     "player1_team": "Manchester United",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:36:27.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:36:47.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17472,7 +17472,7 @@
     "timestamp": "00:36:49.505"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Katharina Baunach",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:37:37.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:38:34.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -17536,7 +17536,7 @@
     "timestamp": "00:38:43.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17552,7 +17552,7 @@
     "timestamp": "00:39:02.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbie McManus",
     "player2": "",
     "player1_team": "Manchester United",
@@ -17560,7 +17560,7 @@
     "timestamp": "00:39:02.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:39:09.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:39:13.292"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Leanne Kiernan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17640,7 +17640,7 @@
     "timestamp": "00:39:15.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mary Alexandra Earps",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -17656,7 +17656,7 @@
     "timestamp": "00:39:51.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -17696,7 +17696,7 @@
     "timestamp": "00:39:53.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Toone",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -17760,7 +17760,7 @@
     "timestamp": "00:39:57.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17784,7 +17784,7 @@
     "timestamp": "00:39:59.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -17808,7 +17808,7 @@
     "timestamp": "00:40:01.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adriana Kristina Leon",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17824,7 +17824,7 @@
     "timestamp": "00:40:07.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mary Alexandra Earps",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:40:57.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Martha Harris",
     "player1_team": "Manchester United",
@@ -17880,7 +17880,7 @@
     "timestamp": "00:41:00.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -17904,7 +17904,7 @@
     "timestamp": "00:41:01.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:41:03.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -17968,7 +17968,7 @@
     "timestamp": "00:41:25.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mary Alexandra Earps",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",
@@ -18024,7 +18024,7 @@
     "timestamp": "00:43:11.621"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Katharina Baunach",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18040,7 +18040,7 @@
     "timestamp": "00:44:34.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren James",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -18056,7 +18056,7 @@
     "timestamp": "00:45:27.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Sigsworth",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -18080,7 +18080,7 @@
     "timestamp": "00:45:28.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren James",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -18112,7 +18112,7 @@
     "timestamp": "00:45:34.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "",
     "player1_team": "Manchester United",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:45:41.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:45:47.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leah Galton",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -18184,7 +18184,7 @@
     "timestamp": "00:45:49.237"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jessica Sigsworth",
     "player2": "",
     "player1_team": "Manchester United",
@@ -18200,7 +18200,7 @@
     "timestamp": "00:45:51.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:46:48.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -18264,7 +18264,7 @@
     "timestamp": "00:47:07.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:47:09.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Millie Turner",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -18320,7 +18320,7 @@
     "timestamp": "00:47:14.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -18352,7 +18352,7 @@
     "timestamp": "00:47:18.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jessica Sigsworth",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",
@@ -18384,7 +18384,7 @@
     "timestamp": "00:47:23.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Toone",
     "player2": "",
     "player1_team": "Manchester United",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:47:23.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "So-Hyun Cho",
     "player1_team": "West Ham United LFC",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:47:25.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "So-Hyun Cho",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18424,7 +18424,7 @@
     "timestamp": "00:47:25.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -18456,7 +18456,7 @@
     "timestamp": "00:47:28.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren James",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:47:42.189"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Manchester United",
@@ -18512,7 +18512,7 @@
     "timestamp": "00:47:44.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -18576,7 +18576,7 @@
     "timestamp": "00:47:50.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbie McManus",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",
@@ -18600,7 +18600,7 @@
     "timestamp": "00:47:53.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Toone",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:47:56.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:47:58.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:48:00.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "So-Hyun Cho",
     "player1_team": "West Ham United LFC",
@@ -18680,7 +18680,7 @@
     "timestamp": "00:48:40.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "So-Hyun Cho",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:48:42.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:48:44.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "So-Hyun Cho",
     "player1_team": "West Ham United LFC",
@@ -18736,7 +18736,7 @@
     "timestamp": "00:48:46.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy Turner",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -18792,7 +18792,7 @@
     "timestamp": "00:48:52.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren James",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:48:55.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy Turner",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:49:43.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:50:00.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -18880,7 +18880,7 @@
     "timestamp": "00:50:26.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leah Galton",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -18920,7 +18920,7 @@
     "timestamp": "00:50:28.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:50:34.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -19016,7 +19016,7 @@
     "timestamp": "00:50:50.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Harris",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -19032,7 +19032,7 @@
     "timestamp": "00:51:02.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Millie Turner",
     "player2": "",
     "player1_team": "Manchester United",

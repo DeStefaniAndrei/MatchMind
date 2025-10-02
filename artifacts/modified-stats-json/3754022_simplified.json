@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -32,7 +32,7 @@
     "timestamp": "00:00:01.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yannick Bolasie Yala",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -72,7 +72,7 @@
     "timestamp": "00:00:06.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -96,7 +96,7 @@
     "timestamp": "00:00:10.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -112,7 +112,7 @@
     "timestamp": "00:00:12.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -144,7 +144,7 @@
     "timestamp": "00:00:30.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:33.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -192,7 +192,7 @@
     "timestamp": "00:01:02.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -216,7 +216,7 @@
     "timestamp": "00:01:06.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -224,7 +224,7 @@
     "timestamp": "00:01:06.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -240,7 +240,7 @@
     "timestamp": "00:01:10.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -272,7 +272,7 @@
     "timestamp": "00:01:12.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -312,7 +312,7 @@
     "timestamp": "00:01:18.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dwight Gayle",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -344,7 +344,7 @@
     "timestamp": "00:01:20.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dwight Gayle",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -368,7 +368,7 @@
     "timestamp": "00:01:25.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -392,7 +392,7 @@
     "timestamp": "00:01:27.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -432,7 +432,7 @@
     "timestamp": "00:01:31.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -448,7 +448,7 @@
     "timestamp": "00:01:33.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -472,7 +472,7 @@
     "timestamp": "00:01:38.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jason Puncheon",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -504,7 +504,7 @@
     "timestamp": "00:01:41.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -520,7 +520,7 @@
     "timestamp": "00:01:42.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -552,7 +552,7 @@
     "timestamp": "00:01:48.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -576,7 +576,7 @@
     "timestamp": "00:01:50.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Timm Klose",
     "player2": "",
     "player1_team": "Norwich City",
@@ -608,7 +608,7 @@
     "timestamp": "00:01:52.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -632,7 +632,7 @@
     "timestamp": "00:01:56.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -640,7 +640,7 @@
     "timestamp": "00:02:25.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:55.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -680,7 +680,7 @@
     "timestamp": "00:02:55.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -696,7 +696,7 @@
     "timestamp": "00:02:58.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -736,7 +736,7 @@
     "timestamp": "00:03:00.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jason Puncheon",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -800,7 +800,7 @@
     "timestamp": "00:03:08.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -824,7 +824,7 @@
     "timestamp": "00:03:10.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -848,7 +848,7 @@
     "timestamp": "00:03:11.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -880,7 +880,7 @@
     "timestamp": "00:03:14.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -944,7 +944,7 @@
     "timestamp": "00:03:18.908"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -968,7 +968,7 @@
     "timestamp": "00:03:20.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -992,7 +992,7 @@
     "timestamp": "00:03:21.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:03:24.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -1056,7 +1056,7 @@
     "timestamp": "00:04:03.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1080,7 +1080,7 @@
     "timestamp": "00:04:16.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1096,7 +1096,7 @@
     "timestamp": "00:04:38.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:04:39.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:04:41.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:04:43.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:04:45.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -1192,7 +1192,7 @@
     "timestamp": "00:04:47.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Timm Klose",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -1216,7 +1216,7 @@
     "timestamp": "00:04:48.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1256,7 +1256,7 @@
     "timestamp": "00:04:50.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:04:57.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -1360,7 +1360,7 @@
     "timestamp": "00:05:12.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Timm Klose",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1384,7 +1384,7 @@
     "timestamp": "00:05:15.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -1408,7 +1408,7 @@
     "timestamp": "00:05:17.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:05:19.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:05:23.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -1480,7 +1480,7 @@
     "timestamp": "00:05:27.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -1504,7 +1504,7 @@
     "timestamp": "00:05:30.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -1528,7 +1528,7 @@
     "timestamp": "00:05:31.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -1552,7 +1552,7 @@
     "timestamp": "00:05:34.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -1576,7 +1576,7 @@
     "timestamp": "00:05:37.356"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:05:39.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:06:06.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -1648,7 +1648,7 @@
     "timestamp": "00:06:07.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -1672,7 +1672,7 @@
     "timestamp": "00:06:09.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -1696,7 +1696,7 @@
     "timestamp": "00:06:14.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -1720,7 +1720,7 @@
     "timestamp": "00:06:16.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -1736,7 +1736,7 @@
     "timestamp": "00:06:26.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Timm Klose",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1768,7 +1768,7 @@
     "timestamp": "00:06:29.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:06:30.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1824,7 +1824,7 @@
     "timestamp": "00:06:33.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -1848,7 +1848,7 @@
     "timestamp": "00:06:35.174"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Matt Jarvis",
     "player2": "",
     "player1_team": "Norwich City",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:06:38.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:06:45.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Timm Klose",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:06:49.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -1952,7 +1952,7 @@
     "timestamp": "00:06:51.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -1976,7 +1976,7 @@
     "timestamp": "00:06:52.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:06:53.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "",
     "player1_team": "Norwich City",
@@ -2008,7 +2008,7 @@
     "timestamp": "00:08:34.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:08:51.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -2080,7 +2080,7 @@
     "timestamp": "00:08:56.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -2096,7 +2096,7 @@
     "timestamp": "00:09:26.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:09:28.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:09:30.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:09:32.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:09:43.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:09:44.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:09:46.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:09:48.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:09:50.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -2400,7 +2400,7 @@
     "timestamp": "00:09:53.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Timm Klose",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -2424,7 +2424,7 @@
     "timestamp": "00:09:56.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -2472,7 +2472,7 @@
     "timestamp": "00:10:03.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:10:53.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:11:00.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -2616,7 +2616,7 @@
     "timestamp": "00:11:03.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:11:34.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -2672,7 +2672,7 @@
     "timestamp": "00:11:47.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -2696,7 +2696,7 @@
     "timestamp": "00:11:51.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:11:53.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -2744,7 +2744,7 @@
     "timestamp": "00:11:56.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -2800,7 +2800,7 @@
     "timestamp": "00:12:02.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -2824,7 +2824,7 @@
     "timestamp": "00:12:03.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -2848,7 +2848,7 @@
     "timestamp": "00:12:05.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Timm Klose",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:12:09.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:12:12.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:12:16.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -2968,7 +2968,7 @@
     "timestamp": "00:12:18.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -3000,7 +3000,7 @@
     "timestamp": "00:12:19.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:12:23.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dwight Gayle",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:12:26.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -3080,7 +3080,7 @@
     "timestamp": "00:12:49.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -3112,7 +3112,7 @@
     "timestamp": "00:12:50.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:12:53.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -3168,7 +3168,7 @@
     "timestamp": "00:12:59.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:13:28.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:13:36.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:13:38.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -3304,7 +3304,7 @@
     "timestamp": "00:13:42.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jason Puncheon",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:14:17.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:14:45.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:14:59.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:15:02.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -3424,7 +3424,7 @@
     "timestamp": "00:15:04.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:15:08.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:15:12.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Timm Klose",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:15:19.085"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jonathan Howson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -3584,7 +3584,7 @@
     "timestamp": "00:15:22.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -3600,7 +3600,7 @@
     "timestamp": "00:15:53.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dwight Gayle",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -3632,7 +3632,7 @@
     "timestamp": "00:15:55.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:16:00.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -3696,7 +3696,7 @@
     "timestamp": "00:16:02.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -3720,7 +3720,7 @@
     "timestamp": "00:16:06.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:16:07.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -3752,7 +3752,7 @@
     "timestamp": "00:16:37.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:16:38.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:16:40.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -3824,7 +3824,7 @@
     "timestamp": "00:16:41.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jason Puncheon",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -3840,7 +3840,7 @@
     "timestamp": "00:16:44.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -3864,7 +3864,7 @@
     "timestamp": "00:16:45.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:16:47.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:16:53.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -3960,7 +3960,7 @@
     "timestamp": "00:16:57.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -4008,7 +4008,7 @@
     "timestamp": "00:17:05.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:17:09.148"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jason Puncheon",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -4048,7 +4048,7 @@
     "timestamp": "00:17:09.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:17:44.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -4104,7 +4104,7 @@
     "timestamp": "00:18:05.869"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:18:06.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jason Puncheon",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -4176,7 +4176,7 @@
     "timestamp": "00:18:37.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:18:38.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -4216,7 +4216,7 @@
     "timestamp": "00:19:18.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:19:19.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -4264,7 +4264,7 @@
     "timestamp": "00:19:22.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:19:25.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:19:27.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -4336,7 +4336,7 @@
     "timestamp": "00:19:31.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -4360,7 +4360,7 @@
     "timestamp": "00:19:33.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -4400,7 +4400,7 @@
     "timestamp": "00:19:38.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -4424,7 +4424,7 @@
     "timestamp": "00:19:42.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -4448,7 +4448,7 @@
     "timestamp": "00:19:44.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:19:50.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:19:54.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -4560,7 +4560,7 @@
     "timestamp": "00:19:58.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -4624,7 +4624,7 @@
     "timestamp": "00:20:03.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -4648,7 +4648,7 @@
     "timestamp": "00:20:45.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:20:50.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:21:08.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:22:32.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -4784,7 +4784,7 @@
     "timestamp": "00:22:45.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -4808,7 +4808,7 @@
     "timestamp": "00:22:50.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -4840,7 +4840,7 @@
     "timestamp": "00:22:52.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -4856,7 +4856,7 @@
     "timestamp": "00:22:54.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jason Puncheon",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:22:56.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -4920,7 +4920,7 @@
     "timestamp": "00:22:57.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:23:00.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:23:01.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dwight Gayle",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:23:05.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:23:08.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -5072,7 +5072,7 @@
     "timestamp": "00:23:19.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -5088,7 +5088,7 @@
     "timestamp": "00:23:40.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:23:41.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -5176,7 +5176,7 @@
     "timestamp": "00:23:47.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -5192,7 +5192,7 @@
     "timestamp": "00:23:50.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -5208,7 +5208,7 @@
     "timestamp": "00:23:57.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:23:58.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -5256,7 +5256,7 @@
     "timestamp": "00:23:59.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:24:09.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -5328,7 +5328,7 @@
     "timestamp": "00:24:11.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:24:13.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:24:42.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:24:45.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -5472,7 +5472,7 @@
     "timestamp": "00:24:50.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -5504,7 +5504,7 @@
     "timestamp": "00:25:09.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:25:28.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -5576,7 +5576,7 @@
     "timestamp": "00:25:32.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:25:38.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -5608,7 +5608,7 @@
     "timestamp": "00:25:55.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -5640,7 +5640,7 @@
     "timestamp": "00:26:12.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -5712,7 +5712,7 @@
     "timestamp": "00:26:17.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5728,7 +5728,7 @@
     "timestamp": "00:26:19.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:26:22.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:26:25.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:26:27.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:26:40.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -5912,7 +5912,7 @@
     "timestamp": "00:26:45.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:27:06.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5968,7 +5968,7 @@
     "timestamp": "00:27:07.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -6000,7 +6000,7 @@
     "timestamp": "00:27:09.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:27:14.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:27:53.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -6160,7 +6160,7 @@
     "timestamp": "00:28:23.771"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Scott Dann",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:28:24.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -6224,7 +6224,7 @@
     "timestamp": "00:28:41.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6256,7 +6256,7 @@
     "timestamp": "00:29:03.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:29:06.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:29:08.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:29:11.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -6360,7 +6360,7 @@
     "timestamp": "00:29:11.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:29:54.912"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Timm Klose",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6408,7 +6408,7 @@
     "timestamp": "00:29:55.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -6440,7 +6440,7 @@
     "timestamp": "00:30:29.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:30:32.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:30:33.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:30:58.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:31:33.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6536,7 +6536,7 @@
     "timestamp": "00:32:00.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:32:02.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -6576,7 +6576,7 @@
     "timestamp": "00:32:04.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:32:06.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:32:34.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:32:35.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -6680,7 +6680,7 @@
     "timestamp": "00:32:38.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:32:43.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:32:44.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:33:28.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:33:50.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -6824,7 +6824,7 @@
     "timestamp": "00:33:52.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:33:55.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -6888,7 +6888,7 @@
     "timestamp": "00:33:57.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -6904,7 +6904,7 @@
     "timestamp": "00:33:59.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:34:03.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -7000,7 +7000,7 @@
     "timestamp": "00:34:21.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:34:26.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "",
     "player1_team": "Norwich City",
@@ -7048,7 +7048,7 @@
     "timestamp": "00:34:45.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:35:27.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -7104,7 +7104,7 @@
     "timestamp": "00:35:33.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -7128,7 +7128,7 @@
     "timestamp": "00:35:35.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7168,7 +7168,7 @@
     "timestamp": "00:35:37.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:35:41.248"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Steven Naismith",
     "player2": "",
     "player1_team": "Norwich City",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:35:45.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -7272,7 +7272,7 @@
     "timestamp": "00:37:29.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -7296,7 +7296,7 @@
     "timestamp": "00:37:33.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -7320,7 +7320,7 @@
     "timestamp": "00:37:34.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -7344,7 +7344,7 @@
     "timestamp": "00:37:38.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:37:40.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -7392,7 +7392,7 @@
     "timestamp": "00:37:43.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:37:46.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -7456,7 +7456,7 @@
     "timestamp": "00:37:50.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:37:53.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -7496,7 +7496,7 @@
     "timestamp": "00:39:44.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "",
     "player1_team": "Norwich City",
@@ -7520,7 +7520,7 @@
     "timestamp": "00:39:59.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -7544,7 +7544,7 @@
     "timestamp": "00:40:03.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -7576,7 +7576,7 @@
     "timestamp": "00:40:08.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -7600,7 +7600,7 @@
     "timestamp": "00:40:11.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:40:20.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:40:21.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -7680,7 +7680,7 @@
     "timestamp": "00:40:22.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -7744,7 +7744,7 @@
     "timestamp": "00:40:25.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:40:27.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7808,7 +7808,7 @@
     "timestamp": "00:40:29.363"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "",
     "player1_team": "Norwich City",
@@ -7824,7 +7824,7 @@
     "timestamp": "00:40:29.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:41:01.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -7880,7 +7880,7 @@
     "timestamp": "00:41:06.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:41:08.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:41:11.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yannick Bolasie Yala",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:41:13.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:41:19.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -8024,7 +8024,7 @@
     "timestamp": "00:41:22.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yannick Bolasie Yala",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -8048,7 +8048,7 @@
     "timestamp": "00:41:27.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:41:31.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:41:34.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:41:36.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -8144,7 +8144,7 @@
     "timestamp": "00:41:39.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -8176,7 +8176,7 @@
     "timestamp": "00:41:45.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jason Puncheon",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -8192,7 +8192,7 @@
     "timestamp": "00:41:46.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jason Puncheon",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:42:17.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -8248,7 +8248,7 @@
     "timestamp": "00:42:20.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -8264,7 +8264,7 @@
     "timestamp": "00:42:24.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:42:50.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:42:55.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yannick Bolasie Yala",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:42:58.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:43:00.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yannick Bolasie Yala",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -8400,7 +8400,7 @@
     "timestamp": "00:43:04.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -8432,7 +8432,7 @@
     "timestamp": "00:43:08.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:43:13.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -8512,7 +8512,7 @@
     "timestamp": "00:43:15.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -8544,7 +8544,7 @@
     "timestamp": "00:43:17.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:43:21.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -8584,7 +8584,7 @@
     "timestamp": "00:43:45.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:43:46.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:43:54.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:43:55.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:43:58.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:44:03.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:44:06.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -8776,7 +8776,7 @@
     "timestamp": "00:44:08.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -8800,7 +8800,7 @@
     "timestamp": "00:44:10.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -8872,7 +8872,7 @@
     "timestamp": "00:44:20.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -8912,7 +8912,7 @@
     "timestamp": "00:44:23.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:44:26.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -8976,7 +8976,7 @@
     "timestamp": "00:44:32.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:44:35.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:44:36.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -9032,7 +9032,7 @@
     "timestamp": "00:44:42.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9056,7 +9056,7 @@
     "timestamp": "00:45:08.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:45:10.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:45:11.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:45:14.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:45:18.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -9176,7 +9176,7 @@
     "timestamp": "00:45:21.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -9200,7 +9200,7 @@
     "timestamp": "00:45:59.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dwight Gayle",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:46:02.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -9248,7 +9248,7 @@
     "timestamp": "00:46:22.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -9296,7 +9296,7 @@
     "timestamp": "00:46:28.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -9312,7 +9312,7 @@
     "timestamp": "00:46:32.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -9352,7 +9352,7 @@
     "timestamp": "00:46:42.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -9376,7 +9376,7 @@
     "timestamp": "00:46:44.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:46:47.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:46:58.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:47:01.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -9456,7 +9456,7 @@
     "timestamp": "00:47:04.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:47:06.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:47:10.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -9536,7 +9536,7 @@
     "timestamp": "00:47:16.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9584,7 +9584,7 @@
     "timestamp": "00:47:25.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -9608,7 +9608,7 @@
     "timestamp": "00:47:28.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9640,7 +9640,7 @@
     "timestamp": "00:47:34.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:47:37.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9680,7 +9680,7 @@
     "timestamp": "00:47:50.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:47:52.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -9776,7 +9776,7 @@
     "timestamp": "00:48:00.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -9808,7 +9808,7 @@
     "timestamp": "00:48:04.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -9840,7 +9840,7 @@
     "timestamp": "00:48:05.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -9864,7 +9864,7 @@
     "timestamp": "00:48:09.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -9896,7 +9896,7 @@
     "timestamp": "00:48:15.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -9920,7 +9920,7 @@
     "timestamp": "00:48:20.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:48:25.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:48:26.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:48:32.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:48:36.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -10032,7 +10032,7 @@
     "timestamp": "00:48:39.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -10056,7 +10056,7 @@
     "timestamp": "00:48:43.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -10080,7 +10080,7 @@
     "timestamp": "00:48:45.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -10112,7 +10112,7 @@
     "timestamp": "00:48:50.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -10136,7 +10136,7 @@
     "timestamp": "00:48:52.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -10160,7 +10160,7 @@
     "timestamp": "00:48:55.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -10184,7 +10184,7 @@
     "timestamp": "00:48:57.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -10208,7 +10208,7 @@
     "timestamp": "00:00:00.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:00:00.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -10240,7 +10240,7 @@
     "timestamp": "00:00:01.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -10264,7 +10264,7 @@
     "timestamp": "00:00:03.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:00:06.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:00:09.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -10384,7 +10384,7 @@
     "timestamp": "00:00:13.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:00:17.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -10448,7 +10448,7 @@
     "timestamp": "00:00:20.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:00:24.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -10568,7 +10568,7 @@
     "timestamp": "00:00:28.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -10592,7 +10592,7 @@
     "timestamp": "00:00:35.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -10616,7 +10616,7 @@
     "timestamp": "00:00:37.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -10640,7 +10640,7 @@
     "timestamp": "00:00:39.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -10664,7 +10664,7 @@
     "timestamp": "00:00:44.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -10680,7 +10680,7 @@
     "timestamp": "00:00:50.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -10712,7 +10712,7 @@
     "timestamp": "00:01:18.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:01:21.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:01:25.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:01:30.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -10840,7 +10840,7 @@
     "timestamp": "00:01:40.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:02:29.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -10896,7 +10896,7 @@
     "timestamp": "00:02:51.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -10920,7 +10920,7 @@
     "timestamp": "00:02:53.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -10944,7 +10944,7 @@
     "timestamp": "00:02:58.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -10968,7 +10968,7 @@
     "timestamp": "00:03:06.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -11000,7 +11000,7 @@
     "timestamp": "00:03:11.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:03:16.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:03:18.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -11096,7 +11096,7 @@
     "timestamp": "00:04:00.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:04:02.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:04:06.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -11200,7 +11200,7 @@
     "timestamp": "00:04:14.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dwight Gayle",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:04:17.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:04:47.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -11264,7 +11264,7 @@
     "timestamp": "00:04:48.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -11288,7 +11288,7 @@
     "timestamp": "00:05:03.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -11320,7 +11320,7 @@
     "timestamp": "00:05:04.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11328,7 +11328,7 @@
     "timestamp": "00:05:05.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:05:24.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:05:28.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:05:30.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -11416,7 +11416,7 @@
     "timestamp": "00:05:31.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:05:33.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -11464,7 +11464,7 @@
     "timestamp": "00:05:59.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -11480,7 +11480,7 @@
     "timestamp": "00:06:04.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:06:08.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dwight Gayle",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -11528,7 +11528,7 @@
     "timestamp": "00:06:08.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:06:13.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:06:16.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -11656,7 +11656,7 @@
     "timestamp": "00:06:21.528"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11672,7 +11672,7 @@
     "timestamp": "00:06:26.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:06:53.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -11736,7 +11736,7 @@
     "timestamp": "00:07:17.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:07:20.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -11792,7 +11792,7 @@
     "timestamp": "00:07:30.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -11808,7 +11808,7 @@
     "timestamp": "00:07:31.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:07:35.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:08:12.887"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Scott Dann",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:08:13.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -11872,7 +11872,7 @@
     "timestamp": "00:08:42.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:08:57.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -11920,7 +11920,7 @@
     "timestamp": "00:08:59.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -11944,7 +11944,7 @@
     "timestamp": "00:09:01.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:09:02.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -12000,7 +12000,7 @@
     "timestamp": "00:09:04.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -12024,7 +12024,7 @@
     "timestamp": "00:09:06.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bakary Sako",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -12032,7 +12032,7 @@
     "timestamp": "00:09:10.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:09:40.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:09:43.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -12128,7 +12128,7 @@
     "timestamp": "00:09:49.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -12152,7 +12152,7 @@
     "timestamp": "00:09:56.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -12184,7 +12184,7 @@
     "timestamp": "00:09:58.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -12216,7 +12216,7 @@
     "timestamp": "00:10:02.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -12240,7 +12240,7 @@
     "timestamp": "00:10:06.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:10:08.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:10:11.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:10:15.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -12336,7 +12336,7 @@
     "timestamp": "00:10:18.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:10:20.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:10:22.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -12408,7 +12408,7 @@
     "timestamp": "00:10:24.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -12448,7 +12448,7 @@
     "timestamp": "00:10:29.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -12472,7 +12472,7 @@
     "timestamp": "00:10:31.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:10:37.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:10:50.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:10:55.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -12576,7 +12576,7 @@
     "timestamp": "00:10:56.914"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Steven Naismith",
     "player2": "",
     "player1_team": "Norwich City",
@@ -12592,7 +12592,7 @@
     "timestamp": "00:10:57.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:11:28.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:11:31.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yannick Bolasie Yala",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -12672,7 +12672,7 @@
     "timestamp": "00:11:33.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:11:36.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -12736,7 +12736,7 @@
     "timestamp": "00:11:52.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:11:54.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "",
     "player1_team": "Norwich City",
@@ -12832,7 +12832,7 @@
     "timestamp": "00:11:57.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:12:00.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:12:21.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -12928,7 +12928,7 @@
     "timestamp": "00:12:34.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:12:37.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:12:40.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:12:46.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:13:10.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -13136,7 +13136,7 @@
     "timestamp": "00:13:23.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:13:25.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -13192,7 +13192,7 @@
     "timestamp": "00:13:29.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -13216,7 +13216,7 @@
     "timestamp": "00:13:32.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13280,7 +13280,7 @@
     "timestamp": "00:14:04.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:14:06.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -13328,7 +13328,7 @@
     "timestamp": "00:14:08.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:14:11.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -13392,7 +13392,7 @@
     "timestamp": "00:14:18.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -13416,7 +13416,7 @@
     "timestamp": "00:14:22.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:14:37.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -13448,7 +13448,7 @@
     "timestamp": "00:14:38.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -13464,7 +13464,7 @@
     "timestamp": "00:14:39.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13496,7 +13496,7 @@
     "timestamp": "00:14:41.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:14:42.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13552,7 +13552,7 @@
     "timestamp": "00:14:51.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -13568,7 +13568,7 @@
     "timestamp": "00:14:52.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -13584,7 +13584,7 @@
     "timestamp": "00:14:58.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -13608,7 +13608,7 @@
     "timestamp": "00:15:06.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -13632,7 +13632,7 @@
     "timestamp": "00:15:10.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -13656,7 +13656,7 @@
     "timestamp": "00:15:11.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:15:14.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -13704,7 +13704,7 @@
     "timestamp": "00:15:16.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:15:18.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -13760,7 +13760,7 @@
     "timestamp": "00:15:23.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -13784,7 +13784,7 @@
     "timestamp": "00:15:27.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:15:33.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:15:34.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yannick Bolasie Yala",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -13856,7 +13856,7 @@
     "timestamp": "00:15:41.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -13952,7 +13952,7 @@
     "timestamp": "00:15:49.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -13984,7 +13984,7 @@
     "timestamp": "00:15:51.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:15:54.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -14080,7 +14080,7 @@
     "timestamp": "00:15:59.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -14104,7 +14104,7 @@
     "timestamp": "00:16:01.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:16:07.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -14192,7 +14192,7 @@
     "timestamp": "00:16:10.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:16:14.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:16:47.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dwight Gayle",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -14296,7 +14296,7 @@
     "timestamp": "00:16:49.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bakary Sako",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -14328,7 +14328,7 @@
     "timestamp": "00:16:54.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -14352,7 +14352,7 @@
     "timestamp": "00:16:56.768"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:16:57.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -14384,7 +14384,7 @@
     "timestamp": "00:17:26.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -14400,7 +14400,7 @@
     "timestamp": "00:17:28.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:17:32.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:17:33.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14512,7 +14512,7 @@
     "timestamp": "00:18:09.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -14536,7 +14536,7 @@
     "timestamp": "00:18:19.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:18:25.537"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -14584,7 +14584,7 @@
     "timestamp": "00:18:27.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -14608,7 +14608,7 @@
     "timestamp": "00:18:29.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -14624,7 +14624,7 @@
     "timestamp": "00:18:33.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:19:12.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:19:25.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:19:31.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yannick Bolasie Yala",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -14752,7 +14752,7 @@
     "timestamp": "00:19:34.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dwight Gayle",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -14776,7 +14776,7 @@
     "timestamp": "00:19:36.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -14800,7 +14800,7 @@
     "timestamp": "00:19:41.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wilfried Zaha",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:19:48.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:19:52.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:19:54.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:20:00.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:20:03.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -15024,7 +15024,7 @@
     "timestamp": "00:20:27.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -15056,7 +15056,7 @@
     "timestamp": "00:21:18.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:21:33.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -15104,7 +15104,7 @@
     "timestamp": "00:21:35.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:21:36.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -15160,7 +15160,7 @@
     "timestamp": "00:21:49.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -15184,7 +15184,7 @@
     "timestamp": "00:21:51.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -15216,7 +15216,7 @@
     "timestamp": "00:21:55.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:22:01.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -15304,7 +15304,7 @@
     "timestamp": "00:22:04.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick Bamford",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:22:06.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -15344,7 +15344,7 @@
     "timestamp": "00:22:11.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -15368,7 +15368,7 @@
     "timestamp": "00:22:11.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -15384,7 +15384,7 @@
     "timestamp": "00:22:24.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wilfried Zaha",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -15408,7 +15408,7 @@
     "timestamp": "00:22:25.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:22:28.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -15456,7 +15456,7 @@
     "timestamp": "00:22:33.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:22:34.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -15504,7 +15504,7 @@
     "timestamp": "00:22:38.276"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Jason Puncheon",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -15520,7 +15520,7 @@
     "timestamp": "00:22:40.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -15536,7 +15536,7 @@
     "timestamp": "00:23:46.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick Bamford",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:23:49.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:23:50.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:23:54.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:23:57.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:24:41.825"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ryan Bennett",
     "player2": "",
     "player1_team": "Norwich City",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:24:44.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:24:53.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:25:13.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -15744,7 +15744,7 @@
     "timestamp": "00:25:18.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -15784,7 +15784,7 @@
     "timestamp": "00:25:21.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:25:25.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:25:27.502"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:25:30.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -15888,7 +15888,7 @@
     "timestamp": "00:25:44.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:26:14.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:26:18.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -16040,7 +16040,7 @@
     "timestamp": "00:26:23.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jason Puncheon",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:26:32.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -16152,7 +16152,7 @@
     "timestamp": "00:26:38.967"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -16192,7 +16192,7 @@
     "timestamp": "00:26:45.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:26:50.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -16264,7 +16264,7 @@
     "timestamp": "00:26:53.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:26:57.322"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Wilfried Zaha",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -16304,7 +16304,7 @@
     "timestamp": "00:27:04.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -16336,7 +16336,7 @@
     "timestamp": "00:27:19.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick Bamford",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:27:24.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:27:29.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:27:35.791"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:27:36.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:27:59.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:28:02.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -16512,7 +16512,7 @@
     "timestamp": "00:28:05.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -16536,7 +16536,7 @@
     "timestamp": "00:28:09.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:28:12.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:28:36.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:28:39.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:28:40.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:28:43.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:28:45.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:28:51.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -16752,7 +16752,7 @@
     "timestamp": "00:28:55.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:29:01.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:29:04.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:29:12.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -16856,7 +16856,7 @@
     "timestamp": "00:29:17.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:29:21.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -16920,7 +16920,7 @@
     "timestamp": "00:29:27.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -16936,7 +16936,7 @@
     "timestamp": "00:29:29.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:29:31.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -16984,7 +16984,7 @@
     "timestamp": "00:29:33.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -17016,7 +17016,7 @@
     "timestamp": "00:29:37.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:29:39.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:29:41.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:29:45.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "",
     "player1_team": "Norwich City",
@@ -17120,7 +17120,7 @@
     "timestamp": "00:30:48.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -17176,7 +17176,7 @@
     "timestamp": "00:31:11.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:31:15.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:31:28.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -17288,7 +17288,7 @@
     "timestamp": "00:31:34.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:31:38.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:31:41.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -17368,7 +17368,7 @@
     "timestamp": "00:31:43.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:31:45.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -17464,7 +17464,7 @@
     "timestamp": "00:32:09.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:32:25.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -17520,7 +17520,7 @@
     "timestamp": "00:32:26.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wilfried Zaha",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:32:29.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -17568,7 +17568,7 @@
     "timestamp": "00:32:30.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -17600,7 +17600,7 @@
     "timestamp": "00:32:34.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:32:38.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:32:41.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Damien Delaney",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -17688,7 +17688,7 @@
     "timestamp": "00:32:45.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -17704,7 +17704,7 @@
     "timestamp": "00:32:49.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:32:52.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -17752,7 +17752,7 @@
     "timestamp": "00:32:55.451"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Wilfried Zaha",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -17776,7 +17776,7 @@
     "timestamp": "00:33:40.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -17800,7 +17800,7 @@
     "timestamp": "00:33:58.734"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Damien Delaney",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:33:59.030"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:34:00.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:34:42.209"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Damien Delaney",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -17904,7 +17904,7 @@
     "timestamp": "00:34:45.648"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:34:46.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -17968,7 +17968,7 @@
     "timestamp": "00:34:53.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17984,7 +17984,7 @@
     "timestamp": "00:35:13.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Joe Ledley",
     "player1_team": "Crystal Palace",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:35:16.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:35:21.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:35:23.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wilfried Zaha",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -18120,7 +18120,7 @@
     "timestamp": "00:35:32.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:35:35.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:35:39.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -18176,7 +18176,7 @@
     "timestamp": "00:35:41.436"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:35:43.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick Bamford",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:35:45.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -18264,7 +18264,7 @@
     "timestamp": "00:35:49.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connor Wickham",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -18312,7 +18312,7 @@
     "timestamp": "00:35:57.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -18336,7 +18336,7 @@
     "timestamp": "00:36:38.104"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Mile Jedinak",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -18352,7 +18352,7 @@
     "timestamp": "00:36:38.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -18408,7 +18408,7 @@
     "timestamp": "00:37:02.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:37:04.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Joe Ledley",
     "player1_team": "Crystal Palace",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:37:05.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joe Ledley",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:37:07.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -18496,7 +18496,7 @@
     "timestamp": "00:37:09.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connor Wickham",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:37:10.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:37:15.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:37:18.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:37:22.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:37:23.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:37:24.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -18680,7 +18680,7 @@
     "timestamp": "00:37:30.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -18696,7 +18696,7 @@
     "timestamp": "00:37:37.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:37:41.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:37:45.735"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18768,7 +18768,7 @@
     "timestamp": "00:37:49.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:38:25.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:38:30.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:38:32.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:38:37.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -18912,7 +18912,7 @@
     "timestamp": "00:38:56.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -18936,7 +18936,7 @@
     "timestamp": "00:38:58.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:38:59.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:38:59.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -18984,7 +18984,7 @@
     "timestamp": "00:39:15.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick Bamford",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -19112,7 +19112,7 @@
     "timestamp": "00:39:31.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -19136,7 +19136,7 @@
     "timestamp": "00:39:59.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:40:03.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Joe Ledley",
     "player1_team": "Crystal Palace",
@@ -19200,7 +19200,7 @@
     "timestamp": "00:40:24.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joe Ledley",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -19232,7 +19232,7 @@
     "timestamp": "00:40:24.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -19248,7 +19248,7 @@
     "timestamp": "00:40:28.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Scott Dann",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -19272,7 +19272,7 @@
     "timestamp": "00:40:31.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wayne Hennessey",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -19288,7 +19288,7 @@
     "timestamp": "00:40:44.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Joe Ledley",
     "player1_team": "Crystal Palace",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:40:46.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -19376,7 +19376,7 @@
     "timestamp": "00:40:50.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yohan Cabaye",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -19408,7 +19408,7 @@
     "timestamp": "00:40:51.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -19424,7 +19424,7 @@
     "timestamp": "00:40:53.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:40:54.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:40:57.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:41:07.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -19536,7 +19536,7 @@
     "timestamp": "00:41:10.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -19568,7 +19568,7 @@
     "timestamp": "00:41:14.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -19600,7 +19600,7 @@
     "timestamp": "00:41:18.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick Bamford",
     "player2": "",
     "player1_team": "Norwich City",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:41:23.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joel Ward",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -19664,7 +19664,7 @@
     "timestamp": "00:41:31.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -19688,7 +19688,7 @@
     "timestamp": "00:41:36.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -19720,7 +19720,7 @@
     "timestamp": "00:41:41.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:41:49.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -19840,7 +19840,7 @@
     "timestamp": "00:41:54.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yannick Bolasie Yala",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -19864,7 +19864,7 @@
     "timestamp": "00:41:59.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -19896,7 +19896,7 @@
     "timestamp": "00:42:12.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:42:14.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -19944,7 +19944,7 @@
     "timestamp": "00:42:18.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:42:27.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:42:29.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -20080,7 +20080,7 @@
     "timestamp": "00:43:00.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Damien Delaney",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -20088,7 +20088,7 @@
     "timestamp": "00:43:01.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -20112,7 +20112,7 @@
     "timestamp": "00:43:05.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:43:09.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -20168,7 +20168,7 @@
     "timestamp": "00:43:12.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -20184,7 +20184,7 @@
     "timestamp": "00:43:20.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20208,7 +20208,7 @@
     "timestamp": "00:43:46.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -20240,7 +20240,7 @@
     "timestamp": "00:43:56.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20256,7 +20256,7 @@
     "timestamp": "00:43:59.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -20280,7 +20280,7 @@
     "timestamp": "00:44:00.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Joel Ward",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -20328,7 +20328,7 @@
     "timestamp": "00:44:06.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yohan Cabaye",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -20360,7 +20360,7 @@
     "timestamp": "00:44:11.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -20384,7 +20384,7 @@
     "timestamp": "00:44:15.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20400,7 +20400,7 @@
     "timestamp": "00:44:21.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -20416,7 +20416,7 @@
     "timestamp": "00:44:53.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -20440,7 +20440,7 @@
     "timestamp": "00:44:53.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mile Jedinak",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -20464,7 +20464,7 @@
     "timestamp": "00:44:58.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -20512,7 +20512,7 @@
     "timestamp": "00:45:00.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -20536,7 +20536,7 @@
     "timestamp": "00:45:01.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Scott Dann",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -20568,7 +20568,7 @@
     "timestamp": "00:45:05.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:45:08.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:45:15.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:45:18.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:45:18.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -20696,7 +20696,7 @@
     "timestamp": "00:45:59.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Connor Wickham",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:46:00.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -20736,7 +20736,7 @@
     "timestamp": "00:46:10.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -20752,7 +20752,7 @@
     "timestamp": "00:46:12.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mile Jedinak",
     "player2": "Joe Ledley",
     "player1_team": "Crystal Palace",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:46:16.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20848,7 +20848,7 @@
     "timestamp": "00:46:18.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -20872,7 +20872,7 @@
     "timestamp": "00:46:19.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -20896,7 +20896,7 @@
     "timestamp": "00:46:22.297"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -20912,7 +20912,7 @@
     "timestamp": "00:46:30.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:47:06.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -21064,7 +21064,7 @@
     "timestamp": "00:47:39.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wilfried Zaha",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -21104,7 +21104,7 @@
     "timestamp": "00:47:46.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -21136,7 +21136,7 @@
     "timestamp": "00:47:50.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -21160,7 +21160,7 @@
     "timestamp": "00:48:06.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -21176,7 +21176,7 @@
     "timestamp": "00:48:11.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:48:14.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wayne Hennessey",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:48:57.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Joe Ledley",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",

@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:02.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Saido Berahino",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -64,7 +64,7 @@
     "timestamp": "00:00:05.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:10.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -120,7 +120,7 @@
     "timestamp": "00:00:11.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -152,7 +152,7 @@
     "timestamp": "00:00:14.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -168,7 +168,7 @@
     "timestamp": "00:00:37.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:40.966"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Yann Gérard M''Vila",
     "player2": "",
     "player1_team": "Sunderland",
@@ -224,7 +224,7 @@
     "timestamp": "00:00:42.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -248,7 +248,7 @@
     "timestamp": "00:00:46.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -280,7 +280,7 @@
     "timestamp": "00:00:47.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -296,7 +296,7 @@
     "timestamp": "00:00:50.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -328,7 +328,7 @@
     "timestamp": "00:01:06.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -352,7 +352,7 @@
     "timestamp": "00:01:25.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -368,7 +368,7 @@
     "timestamp": "00:01:31.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -408,7 +408,7 @@
     "timestamp": "00:01:50.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -432,7 +432,7 @@
     "timestamp": "00:02:38.982"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -472,7 +472,7 @@
     "timestamp": "00:02:41.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -496,7 +496,7 @@
     "timestamp": "00:02:43.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -528,7 +528,7 @@
     "timestamp": "00:02:45.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -552,7 +552,7 @@
     "timestamp": "00:02:48.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -584,7 +584,7 @@
     "timestamp": "00:02:56.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -624,7 +624,7 @@
     "timestamp": "00:03:00.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -648,7 +648,7 @@
     "timestamp": "00:03:04.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -672,7 +672,7 @@
     "timestamp": "00:03:11.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -696,7 +696,7 @@
     "timestamp": "00:03:16.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -720,7 +720,7 @@
     "timestamp": "00:03:19.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -776,7 +776,7 @@
     "timestamp": "00:03:24.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -816,7 +816,7 @@
     "timestamp": "00:03:30.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -848,7 +848,7 @@
     "timestamp": "00:03:32.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -896,7 +896,7 @@
     "timestamp": "00:03:37.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -928,7 +928,7 @@
     "timestamp": "00:04:25.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -960,7 +960,7 @@
     "timestamp": "00:04:31.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -1000,7 +1000,7 @@
     "timestamp": "00:04:35.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -1024,7 +1024,7 @@
     "timestamp": "00:04:39.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -1080,7 +1080,7 @@
     "timestamp": "00:04:42.986"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Craig Gardner",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:04:46.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:04:47.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:04:48.396"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:04:50.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -1184,7 +1184,7 @@
     "timestamp": "00:05:10.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:05:19.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -1224,7 +1224,7 @@
     "timestamp": "00:05:24.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -1280,7 +1280,7 @@
     "timestamp": "00:05:26.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -1304,7 +1304,7 @@
     "timestamp": "00:05:27.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -1360,7 +1360,7 @@
     "timestamp": "00:05:31.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:05:36.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -1432,7 +1432,7 @@
     "timestamp": "00:05:38.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -1480,7 +1480,7 @@
     "timestamp": "00:05:40.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:05:41.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -1584,7 +1584,7 @@
     "timestamp": "00:05:47.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:05:48.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -1624,7 +1624,7 @@
     "timestamp": "00:06:14.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -1648,7 +1648,7 @@
     "timestamp": "00:06:16.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:06:18.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -1720,7 +1720,7 @@
     "timestamp": "00:06:26.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -1752,7 +1752,7 @@
     "timestamp": "00:06:30.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -1800,7 +1800,7 @@
     "timestamp": "00:06:33.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -1824,7 +1824,7 @@
     "timestamp": "00:06:35.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:06:38.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:06:40.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -1928,7 +1928,7 @@
     "timestamp": "00:06:41.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -1944,7 +1944,7 @@
     "timestamp": "00:06:45.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -1968,7 +1968,7 @@
     "timestamp": "00:06:47.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -1992,7 +1992,7 @@
     "timestamp": "00:06:49.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -2016,7 +2016,7 @@
     "timestamp": "00:07:14.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:07:20.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:07:21.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:07:51.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:07:54.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2192,7 +2192,7 @@
     "timestamp": "00:07:59.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:08:46.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:08:50.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:08:52.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:08:58.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:09:01.230"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:09:01.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:09:24.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -2408,7 +2408,7 @@
     "timestamp": "00:09:29.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:09:32.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:09:35.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:09:36.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:09:44.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:09:47.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -2600,7 +2600,7 @@
     "timestamp": "00:09:53.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:09:55.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:10:00.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:10:18.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -2712,7 +2712,7 @@
     "timestamp": "00:10:21.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -2736,7 +2736,7 @@
     "timestamp": "00:10:27.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:10:32.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -2800,7 +2800,7 @@
     "timestamp": "00:10:40.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -2832,7 +2832,7 @@
     "timestamp": "00:10:41.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:10:47.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:11:16.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Salomón Rondón Giménez",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:11:18.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -2952,7 +2952,7 @@
     "timestamp": "00:11:33.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -2976,7 +2976,7 @@
     "timestamp": "00:11:35.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -3016,7 +3016,7 @@
     "timestamp": "00:11:37.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3032,7 +3032,7 @@
     "timestamp": "00:12:02.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -3048,7 +3048,7 @@
     "timestamp": "00:12:03.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:12:08.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:12:21.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -3144,7 +3144,7 @@
     "timestamp": "00:12:23.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:12:27.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:12:29.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:12:32.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:12:38.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:12:41.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:12:42.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:12:47.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:13:09.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:13:21.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:13:52.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:13:54.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:13:57.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -3544,7 +3544,7 @@
     "timestamp": "00:13:59.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -3584,7 +3584,7 @@
     "timestamp": "00:14:02.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -3608,7 +3608,7 @@
     "timestamp": "00:14:05.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:14:10.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:14:12.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -3688,7 +3688,7 @@
     "timestamp": "00:14:14.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -3736,7 +3736,7 @@
     "timestamp": "00:14:17.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -3792,7 +3792,7 @@
     "timestamp": "00:14:23.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -3824,7 +3824,7 @@
     "timestamp": "00:14:34.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -3848,7 +3848,7 @@
     "timestamp": "00:14:37.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -3880,7 +3880,7 @@
     "timestamp": "00:14:41.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -3920,7 +3920,7 @@
     "timestamp": "00:14:44.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:14:45.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3968,7 +3968,7 @@
     "timestamp": "00:14:50.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -4000,7 +4000,7 @@
     "timestamp": "00:14:52.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -4032,7 +4032,7 @@
     "timestamp": "00:14:53.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:14:54.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -4104,7 +4104,7 @@
     "timestamp": "00:15:05.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:15:08.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:15:13.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:15:15.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:15:18.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4248,7 +4248,7 @@
     "timestamp": "00:15:21.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -4288,7 +4288,7 @@
     "timestamp": "00:15:23.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:16:31.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4320,7 +4320,7 @@
     "timestamp": "00:16:35.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -4344,7 +4344,7 @@
     "timestamp": "00:17:05.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -4368,7 +4368,7 @@
     "timestamp": "00:17:06.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:17:30.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:17:34.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -4472,7 +4472,7 @@
     "timestamp": "00:17:36.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -4536,7 +4536,7 @@
     "timestamp": "00:17:40.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -4560,7 +4560,7 @@
     "timestamp": "00:18:20.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -4584,7 +4584,7 @@
     "timestamp": "00:18:21.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4672,7 +4672,7 @@
     "timestamp": "00:18:30.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -4712,7 +4712,7 @@
     "timestamp": "00:18:35.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -4728,7 +4728,7 @@
     "timestamp": "00:18:50.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:18:55.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:19:01.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:19:05.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:19:17.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:19:18.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:19:20.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -4920,7 +4920,7 @@
     "timestamp": "00:19:22.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4960,7 +4960,7 @@
     "timestamp": "00:19:26.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:19:28.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:19:29.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:19:33.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:19:34.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -5096,7 +5096,7 @@
     "timestamp": "00:19:35.885"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -5112,7 +5112,7 @@
     "timestamp": "00:19:39.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:20:17.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -5168,7 +5168,7 @@
     "timestamp": "00:20:19.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -5184,7 +5184,7 @@
     "timestamp": "00:20:21.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -5216,7 +5216,7 @@
     "timestamp": "00:20:52.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -5232,7 +5232,7 @@
     "timestamp": "00:21:05.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -5256,7 +5256,7 @@
     "timestamp": "00:21:06.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:21:11.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:21:14.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Ben Foster",
     "player1_team": "West Bromwich Albion",
@@ -5320,7 +5320,7 @@
     "timestamp": "00:21:15.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -5352,7 +5352,7 @@
     "timestamp": "00:21:20.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -5368,7 +5368,7 @@
     "timestamp": "00:21:24.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5392,7 +5392,7 @@
     "timestamp": "00:21:26.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -5424,7 +5424,7 @@
     "timestamp": "00:21:29.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -5448,7 +5448,7 @@
     "timestamp": "00:21:33.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:21:34.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -5496,7 +5496,7 @@
     "timestamp": "00:21:37.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -5520,7 +5520,7 @@
     "timestamp": "00:21:38.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5560,7 +5560,7 @@
     "timestamp": "00:21:40.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -5576,7 +5576,7 @@
     "timestamp": "00:21:45.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:21:48.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -5632,7 +5632,7 @@
     "timestamp": "00:22:20.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:22:25.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Ben Foster",
     "player1_team": "West Bromwich Albion",
@@ -5688,7 +5688,7 @@
     "timestamp": "00:22:27.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -5720,7 +5720,7 @@
     "timestamp": "00:22:33.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -5736,7 +5736,7 @@
     "timestamp": "00:22:35.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -5768,7 +5768,7 @@
     "timestamp": "00:22:39.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Ben Foster",
     "player1_team": "West Bromwich Albion",
@@ -5792,7 +5792,7 @@
     "timestamp": "00:22:41.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -5808,7 +5808,7 @@
     "timestamp": "00:22:47.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:22:49.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -5864,7 +5864,7 @@
     "timestamp": "00:22:53.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -5896,7 +5896,7 @@
     "timestamp": "00:22:56.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -5912,7 +5912,7 @@
     "timestamp": "00:22:58.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:23:02.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5960,7 +5960,7 @@
     "timestamp": "00:23:03.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:23:10.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -6032,7 +6032,7 @@
     "timestamp": "00:23:12.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -6064,7 +6064,7 @@
     "timestamp": "00:23:14.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -6088,7 +6088,7 @@
     "timestamp": "00:23:17.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:23:26.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:23:28.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:23:31.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -6216,7 +6216,7 @@
     "timestamp": "00:23:34.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:23:38.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:23:40.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -6288,7 +6288,7 @@
     "timestamp": "00:23:43.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:23:45.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:23:48.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -6344,7 +6344,7 @@
     "timestamp": "00:23:50.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -6368,7 +6368,7 @@
     "timestamp": "00:23:50.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:23:54.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -6416,7 +6416,7 @@
     "timestamp": "00:23:58.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:24:01.722"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:24:03.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -6488,7 +6488,7 @@
     "timestamp": "00:24:06.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -6504,7 +6504,7 @@
     "timestamp": "00:24:08.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:24:10.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:24:19.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:24:23.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -6608,7 +6608,7 @@
     "timestamp": "00:24:45.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -6680,7 +6680,7 @@
     "timestamp": "00:24:52.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -6712,7 +6712,7 @@
     "timestamp": "00:24:56.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -6728,7 +6728,7 @@
     "timestamp": "00:25:08.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -6760,7 +6760,7 @@
     "timestamp": "00:25:11.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:25:16.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -6800,7 +6800,7 @@
     "timestamp": "00:25:18.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -6824,7 +6824,7 @@
     "timestamp": "00:25:20.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -6880,7 +6880,7 @@
     "timestamp": "00:25:29.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -6912,7 +6912,7 @@
     "timestamp": "00:25:31.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -6944,7 +6944,7 @@
     "timestamp": "00:25:34.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Saido Berahino",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -6960,7 +6960,7 @@
     "timestamp": "00:25:35.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -7016,7 +7016,7 @@
     "timestamp": "00:25:39.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:25:42.628"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:25:44.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -7088,7 +7088,7 @@
     "timestamp": "00:26:23.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:26:23.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -7184,7 +7184,7 @@
     "timestamp": "00:26:26.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:26:29.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:26:34.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:26:35.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:26:38.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:26:44.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -7328,7 +7328,7 @@
     "timestamp": "00:26:50.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:26:57.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -7384,7 +7384,7 @@
     "timestamp": "00:27:28.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:27:30.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:27:32.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -7456,7 +7456,7 @@
     "timestamp": "00:27:34.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -7560,7 +7560,7 @@
     "timestamp": "00:27:42.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -7584,7 +7584,7 @@
     "timestamp": "00:28:20.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:28:21.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:28:27.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:28:28.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -7672,7 +7672,7 @@
     "timestamp": "00:28:29.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:28:32.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -7728,7 +7728,7 @@
     "timestamp": "00:28:36.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -7752,7 +7752,7 @@
     "timestamp": "00:28:41.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:28:49.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:29:23.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:29:26.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:29:29.004"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:29:30.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -7896,7 +7896,7 @@
     "timestamp": "00:30:05.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:30:07.450"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -7952,7 +7952,7 @@
     "timestamp": "00:30:47.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8032,7 +8032,7 @@
     "timestamp": "00:30:54.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:31:04.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8128,7 +8128,7 @@
     "timestamp": "00:31:08.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:31:14.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -8248,7 +8248,7 @@
     "timestamp": "00:31:17.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8272,7 +8272,7 @@
     "timestamp": "00:31:19.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:31:27.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -8336,7 +8336,7 @@
     "timestamp": "00:31:30.856"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lee Cattermole",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:31:31.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8368,7 +8368,7 @@
     "timestamp": "00:32:16.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:32:16.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -8392,7 +8392,7 @@
     "timestamp": "00:32:53.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8408,7 +8408,7 @@
     "timestamp": "00:32:56.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:32:58.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8440,7 +8440,7 @@
     "timestamp": "00:32:59.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:33:00.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:33:04.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -8512,7 +8512,7 @@
     "timestamp": "00:33:06.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -8528,7 +8528,7 @@
     "timestamp": "00:33:08.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:33:10.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:33:13.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -8688,7 +8688,7 @@
     "timestamp": "00:33:23.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8696,7 +8696,7 @@
     "timestamp": "00:33:41.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -8712,7 +8712,7 @@
     "timestamp": "00:34:16.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -8736,7 +8736,7 @@
     "timestamp": "00:34:22.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -8760,7 +8760,7 @@
     "timestamp": "00:34:28.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:34:32.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:35:03.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -8840,7 +8840,7 @@
     "timestamp": "00:35:06.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:35:09.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:35:10.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -8920,7 +8920,7 @@
     "timestamp": "00:35:37.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -8960,7 +8960,7 @@
     "timestamp": "00:35:58.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -8984,7 +8984,7 @@
     "timestamp": "00:36:06.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -9024,7 +9024,7 @@
     "timestamp": "00:36:08.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:36:10.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:36:11.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:36:12.364"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -9168,7 +9168,7 @@
     "timestamp": "00:36:16.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -9264,7 +9264,7 @@
     "timestamp": "00:36:26.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -9312,7 +9312,7 @@
     "timestamp": "00:36:30.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -9344,7 +9344,7 @@
     "timestamp": "00:36:34.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:36:42.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -9448,7 +9448,7 @@
     "timestamp": "00:36:47.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -9456,7 +9456,7 @@
     "timestamp": "00:36:50.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -9472,7 +9472,7 @@
     "timestamp": "00:37:30.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -9496,7 +9496,7 @@
     "timestamp": "00:37:48.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:37:49.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9536,7 +9536,7 @@
     "timestamp": "00:37:50.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -9560,7 +9560,7 @@
     "timestamp": "00:37:52.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:37:55.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -9624,7 +9624,7 @@
     "timestamp": "00:37:59.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -9680,7 +9680,7 @@
     "timestamp": "00:38:06.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9704,7 +9704,7 @@
     "timestamp": "00:38:11.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -9736,7 +9736,7 @@
     "timestamp": "00:38:13.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:38:14.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -9792,7 +9792,7 @@
     "timestamp": "00:38:19.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:38:24.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -9840,7 +9840,7 @@
     "timestamp": "00:38:28.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -9864,7 +9864,7 @@
     "timestamp": "00:38:31.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -9888,7 +9888,7 @@
     "timestamp": "00:38:35.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -9912,7 +9912,7 @@
     "timestamp": "00:38:42.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -9936,7 +9936,7 @@
     "timestamp": "00:38:44.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:38:47.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:38:52.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:38:57.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -10048,7 +10048,7 @@
     "timestamp": "00:39:05.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:39:11.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -10096,7 +10096,7 @@
     "timestamp": "00:39:14.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:39:18.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -10136,7 +10136,7 @@
     "timestamp": "00:39:22.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:39:23.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Ben Foster",
     "player1_team": "West Bromwich Albion",
@@ -10192,7 +10192,7 @@
     "timestamp": "00:39:26.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -10208,7 +10208,7 @@
     "timestamp": "00:39:30.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:39:32.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:39:34.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -10304,7 +10304,7 @@
     "timestamp": "00:39:38.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -10328,7 +10328,7 @@
     "timestamp": "00:39:40.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:39:47.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:39:50.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -10392,7 +10392,7 @@
     "timestamp": "00:39:52.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:39:55.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -10448,7 +10448,7 @@
     "timestamp": "00:39:57.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:40:00.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:40:04.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -10560,7 +10560,7 @@
     "timestamp": "00:40:07.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -10576,7 +10576,7 @@
     "timestamp": "00:40:09.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -10592,7 +10592,7 @@
     "timestamp": "00:40:11.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -10616,7 +10616,7 @@
     "timestamp": "00:40:13.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:40:15.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:40:42.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "",
     "player1_team": "Sunderland",
@@ -10656,7 +10656,7 @@
     "timestamp": "00:40:43.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -10688,7 +10688,7 @@
     "timestamp": "00:41:10.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:41:14.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:41:19.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -10800,7 +10800,7 @@
     "timestamp": "00:41:20.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -10832,7 +10832,7 @@
     "timestamp": "00:41:23.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -10856,7 +10856,7 @@
     "timestamp": "00:41:25.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -10872,7 +10872,7 @@
     "timestamp": "00:41:27.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -10928,7 +10928,7 @@
     "timestamp": "00:41:30.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:41:31.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -10968,7 +10968,7 @@
     "timestamp": "00:41:35.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:41:40.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:41:42.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:41:43.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -11064,7 +11064,7 @@
     "timestamp": "00:41:46.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Saido Berahino",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:41:47.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:41:51.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:41:53.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:41:57.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -11200,7 +11200,7 @@
     "timestamp": "00:42:01.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -11248,7 +11248,7 @@
     "timestamp": "00:42:03.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:42:08.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:42:12.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -11384,7 +11384,7 @@
     "timestamp": "00:42:14.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -11408,7 +11408,7 @@
     "timestamp": "00:42:15.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:42:17.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:42:18.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -11480,7 +11480,7 @@
     "timestamp": "00:42:19.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -11504,7 +11504,7 @@
     "timestamp": "00:42:21.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11536,7 +11536,7 @@
     "timestamp": "00:42:24.029"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -11552,7 +11552,7 @@
     "timestamp": "00:42:26.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:42:51.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -11624,7 +11624,7 @@
     "timestamp": "00:42:55.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -11640,7 +11640,7 @@
     "timestamp": "00:42:57.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -11664,7 +11664,7 @@
     "timestamp": "00:43:00.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:43:02.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:43:04.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -11736,7 +11736,7 @@
     "timestamp": "00:43:06.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -11768,7 +11768,7 @@
     "timestamp": "00:43:07.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:43:11.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:43:17.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "",
     "player1_team": "Sunderland",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:43:21.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -11888,7 +11888,7 @@
     "timestamp": "00:43:23.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:43:30.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:43:32.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:43:34.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -11984,7 +11984,7 @@
     "timestamp": "00:43:38.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -12016,7 +12016,7 @@
     "timestamp": "00:43:45.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:43:49.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -12056,7 +12056,7 @@
     "timestamp": "00:43:49.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -12120,7 +12120,7 @@
     "timestamp": "00:43:58.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:44:25.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -12168,7 +12168,7 @@
     "timestamp": "00:44:27.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -12184,7 +12184,7 @@
     "timestamp": "00:44:30.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:44:32.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -12248,7 +12248,7 @@
     "timestamp": "00:44:35.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:44:37.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -12296,7 +12296,7 @@
     "timestamp": "00:44:41.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:44:44.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:44:49.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:44:56.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -12424,7 +12424,7 @@
     "timestamp": "00:45:29.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -12456,7 +12456,7 @@
     "timestamp": "00:45:31.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:45:32.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:45:35.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -12552,7 +12552,7 @@
     "timestamp": "00:45:40.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:45:46.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:45:48.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -12672,7 +12672,7 @@
     "timestamp": "00:45:50.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -12696,7 +12696,7 @@
     "timestamp": "00:45:53.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:45:56.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -12760,7 +12760,7 @@
     "timestamp": "00:45:58.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -12784,7 +12784,7 @@
     "timestamp": "00:46:02.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:46:05.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:00:04.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:00:07.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -12960,7 +12960,7 @@
     "timestamp": "00:00:15.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:00:30.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:01:27.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:02:22.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:02:31.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:02:36.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -13216,7 +13216,7 @@
     "timestamp": "00:02:42.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:03:11.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -13280,7 +13280,7 @@
     "timestamp": "00:03:12.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:03:14.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:03:16.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -13368,7 +13368,7 @@
     "timestamp": "00:03:17.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:03:24.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:03:45.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:03:46.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:03:50.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:03:54.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:03:58.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:04:01.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:04:03.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13552,7 +13552,7 @@
     "timestamp": "00:04:05.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -13576,7 +13576,7 @@
     "timestamp": "00:04:07.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -13592,7 +13592,7 @@
     "timestamp": "00:04:08.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -13640,7 +13640,7 @@
     "timestamp": "00:04:12.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:04:46.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -13688,7 +13688,7 @@
     "timestamp": "00:05:06.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13720,7 +13720,7 @@
     "timestamp": "00:05:09.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:05:12.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -13768,7 +13768,7 @@
     "timestamp": "00:05:14.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -13792,7 +13792,7 @@
     "timestamp": "00:05:21.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -13808,7 +13808,7 @@
     "timestamp": "00:05:26.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -13840,7 +13840,7 @@
     "timestamp": "00:05:27.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -13872,7 +13872,7 @@
     "timestamp": "00:05:31.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -13920,7 +13920,7 @@
     "timestamp": "00:05:36.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -13936,7 +13936,7 @@
     "timestamp": "00:05:52.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -13952,7 +13952,7 @@
     "timestamp": "00:05:53.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:05:54.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13984,7 +13984,7 @@
     "timestamp": "00:05:57.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -14016,7 +14016,7 @@
     "timestamp": "00:05:58.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -14048,7 +14048,7 @@
     "timestamp": "00:06:01.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:06:06.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:06:14.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:06:18.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -14216,7 +14216,7 @@
     "timestamp": "00:06:23.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:06:25.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:06:27.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14304,7 +14304,7 @@
     "timestamp": "00:06:31.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -14344,7 +14344,7 @@
     "timestamp": "00:06:39.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:07:10.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -14384,7 +14384,7 @@
     "timestamp": "00:07:15.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:07:20.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -14480,7 +14480,7 @@
     "timestamp": "00:07:23.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -14504,7 +14504,7 @@
     "timestamp": "00:07:25.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:07:29.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -14568,7 +14568,7 @@
     "timestamp": "00:07:33.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -14592,7 +14592,7 @@
     "timestamp": "00:07:35.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -14608,7 +14608,7 @@
     "timestamp": "00:07:38.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -14632,7 +14632,7 @@
     "timestamp": "00:07:39.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -14656,7 +14656,7 @@
     "timestamp": "00:07:43.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -14680,7 +14680,7 @@
     "timestamp": "00:07:43.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:07:46.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -14744,7 +14744,7 @@
     "timestamp": "00:07:49.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:07:52.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:07:53.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:07:59.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:08:17.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -14936,7 +14936,7 @@
     "timestamp": "00:08:22.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:08:25.948"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15064,7 +15064,7 @@
     "timestamp": "00:08:27.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15112,7 +15112,7 @@
     "timestamp": "00:08:43.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -15136,7 +15136,7 @@
     "timestamp": "00:08:46.830"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lee Cattermole",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15184,7 +15184,7 @@
     "timestamp": "00:08:49.518"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:08:50.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -15232,7 +15232,7 @@
     "timestamp": "00:09:21.718"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lamine Koné",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:09:22.635"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:09:22.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:09:53.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -15344,7 +15344,7 @@
     "timestamp": "00:10:30.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:10:35.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -15392,7 +15392,7 @@
     "timestamp": "00:11:04.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -15416,7 +15416,7 @@
     "timestamp": "00:11:05.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:11:07.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -15464,7 +15464,7 @@
     "timestamp": "00:11:08.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -15488,7 +15488,7 @@
     "timestamp": "00:11:11.735"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:11:16.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -15536,7 +15536,7 @@
     "timestamp": "00:11:31.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -15560,7 +15560,7 @@
     "timestamp": "00:11:34.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -15592,7 +15592,7 @@
     "timestamp": "00:11:37.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:11:50.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -15640,7 +15640,7 @@
     "timestamp": "00:11:54.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:11:58.728"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15688,7 +15688,7 @@
     "timestamp": "00:12:01.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:12:33.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -15760,7 +15760,7 @@
     "timestamp": "00:12:37.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -15792,7 +15792,7 @@
     "timestamp": "00:12:39.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:12:40.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -15856,7 +15856,7 @@
     "timestamp": "00:12:43.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -15880,7 +15880,7 @@
     "timestamp": "00:12:46.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -15904,7 +15904,7 @@
     "timestamp": "00:12:48.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -15936,7 +15936,7 @@
     "timestamp": "00:12:54.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:12:55.601"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15984,7 +15984,7 @@
     "timestamp": "00:12:58.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:13:20.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:13:22.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -16072,7 +16072,7 @@
     "timestamp": "00:13:30.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:13:37.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:14:22.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -16200,7 +16200,7 @@
     "timestamp": "00:14:24.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -16224,7 +16224,7 @@
     "timestamp": "00:14:27.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -16248,7 +16248,7 @@
     "timestamp": "00:14:30.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16272,7 +16272,7 @@
     "timestamp": "00:14:38.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:14:41.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -16304,7 +16304,7 @@
     "timestamp": "00:14:42.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:14:44.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:14:48.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:14:50.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:14:51.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16416,7 +16416,7 @@
     "timestamp": "00:14:57.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:15:00.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -16464,7 +16464,7 @@
     "timestamp": "00:15:07.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:15:10.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -16504,7 +16504,7 @@
     "timestamp": "00:15:12.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -16528,7 +16528,7 @@
     "timestamp": "00:15:15.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:15:18.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:15:20.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:15:22.942"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:16:28.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:16:37.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -16648,7 +16648,7 @@
     "timestamp": "00:16:37.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:16:41.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -16688,7 +16688,7 @@
     "timestamp": "00:16:45.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:16:46.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -16728,7 +16728,7 @@
     "timestamp": "00:16:47.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:16:48.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -16768,7 +16768,7 @@
     "timestamp": "00:16:48.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -16792,7 +16792,7 @@
     "timestamp": "00:16:53.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:17:01.486"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:17:03.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -16864,7 +16864,7 @@
     "timestamp": "00:17:35.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:17:37.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -16896,7 +16896,7 @@
     "timestamp": "00:17:38.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:17:39.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -16944,7 +16944,7 @@
     "timestamp": "00:17:40.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:17:40.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -16992,7 +16992,7 @@
     "timestamp": "00:17:42.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -17016,7 +17016,7 @@
     "timestamp": "00:17:46.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -17032,7 +17032,7 @@
     "timestamp": "00:18:05.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -17056,7 +17056,7 @@
     "timestamp": "00:18:05.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Saido Berahino",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -17072,7 +17072,7 @@
     "timestamp": "00:18:07.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -17096,7 +17096,7 @@
     "timestamp": "00:18:07.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -17120,7 +17120,7 @@
     "timestamp": "00:18:11.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -17144,7 +17144,7 @@
     "timestamp": "00:18:16.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:18:17.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:18:21.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -17216,7 +17216,7 @@
     "timestamp": "00:18:23.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:18:48.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:18:57.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -17280,7 +17280,7 @@
     "timestamp": "00:18:59.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -17304,7 +17304,7 @@
     "timestamp": "00:19:04.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -17328,7 +17328,7 @@
     "timestamp": "00:19:06.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -17352,7 +17352,7 @@
     "timestamp": "00:19:10.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -17416,7 +17416,7 @@
     "timestamp": "00:19:16.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:19:20.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -17456,7 +17456,7 @@
     "timestamp": "00:19:21.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -17480,7 +17480,7 @@
     "timestamp": "00:19:22.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:19:26.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -17520,7 +17520,7 @@
     "timestamp": "00:19:59.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -17568,7 +17568,7 @@
     "timestamp": "00:20:02.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:20:09.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -17656,7 +17656,7 @@
     "timestamp": "00:20:13.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -17672,7 +17672,7 @@
     "timestamp": "00:20:17.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:20:19.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -17760,7 +17760,7 @@
     "timestamp": "00:20:26.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -17792,7 +17792,7 @@
     "timestamp": "00:20:30.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:20:32.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -17832,7 +17832,7 @@
     "timestamp": "00:20:34.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -17848,7 +17848,7 @@
     "timestamp": "00:20:36.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -17872,7 +17872,7 @@
     "timestamp": "00:20:37.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:20:41.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:20:43.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:20:44.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:20:48.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -17984,7 +17984,7 @@
     "timestamp": "00:20:53.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:20:57.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -18032,7 +18032,7 @@
     "timestamp": "00:20:58.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -18048,7 +18048,7 @@
     "timestamp": "00:21:31.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:21:39.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -18088,7 +18088,7 @@
     "timestamp": "00:21:39.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -18112,7 +18112,7 @@
     "timestamp": "00:21:41.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -18136,7 +18136,7 @@
     "timestamp": "00:21:45.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:21:48.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -18184,7 +18184,7 @@
     "timestamp": "00:21:51.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:21:56.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:21:57.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -18256,7 +18256,7 @@
     "timestamp": "00:22:01.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -18272,7 +18272,7 @@
     "timestamp": "00:22:04.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:22:05.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -18320,7 +18320,7 @@
     "timestamp": "00:22:11.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -18336,7 +18336,7 @@
     "timestamp": "00:22:17.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:22:19.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -18400,7 +18400,7 @@
     "timestamp": "00:22:21.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -18424,7 +18424,7 @@
     "timestamp": "00:22:23.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:22:24.090"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:22:45.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:23:06.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:23:21.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:23:22.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -18576,7 +18576,7 @@
     "timestamp": "00:23:24.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -18592,7 +18592,7 @@
     "timestamp": "00:23:31.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:23:33.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:23:42.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:24:00.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:24:03.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -18800,7 +18800,7 @@
     "timestamp": "00:24:09.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Ben Foster",
     "player1_team": "West Bromwich Albion",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:24:16.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -18888,7 +18888,7 @@
     "timestamp": "00:24:23.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -18952,7 +18952,7 @@
     "timestamp": "00:24:29.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -19000,7 +19000,7 @@
     "timestamp": "00:25:33.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -19016,7 +19016,7 @@
     "timestamp": "00:25:53.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -19032,7 +19032,7 @@
     "timestamp": "00:25:54.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -19048,7 +19048,7 @@
     "timestamp": "00:25:54.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:25:58.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -19120,7 +19120,7 @@
     "timestamp": "00:26:00.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -19144,7 +19144,7 @@
     "timestamp": "00:26:02.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -19168,7 +19168,7 @@
     "timestamp": "00:26:04.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:26:11.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -19240,7 +19240,7 @@
     "timestamp": "00:26:14.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James McClean",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -19256,7 +19256,7 @@
     "timestamp": "00:26:17.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -19280,7 +19280,7 @@
     "timestamp": "00:26:50.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James McClean",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:27:17.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -19328,7 +19328,7 @@
     "timestamp": "00:28:52.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19352,7 +19352,7 @@
     "timestamp": "00:28:56.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -19384,7 +19384,7 @@
     "timestamp": "00:28:59.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -19416,7 +19416,7 @@
     "timestamp": "00:29:06.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:29:08.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -19456,7 +19456,7 @@
     "timestamp": "00:29:13.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:29:15.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -19512,7 +19512,7 @@
     "timestamp": "00:29:19.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -19528,7 +19528,7 @@
     "timestamp": "00:29:22.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -19552,7 +19552,7 @@
     "timestamp": "00:29:23.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -19600,7 +19600,7 @@
     "timestamp": "00:29:29.668"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -19616,7 +19616,7 @@
     "timestamp": "00:30:32.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:31:02.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:31:03.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Saido Berahino",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -19704,7 +19704,7 @@
     "timestamp": "00:31:06.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:31:07.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -19744,7 +19744,7 @@
     "timestamp": "00:31:10.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -19776,7 +19776,7 @@
     "timestamp": "00:31:12.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:31:17.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:31:19.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19832,7 +19832,7 @@
     "timestamp": "00:31:27.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -19872,7 +19872,7 @@
     "timestamp": "00:31:29.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:31:33.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -19944,7 +19944,7 @@
     "timestamp": "00:31:39.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -19968,7 +19968,7 @@
     "timestamp": "00:31:42.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -19992,7 +19992,7 @@
     "timestamp": "00:31:45.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -20016,7 +20016,7 @@
     "timestamp": "00:31:49.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -20056,7 +20056,7 @@
     "timestamp": "00:31:53.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20080,7 +20080,7 @@
     "timestamp": "00:31:55.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -20104,7 +20104,7 @@
     "timestamp": "00:31:59.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20128,7 +20128,7 @@
     "timestamp": "00:32:04.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -20160,7 +20160,7 @@
     "timestamp": "00:32:06.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:32:10.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -20216,7 +20216,7 @@
     "timestamp": "00:32:12.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -20248,7 +20248,7 @@
     "timestamp": "00:32:18.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20272,7 +20272,7 @@
     "timestamp": "00:32:25.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:32:31.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -20320,7 +20320,7 @@
     "timestamp": "00:32:33.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:33:12.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Jonathan Leko",
     "player1_team": "West Bromwich Albion",
@@ -20392,7 +20392,7 @@
     "timestamp": "00:33:17.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:33:30.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:33:32.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -20456,7 +20456,7 @@
     "timestamp": "00:33:37.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -20488,7 +20488,7 @@
     "timestamp": "00:33:39.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James McClean",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:33:44.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -20520,7 +20520,7 @@
     "timestamp": "00:33:46.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20536,7 +20536,7 @@
     "timestamp": "00:33:49.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -20600,7 +20600,7 @@
     "timestamp": "00:34:00.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:34:30.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:34:34.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:34:38.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20688,7 +20688,7 @@
     "timestamp": "00:34:43.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -20712,7 +20712,7 @@
     "timestamp": "00:34:48.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20736,7 +20736,7 @@
     "timestamp": "00:34:50.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:34:52.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:34:54.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -20808,7 +20808,7 @@
     "timestamp": "00:34:56.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:34:56.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -20872,7 +20872,7 @@
     "timestamp": "00:34:59.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20896,7 +20896,7 @@
     "timestamp": "00:35:04.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:35:08.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:35:11.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:36:16.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -21024,7 +21024,7 @@
     "timestamp": "00:36:36.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ben Foster",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -21040,7 +21040,7 @@
     "timestamp": "00:37:02.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -21064,7 +21064,7 @@
     "timestamp": "00:37:07.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -21128,7 +21128,7 @@
     "timestamp": "00:37:15.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:37:23.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -21208,7 +21208,7 @@
     "timestamp": "00:37:31.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -21232,7 +21232,7 @@
     "timestamp": "00:37:33.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:37:36.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -21288,7 +21288,7 @@
     "timestamp": "00:37:42.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -21312,7 +21312,7 @@
     "timestamp": "00:37:44.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -21344,7 +21344,7 @@
     "timestamp": "00:37:51.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -21368,7 +21368,7 @@
     "timestamp": "00:37:55.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -21384,7 +21384,7 @@
     "timestamp": "00:37:57.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -21408,7 +21408,7 @@
     "timestamp": "00:37:58.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:38:07.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -21456,7 +21456,7 @@
     "timestamp": "00:38:10.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -21496,7 +21496,7 @@
     "timestamp": "00:38:14.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:38:17.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -21552,7 +21552,7 @@
     "timestamp": "00:38:20.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -21568,7 +21568,7 @@
     "timestamp": "00:38:21.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -21584,7 +21584,7 @@
     "timestamp": "00:38:24.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -21608,7 +21608,7 @@
     "timestamp": "00:38:25.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -21624,7 +21624,7 @@
     "timestamp": "00:38:30.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -21648,7 +21648,7 @@
     "timestamp": "00:38:32.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -21672,7 +21672,7 @@
     "timestamp": "00:38:34.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -21696,7 +21696,7 @@
     "timestamp": "00:38:38.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -21728,7 +21728,7 @@
     "timestamp": "00:38:43.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -21768,7 +21768,7 @@
     "timestamp": "00:38:47.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James McClean",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -21800,7 +21800,7 @@
     "timestamp": "00:38:50.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -21824,7 +21824,7 @@
     "timestamp": "00:38:52.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James McClean",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -21896,7 +21896,7 @@
     "timestamp": "00:39:00.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -21912,7 +21912,7 @@
     "timestamp": "00:39:12.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -21928,7 +21928,7 @@
     "timestamp": "00:39:15.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -21952,7 +21952,7 @@
     "timestamp": "00:39:15.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -21984,7 +21984,7 @@
     "timestamp": "00:39:17.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James McClean",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -22064,7 +22064,7 @@
     "timestamp": "00:39:24.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:39:29.837"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -22176,7 +22176,7 @@
     "timestamp": "00:39:38.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -22192,7 +22192,7 @@
     "timestamp": "00:39:50.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -22208,7 +22208,7 @@
     "timestamp": "00:39:53.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -22224,7 +22224,7 @@
     "timestamp": "00:39:57.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -22240,7 +22240,7 @@
     "timestamp": "00:40:00.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -22256,7 +22256,7 @@
     "timestamp": "00:40:02.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -22336,7 +22336,7 @@
     "timestamp": "00:40:09.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -22360,7 +22360,7 @@
     "timestamp": "00:40:12.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -22416,7 +22416,7 @@
     "timestamp": "00:40:16.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -22456,7 +22456,7 @@
     "timestamp": "00:40:31.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -22472,7 +22472,7 @@
     "timestamp": "00:41:00.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James McClean",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -22536,7 +22536,7 @@
     "timestamp": "00:41:35.696"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -22576,7 +22576,7 @@
     "timestamp": "00:41:41.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -22600,7 +22600,7 @@
     "timestamp": "00:41:48.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -22616,7 +22616,7 @@
     "timestamp": "00:41:52.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -22648,7 +22648,7 @@
     "timestamp": "00:41:53.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -22672,7 +22672,7 @@
     "timestamp": "00:41:54.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -22704,7 +22704,7 @@
     "timestamp": "00:41:59.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Grant Chester",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -22736,7 +22736,7 @@
     "timestamp": "00:42:00.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -22760,7 +22760,7 @@
     "timestamp": "00:42:11.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -22784,7 +22784,7 @@
     "timestamp": "00:42:16.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -22808,7 +22808,7 @@
     "timestamp": "00:42:20.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -22832,7 +22832,7 @@
     "timestamp": "00:42:27.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -22896,7 +22896,7 @@
     "timestamp": "00:42:32.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -22912,7 +22912,7 @@
     "timestamp": "00:42:36.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "James Grant Chester",
     "player1_team": "West Bromwich Albion",
@@ -22960,7 +22960,7 @@
     "timestamp": "00:43:06.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -23040,7 +23040,7 @@
     "timestamp": "00:43:22.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -23056,7 +23056,7 @@
     "timestamp": "00:43:38.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -23080,7 +23080,7 @@
     "timestamp": "00:43:45.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -23120,7 +23120,7 @@
     "timestamp": "00:43:48.790"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -23136,7 +23136,7 @@
     "timestamp": "00:43:49.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -23168,7 +23168,7 @@
     "timestamp": "00:43:52.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Jonathan Leko",
     "player1_team": "West Bromwich Albion",
@@ -23256,7 +23256,7 @@
     "timestamp": "00:44:03.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -23272,7 +23272,7 @@
     "timestamp": "00:44:08.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -23288,7 +23288,7 @@
     "timestamp": "00:44:13.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -23296,7 +23296,7 @@
     "timestamp": "00:44:44.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -23328,7 +23328,7 @@
     "timestamp": "00:44:57.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -23352,7 +23352,7 @@
     "timestamp": "00:45:13.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "",
     "player1_team": "Sunderland",
@@ -23360,7 +23360,7 @@
     "timestamp": "00:45:13.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -23416,7 +23416,7 @@
     "timestamp": "00:45:41.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -23432,7 +23432,7 @@
     "timestamp": "00:45:54.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -23464,7 +23464,7 @@
     "timestamp": "00:45:57.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -23480,7 +23480,7 @@
     "timestamp": "00:45:58.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -23544,7 +23544,7 @@
     "timestamp": "00:46:01.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -23600,7 +23600,7 @@
     "timestamp": "00:46:05.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -23624,7 +23624,7 @@
     "timestamp": "00:46:08.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -23656,7 +23656,7 @@
     "timestamp": "00:46:11.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -23688,7 +23688,7 @@
     "timestamp": "00:46:15.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -23712,7 +23712,7 @@
     "timestamp": "00:46:33.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -23744,7 +23744,7 @@
     "timestamp": "00:46:37.256"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -23776,7 +23776,7 @@
     "timestamp": "00:46:54.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -23792,7 +23792,7 @@
     "timestamp": "00:47:05.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -23808,7 +23808,7 @@
     "timestamp": "00:47:10.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -23832,7 +23832,7 @@
     "timestamp": "00:47:12.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -23872,7 +23872,7 @@
     "timestamp": "00:47:17.368"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -23888,7 +23888,7 @@
     "timestamp": "00:47:18.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "Jonathan Leko",
     "player1_team": "West Bromwich Albion",
@@ -23920,7 +23920,7 @@
     "timestamp": "00:47:52.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Jonathan Leko",
     "player1_team": "West Bromwich Albion",
@@ -23952,7 +23952,7 @@
     "timestamp": "00:47:57.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -23976,7 +23976,7 @@
     "timestamp": "00:47:58.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "",
     "player1_team": "Sunderland",
@@ -23984,7 +23984,7 @@
     "timestamp": "00:47:59.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Grant Chester",
     "player2": "Sandro Ranieri Guimarães Cordeiro",
     "player1_team": "West Bromwich Albion",
@@ -24016,7 +24016,7 @@
     "timestamp": "00:48:05.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Ranieri Guimarães Cordeiro",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -24032,7 +24032,7 @@
     "timestamp": "00:48:07.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -24056,7 +24056,7 @@
     "timestamp": "00:48:10.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -24128,7 +24128,7 @@
     "timestamp": "00:48:14.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -24144,7 +24144,7 @@
     "timestamp": "00:48:17.035"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Yann Gérard M''Vila",
     "player2": "",
     "player1_team": "Sunderland",
@@ -24176,7 +24176,7 @@
     "timestamp": "00:48:19.117"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -24200,7 +24200,7 @@
     "timestamp": "00:48:20.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ben Foster",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -24256,7 +24256,7 @@
     "timestamp": "00:49:05.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",

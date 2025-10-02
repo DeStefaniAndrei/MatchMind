@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:04.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:06.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -104,7 +104,7 @@
     "timestamp": "00:00:07.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -144,7 +144,7 @@
     "timestamp": "00:00:09.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -216,7 +216,7 @@
     "timestamp": "00:00:15.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -312,7 +312,7 @@
     "timestamp": "00:00:28.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -336,7 +336,7 @@
     "timestamp": "00:00:30.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -368,7 +368,7 @@
     "timestamp": "00:00:33.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -392,7 +392,7 @@
     "timestamp": "00:00:36.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -432,7 +432,7 @@
     "timestamp": "00:00:41.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -440,7 +440,7 @@
     "timestamp": "00:00:42.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -472,7 +472,7 @@
     "timestamp": "00:00:57.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aimee Palmer",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -536,7 +536,7 @@
     "timestamp": "00:01:30.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -560,7 +560,7 @@
     "timestamp": "00:01:53.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -576,7 +576,7 @@
     "timestamp": "00:02:00.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -608,7 +608,7 @@
     "timestamp": "00:02:03.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -632,7 +632,7 @@
     "timestamp": "00:02:03.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -664,7 +664,7 @@
     "timestamp": "00:02:26.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aimee Palmer",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -688,7 +688,7 @@
     "timestamp": "00:02:29.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -704,7 +704,7 @@
     "timestamp": "00:02:31.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -720,7 +720,7 @@
     "timestamp": "00:02:32.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -736,7 +736,7 @@
     "timestamp": "00:02:35.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -816,7 +816,7 @@
     "timestamp": "00:02:41.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -872,7 +872,7 @@
     "timestamp": "00:02:44.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -888,7 +888,7 @@
     "timestamp": "00:02:52.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -904,7 +904,7 @@
     "timestamp": "00:02:55.012"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Shania Hayles",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -936,7 +936,7 @@
     "timestamp": "00:02:57.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -1064,7 +1064,7 @@
     "timestamp": "00:03:36.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -1096,7 +1096,7 @@
     "timestamp": "00:03:42.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:03:50.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:03:52.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -1240,7 +1240,7 @@
     "timestamp": "00:04:14.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:04:19.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:04:20.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:04:23.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:04:34.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -1416,7 +1416,7 @@
     "timestamp": "00:04:40.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -1472,7 +1472,7 @@
     "timestamp": "00:04:45.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -1520,7 +1520,7 @@
     "timestamp": "00:04:50.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:04:57.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -1552,7 +1552,7 @@
     "timestamp": "00:05:27.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -1584,7 +1584,7 @@
     "timestamp": "00:05:47.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:06:05.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -1640,7 +1640,7 @@
     "timestamp": "00:06:06.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:06:09.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:06:36.972"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:06:40.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:06:42.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -1832,7 +1832,7 @@
     "timestamp": "00:06:44.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -1856,7 +1856,7 @@
     "timestamp": "00:06:47.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -1880,7 +1880,7 @@
     "timestamp": "00:06:49.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:06:51.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:06:53.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:06:56.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -2000,7 +2000,7 @@
     "timestamp": "00:07:04.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -2032,7 +2032,7 @@
     "timestamp": "00:07:19.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:07:20.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -2080,7 +2080,7 @@
     "timestamp": "00:07:20.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -2112,7 +2112,7 @@
     "timestamp": "00:07:36.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:07:40.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:07:43.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -2200,7 +2200,7 @@
     "timestamp": "00:07:48.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -2248,7 +2248,7 @@
     "timestamp": "00:07:51.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:08:24.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -2304,7 +2304,7 @@
     "timestamp": "00:08:28.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:08:33.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:08:40.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -2392,7 +2392,7 @@
     "timestamp": "00:08:47.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:08:49.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -2440,7 +2440,7 @@
     "timestamp": "00:08:53.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:08:57.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:08:59.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -2512,7 +2512,7 @@
     "timestamp": "00:09:02.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -2592,7 +2592,7 @@
     "timestamp": "00:09:09.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -2608,7 +2608,7 @@
     "timestamp": "00:09:39.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:09:43.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:09:49.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -2672,7 +2672,7 @@
     "timestamp": "00:09:52.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:09:56.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:09:59.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:10:07.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:10:11.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -2952,7 +2952,7 @@
     "timestamp": "00:10:15.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -2976,7 +2976,7 @@
     "timestamp": "00:10:17.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -3008,7 +3008,7 @@
     "timestamp": "00:10:21.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:10:56.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:10:58.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:11:01.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:11:07.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3184,7 +3184,7 @@
     "timestamp": "00:11:21.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -3216,7 +3216,7 @@
     "timestamp": "00:11:24.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -3240,7 +3240,7 @@
     "timestamp": "00:11:26.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:11:28.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -3304,7 +3304,7 @@
     "timestamp": "00:11:31.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -3328,7 +3328,7 @@
     "timestamp": "00:11:38.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -3408,7 +3408,7 @@
     "timestamp": "00:11:44.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:12:18.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:12:29.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -3552,7 +3552,7 @@
     "timestamp": "00:13:01.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:13:08.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:13:12.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:13:17.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -3688,7 +3688,7 @@
     "timestamp": "00:13:22.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aimee Palmer",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:13:26.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:13:29.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -3792,7 +3792,7 @@
     "timestamp": "00:13:32.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3800,7 +3800,7 @@
     "timestamp": "00:13:32.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:13:37.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -3872,7 +3872,7 @@
     "timestamp": "00:13:42.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:13:45.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -3920,7 +3920,7 @@
     "timestamp": "00:13:47.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:13:51.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -4000,7 +4000,7 @@
     "timestamp": "00:13:57.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:14:02.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -4040,7 +4040,7 @@
     "timestamp": "00:14:06.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:14:24.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -4104,7 +4104,7 @@
     "timestamp": "00:14:27.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:14:28.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -4152,7 +4152,7 @@
     "timestamp": "00:14:31.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:14:34.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:14:36.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:14:38.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:15:33.026"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -4320,7 +4320,7 @@
     "timestamp": "00:15:34.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -4344,7 +4344,7 @@
     "timestamp": "00:16:06.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -4368,7 +4368,7 @@
     "timestamp": "00:16:08.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:16:09.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -4400,7 +4400,7 @@
     "timestamp": "00:16:09.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -4424,7 +4424,7 @@
     "timestamp": "00:16:12.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -4448,7 +4448,7 @@
     "timestamp": "00:16:13.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -4472,7 +4472,7 @@
     "timestamp": "00:16:15.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:16:17.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -4544,7 +4544,7 @@
     "timestamp": "00:16:26.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -4560,7 +4560,7 @@
     "timestamp": "00:16:43.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -4592,7 +4592,7 @@
     "timestamp": "00:16:47.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -4624,7 +4624,7 @@
     "timestamp": "00:16:51.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:17:26.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:17:33.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:17:38.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:18:13.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -4928,7 +4928,7 @@
     "timestamp": "00:18:19.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:18:24.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:18:32.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -5096,7 +5096,7 @@
     "timestamp": "00:18:35.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:18:36.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -5152,7 +5152,7 @@
     "timestamp": "00:18:38.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -5184,7 +5184,7 @@
     "timestamp": "00:18:40.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -5232,7 +5232,7 @@
     "timestamp": "00:18:42.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -5256,7 +5256,7 @@
     "timestamp": "00:18:45.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:18:47.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:18:54.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -5408,7 +5408,7 @@
     "timestamp": "00:19:01.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:19:04.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -5440,7 +5440,7 @@
     "timestamp": "00:19:04.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:19:25.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:19:26.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -5488,7 +5488,7 @@
     "timestamp": "00:19:26.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:19:42.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -5576,7 +5576,7 @@
     "timestamp": "00:19:46.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -5600,7 +5600,7 @@
     "timestamp": "00:19:51.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -5624,7 +5624,7 @@
     "timestamp": "00:19:57.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -5632,7 +5632,7 @@
     "timestamp": "00:19:59.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -5648,7 +5648,7 @@
     "timestamp": "00:20:19.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -5696,7 +5696,7 @@
     "timestamp": "00:20:21.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -5728,7 +5728,7 @@
     "timestamp": "00:20:23.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:20:24.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -5808,7 +5808,7 @@
     "timestamp": "00:20:26.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -5832,7 +5832,7 @@
     "timestamp": "00:20:28.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -5856,7 +5856,7 @@
     "timestamp": "00:20:30.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:20:35.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:20:36.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -5936,7 +5936,7 @@
     "timestamp": "00:20:44.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -5968,7 +5968,7 @@
     "timestamp": "00:20:46.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:20:50.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6024,7 +6024,7 @@
     "timestamp": "00:20:52.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:21:25.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -6096,7 +6096,7 @@
     "timestamp": "00:21:27.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:21:30.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:21:33.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6152,7 +6152,7 @@
     "timestamp": "00:21:33.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -6184,7 +6184,7 @@
     "timestamp": "00:21:58.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6200,7 +6200,7 @@
     "timestamp": "00:22:21.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:22:24.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:22:27.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6272,7 +6272,7 @@
     "timestamp": "00:23:07.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -6296,7 +6296,7 @@
     "timestamp": "00:23:26.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -6320,7 +6320,7 @@
     "timestamp": "00:23:29.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -6344,7 +6344,7 @@
     "timestamp": "00:23:31.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:23:37.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:24:12.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:24:13.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -6496,7 +6496,7 @@
     "timestamp": "00:24:17.619"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:24:18.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:24:55.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:24:58.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:25:10.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:25:14.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -6720,7 +6720,7 @@
     "timestamp": "00:25:17.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6744,7 +6744,7 @@
     "timestamp": "00:25:19.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:25:21.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:25:24.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:25:25.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:25:33.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -6888,7 +6888,7 @@
     "timestamp": "00:25:55.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:25:58.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:26:22.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -7024,7 +7024,7 @@
     "timestamp": "00:26:25.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -7064,7 +7064,7 @@
     "timestamp": "00:26:28.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -7080,7 +7080,7 @@
     "timestamp": "00:26:32.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -7104,7 +7104,7 @@
     "timestamp": "00:26:34.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -7128,7 +7128,7 @@
     "timestamp": "00:26:37.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -7144,7 +7144,7 @@
     "timestamp": "00:26:38.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:26:51.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7248,7 +7248,7 @@
     "timestamp": "00:26:55.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7296,7 +7296,7 @@
     "timestamp": "00:27:18.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -7360,7 +7360,7 @@
     "timestamp": "00:28:26.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:28:29.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:28:32.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:28:35.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:28:37.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -7456,7 +7456,7 @@
     "timestamp": "00:28:40.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -7488,7 +7488,7 @@
     "timestamp": "00:28:47.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:28:51.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7560,7 +7560,7 @@
     "timestamp": "00:29:11.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -7576,7 +7576,7 @@
     "timestamp": "00:29:15.564"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -7592,7 +7592,7 @@
     "timestamp": "00:29:16.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -7632,7 +7632,7 @@
     "timestamp": "00:29:43.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -7656,7 +7656,7 @@
     "timestamp": "00:29:45.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7672,7 +7672,7 @@
     "timestamp": "00:29:47.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:29:50.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:30:18.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:30:18.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aimee Palmer",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -7760,7 +7760,7 @@
     "timestamp": "00:30:21.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -7784,7 +7784,7 @@
     "timestamp": "00:30:22.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7800,7 +7800,7 @@
     "timestamp": "00:30:24.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:30:29.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:30:35.866"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ebony Salmon",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:30:38.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:31:08.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:31:10.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -8048,7 +8048,7 @@
     "timestamp": "00:31:17.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:31:19.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:31:22.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:31:23.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:31:26.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -8176,7 +8176,7 @@
     "timestamp": "00:31:29.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:31:32.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:31:34.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:31:40.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:31:50.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:31:53.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -8384,7 +8384,7 @@
     "timestamp": "00:31:53.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -8440,7 +8440,7 @@
     "timestamp": "00:31:56.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:32:00.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -8512,7 +8512,7 @@
     "timestamp": "00:32:03.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -8544,7 +8544,7 @@
     "timestamp": "00:32:05.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -8568,7 +8568,7 @@
     "timestamp": "00:32:06.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -8592,7 +8592,7 @@
     "timestamp": "00:32:07.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -8688,7 +8688,7 @@
     "timestamp": "00:32:11.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:32:14.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:32:16.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8776,7 +8776,7 @@
     "timestamp": "00:32:18.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -8800,7 +8800,7 @@
     "timestamp": "00:32:20.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:32:25.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -8824,7 +8824,7 @@
     "timestamp": "00:32:25.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:32:30.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:32:38.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -8912,7 +8912,7 @@
     "timestamp": "00:32:43.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:32:45.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:32:49.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:32:53.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -9032,7 +9032,7 @@
     "timestamp": "00:32:57.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:33:01.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -9072,7 +9072,7 @@
     "timestamp": "00:33:08.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:33:10.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -9144,7 +9144,7 @@
     "timestamp": "00:33:11.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -9152,7 +9152,7 @@
     "timestamp": "00:33:12.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:33:23.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -9256,7 +9256,7 @@
     "timestamp": "00:33:56.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -9280,7 +9280,7 @@
     "timestamp": "00:33:59.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -9296,7 +9296,7 @@
     "timestamp": "00:34:03.465"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -9312,7 +9312,7 @@
     "timestamp": "00:34:05.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -9336,7 +9336,7 @@
     "timestamp": "00:34:53.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:34:55.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -9392,7 +9392,7 @@
     "timestamp": "00:34:58.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:34:59.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -9480,7 +9480,7 @@
     "timestamp": "00:35:07.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -9504,7 +9504,7 @@
     "timestamp": "00:35:19.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:35:22.119"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -9568,7 +9568,7 @@
     "timestamp": "00:35:26.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -9624,7 +9624,7 @@
     "timestamp": "00:35:30.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:35:41.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -9680,7 +9680,7 @@
     "timestamp": "00:35:41.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:35:47.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -9744,7 +9744,7 @@
     "timestamp": "00:35:50.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -9800,7 +9800,7 @@
     "timestamp": "00:35:52.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:35:54.058"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -9832,7 +9832,7 @@
     "timestamp": "00:35:54.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -9848,7 +9848,7 @@
     "timestamp": "00:36:14.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -9904,7 +9904,7 @@
     "timestamp": "00:36:17.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -9936,7 +9936,7 @@
     "timestamp": "00:36:19.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:36:27.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -10000,7 +10000,7 @@
     "timestamp": "00:36:33.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -10032,7 +10032,7 @@
     "timestamp": "00:36:38.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:36:46.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -10144,7 +10144,7 @@
     "timestamp": "00:37:38.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -10152,7 +10152,7 @@
     "timestamp": "00:37:41.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:37:44.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -10216,7 +10216,7 @@
     "timestamp": "00:37:53.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:37:55.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:38:25.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:38:29.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -10376,7 +10376,7 @@
     "timestamp": "00:38:38.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -10480,7 +10480,7 @@
     "timestamp": "00:38:43.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:38:46.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:38:49.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -10560,7 +10560,7 @@
     "timestamp": "00:38:53.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:38:55.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:38:58.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:39:10.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -10664,7 +10664,7 @@
     "timestamp": "00:39:20.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -10688,7 +10688,7 @@
     "timestamp": "00:39:21.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:39:39.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -10816,7 +10816,7 @@
     "timestamp": "00:39:49.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -10832,7 +10832,7 @@
     "timestamp": "00:39:50.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:39:52.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:39:57.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -10912,7 +10912,7 @@
     "timestamp": "00:40:00.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -10944,7 +10944,7 @@
     "timestamp": "00:40:03.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -10968,7 +10968,7 @@
     "timestamp": "00:40:06.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -10976,7 +10976,7 @@
     "timestamp": "00:40:07.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:40:38.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:40:43.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -11048,7 +11048,7 @@
     "timestamp": "00:40:48.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aimee Palmer",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:40:49.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:41:13.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:41:14.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:41:15.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:41:25.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -11176,7 +11176,7 @@
     "timestamp": "00:41:27.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:41:27.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -11208,7 +11208,7 @@
     "timestamp": "00:41:29.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -11232,7 +11232,7 @@
     "timestamp": "00:41:31.747"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -11248,7 +11248,7 @@
     "timestamp": "00:41:32.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:41:40.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:41:44.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:41:45.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11320,7 +11320,7 @@
     "timestamp": "00:41:47.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -11344,7 +11344,7 @@
     "timestamp": "00:41:50.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:41:54.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -11392,7 +11392,7 @@
     "timestamp": "00:41:57.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:41:57.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:42:11.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -11464,7 +11464,7 @@
     "timestamp": "00:42:12.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -11488,7 +11488,7 @@
     "timestamp": "00:42:15.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -11512,7 +11512,7 @@
     "timestamp": "00:42:18.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:42:22.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:42:24.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11592,7 +11592,7 @@
     "timestamp": "00:42:26.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:42:29.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:42:31.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -11656,7 +11656,7 @@
     "timestamp": "00:42:35.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -11672,7 +11672,7 @@
     "timestamp": "00:42:55.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -11720,7 +11720,7 @@
     "timestamp": "00:42:58.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -11744,7 +11744,7 @@
     "timestamp": "00:43:29.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -11776,7 +11776,7 @@
     "timestamp": "00:43:35.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:43:41.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11872,7 +11872,7 @@
     "timestamp": "00:44:23.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:44:32.348"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -11976,7 +11976,7 @@
     "timestamp": "00:44:34.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -12040,7 +12040,7 @@
     "timestamp": "00:44:40.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -12064,7 +12064,7 @@
     "timestamp": "00:44:42.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -12112,7 +12112,7 @@
     "timestamp": "00:44:47.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -12168,7 +12168,7 @@
     "timestamp": "00:44:52.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -12184,7 +12184,7 @@
     "timestamp": "00:44:55.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -12216,7 +12216,7 @@
     "timestamp": "00:44:58.668"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -12232,7 +12232,7 @@
     "timestamp": "00:45:01.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -12248,7 +12248,7 @@
     "timestamp": "00:45:31.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aimee Palmer",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -12288,7 +12288,7 @@
     "timestamp": "00:45:34.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -12312,7 +12312,7 @@
     "timestamp": "00:45:35.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12336,7 +12336,7 @@
     "timestamp": "00:45:42.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:45:46.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:45:51.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -12424,7 +12424,7 @@
     "timestamp": "00:45:54.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12456,7 +12456,7 @@
     "timestamp": "00:46:03.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:46:06.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -12488,7 +12488,7 @@
     "timestamp": "00:46:07.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:46:30.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -12536,7 +12536,7 @@
     "timestamp": "00:46:32.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:46:33.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -12576,7 +12576,7 @@
     "timestamp": "00:46:35.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -12632,7 +12632,7 @@
     "timestamp": "00:46:40.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -12664,7 +12664,7 @@
     "timestamp": "00:46:43.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:46:46.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -12744,7 +12744,7 @@
     "timestamp": "00:46:48.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:46:54.466"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ebony Salmon",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:47:00.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -12832,7 +12832,7 @@
     "timestamp": "00:47:03.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:47:05.894"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ebony Salmon",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:47:07.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12872,7 +12872,7 @@
     "timestamp": "00:47:24.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:00:03.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:00:08.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:00:14.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -13016,7 +13016,7 @@
     "timestamp": "00:00:17.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:00:19.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -13056,7 +13056,7 @@
     "timestamp": "00:00:22.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -13088,7 +13088,7 @@
     "timestamp": "00:00:22.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -13184,7 +13184,7 @@
     "timestamp": "00:00:31.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -13208,7 +13208,7 @@
     "timestamp": "00:00:35.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -13232,7 +13232,7 @@
     "timestamp": "00:00:35.615"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Shania Hayles",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -13248,7 +13248,7 @@
     "timestamp": "00:00:38.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -13296,7 +13296,7 @@
     "timestamp": "00:01:00.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:01:09.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:01:10.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -13368,7 +13368,7 @@
     "timestamp": "00:01:21.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:01:23.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:01:25.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -13480,7 +13480,7 @@
     "timestamp": "00:01:33.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:01:34.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -13616,7 +13616,7 @@
     "timestamp": "00:01:41.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -13640,7 +13640,7 @@
     "timestamp": "00:01:44.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -13656,7 +13656,7 @@
     "timestamp": "00:01:47.382"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -13680,7 +13680,7 @@
     "timestamp": "00:02:10.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -13704,7 +13704,7 @@
     "timestamp": "00:02:18.654"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -13720,7 +13720,7 @@
     "timestamp": "00:02:18.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:02:24.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -13776,7 +13776,7 @@
     "timestamp": "00:02:31.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -13792,7 +13792,7 @@
     "timestamp": "00:02:37.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -13824,7 +13824,7 @@
     "timestamp": "00:03:09.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:03:13.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -13904,7 +13904,7 @@
     "timestamp": "00:03:14.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -13984,7 +13984,7 @@
     "timestamp": "00:03:18.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -14016,7 +14016,7 @@
     "timestamp": "00:03:49.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -14048,7 +14048,7 @@
     "timestamp": "00:04:11.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -14080,7 +14080,7 @@
     "timestamp": "00:04:13.893"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -14096,7 +14096,7 @@
     "timestamp": "00:04:14.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -14144,7 +14144,7 @@
     "timestamp": "00:04:35.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -14168,7 +14168,7 @@
     "timestamp": "00:04:37.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -14192,7 +14192,7 @@
     "timestamp": "00:04:40.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -14224,7 +14224,7 @@
     "timestamp": "00:04:47.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -14248,7 +14248,7 @@
     "timestamp": "00:04:52.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:05:02.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -14304,7 +14304,7 @@
     "timestamp": "00:05:05.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:05:08.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:05:11.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -14400,7 +14400,7 @@
     "timestamp": "00:05:11.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -14416,7 +14416,7 @@
     "timestamp": "00:05:34.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:05:36.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:05:38.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:05:47.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -14496,7 +14496,7 @@
     "timestamp": "00:05:50.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -14512,7 +14512,7 @@
     "timestamp": "00:05:55.470"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -14528,7 +14528,7 @@
     "timestamp": "00:06:21.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:06:23.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -14584,7 +14584,7 @@
     "timestamp": "00:06:24.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:06:28.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:06:30.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:06:31.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -14696,7 +14696,7 @@
     "timestamp": "00:06:34.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -14720,7 +14720,7 @@
     "timestamp": "00:06:37.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -14744,7 +14744,7 @@
     "timestamp": "00:06:40.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -14768,7 +14768,7 @@
     "timestamp": "00:06:42.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -14792,7 +14792,7 @@
     "timestamp": "00:06:44.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -14816,7 +14816,7 @@
     "timestamp": "00:06:46.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -14840,7 +14840,7 @@
     "timestamp": "00:06:50.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -14864,7 +14864,7 @@
     "timestamp": "00:06:52.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:06:56.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:06:59.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -14936,7 +14936,7 @@
     "timestamp": "00:07:06.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -15024,7 +15024,7 @@
     "timestamp": "00:07:13.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:07:16.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -15072,7 +15072,7 @@
     "timestamp": "00:07:18.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -15104,7 +15104,7 @@
     "timestamp": "00:07:21.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -15128,7 +15128,7 @@
     "timestamp": "00:07:23.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -15152,7 +15152,7 @@
     "timestamp": "00:07:25.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -15184,7 +15184,7 @@
     "timestamp": "00:07:29.111"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15200,7 +15200,7 @@
     "timestamp": "00:07:31.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -15216,7 +15216,7 @@
     "timestamp": "00:07:52.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -15232,7 +15232,7 @@
     "timestamp": "00:07:54.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:07:56.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:07:59.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:08:00.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -15344,7 +15344,7 @@
     "timestamp": "00:08:07.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -15392,7 +15392,7 @@
     "timestamp": "00:08:12.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -15408,7 +15408,7 @@
     "timestamp": "00:08:24.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:08:25.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -15464,7 +15464,7 @@
     "timestamp": "00:08:30.056"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:08:32.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:08:40.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:08:42.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -15536,7 +15536,7 @@
     "timestamp": "00:08:46.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:08:49.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:08:52.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:09:25.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:09:27.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -15696,7 +15696,7 @@
     "timestamp": "00:09:31.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:09:33.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -15752,7 +15752,7 @@
     "timestamp": "00:09:38.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15760,7 +15760,7 @@
     "timestamp": "00:09:39.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -15784,7 +15784,7 @@
     "timestamp": "00:09:42.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:10:00.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15808,7 +15808,7 @@
     "timestamp": "00:10:00.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:10:03.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:10:14.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15872,7 +15872,7 @@
     "timestamp": "00:10:20.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -15904,7 +15904,7 @@
     "timestamp": "00:10:25.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:10:33.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:10:35.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -15968,7 +15968,7 @@
     "timestamp": "00:10:38.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -15984,7 +15984,7 @@
     "timestamp": "00:10:39.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -16040,7 +16040,7 @@
     "timestamp": "00:10:42.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -16064,7 +16064,7 @@
     "timestamp": "00:10:49.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:10:56.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -16128,7 +16128,7 @@
     "timestamp": "00:10:59.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -16160,7 +16160,7 @@
     "timestamp": "00:11:00.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -16184,7 +16184,7 @@
     "timestamp": "00:11:05.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:11:10.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:11:17.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -16296,7 +16296,7 @@
     "timestamp": "00:11:24.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -16320,7 +16320,7 @@
     "timestamp": "00:11:35.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:11:39.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -16376,7 +16376,7 @@
     "timestamp": "00:11:41.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -16416,7 +16416,7 @@
     "timestamp": "00:11:45.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:11:50.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -16488,7 +16488,7 @@
     "timestamp": "00:11:52.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -16512,7 +16512,7 @@
     "timestamp": "00:11:58.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -16536,7 +16536,7 @@
     "timestamp": "00:12:03.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:12:13.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:12:15.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -16648,7 +16648,7 @@
     "timestamp": "00:13:44.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -16688,7 +16688,7 @@
     "timestamp": "00:14:28.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Jade Mastrantonio",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -16704,7 +16704,7 @@
     "timestamp": "00:14:31.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -16736,7 +16736,7 @@
     "timestamp": "00:14:35.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:14:40.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16784,7 +16784,7 @@
     "timestamp": "00:14:45.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -16808,7 +16808,7 @@
     "timestamp": "00:14:48.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16904,7 +16904,7 @@
     "timestamp": "00:14:55.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:15:26.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:15:29.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16976,7 +16976,7 @@
     "timestamp": "00:15:30.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:15:45.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:15:50.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:15:57.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -17104,7 +17104,7 @@
     "timestamp": "00:16:00.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:16:14.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17160,7 +17160,7 @@
     "timestamp": "00:16:48.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:16:53.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:16:58.210"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Shania Hayles",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17248,7 +17248,7 @@
     "timestamp": "00:16:59.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:17:32.679"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17280,7 +17280,7 @@
     "timestamp": "00:17:33.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -17296,7 +17296,7 @@
     "timestamp": "00:17:51.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:17:55.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -17360,7 +17360,7 @@
     "timestamp": "00:18:00.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -17392,7 +17392,7 @@
     "timestamp": "00:18:02.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:18:04.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -17464,7 +17464,7 @@
     "timestamp": "00:18:06.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -17480,7 +17480,7 @@
     "timestamp": "00:18:10.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:18:13.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Elisha N''Dow",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -17528,7 +17528,7 @@
     "timestamp": "00:18:16.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -17552,7 +17552,7 @@
     "timestamp": "00:18:17.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17592,7 +17592,7 @@
     "timestamp": "00:18:22.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:18:36.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -17640,7 +17640,7 @@
     "timestamp": "00:18:40.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -17672,7 +17672,7 @@
     "timestamp": "00:19:02.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -17696,7 +17696,7 @@
     "timestamp": "00:19:08.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:19:09.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -17808,7 +17808,7 @@
     "timestamp": "00:19:13.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Jade Mastrantonio",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -17824,7 +17824,7 @@
     "timestamp": "00:19:51.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -17848,7 +17848,7 @@
     "timestamp": "00:19:56.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:20:02.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:20:08.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -17968,7 +17968,7 @@
     "timestamp": "00:20:11.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:20:16.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -18008,7 +18008,7 @@
     "timestamp": "00:20:18.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -18064,7 +18064,7 @@
     "timestamp": "00:20:21.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -18080,7 +18080,7 @@
     "timestamp": "00:20:25.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -18096,7 +18096,7 @@
     "timestamp": "00:20:30.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -18168,7 +18168,7 @@
     "timestamp": "00:20:36.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -18192,7 +18192,7 @@
     "timestamp": "00:20:41.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -18216,7 +18216,7 @@
     "timestamp": "00:20:43.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -18240,7 +18240,7 @@
     "timestamp": "00:20:44.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -18264,7 +18264,7 @@
     "timestamp": "00:20:46.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -18288,7 +18288,7 @@
     "timestamp": "00:20:50.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18328,7 +18328,7 @@
     "timestamp": "00:20:57.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -18376,7 +18376,7 @@
     "timestamp": "00:21:03.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:21:04.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:21:10.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -18456,7 +18456,7 @@
     "timestamp": "00:21:12.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:21:21.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:21:25.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:21:38.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18624,7 +18624,7 @@
     "timestamp": "00:21:39.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:22:01.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -18744,7 +18744,7 @@
     "timestamp": "00:22:06.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -18768,7 +18768,7 @@
     "timestamp": "00:22:08.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -18800,7 +18800,7 @@
     "timestamp": "00:22:12.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:22:13.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:22:20.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18864,7 +18864,7 @@
     "timestamp": "00:22:50.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:22:53.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -18928,7 +18928,7 @@
     "timestamp": "00:22:55.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:22:56.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18984,7 +18984,7 @@
     "timestamp": "00:22:57.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -19008,7 +19008,7 @@
     "timestamp": "00:23:22.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -19088,7 +19088,7 @@
     "timestamp": "00:23:31.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:23:35.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:23:39.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -19216,7 +19216,7 @@
     "timestamp": "00:23:46.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -19272,7 +19272,7 @@
     "timestamp": "00:23:48.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:23:51.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -19344,7 +19344,7 @@
     "timestamp": "00:23:54.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:23:55.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -19392,7 +19392,7 @@
     "timestamp": "00:23:58.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -19408,7 +19408,7 @@
     "timestamp": "00:24:02.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:24:37.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -19496,7 +19496,7 @@
     "timestamp": "00:24:40.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -19592,7 +19592,7 @@
     "timestamp": "00:27:19.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -19616,7 +19616,7 @@
     "timestamp": "00:27:24.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -19624,7 +19624,7 @@
     "timestamp": "00:27:24.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:27:29.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -19696,7 +19696,7 @@
     "timestamp": "00:27:36.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -19720,7 +19720,7 @@
     "timestamp": "00:27:39.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -19744,7 +19744,7 @@
     "timestamp": "00:27:42.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:27:45.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -19800,7 +19800,7 @@
     "timestamp": "00:27:47.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -19824,7 +19824,7 @@
     "timestamp": "00:27:50.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -19856,7 +19856,7 @@
     "timestamp": "00:27:56.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:27:59.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:28:04.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -19936,7 +19936,7 @@
     "timestamp": "00:28:07.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abigail Harrison",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -19952,7 +19952,7 @@
     "timestamp": "00:28:08.894"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Faye Bryson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -19968,7 +19968,7 @@
     "timestamp": "00:28:10.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -19992,7 +19992,7 @@
     "timestamp": "00:28:41.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20016,7 +20016,7 @@
     "timestamp": "00:28:44.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20056,7 +20056,7 @@
     "timestamp": "00:28:50.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -20072,7 +20072,7 @@
     "timestamp": "00:28:53.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -20104,7 +20104,7 @@
     "timestamp": "00:28:58.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -20128,7 +20128,7 @@
     "timestamp": "00:28:59.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -20152,7 +20152,7 @@
     "timestamp": "00:29:02.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -20176,7 +20176,7 @@
     "timestamp": "00:29:06.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -20200,7 +20200,7 @@
     "timestamp": "00:29:09.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -20224,7 +20224,7 @@
     "timestamp": "00:29:15.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -20248,7 +20248,7 @@
     "timestamp": "00:29:18.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20264,7 +20264,7 @@
     "timestamp": "00:30:09.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20280,7 +20280,7 @@
     "timestamp": "00:30:21.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:30:24.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -20328,7 +20328,7 @@
     "timestamp": "00:30:27.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:30:31.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -20376,7 +20376,7 @@
     "timestamp": "00:30:36.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -20400,7 +20400,7 @@
     "timestamp": "00:30:38.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -20480,7 +20480,7 @@
     "timestamp": "00:30:45.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20520,7 +20520,7 @@
     "timestamp": "00:31:07.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:31:13.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -20560,7 +20560,7 @@
     "timestamp": "00:31:14.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:31:20.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -20624,7 +20624,7 @@
     "timestamp": "00:31:23.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abigail Harrison",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:31:24.874"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ella Jade Mastrantonio",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:31:25.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20696,7 +20696,7 @@
     "timestamp": "00:32:07.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:32:11.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20744,7 +20744,7 @@
     "timestamp": "00:32:42.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:32:45.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:33:02.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:33:03.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:33:04.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abigail Harrison",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20848,7 +20848,7 @@
     "timestamp": "00:33:05.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:33:06.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:33:09.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -20936,7 +20936,7 @@
     "timestamp": "00:33:13.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20968,7 +20968,7 @@
     "timestamp": "00:33:16.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -21104,7 +21104,7 @@
     "timestamp": "00:33:24.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:34:12.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:34:16.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21216,7 +21216,7 @@
     "timestamp": "00:34:20.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -21248,7 +21248,7 @@
     "timestamp": "00:34:24.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -21272,7 +21272,7 @@
     "timestamp": "00:34:27.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:35:10.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -21376,7 +21376,7 @@
     "timestamp": "00:35:30.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -21400,7 +21400,7 @@
     "timestamp": "00:35:31.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -21440,7 +21440,7 @@
     "timestamp": "00:35:33.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -21464,7 +21464,7 @@
     "timestamp": "00:35:37.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -21504,7 +21504,7 @@
     "timestamp": "00:35:45.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:35:45.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -21544,7 +21544,7 @@
     "timestamp": "00:35:47.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21568,7 +21568,7 @@
     "timestamp": "00:35:51.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:36:12.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:36:25.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -21648,7 +21648,7 @@
     "timestamp": "00:36:45.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -21672,7 +21672,7 @@
     "timestamp": "00:36:46.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -21688,7 +21688,7 @@
     "timestamp": "00:36:48.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -21712,7 +21712,7 @@
     "timestamp": "00:37:11.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -21728,7 +21728,7 @@
     "timestamp": "00:37:11.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21768,7 +21768,7 @@
     "timestamp": "00:37:40.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -21816,7 +21816,7 @@
     "timestamp": "00:37:49.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:37:56.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:37:57.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -21912,7 +21912,7 @@
     "timestamp": "00:37:58.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -21928,7 +21928,7 @@
     "timestamp": "00:38:02.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:38:06.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -21984,7 +21984,7 @@
     "timestamp": "00:38:12.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -22040,7 +22040,7 @@
     "timestamp": "00:38:22.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -22144,7 +22144,7 @@
     "timestamp": "00:38:30.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22168,7 +22168,7 @@
     "timestamp": "00:38:30.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22184,7 +22184,7 @@
     "timestamp": "00:38:32.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -22208,7 +22208,7 @@
     "timestamp": "00:38:43.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -22232,7 +22232,7 @@
     "timestamp": "00:38:47.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22240,7 +22240,7 @@
     "timestamp": "00:38:47.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22272,7 +22272,7 @@
     "timestamp": "00:38:53.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -22296,7 +22296,7 @@
     "timestamp": "00:38:58.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -22320,7 +22320,7 @@
     "timestamp": "00:39:02.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -22344,7 +22344,7 @@
     "timestamp": "00:39:07.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -22368,7 +22368,7 @@
     "timestamp": "00:39:11.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -22448,7 +22448,7 @@
     "timestamp": "00:39:17.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22480,7 +22480,7 @@
     "timestamp": "00:39:20.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -22504,7 +22504,7 @@
     "timestamp": "00:39:35.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -22600,7 +22600,7 @@
     "timestamp": "00:39:41.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22616,7 +22616,7 @@
     "timestamp": "00:39:58.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22632,7 +22632,7 @@
     "timestamp": "00:39:58.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -22664,7 +22664,7 @@
     "timestamp": "00:40:02.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:40:06.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -22712,7 +22712,7 @@
     "timestamp": "00:40:10.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -22768,7 +22768,7 @@
     "timestamp": "00:40:21.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22808,7 +22808,7 @@
     "timestamp": "00:40:39.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22816,7 +22816,7 @@
     "timestamp": "00:40:42.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:40:45.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22880,7 +22880,7 @@
     "timestamp": "00:40:50.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -22960,7 +22960,7 @@
     "timestamp": "00:40:55.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -22984,7 +22984,7 @@
     "timestamp": "00:40:57.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -23000,7 +23000,7 @@
     "timestamp": "00:41:04.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -23048,7 +23048,7 @@
     "timestamp": "00:41:18.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -23056,7 +23056,7 @@
     "timestamp": "00:41:18.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -23088,7 +23088,7 @@
     "timestamp": "00:41:20.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -23112,7 +23112,7 @@
     "timestamp": "00:41:21.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -23200,7 +23200,7 @@
     "timestamp": "00:41:25.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abigail Harrison",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -23224,7 +23224,7 @@
     "timestamp": "00:41:29.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23232,7 +23232,7 @@
     "timestamp": "00:41:31.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -23248,7 +23248,7 @@
     "timestamp": "00:42:15.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23280,7 +23280,7 @@
     "timestamp": "00:42:16.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -23320,7 +23320,7 @@
     "timestamp": "00:42:20.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -23344,7 +23344,7 @@
     "timestamp": "00:42:24.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -23368,7 +23368,7 @@
     "timestamp": "00:42:25.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -23392,7 +23392,7 @@
     "timestamp": "00:42:28.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -23416,7 +23416,7 @@
     "timestamp": "00:42:36.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -23440,7 +23440,7 @@
     "timestamp": "00:42:39.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -23472,7 +23472,7 @@
     "timestamp": "00:42:46.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -23496,7 +23496,7 @@
     "timestamp": "00:42:51.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23512,7 +23512,7 @@
     "timestamp": "00:42:53.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -23528,7 +23528,7 @@
     "timestamp": "00:42:57.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -23560,7 +23560,7 @@
     "timestamp": "00:42:59.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Jade Mastrantonio",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23576,7 +23576,7 @@
     "timestamp": "00:43:01.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -23600,7 +23600,7 @@
     "timestamp": "00:43:03.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -23672,7 +23672,7 @@
     "timestamp": "00:43:09.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -23704,7 +23704,7 @@
     "timestamp": "00:43:14.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -23720,7 +23720,7 @@
     "timestamp": "00:43:14.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -23808,7 +23808,7 @@
     "timestamp": "00:43:45.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -23832,7 +23832,7 @@
     "timestamp": "00:43:47.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -23848,7 +23848,7 @@
     "timestamp": "00:43:49.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -23856,7 +23856,7 @@
     "timestamp": "00:43:49.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23864,7 +23864,7 @@
     "timestamp": "00:43:56.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -23928,7 +23928,7 @@
     "timestamp": "00:44:06.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23952,7 +23952,7 @@
     "timestamp": "00:44:38.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -24024,7 +24024,7 @@
     "timestamp": "00:44:57.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -24056,7 +24056,7 @@
     "timestamp": "00:45:00.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -24080,7 +24080,7 @@
     "timestamp": "00:45:01.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -24104,7 +24104,7 @@
     "timestamp": "00:45:04.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -24120,7 +24120,7 @@
     "timestamp": "00:45:04.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -24152,7 +24152,7 @@
     "timestamp": "00:45:07.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abigail Harrison",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -24328,7 +24328,7 @@
     "timestamp": "00:45:30.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Jade Mastrantonio",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -24360,7 +24360,7 @@
     "timestamp": "00:45:36.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -24392,7 +24392,7 @@
     "timestamp": "00:45:40.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -24416,7 +24416,7 @@
     "timestamp": "00:45:41.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -24440,7 +24440,7 @@
     "timestamp": "00:45:43.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -24464,7 +24464,7 @@
     "timestamp": "00:45:45.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -24488,7 +24488,7 @@
     "timestamp": "00:45:48.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -24584,7 +24584,7 @@
     "timestamp": "00:45:55.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -24648,7 +24648,7 @@
     "timestamp": "00:45:59.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -24664,7 +24664,7 @@
     "timestamp": "00:46:12.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -24680,7 +24680,7 @@
     "timestamp": "00:46:37.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -24712,7 +24712,7 @@
     "timestamp": "00:46:39.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -24736,7 +24736,7 @@
     "timestamp": "00:46:41.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Laura Rafferty",
     "player1_team": "Bristol City WFC",
@@ -24760,7 +24760,7 @@
     "timestamp": "00:46:42.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Rafferty",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -24768,7 +24768,7 @@
     "timestamp": "00:46:42.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -24792,7 +24792,7 @@
     "timestamp": "00:46:47.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ramona Petzelberger",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -24824,7 +24824,7 @@
     "timestamp": "00:46:48.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -24848,7 +24848,7 @@
     "timestamp": "00:46:50.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -24872,7 +24872,7 @@
     "timestamp": "00:46:52.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -24880,7 +24880,7 @@
     "timestamp": "00:46:55.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -24896,7 +24896,7 @@
     "timestamp": "00:47:00.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -24920,7 +24920,7 @@
     "timestamp": "00:47:02.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -24944,7 +24944,7 @@
     "timestamp": "00:47:06.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -24960,7 +24960,7 @@
     "timestamp": "00:47:12.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -25008,7 +25008,7 @@
     "timestamp": "00:47:15.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abigail Harrison",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -25040,7 +25040,7 @@
     "timestamp": "00:47:22.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -25072,7 +25072,7 @@
     "timestamp": "00:47:24.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abigail Harrison",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -25080,7 +25080,7 @@
     "timestamp": "00:47:26.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -25096,7 +25096,7 @@
     "timestamp": "00:47:50.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -25120,7 +25120,7 @@
     "timestamp": "00:47:53.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Jade Mastrantonio",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -25144,7 +25144,7 @@
     "timestamp": "00:47:55.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Laura Rafferty",
     "player1_team": "Bristol City WFC",
@@ -25168,7 +25168,7 @@
     "timestamp": "00:47:56.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Rafferty",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -25192,7 +25192,7 @@
     "timestamp": "00:47:57.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Ella Jade Mastrantonio",
     "player1_team": "Bristol City WFC",
@@ -25216,7 +25216,7 @@
     "timestamp": "00:47:58.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Jade Mastrantonio",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -25248,7 +25248,7 @@
     "timestamp": "00:48:00.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -25328,7 +25328,7 @@
     "timestamp": "00:48:06.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -25384,7 +25384,7 @@
     "timestamp": "00:48:25.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -25408,7 +25408,7 @@
     "timestamp": "00:48:30.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Ramona Petzelberger",
     "player1_team": "Aston Villa",
@@ -25432,7 +25432,7 @@
     "timestamp": "00:48:32.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -25480,7 +25480,7 @@
     "timestamp": "00:48:35.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -25528,7 +25528,7 @@
     "timestamp": "00:48:44.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -25592,7 +25592,7 @@
     "timestamp": "00:48:54.748"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Ella Jade Mastrantonio",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -25608,7 +25608,7 @@
     "timestamp": "00:49:45.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ramona Petzelberger",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -25632,7 +25632,7 @@
     "timestamp": "00:50:18.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -25648,7 +25648,7 @@
     "timestamp": "00:50:21.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -25720,7 +25720,7 @@
     "timestamp": "00:50:29.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -25768,7 +25768,7 @@
     "timestamp": "00:50:38.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -25792,7 +25792,7 @@
     "timestamp": "00:50:40.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -25808,7 +25808,7 @@
     "timestamp": "00:50:44.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -25840,7 +25840,7 @@
     "timestamp": "00:50:46.357"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -25872,7 +25872,7 @@
     "timestamp": "00:50:49.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -25896,7 +25896,7 @@
     "timestamp": "00:50:53.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -25920,7 +25920,7 @@
     "timestamp": "00:51:00.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abigail Harrison",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",

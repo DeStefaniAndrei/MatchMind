@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:00.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -88,7 +88,7 @@
     "timestamp": "00:00:07.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -160,7 +160,7 @@
     "timestamp": "00:00:11.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:15.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Anne Moorhouse",
     "player1_team": "West Ham United LFC",
@@ -208,7 +208,7 @@
     "timestamp": "00:00:30.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -232,7 +232,7 @@
     "timestamp": "00:00:33.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -288,7 +288,7 @@
     "timestamp": "00:01:04.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -344,7 +344,7 @@
     "timestamp": "00:01:06.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -368,7 +368,7 @@
     "timestamp": "00:01:55.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -392,7 +392,7 @@
     "timestamp": "00:01:56.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -424,7 +424,7 @@
     "timestamp": "00:01:58.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -456,7 +456,7 @@
     "timestamp": "00:02:02.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -488,7 +488,7 @@
     "timestamp": "00:02:04.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -520,7 +520,7 @@
     "timestamp": "00:02:18.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -544,7 +544,7 @@
     "timestamp": "00:02:21.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -560,7 +560,7 @@
     "timestamp": "00:02:24.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -584,7 +584,7 @@
     "timestamp": "00:02:25.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -600,7 +600,7 @@
     "timestamp": "00:02:28.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -640,7 +640,7 @@
     "timestamp": "00:02:30.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -664,7 +664,7 @@
     "timestamp": "00:02:33.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -688,7 +688,7 @@
     "timestamp": "00:02:38.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -712,7 +712,7 @@
     "timestamp": "00:02:40.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -728,7 +728,7 @@
     "timestamp": "00:02:44.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -768,7 +768,7 @@
     "timestamp": "00:02:54.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -816,7 +816,7 @@
     "timestamp": "00:03:09.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -840,7 +840,7 @@
     "timestamp": "00:03:10.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -888,7 +888,7 @@
     "timestamp": "00:03:13.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -912,7 +912,7 @@
     "timestamp": "00:03:28.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -936,7 +936,7 @@
     "timestamp": "00:03:34.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -960,7 +960,7 @@
     "timestamp": "00:03:50.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -984,7 +984,7 @@
     "timestamp": "00:03:53.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:04:02.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -1072,7 +1072,7 @@
     "timestamp": "00:04:05.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -1104,7 +1104,7 @@
     "timestamp": "00:04:08.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:04:10.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:04:12.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -1176,7 +1176,7 @@
     "timestamp": "00:04:18.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:04:21.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:04:29.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:04:32.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1288,7 +1288,7 @@
     "timestamp": "00:04:36.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Anne Moorhouse",
     "player1_team": "West Ham United LFC",
@@ -1320,7 +1320,7 @@
     "timestamp": "00:04:39.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -1336,7 +1336,7 @@
     "timestamp": "00:04:42.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1360,7 +1360,7 @@
     "timestamp": "00:04:50.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -1384,7 +1384,7 @@
     "timestamp": "00:04:54.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1416,7 +1416,7 @@
     "timestamp": "00:04:58.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:05:17.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:05:21.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:05:25.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -1520,7 +1520,7 @@
     "timestamp": "00:05:27.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:05:29.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:05:45.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1632,7 +1632,7 @@
     "timestamp": "00:06:18.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -1656,7 +1656,7 @@
     "timestamp": "00:06:21.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1672,7 +1672,7 @@
     "timestamp": "00:06:22.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:06:57.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -1720,7 +1720,7 @@
     "timestamp": "00:07:00.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1752,7 +1752,7 @@
     "timestamp": "00:07:03.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:07:10.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -1824,7 +1824,7 @@
     "timestamp": "00:07:18.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:07:20.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -1864,7 +1864,7 @@
     "timestamp": "00:07:22.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:07:56.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -1912,7 +1912,7 @@
     "timestamp": "00:07:59.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1928,7 +1928,7 @@
     "timestamp": "00:08:02.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1992,7 +1992,7 @@
     "timestamp": "00:08:04.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -2024,7 +2024,7 @@
     "timestamp": "00:08:08.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:08:10.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -2088,7 +2088,7 @@
     "timestamp": "00:08:13.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -2112,7 +2112,7 @@
     "timestamp": "00:08:15.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:08:17.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -2160,7 +2160,7 @@
     "timestamp": "00:08:21.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -2192,7 +2192,7 @@
     "timestamp": "00:08:23.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:08:28.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:09:01.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:09:06.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:09:08.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -2312,7 +2312,7 @@
     "timestamp": "00:09:23.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:09:48.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:09:51.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -2384,7 +2384,7 @@
     "timestamp": "00:09:57.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:10:02.162"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:10:05.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:10:49.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -2480,7 +2480,7 @@
     "timestamp": "00:10:54.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -2504,7 +2504,7 @@
     "timestamp": "00:10:55.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -2528,7 +2528,7 @@
     "timestamp": "00:10:57.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:10:59.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2592,7 +2592,7 @@
     "timestamp": "00:11:03.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -2640,7 +2640,7 @@
     "timestamp": "00:11:07.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -2656,7 +2656,7 @@
     "timestamp": "00:11:45.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2688,7 +2688,7 @@
     "timestamp": "00:11:47.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:11:48.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:11:50.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:11:54.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -2792,7 +2792,7 @@
     "timestamp": "00:11:56.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:11:57.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -2840,7 +2840,7 @@
     "timestamp": "00:12:00.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -2864,7 +2864,7 @@
     "timestamp": "00:12:03.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -2888,7 +2888,7 @@
     "timestamp": "00:12:07.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2912,7 +2912,7 @@
     "timestamp": "00:12:14.345"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2928,7 +2928,7 @@
     "timestamp": "00:12:16.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -2976,7 +2976,7 @@
     "timestamp": "00:12:59.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:13:20.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3112,7 +3112,7 @@
     "timestamp": "00:13:26.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -3184,7 +3184,7 @@
     "timestamp": "00:13:35.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -3208,7 +3208,7 @@
     "timestamp": "00:13:38.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -3232,7 +3232,7 @@
     "timestamp": "00:13:39.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -3256,7 +3256,7 @@
     "timestamp": "00:13:43.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:13:48.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:14:05.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -3376,7 +3376,7 @@
     "timestamp": "00:14:08.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -3400,7 +3400,7 @@
     "timestamp": "00:14:14.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -3424,7 +3424,7 @@
     "timestamp": "00:14:16.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:14:22.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:14:26.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -3544,7 +3544,7 @@
     "timestamp": "00:14:28.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:14:29.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -3584,7 +3584,7 @@
     "timestamp": "00:14:51.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -3608,7 +3608,7 @@
     "timestamp": "00:14:52.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -3632,7 +3632,7 @@
     "timestamp": "00:14:54.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:14:55.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -3688,7 +3688,7 @@
     "timestamp": "00:14:56.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -3704,7 +3704,7 @@
     "timestamp": "00:15:00.648"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -3720,7 +3720,7 @@
     "timestamp": "00:15:02.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -3752,7 +3752,7 @@
     "timestamp": "00:15:06.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:15:12.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:15:15.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3856,7 +3856,7 @@
     "timestamp": "00:15:17.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3880,7 +3880,7 @@
     "timestamp": "00:15:21.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:15:25.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:15:27.114"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -3928,7 +3928,7 @@
     "timestamp": "00:15:27.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:16:02.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4000,7 +4000,7 @@
     "timestamp": "00:16:04.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:16:06.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -4048,7 +4048,7 @@
     "timestamp": "00:16:08.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:16:12.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:16:17.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -4152,7 +4152,7 @@
     "timestamp": "00:16:46.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -4176,7 +4176,7 @@
     "timestamp": "00:16:50.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -4200,7 +4200,7 @@
     "timestamp": "00:16:52.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4216,7 +4216,7 @@
     "timestamp": "00:16:54.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -4240,7 +4240,7 @@
     "timestamp": "00:17:08.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:17:12.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4288,7 +4288,7 @@
     "timestamp": "00:17:13.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -4320,7 +4320,7 @@
     "timestamp": "00:17:17.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -4344,7 +4344,7 @@
     "timestamp": "00:17:18.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -4368,7 +4368,7 @@
     "timestamp": "00:17:20.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:17:22.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -4416,7 +4416,7 @@
     "timestamp": "00:17:25.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4448,7 +4448,7 @@
     "timestamp": "00:17:30.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -4472,7 +4472,7 @@
     "timestamp": "00:17:31.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -4536,7 +4536,7 @@
     "timestamp": "00:17:56.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4584,7 +4584,7 @@
     "timestamp": "00:18:01.461"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4600,7 +4600,7 @@
     "timestamp": "00:18:02.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -4624,7 +4624,7 @@
     "timestamp": "00:18:44.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4648,7 +4648,7 @@
     "timestamp": "00:18:46.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -4688,7 +4688,7 @@
     "timestamp": "00:18:50.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -4712,7 +4712,7 @@
     "timestamp": "00:18:51.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:18:53.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:18:55.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:18:58.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -4840,7 +4840,7 @@
     "timestamp": "00:19:03.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -4864,7 +4864,7 @@
     "timestamp": "00:19:06.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -4888,7 +4888,7 @@
     "timestamp": "00:19:11.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -4912,7 +4912,7 @@
     "timestamp": "00:19:14.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -4936,7 +4936,7 @@
     "timestamp": "00:19:17.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -4960,7 +4960,7 @@
     "timestamp": "00:19:20.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4984,7 +4984,7 @@
     "timestamp": "00:19:23.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:19:26.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:19:28.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:19:36.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:19:39.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -5128,7 +5128,7 @@
     "timestamp": "00:19:41.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -5160,7 +5160,7 @@
     "timestamp": "00:19:48.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -5184,7 +5184,7 @@
     "timestamp": "00:19:51.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -5216,7 +5216,7 @@
     "timestamp": "00:19:54.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:19:56.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:19:59.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:20:01.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -5312,7 +5312,7 @@
     "timestamp": "00:20:03.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:20:04.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5360,7 +5360,7 @@
     "timestamp": "00:20:05.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:20:08.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5408,7 +5408,7 @@
     "timestamp": "00:20:10.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -5440,7 +5440,7 @@
     "timestamp": "00:20:13.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:20:16.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:20:21.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:20:37.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:20:41.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:20:57.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:21:01.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -5640,7 +5640,7 @@
     "timestamp": "00:21:07.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -5696,7 +5696,7 @@
     "timestamp": "00:21:15.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -5720,7 +5720,7 @@
     "timestamp": "00:21:19.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -5736,7 +5736,7 @@
     "timestamp": "00:21:37.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5760,7 +5760,7 @@
     "timestamp": "00:21:38.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:21:40.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:21:43.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:21:46.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -5912,7 +5912,7 @@
     "timestamp": "00:21:54.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -5952,7 +5952,7 @@
     "timestamp": "00:22:27.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -6000,7 +6000,7 @@
     "timestamp": "00:22:30.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6024,7 +6024,7 @@
     "timestamp": "00:22:58.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -6040,7 +6040,7 @@
     "timestamp": "00:23:01.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -6056,7 +6056,7 @@
     "timestamp": "00:23:02.899"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:23:26.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -6104,7 +6104,7 @@
     "timestamp": "00:23:57.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -6128,7 +6128,7 @@
     "timestamp": "00:24:00.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:24:03.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:24:22.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:24:29.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -6344,7 +6344,7 @@
     "timestamp": "00:24:31.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -6368,7 +6368,7 @@
     "timestamp": "00:24:37.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:24:39.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:25:18.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:26:09.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:26:15.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -6504,7 +6504,7 @@
     "timestamp": "00:26:23.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:26:25.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:26:28.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -6584,7 +6584,7 @@
     "timestamp": "00:26:30.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:26:31.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:26:54.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -6640,7 +6640,7 @@
     "timestamp": "00:26:58.593"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:27:01.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -6688,7 +6688,7 @@
     "timestamp": "00:27:10.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -6728,7 +6728,7 @@
     "timestamp": "00:27:19.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -6744,7 +6744,7 @@
     "timestamp": "00:27:25.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:27:29.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -6800,7 +6800,7 @@
     "timestamp": "00:27:32.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -6824,7 +6824,7 @@
     "timestamp": "00:27:36.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:27:38.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:27:43.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:27:50.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:27:52.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6992,7 +6992,7 @@
     "timestamp": "00:27:55.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -7016,7 +7016,7 @@
     "timestamp": "00:27:57.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7064,7 +7064,7 @@
     "timestamp": "00:28:03.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -7096,7 +7096,7 @@
     "timestamp": "00:28:11.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:28:14.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -7152,7 +7152,7 @@
     "timestamp": "00:28:16.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:28:23.021"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -7248,7 +7248,7 @@
     "timestamp": "00:28:31.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -7272,7 +7272,7 @@
     "timestamp": "00:28:32.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -7296,7 +7296,7 @@
     "timestamp": "00:28:35.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -7320,7 +7320,7 @@
     "timestamp": "00:28:39.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -7344,7 +7344,7 @@
     "timestamp": "00:28:41.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:28:48.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:28:55.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:28:56.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -7472,7 +7472,7 @@
     "timestamp": "00:29:05.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -7504,7 +7504,7 @@
     "timestamp": "00:29:11.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -7528,7 +7528,7 @@
     "timestamp": "00:29:13.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -7552,7 +7552,7 @@
     "timestamp": "00:29:15.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -7576,7 +7576,7 @@
     "timestamp": "00:29:18.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:29:20.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -7640,7 +7640,7 @@
     "timestamp": "00:29:21.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:29:25.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7704,7 +7704,7 @@
     "timestamp": "00:29:28.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7728,7 +7728,7 @@
     "timestamp": "00:29:33.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -7752,7 +7752,7 @@
     "timestamp": "00:29:39.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:29:48.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:29:50.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -7848,7 +7848,7 @@
     "timestamp": "00:29:53.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:29:57.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -7896,7 +7896,7 @@
     "timestamp": "00:30:01.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leanne Kiernan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:30:01.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:30:03.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -7952,7 +7952,7 @@
     "timestamp": "00:30:05.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -7976,7 +7976,7 @@
     "timestamp": "00:30:09.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -8000,7 +8000,7 @@
     "timestamp": "00:30:13.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -8024,7 +8024,7 @@
     "timestamp": "00:30:15.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8048,7 +8048,7 @@
     "timestamp": "00:30:18.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8088,7 +8088,7 @@
     "timestamp": "00:30:22.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -8112,7 +8112,7 @@
     "timestamp": "00:30:25.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -8136,7 +8136,7 @@
     "timestamp": "00:30:28.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -8160,7 +8160,7 @@
     "timestamp": "00:30:32.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:30:34.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:30:37.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:30:41.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:30:44.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:30:49.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:30:54.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:31:34.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:31:36.841"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:31:39.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -8456,7 +8456,7 @@
     "timestamp": "00:31:41.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:31:42.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -8496,7 +8496,7 @@
     "timestamp": "00:32:15.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8528,7 +8528,7 @@
     "timestamp": "00:32:25.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -8552,7 +8552,7 @@
     "timestamp": "00:32:28.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:32:31.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:32:36.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:32:39.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -8648,7 +8648,7 @@
     "timestamp": "00:32:43.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:32:48.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:33:06.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:33:09.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:33:15.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:33:26.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -8824,7 +8824,7 @@
     "timestamp": "00:33:50.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:33:59.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:34:00.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:34:03.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -8920,7 +8920,7 @@
     "timestamp": "00:34:11.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:34:15.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8968,7 +8968,7 @@
     "timestamp": "00:34:19.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -9000,7 +9000,7 @@
     "timestamp": "00:34:24.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -9024,7 +9024,7 @@
     "timestamp": "00:34:27.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:34:30.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -9072,7 +9072,7 @@
     "timestamp": "00:34:34.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9096,7 +9096,7 @@
     "timestamp": "00:34:39.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -9176,7 +9176,7 @@
     "timestamp": "00:34:43.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -9224,7 +9224,7 @@
     "timestamp": "00:35:23.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -9248,7 +9248,7 @@
     "timestamp": "00:35:26.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9272,7 +9272,7 @@
     "timestamp": "00:35:28.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -9304,7 +9304,7 @@
     "timestamp": "00:35:34.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9328,7 +9328,7 @@
     "timestamp": "00:35:37.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -9344,7 +9344,7 @@
     "timestamp": "00:35:41.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:35:45.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -9392,7 +9392,7 @@
     "timestamp": "00:35:47.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:35:48.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -9432,7 +9432,7 @@
     "timestamp": "00:35:49.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -9464,7 +9464,7 @@
     "timestamp": "00:35:52.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:35:54.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -9520,7 +9520,7 @@
     "timestamp": "00:35:58.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -9568,7 +9568,7 @@
     "timestamp": "00:36:04.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:36:06.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:36:09.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -9632,7 +9632,7 @@
     "timestamp": "00:36:13.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:36:14.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -9688,7 +9688,7 @@
     "timestamp": "00:36:29.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -9744,7 +9744,7 @@
     "timestamp": "00:36:40.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -9848,7 +9848,7 @@
     "timestamp": "00:36:49.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -9872,7 +9872,7 @@
     "timestamp": "00:36:51.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -9880,7 +9880,7 @@
     "timestamp": "00:36:53.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -9904,7 +9904,7 @@
     "timestamp": "00:36:55.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -9928,7 +9928,7 @@
     "timestamp": "00:36:58.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9952,7 +9952,7 @@
     "timestamp": "00:37:03.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:37:09.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:37:15.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -10032,7 +10032,7 @@
     "timestamp": "00:37:19.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -10048,7 +10048,7 @@
     "timestamp": "00:37:23.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -10088,7 +10088,7 @@
     "timestamp": "00:37:31.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -10112,7 +10112,7 @@
     "timestamp": "00:37:58.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10144,7 +10144,7 @@
     "timestamp": "00:38:05.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:38:07.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10208,7 +10208,7 @@
     "timestamp": "00:38:09.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:38:15.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -10256,7 +10256,7 @@
     "timestamp": "00:38:18.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -10288,7 +10288,7 @@
     "timestamp": "00:38:21.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -10312,7 +10312,7 @@
     "timestamp": "00:38:23.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:38:25.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -10376,7 +10376,7 @@
     "timestamp": "00:38:27.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:38:29.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:38:34.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -10496,7 +10496,7 @@
     "timestamp": "00:38:56.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -10528,7 +10528,7 @@
     "timestamp": "00:39:35.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10560,7 +10560,7 @@
     "timestamp": "00:40:24.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:40:26.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:40:38.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:40:43.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -10712,7 +10712,7 @@
     "timestamp": "00:41:24.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:41:50.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:41:53.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10816,7 +10816,7 @@
     "timestamp": "00:42:25.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -10840,7 +10840,7 @@
     "timestamp": "00:42:29.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10864,7 +10864,7 @@
     "timestamp": "00:42:37.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:42:40.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -10912,7 +10912,7 @@
     "timestamp": "00:42:43.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -10936,7 +10936,7 @@
     "timestamp": "00:42:47.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -10960,7 +10960,7 @@
     "timestamp": "00:42:49.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:42:51.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -11024,7 +11024,7 @@
     "timestamp": "00:42:53.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:42:56.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -11096,7 +11096,7 @@
     "timestamp": "00:42:58.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11128,7 +11128,7 @@
     "timestamp": "00:43:00.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -11136,7 +11136,7 @@
     "timestamp": "00:43:01.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:43:10.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11184,7 +11184,7 @@
     "timestamp": "00:43:13.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -11208,7 +11208,7 @@
     "timestamp": "00:43:16.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11232,7 +11232,7 @@
     "timestamp": "00:43:18.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -11248,7 +11248,7 @@
     "timestamp": "00:43:22.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:43:23.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:43:28.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -11328,7 +11328,7 @@
     "timestamp": "00:43:44.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:43:47.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:43:49.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -11408,7 +11408,7 @@
     "timestamp": "00:43:52.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:43:55.706"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:43:56.745"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11464,7 +11464,7 @@
     "timestamp": "00:43:57.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -11488,7 +11488,7 @@
     "timestamp": "00:44:32.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -11504,7 +11504,7 @@
     "timestamp": "00:44:33.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:44:43.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:44:46.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:44:50.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -11656,7 +11656,7 @@
     "timestamp": "00:44:52.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -11688,7 +11688,7 @@
     "timestamp": "00:44:56.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11712,7 +11712,7 @@
     "timestamp": "00:44:58.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -11736,7 +11736,7 @@
     "timestamp": "00:45:02.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -11752,7 +11752,7 @@
     "timestamp": "00:45:06.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -11776,7 +11776,7 @@
     "timestamp": "00:45:08.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -11800,7 +11800,7 @@
     "timestamp": "00:45:11.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:45:14.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:45:19.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:45:26.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11912,7 +11912,7 @@
     "timestamp": "00:45:28.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -11936,7 +11936,7 @@
     "timestamp": "00:45:31.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -12008,7 +12008,7 @@
     "timestamp": "00:45:39.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -12032,7 +12032,7 @@
     "timestamp": "00:45:42.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -12056,7 +12056,7 @@
     "timestamp": "00:45:44.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12072,7 +12072,7 @@
     "timestamp": "00:45:46.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:45:50.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -12120,7 +12120,7 @@
     "timestamp": "00:45:56.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:00:00.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -12168,7 +12168,7 @@
     "timestamp": "00:00:01.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:00:08.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:00:12.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:00:31.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -12336,7 +12336,7 @@
     "timestamp": "00:00:35.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:00:36.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -12376,7 +12376,7 @@
     "timestamp": "00:00:43.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -12400,7 +12400,7 @@
     "timestamp": "00:00:46.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -12416,7 +12416,7 @@
     "timestamp": "00:00:50.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -12432,7 +12432,7 @@
     "timestamp": "00:00:51.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -12464,7 +12464,7 @@
     "timestamp": "00:00:52.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:00:54.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -12504,7 +12504,7 @@
     "timestamp": "00:00:54.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:00:57.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -12576,7 +12576,7 @@
     "timestamp": "00:00:59.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -12592,7 +12592,7 @@
     "timestamp": "00:01:22.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -12616,7 +12616,7 @@
     "timestamp": "00:01:36.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:01:42.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -12680,7 +12680,7 @@
     "timestamp": "00:01:44.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:01:48.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -12776,7 +12776,7 @@
     "timestamp": "00:01:53.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -12800,7 +12800,7 @@
     "timestamp": "00:01:56.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -12816,7 +12816,7 @@
     "timestamp": "00:01:58.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -12840,7 +12840,7 @@
     "timestamp": "00:01:59.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12872,7 +12872,7 @@
     "timestamp": "00:02:07.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:02:16.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -12920,7 +12920,7 @@
     "timestamp": "00:02:19.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -12944,7 +12944,7 @@
     "timestamp": "00:02:24.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12968,7 +12968,7 @@
     "timestamp": "00:02:31.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -13008,7 +13008,7 @@
     "timestamp": "00:02:54.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -13056,7 +13056,7 @@
     "timestamp": "00:03:13.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -13080,7 +13080,7 @@
     "timestamp": "00:03:17.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -13104,7 +13104,7 @@
     "timestamp": "00:03:18.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -13128,7 +13128,7 @@
     "timestamp": "00:03:21.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:03:26.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:03:45.699"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:03:50.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -13280,7 +13280,7 @@
     "timestamp": "00:03:55.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -13296,7 +13296,7 @@
     "timestamp": "00:03:59.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -13320,7 +13320,7 @@
     "timestamp": "00:04:01.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:04:09.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:04:17.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:04:26.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:04:28.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -13416,7 +13416,7 @@
     "timestamp": "00:04:32.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -13504,7 +13504,7 @@
     "timestamp": "00:05:29.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:05:31.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -13560,7 +13560,7 @@
     "timestamp": "00:05:34.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -13576,7 +13576,7 @@
     "timestamp": "00:05:36.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13608,7 +13608,7 @@
     "timestamp": "00:05:59.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -13624,7 +13624,7 @@
     "timestamp": "00:06:02.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -13656,7 +13656,7 @@
     "timestamp": "00:06:04.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -13696,7 +13696,7 @@
     "timestamp": "00:06:07.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:06:10.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13728,7 +13728,7 @@
     "timestamp": "00:06:44.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:06:52.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:06:54.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:06:56.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -13888,7 +13888,7 @@
     "timestamp": "00:06:58.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13912,7 +13912,7 @@
     "timestamp": "00:07:02.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -13936,7 +13936,7 @@
     "timestamp": "00:07:12.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13960,7 +13960,7 @@
     "timestamp": "00:07:14.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -14000,7 +14000,7 @@
     "timestamp": "00:07:20.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14008,7 +14008,7 @@
     "timestamp": "00:07:20.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -14032,7 +14032,7 @@
     "timestamp": "00:07:23.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14088,7 +14088,7 @@
     "timestamp": "00:07:28.572"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:07:30.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:08:39.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14144,7 +14144,7 @@
     "timestamp": "00:08:40.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -14176,7 +14176,7 @@
     "timestamp": "00:09:15.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -14200,7 +14200,7 @@
     "timestamp": "00:09:20.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:09:26.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14264,7 +14264,7 @@
     "timestamp": "00:09:28.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -14328,7 +14328,7 @@
     "timestamp": "00:09:41.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14352,7 +14352,7 @@
     "timestamp": "00:10:06.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -14376,7 +14376,7 @@
     "timestamp": "00:10:09.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14400,7 +14400,7 @@
     "timestamp": "00:10:12.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:10:17.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -14504,7 +14504,7 @@
     "timestamp": "00:10:22.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14536,7 +14536,7 @@
     "timestamp": "00:10:25.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:10:27.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:10:32.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:10:34.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:10:37.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:10:41.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:10:43.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -14744,7 +14744,7 @@
     "timestamp": "00:11:20.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:11:21.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:11:45.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -14816,7 +14816,7 @@
     "timestamp": "00:11:47.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -14840,7 +14840,7 @@
     "timestamp": "00:11:51.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:11:58.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:12:01.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -14952,7 +14952,7 @@
     "timestamp": "00:12:05.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:12:24.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -15008,7 +15008,7 @@
     "timestamp": "00:12:29.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15032,7 +15032,7 @@
     "timestamp": "00:12:30.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -15064,7 +15064,7 @@
     "timestamp": "00:12:35.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15136,7 +15136,7 @@
     "timestamp": "00:12:39.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:12:43.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15232,7 +15232,7 @@
     "timestamp": "00:12:46.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -15328,7 +15328,7 @@
     "timestamp": "00:15:29.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:16:04.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -15360,7 +15360,7 @@
     "timestamp": "00:16:35.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:16:36.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:16:39.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -15416,7 +15416,7 @@
     "timestamp": "00:16:42.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -15448,7 +15448,7 @@
     "timestamp": "00:16:43.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -15472,7 +15472,7 @@
     "timestamp": "00:16:46.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -15520,7 +15520,7 @@
     "timestamp": "00:16:51.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:16:53.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:16:56.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:17:20.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:17:21.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15664,7 +15664,7 @@
     "timestamp": "00:17:26.015"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15680,7 +15680,7 @@
     "timestamp": "00:17:30.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -15704,7 +15704,7 @@
     "timestamp": "00:18:28.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:18:32.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -15776,7 +15776,7 @@
     "timestamp": "00:18:39.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:18:47.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:18:50.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:18:53.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15856,7 +15856,7 @@
     "timestamp": "00:18:55.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -15872,7 +15872,7 @@
     "timestamp": "00:18:59.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -15896,7 +15896,7 @@
     "timestamp": "00:19:00.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:19:02.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:19:04.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -15992,7 +15992,7 @@
     "timestamp": "00:19:08.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:19:12.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -16040,7 +16040,7 @@
     "timestamp": "00:19:13.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:19:18.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:19:48.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:19:53.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -16160,7 +16160,7 @@
     "timestamp": "00:19:59.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:20:03.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16240,7 +16240,7 @@
     "timestamp": "00:20:07.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -16264,7 +16264,7 @@
     "timestamp": "00:20:28.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:20:51.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -16312,7 +16312,7 @@
     "timestamp": "00:21:09.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16336,7 +16336,7 @@
     "timestamp": "00:21:11.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:21:23.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:21:26.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16408,7 +16408,7 @@
     "timestamp": "00:21:28.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -16440,7 +16440,7 @@
     "timestamp": "00:21:29.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16488,7 +16488,7 @@
     "timestamp": "00:21:49.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16512,7 +16512,7 @@
     "timestamp": "00:21:51.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:21:57.447"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:22:15.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -16608,7 +16608,7 @@
     "timestamp": "00:22:33.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:23:04.348"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:23:10.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:23:15.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:23:18.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16808,7 +16808,7 @@
     "timestamp": "00:23:52.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:23:56.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -16856,7 +16856,7 @@
     "timestamp": "00:23:57.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16888,7 +16888,7 @@
     "timestamp": "00:24:00.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -16912,7 +16912,7 @@
     "timestamp": "00:24:03.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16936,7 +16936,7 @@
     "timestamp": "00:24:06.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -16976,7 +16976,7 @@
     "timestamp": "00:24:14.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -17000,7 +17000,7 @@
     "timestamp": "00:24:16.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17032,7 +17032,7 @@
     "timestamp": "00:24:24.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:24:31.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:24:35.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:24:39.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:24:57.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -17208,7 +17208,7 @@
     "timestamp": "00:25:04.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Anne Moorhouse",
     "player1_team": "West Ham United LFC",
@@ -17240,7 +17240,7 @@
     "timestamp": "00:25:05.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17248,7 +17248,7 @@
     "timestamp": "00:25:05.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -17272,7 +17272,7 @@
     "timestamp": "00:25:30.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -17296,7 +17296,7 @@
     "timestamp": "00:25:31.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:25:33.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:25:35.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17376,7 +17376,7 @@
     "timestamp": "00:25:37.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:25:41.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:25:44.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:25:46.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17472,7 +17472,7 @@
     "timestamp": "00:26:04.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -17520,7 +17520,7 @@
     "timestamp": "00:26:10.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17568,7 +17568,7 @@
     "timestamp": "00:27:16.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -17616,7 +17616,7 @@
     "timestamp": "00:27:22.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17640,7 +17640,7 @@
     "timestamp": "00:27:24.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -17672,7 +17672,7 @@
     "timestamp": "00:27:30.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -17696,7 +17696,7 @@
     "timestamp": "00:27:36.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -17736,7 +17736,7 @@
     "timestamp": "00:27:42.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:27:45.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -17792,7 +17792,7 @@
     "timestamp": "00:27:47.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:27:52.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:28:01.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17872,7 +17872,7 @@
     "timestamp": "00:28:06.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -17920,7 +17920,7 @@
     "timestamp": "00:28:11.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:28:55.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18000,7 +18000,7 @@
     "timestamp": "00:29:25.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18024,7 +18024,7 @@
     "timestamp": "00:29:29.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18056,7 +18056,7 @@
     "timestamp": "00:29:31.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18120,7 +18120,7 @@
     "timestamp": "00:29:38.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18152,7 +18152,7 @@
     "timestamp": "00:29:41.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Anne Moorhouse",
     "player1_team": "West Ham United LFC",
@@ -18176,7 +18176,7 @@
     "timestamp": "00:31:15.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -18200,7 +18200,7 @@
     "timestamp": "00:31:22.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -18240,7 +18240,7 @@
     "timestamp": "00:31:43.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -18288,7 +18288,7 @@
     "timestamp": "00:32:02.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18304,7 +18304,7 @@
     "timestamp": "00:32:06.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -18328,7 +18328,7 @@
     "timestamp": "00:32:26.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -18352,7 +18352,7 @@
     "timestamp": "00:32:30.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -18376,7 +18376,7 @@
     "timestamp": "00:32:34.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18408,7 +18408,7 @@
     "timestamp": "00:32:35.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18424,7 +18424,7 @@
     "timestamp": "00:32:36.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:32:38.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18480,7 +18480,7 @@
     "timestamp": "00:32:40.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -18512,7 +18512,7 @@
     "timestamp": "00:32:45.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:32:46.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:33:07.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:33:28.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18576,7 +18576,7 @@
     "timestamp": "00:33:28.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -18600,7 +18600,7 @@
     "timestamp": "00:33:31.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -18624,7 +18624,7 @@
     "timestamp": "00:33:35.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -18648,7 +18648,7 @@
     "timestamp": "00:33:37.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -18696,7 +18696,7 @@
     "timestamp": "00:33:43.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -18712,7 +18712,7 @@
     "timestamp": "00:33:57.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:33:58.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -18776,7 +18776,7 @@
     "timestamp": "00:34:17.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18784,7 +18784,7 @@
     "timestamp": "00:34:46.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Ruesha Littlejohn",
     "player1_team": "West Ham United LFC",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:35:12.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:35:12.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18880,7 +18880,7 @@
     "timestamp": "00:35:29.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:35:31.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18920,7 +18920,7 @@
     "timestamp": "00:35:33.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:35:35.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -19008,7 +19008,7 @@
     "timestamp": "00:35:41.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruesha Littlejohn",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -19048,7 +19048,7 @@
     "timestamp": "00:35:46.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -19072,7 +19072,7 @@
     "timestamp": "00:35:50.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -19112,7 +19112,7 @@
     "timestamp": "00:35:58.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -19136,7 +19136,7 @@
     "timestamp": "00:36:01.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:36:32.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:36:35.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -19240,7 +19240,7 @@
     "timestamp": "00:36:38.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -19280,7 +19280,7 @@
     "timestamp": "00:36:43.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruesha Littlejohn",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -19304,7 +19304,7 @@
     "timestamp": "00:36:45.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -19336,7 +19336,7 @@
     "timestamp": "00:36:48.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -19384,7 +19384,7 @@
     "timestamp": "00:36:54.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:37:00.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:37:07.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:37:10.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -19512,7 +19512,7 @@
     "timestamp": "00:37:11.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -19536,7 +19536,7 @@
     "timestamp": "00:37:14.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -19560,7 +19560,7 @@
     "timestamp": "00:37:19.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19624,7 +19624,7 @@
     "timestamp": "00:37:27.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:37:30.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -19664,7 +19664,7 @@
     "timestamp": "00:37:31.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -19688,7 +19688,7 @@
     "timestamp": "00:37:33.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -19720,7 +19720,7 @@
     "timestamp": "00:37:38.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19736,7 +19736,7 @@
     "timestamp": "00:37:41.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19752,7 +19752,7 @@
     "timestamp": "00:37:43.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:37:44.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachael Laws",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:38:14.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:38:18.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:38:20.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -19872,7 +19872,7 @@
     "timestamp": "00:38:20.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19896,7 +19896,7 @@
     "timestamp": "00:38:32.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -19928,7 +19928,7 @@
     "timestamp": "00:38:33.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -19952,7 +19952,7 @@
     "timestamp": "00:38:36.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -19960,7 +19960,7 @@
     "timestamp": "00:38:36.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19984,7 +19984,7 @@
     "timestamp": "00:38:39.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachael Laws",
     "player1_team": "Reading WFC",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:38:42.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:38:48.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -20040,7 +20040,7 @@
     "timestamp": "00:39:01.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:39:04.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -20072,7 +20072,7 @@
     "timestamp": "00:39:07.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:39:09.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Ruesha Littlejohn",
     "player1_team": "West Ham United LFC",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:39:16.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Ruesha Littlejohn",
     "player1_team": "West Ham United LFC",
@@ -20200,7 +20200,7 @@
     "timestamp": "00:39:38.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -20232,7 +20232,7 @@
     "timestamp": "00:39:43.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -20256,7 +20256,7 @@
     "timestamp": "00:39:44.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:39:47.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -20336,7 +20336,7 @@
     "timestamp": "00:39:52.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -20360,7 +20360,7 @@
     "timestamp": "00:40:02.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -20392,7 +20392,7 @@
     "timestamp": "00:40:07.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:40:11.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:40:14.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Anne Moorhouse",
     "player1_team": "West Ham United LFC",
@@ -20464,7 +20464,7 @@
     "timestamp": "00:40:21.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -20472,7 +20472,7 @@
     "timestamp": "00:40:22.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -20496,7 +20496,7 @@
     "timestamp": "00:40:28.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -20544,7 +20544,7 @@
     "timestamp": "00:40:46.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -20568,7 +20568,7 @@
     "timestamp": "00:40:49.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:40:51.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20600,7 +20600,7 @@
     "timestamp": "00:40:55.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -20632,7 +20632,7 @@
     "timestamp": "00:41:05.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20656,7 +20656,7 @@
     "timestamp": "00:41:08.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -20680,7 +20680,7 @@
     "timestamp": "00:41:11.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Anne Moorhouse",
     "player1_team": "West Ham United LFC",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:41:14.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:41:17.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -20744,7 +20744,7 @@
     "timestamp": "00:41:20.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -20768,7 +20768,7 @@
     "timestamp": "00:41:22.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:41:25.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:41:29.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Ruesha Littlejohn",
     "player1_team": "West Ham United LFC",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:41:31.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruesha Littlejohn",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -20912,7 +20912,7 @@
     "timestamp": "00:41:35.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "Ruesha Littlejohn",
     "player1_team": "West Ham United LFC",
@@ -20936,7 +20936,7 @@
     "timestamp": "00:42:28.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachael Laws",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -20960,7 +20960,7 @@
     "timestamp": "00:42:42.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Ruesha Littlejohn",
     "player1_team": "West Ham United LFC",
@@ -20984,7 +20984,7 @@
     "timestamp": "00:42:43.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruesha Littlejohn",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:42:43.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21016,7 +21016,7 @@
     "timestamp": "00:42:45.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:42:53.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21112,7 +21112,7 @@
     "timestamp": "00:43:10.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -21136,7 +21136,7 @@
     "timestamp": "00:43:11.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -21144,7 +21144,7 @@
     "timestamp": "00:43:11.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -21192,7 +21192,7 @@
     "timestamp": "00:43:24.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -21216,7 +21216,7 @@
     "timestamp": "00:43:40.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -21248,7 +21248,7 @@
     "timestamp": "00:43:41.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:43:41.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -21288,7 +21288,7 @@
     "timestamp": "00:44:08.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:44:14.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Ruesha Littlejohn",
     "player1_team": "West Ham United LFC",
@@ -21384,7 +21384,7 @@
     "timestamp": "00:44:29.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruesha Littlejohn",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -21408,7 +21408,7 @@
     "timestamp": "00:44:31.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21440,7 +21440,7 @@
     "timestamp": "00:44:33.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -21448,7 +21448,7 @@
     "timestamp": "00:44:33.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -21464,7 +21464,7 @@
     "timestamp": "00:44:37.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -21488,7 +21488,7 @@
     "timestamp": "00:44:38.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21504,7 +21504,7 @@
     "timestamp": "00:44:42.476"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:44:43.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anne Moorhouse",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -21536,7 +21536,7 @@
     "timestamp": "00:44:51.119"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -21560,7 +21560,7 @@
     "timestamp": "00:44:57.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -21576,7 +21576,7 @@
     "timestamp": "00:45:00.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -21608,7 +21608,7 @@
     "timestamp": "00:45:02.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -21656,7 +21656,7 @@
     "timestamp": "00:45:05.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -21680,7 +21680,7 @@
     "timestamp": "00:45:07.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -21712,7 +21712,7 @@
     "timestamp": "00:45:09.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21736,7 +21736,7 @@
     "timestamp": "00:45:12.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21760,7 +21760,7 @@
     "timestamp": "00:45:13.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21784,7 +21784,7 @@
     "timestamp": "00:45:16.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -21832,7 +21832,7 @@
     "timestamp": "00:45:20.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -21856,7 +21856,7 @@
     "timestamp": "00:45:29.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -21872,7 +21872,7 @@
     "timestamp": "00:45:34.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:45:38.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21952,7 +21952,7 @@
     "timestamp": "00:45:51.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21984,7 +21984,7 @@
     "timestamp": "00:46:49.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -22032,7 +22032,7 @@
     "timestamp": "00:46:54.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -22080,7 +22080,7 @@
     "timestamp": "00:47:14.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:47:31.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22184,7 +22184,7 @@
     "timestamp": "00:47:37.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22248,7 +22248,7 @@
     "timestamp": "00:48:11.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anne Moorhouse",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:48:28.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -22312,7 +22312,7 @@
     "timestamp": "00:48:39.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -22352,7 +22352,7 @@
     "timestamp": "00:48:55.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -22384,7 +22384,7 @@
     "timestamp": "00:49:16.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -22432,7 +22432,7 @@
     "timestamp": "00:49:29.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -22464,7 +22464,7 @@
     "timestamp": "00:49:45.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -22488,7 +22488,7 @@
     "timestamp": "00:49:47.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22504,7 +22504,7 @@
     "timestamp": "00:49:47.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -22552,7 +22552,7 @@
     "timestamp": "00:49:59.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",

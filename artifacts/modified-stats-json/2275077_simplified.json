@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -40,7 +40,7 @@
     "timestamp": "00:00:06.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -72,7 +72,7 @@
     "timestamp": "00:00:08.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -96,7 +96,7 @@
     "timestamp": "00:00:10.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -160,7 +160,7 @@
     "timestamp": "00:00:16.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -192,7 +192,7 @@
     "timestamp": "00:00:18.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -216,7 +216,7 @@
     "timestamp": "00:00:21.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -248,7 +248,7 @@
     "timestamp": "00:00:23.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -288,7 +288,7 @@
     "timestamp": "00:00:26.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -328,7 +328,7 @@
     "timestamp": "00:00:29.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -344,7 +344,7 @@
     "timestamp": "00:00:31.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -392,7 +392,7 @@
     "timestamp": "00:00:34.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -408,7 +408,7 @@
     "timestamp": "00:00:38.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -432,7 +432,7 @@
     "timestamp": "00:00:41.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -464,7 +464,7 @@
     "timestamp": "00:00:47.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -480,7 +480,7 @@
     "timestamp": "00:00:50.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -488,7 +488,7 @@
     "timestamp": "00:00:50.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -512,7 +512,7 @@
     "timestamp": "00:01:00.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -528,7 +528,7 @@
     "timestamp": "00:01:03.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -552,7 +552,7 @@
     "timestamp": "00:01:03.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -576,7 +576,7 @@
     "timestamp": "00:01:06.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -600,7 +600,7 @@
     "timestamp": "00:01:22.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -624,7 +624,7 @@
     "timestamp": "00:01:25.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -696,7 +696,7 @@
     "timestamp": "00:01:35.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -728,7 +728,7 @@
     "timestamp": "00:01:47.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -744,7 +744,7 @@
     "timestamp": "00:01:50.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -768,7 +768,7 @@
     "timestamp": "00:01:51.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -792,7 +792,7 @@
     "timestamp": "00:01:54.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -816,7 +816,7 @@
     "timestamp": "00:01:56.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -840,7 +840,7 @@
     "timestamp": "00:01:58.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -872,7 +872,7 @@
     "timestamp": "00:02:03.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -888,7 +888,7 @@
     "timestamp": "00:02:07.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -944,7 +944,7 @@
     "timestamp": "00:02:10.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -968,7 +968,7 @@
     "timestamp": "00:02:13.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -984,7 +984,7 @@
     "timestamp": "00:02:18.913"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ria Percival",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -1000,7 +1000,7 @@
     "timestamp": "00:02:20.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:03:07.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -1096,7 +1096,7 @@
     "timestamp": "00:03:11.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:03:29.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:03:49.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -1184,7 +1184,7 @@
     "timestamp": "00:03:51.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -1256,7 +1256,7 @@
     "timestamp": "00:03:56.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:03:59.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -1304,7 +1304,7 @@
     "timestamp": "00:04:01.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:04:04.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -1376,7 +1376,7 @@
     "timestamp": "00:04:10.412"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Adriana Kristina Leon",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:04:10.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -1432,7 +1432,7 @@
     "timestamp": "00:04:54.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:04:56.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:05:01.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adriana Kristina Leon",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:05:01.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -1528,7 +1528,7 @@
     "timestamp": "00:05:58.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:06:00.349"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Martha Thomas",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -1576,7 +1576,7 @@
     "timestamp": "00:06:02.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -1600,7 +1600,7 @@
     "timestamp": "00:06:08.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:06:14.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -1632,7 +1632,7 @@
     "timestamp": "00:06:48.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:06:50.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:06:52.810"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -1752,7 +1752,7 @@
     "timestamp": "00:08:09.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -1776,7 +1776,7 @@
     "timestamp": "00:08:25.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -1816,7 +1816,7 @@
     "timestamp": "00:10:09.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -1832,7 +1832,7 @@
     "timestamp": "00:10:20.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -1856,7 +1856,7 @@
     "timestamp": "00:10:22.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:10:33.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:10:34.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -1944,7 +1944,7 @@
     "timestamp": "00:10:35.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -1968,7 +1968,7 @@
     "timestamp": "00:10:37.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -1992,7 +1992,7 @@
     "timestamp": "00:10:40.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -2008,7 +2008,7 @@
     "timestamp": "00:10:44.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -2016,7 +2016,7 @@
     "timestamp": "00:10:44.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -2040,7 +2040,7 @@
     "timestamp": "00:10:47.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:10:50.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -2128,7 +2128,7 @@
     "timestamp": "00:11:00.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:11:03.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:11:04.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -2192,7 +2192,7 @@
     "timestamp": "00:11:07.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:11:11.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -2248,7 +2248,7 @@
     "timestamp": "00:11:14.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:11:16.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:11:17.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:11:20.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -2368,7 +2368,7 @@
     "timestamp": "00:11:54.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -2392,7 +2392,7 @@
     "timestamp": "00:11:57.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:11:59.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -2440,7 +2440,7 @@
     "timestamp": "00:12:02.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -2456,7 +2456,7 @@
     "timestamp": "00:12:03.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:12:19.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -2512,7 +2512,7 @@
     "timestamp": "00:12:25.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -2544,7 +2544,7 @@
     "timestamp": "00:12:26.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:12:31.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -2592,7 +2592,7 @@
     "timestamp": "00:12:34.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -2616,7 +2616,7 @@
     "timestamp": "00:12:40.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -2632,7 +2632,7 @@
     "timestamp": "00:12:45.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:13:04.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -2696,7 +2696,7 @@
     "timestamp": "00:13:11.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:13:12.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adriana Kristina Leon",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -2752,7 +2752,7 @@
     "timestamp": "00:13:13.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -2776,7 +2776,7 @@
     "timestamp": "00:13:14.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -2792,7 +2792,7 @@
     "timestamp": "00:13:20.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:13:22.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -2832,7 +2832,7 @@
     "timestamp": "00:13:25.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:13:29.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -2896,7 +2896,7 @@
     "timestamp": "00:13:31.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:13:32.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -2944,7 +2944,7 @@
     "timestamp": "00:13:33.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -2968,7 +2968,7 @@
     "timestamp": "00:13:35.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -2976,7 +2976,7 @@
     "timestamp": "00:13:40.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -3000,7 +3000,7 @@
     "timestamp": "00:14:16.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:14:20.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:14:22.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -3072,7 +3072,7 @@
     "timestamp": "00:14:27.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:14:30.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:14:34.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -3144,7 +3144,7 @@
     "timestamp": "00:14:37.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:14:40.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:14:42.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:14:44.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:14:46.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:14:51.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:14:54.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:14:55.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:15:00.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -3368,7 +3368,7 @@
     "timestamp": "00:15:01.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:15:03.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -3424,7 +3424,7 @@
     "timestamp": "00:15:06.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -3440,7 +3440,7 @@
     "timestamp": "00:15:27.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:15:30.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -3496,7 +3496,7 @@
     "timestamp": "00:15:31.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -3536,7 +3536,7 @@
     "timestamp": "00:15:53.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -3560,7 +3560,7 @@
     "timestamp": "00:16:59.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -3608,7 +3608,7 @@
     "timestamp": "00:17:05.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -3624,7 +3624,7 @@
     "timestamp": "00:17:10.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:17:28.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -3688,7 +3688,7 @@
     "timestamp": "00:17:32.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rianna Dean",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -3704,7 +3704,7 @@
     "timestamp": "00:17:34.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:17:36.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:17:39.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:17:41.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:17:42.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:17:46.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -3856,7 +3856,7 @@
     "timestamp": "00:17:49.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -3928,7 +3928,7 @@
     "timestamp": "00:17:55.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adriana Kristina Leon",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -3960,7 +3960,7 @@
     "timestamp": "00:17:58.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -3984,7 +3984,7 @@
     "timestamp": "00:18:06.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -4008,7 +4008,7 @@
     "timestamp": "00:18:10.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -4032,7 +4032,7 @@
     "timestamp": "00:18:12.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:18:17.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -4152,7 +4152,7 @@
     "timestamp": "00:18:31.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -4200,7 +4200,7 @@
     "timestamp": "00:18:54.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -4224,7 +4224,7 @@
     "timestamp": "00:18:57.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:19:02.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:19:05.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -4328,7 +4328,7 @@
     "timestamp": "00:19:08.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -4376,7 +4376,7 @@
     "timestamp": "00:19:12.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -4400,7 +4400,7 @@
     "timestamp": "00:19:22.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -4464,7 +4464,7 @@
     "timestamp": "00:19:31.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:19:32.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:19:35.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -4528,7 +4528,7 @@
     "timestamp": "00:19:37.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -4552,7 +4552,7 @@
     "timestamp": "00:19:39.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -4576,7 +4576,7 @@
     "timestamp": "00:19:42.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -4600,7 +4600,7 @@
     "timestamp": "00:19:45.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -4632,7 +4632,7 @@
     "timestamp": "00:19:50.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4656,7 +4656,7 @@
     "timestamp": "00:19:53.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -4680,7 +4680,7 @@
     "timestamp": "00:19:54.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -4704,7 +4704,7 @@
     "timestamp": "00:19:56.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -4720,7 +4720,7 @@
     "timestamp": "00:19:58.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:19:59.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -4760,7 +4760,7 @@
     "timestamp": "00:20:02.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -4776,7 +4776,7 @@
     "timestamp": "00:20:07.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4800,7 +4800,7 @@
     "timestamp": "00:20:08.111"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Josie Green",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:20:10.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:20:47.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:20:47.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -4912,7 +4912,7 @@
     "timestamp": "00:20:53.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -4936,7 +4936,7 @@
     "timestamp": "00:20:56.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -4960,7 +4960,7 @@
     "timestamp": "00:20:57.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:21:12.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -5048,7 +5048,7 @@
     "timestamp": "00:21:15.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:21:27.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -5128,7 +5128,7 @@
     "timestamp": "00:21:32.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -5168,7 +5168,7 @@
     "timestamp": "00:21:35.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -5208,7 +5208,7 @@
     "timestamp": "00:21:37.763"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -5224,7 +5224,7 @@
     "timestamp": "00:21:42.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:22:16.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:22:18.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -5280,7 +5280,7 @@
     "timestamp": "00:22:20.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:22:23.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -5304,7 +5304,7 @@
     "timestamp": "00:22:23.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -5328,7 +5328,7 @@
     "timestamp": "00:22:40.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -5360,7 +5360,7 @@
     "timestamp": "00:22:41.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:22:53.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5408,7 +5408,7 @@
     "timestamp": "00:23:09.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -5440,7 +5440,7 @@
     "timestamp": "00:23:11.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:23:13.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -5488,7 +5488,7 @@
     "timestamp": "00:23:17.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:23:22.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5528,7 +5528,7 @@
     "timestamp": "00:23:49.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -5552,7 +5552,7 @@
     "timestamp": "00:23:51.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:23:59.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:24:00.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:24:06.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -5672,7 +5672,7 @@
     "timestamp": "00:24:11.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -5696,7 +5696,7 @@
     "timestamp": "00:24:14.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -5720,7 +5720,7 @@
     "timestamp": "00:24:16.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -5752,7 +5752,7 @@
     "timestamp": "00:24:19.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:24:20.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5808,7 +5808,7 @@
     "timestamp": "00:24:26.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -5832,7 +5832,7 @@
     "timestamp": "00:24:31.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5864,7 +5864,7 @@
     "timestamp": "00:25:01.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:25:19.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:25:21.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -5928,7 +5928,7 @@
     "timestamp": "00:25:24.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -5952,7 +5952,7 @@
     "timestamp": "00:25:29.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -5976,7 +5976,7 @@
     "timestamp": "00:25:31.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -6000,7 +6000,7 @@
     "timestamp": "00:25:34.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -6024,7 +6024,7 @@
     "timestamp": "00:25:35.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -6048,7 +6048,7 @@
     "timestamp": "00:25:38.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:25:40.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -6096,7 +6096,7 @@
     "timestamp": "00:25:43.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -6128,7 +6128,7 @@
     "timestamp": "00:25:45.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -6136,7 +6136,7 @@
     "timestamp": "00:26:27.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6160,7 +6160,7 @@
     "timestamp": "00:26:49.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:26:52.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:26:53.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:26:56.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:27:04.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6288,7 +6288,7 @@
     "timestamp": "00:27:08.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:27:12.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6360,7 +6360,7 @@
     "timestamp": "00:27:28.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -6376,7 +6376,7 @@
     "timestamp": "00:27:33.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:27:35.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6424,7 +6424,7 @@
     "timestamp": "00:27:39.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:27:43.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -6464,7 +6464,7 @@
     "timestamp": "00:27:49.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -6488,7 +6488,7 @@
     "timestamp": "00:27:51.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:27:54.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -6536,7 +6536,7 @@
     "timestamp": "00:27:56.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:28:00.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:28:06.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:28:08.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -6632,7 +6632,7 @@
     "timestamp": "00:28:10.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:28:13.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6680,7 +6680,7 @@
     "timestamp": "00:28:15.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -6712,7 +6712,7 @@
     "timestamp": "00:28:20.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -6736,7 +6736,7 @@
     "timestamp": "00:28:22.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -6760,7 +6760,7 @@
     "timestamp": "00:28:25.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:28:31.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:28:35.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -6832,7 +6832,7 @@
     "timestamp": "00:28:39.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:28:42.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6888,7 +6888,7 @@
     "timestamp": "00:28:45.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -6912,7 +6912,7 @@
     "timestamp": "00:28:47.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -6976,7 +6976,7 @@
     "timestamp": "00:28:52.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -7000,7 +7000,7 @@
     "timestamp": "00:29:10.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -7024,7 +7024,7 @@
     "timestamp": "00:29:15.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -7048,7 +7048,7 @@
     "timestamp": "00:29:17.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:29:19.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -7096,7 +7096,7 @@
     "timestamp": "00:29:22.819"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:29:29.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -7136,7 +7136,7 @@
     "timestamp": "00:29:49.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -7152,7 +7152,7 @@
     "timestamp": "00:29:52.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -7184,7 +7184,7 @@
     "timestamp": "00:29:55.657"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:29:58.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:30:44.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:30:47.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:30:50.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -7312,7 +7312,7 @@
     "timestamp": "00:30:56.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -7328,7 +7328,7 @@
     "timestamp": "00:30:58.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -7392,7 +7392,7 @@
     "timestamp": "00:31:03.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:31:05.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -7440,7 +7440,7 @@
     "timestamp": "00:31:06.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -7472,7 +7472,7 @@
     "timestamp": "00:31:28.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -7496,7 +7496,7 @@
     "timestamp": "00:31:31.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -7520,7 +7520,7 @@
     "timestamp": "00:31:38.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -7544,7 +7544,7 @@
     "timestamp": "00:31:42.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -7568,7 +7568,7 @@
     "timestamp": "00:31:43.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -7592,7 +7592,7 @@
     "timestamp": "00:31:48.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -7632,7 +7632,7 @@
     "timestamp": "00:31:53.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:31:57.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:32:02.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:32:04.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -7760,7 +7760,7 @@
     "timestamp": "00:32:07.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -7784,7 +7784,7 @@
     "timestamp": "00:32:11.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -7808,7 +7808,7 @@
     "timestamp": "00:32:16.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -7832,7 +7832,7 @@
     "timestamp": "00:32:18.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:32:21.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -7880,7 +7880,7 @@
     "timestamp": "00:32:25.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:32:28.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -7920,7 +7920,7 @@
     "timestamp": "00:32:30.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:32:30.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:32:36.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:32:41.253"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -8088,7 +8088,7 @@
     "timestamp": "00:33:07.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:33:34.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -8200,7 +8200,7 @@
     "timestamp": "00:34:23.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -8216,7 +8216,7 @@
     "timestamp": "00:34:54.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:34:56.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:34:59.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:35:08.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -8400,7 +8400,7 @@
     "timestamp": "00:35:11.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -8456,7 +8456,7 @@
     "timestamp": "00:35:23.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adriana Kristina Leon",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:35:30.449"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kate Longhurst",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:35:31.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -8544,7 +8544,7 @@
     "timestamp": "00:36:08.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -8584,7 +8584,7 @@
     "timestamp": "00:38:05.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -8608,7 +8608,7 @@
     "timestamp": "00:38:11.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:38:14.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:38:16.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -8696,7 +8696,7 @@
     "timestamp": "00:38:21.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -8720,7 +8720,7 @@
     "timestamp": "00:38:22.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:38:26.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:38:28.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -8800,7 +8800,7 @@
     "timestamp": "00:38:30.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:38:33.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:38:34.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:38:35.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -8888,7 +8888,7 @@
     "timestamp": "00:38:39.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -8912,7 +8912,7 @@
     "timestamp": "00:38:42.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -8960,7 +8960,7 @@
     "timestamp": "00:38:50.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -8976,7 +8976,7 @@
     "timestamp": "00:38:54.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:38:59.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:38:59.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:39:10.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:39:11.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:39:14.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:39:15.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:39:31.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -9168,7 +9168,7 @@
     "timestamp": "00:39:46.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -9184,7 +9184,7 @@
     "timestamp": "00:39:49.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -9216,7 +9216,7 @@
     "timestamp": "00:39:52.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -9280,7 +9280,7 @@
     "timestamp": "00:39:56.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -9320,7 +9320,7 @@
     "timestamp": "00:40:00.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -9336,7 +9336,7 @@
     "timestamp": "00:40:03.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -9352,7 +9352,7 @@
     "timestamp": "00:40:33.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:40:37.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:40:40.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -9456,7 +9456,7 @@
     "timestamp": "00:40:42.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:40:47.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -9552,7 +9552,7 @@
     "timestamp": "00:40:55.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -9576,7 +9576,7 @@
     "timestamp": "00:40:58.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -9600,7 +9600,7 @@
     "timestamp": "00:41:00.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -9624,7 +9624,7 @@
     "timestamp": "00:41:04.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -9688,7 +9688,7 @@
     "timestamp": "00:41:13.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:41:18.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -9736,7 +9736,7 @@
     "timestamp": "00:41:22.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:41:27.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -9808,7 +9808,7 @@
     "timestamp": "00:41:32.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -9832,7 +9832,7 @@
     "timestamp": "00:41:34.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -9848,7 +9848,7 @@
     "timestamp": "00:41:36.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -9872,7 +9872,7 @@
     "timestamp": "00:41:37.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -9896,7 +9896,7 @@
     "timestamp": "00:41:39.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -9920,7 +9920,7 @@
     "timestamp": "00:41:42.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:41:46.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -9968,7 +9968,7 @@
     "timestamp": "00:41:50.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -9992,7 +9992,7 @@
     "timestamp": "00:41:54.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -10016,7 +10016,7 @@
     "timestamp": "00:41:57.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -10040,7 +10040,7 @@
     "timestamp": "00:42:00.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:42:01.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -10096,7 +10096,7 @@
     "timestamp": "00:42:10.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -10136,7 +10136,7 @@
     "timestamp": "00:42:13.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:42:16.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -10200,7 +10200,7 @@
     "timestamp": "00:42:31.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:42:33.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:42:34.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:42:36.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:42:39.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -10320,7 +10320,7 @@
     "timestamp": "00:42:44.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:42:51.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -10376,7 +10376,7 @@
     "timestamp": "00:42:55.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:42:58.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -10424,7 +10424,7 @@
     "timestamp": "00:43:04.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -10448,7 +10448,7 @@
     "timestamp": "00:43:07.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -10472,7 +10472,7 @@
     "timestamp": "00:43:14.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:43:21.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -10520,7 +10520,7 @@
     "timestamp": "00:43:25.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -10544,7 +10544,7 @@
     "timestamp": "00:43:59.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -10576,7 +10576,7 @@
     "timestamp": "00:44:01.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -10592,7 +10592,7 @@
     "timestamp": "00:44:05.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:46:24.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -10624,7 +10624,7 @@
     "timestamp": "00:47:09.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:47:10.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -10672,7 +10672,7 @@
     "timestamp": "00:47:13.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:47:16.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:47:23.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:47:29.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:47:32.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:47:37.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -10824,7 +10824,7 @@
     "timestamp": "00:47:40.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:47:41.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -10864,7 +10864,7 @@
     "timestamp": "00:47:43.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:47:47.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:47:53.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -10976,7 +10976,7 @@
     "timestamp": "00:48:20.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:48:21.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adriana Kristina Leon",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:48:25.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:48:36.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:48:38.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:48:50.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:48:52.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:49:03.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:49:06.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:49:08.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -11264,7 +11264,7 @@
     "timestamp": "00:49:12.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:49:16.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -11328,7 +11328,7 @@
     "timestamp": "00:49:17.908"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Adriana Kristina Leon",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -11344,7 +11344,7 @@
     "timestamp": "00:49:21.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -11368,7 +11368,7 @@
     "timestamp": "00:49:59.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -11384,7 +11384,7 @@
     "timestamp": "00:50:03.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:00:00.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:00:02.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:00:05.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11560,7 +11560,7 @@
     "timestamp": "00:00:09.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:00:16.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:00:23.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:00:25.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11752,7 +11752,7 @@
     "timestamp": "00:01:08.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -11800,7 +11800,7 @@
     "timestamp": "00:01:14.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:01:26.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:01:33.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -11976,7 +11976,7 @@
     "timestamp": "00:01:46.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -12000,7 +12000,7 @@
     "timestamp": "00:01:48.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:01:57.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -12104,7 +12104,7 @@
     "timestamp": "00:02:08.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:02:11.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -12152,7 +12152,7 @@
     "timestamp": "00:02:13.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -12176,7 +12176,7 @@
     "timestamp": "00:02:14.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:02:15.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -12240,7 +12240,7 @@
     "timestamp": "00:02:18.871"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:03:07.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:03:39.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:03:40.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:03:48.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:03:49.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adriana Kristina Leon",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -12408,7 +12408,7 @@
     "timestamp": "00:03:51.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -12432,7 +12432,7 @@
     "timestamp": "00:03:53.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:04:01.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:04:11.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -12544,7 +12544,7 @@
     "timestamp": "00:04:14.974"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:04:16.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -12584,7 +12584,7 @@
     "timestamp": "00:04:32.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -12608,7 +12608,7 @@
     "timestamp": "00:04:35.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -12632,7 +12632,7 @@
     "timestamp": "00:04:37.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:04:42.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -12664,7 +12664,7 @@
     "timestamp": "00:04:43.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -12696,7 +12696,7 @@
     "timestamp": "00:04:49.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:04:52.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -12736,7 +12736,7 @@
     "timestamp": "00:04:54.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:04:56.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:04:58.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -12824,7 +12824,7 @@
     "timestamp": "00:04:59.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:05:01.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -12872,7 +12872,7 @@
     "timestamp": "00:05:06.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:05:09.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -12920,7 +12920,7 @@
     "timestamp": "00:05:14.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:05:18.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -13016,7 +13016,7 @@
     "timestamp": "00:05:26.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:05:28.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:05:29.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -13128,7 +13128,7 @@
     "timestamp": "00:05:33.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:05:36.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -13168,7 +13168,7 @@
     "timestamp": "00:05:38.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -13192,7 +13192,7 @@
     "timestamp": "00:05:42.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Adriana Kristina Leon",
     "player1_team": "West Ham United LFC",
@@ -13224,7 +13224,7 @@
     "timestamp": "00:05:45.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -13248,7 +13248,7 @@
     "timestamp": "00:05:48.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:05:52.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:06:00.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:06:07.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:06:11.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:06:15.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:06:16.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:06:18.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -13504,7 +13504,7 @@
     "timestamp": "00:06:24.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -13528,7 +13528,7 @@
     "timestamp": "00:06:26.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:06:30.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13576,7 +13576,7 @@
     "timestamp": "00:06:53.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -13608,7 +13608,7 @@
     "timestamp": "00:07:00.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -13640,7 +13640,7 @@
     "timestamp": "00:07:05.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:07:10.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -13696,7 +13696,7 @@
     "timestamp": "00:07:13.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:07:13.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:07:20.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -13792,7 +13792,7 @@
     "timestamp": "00:07:26.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -13816,7 +13816,7 @@
     "timestamp": "00:07:31.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -13848,7 +13848,7 @@
     "timestamp": "00:07:37.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kate Longhurst",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -13872,7 +13872,7 @@
     "timestamp": "00:07:40.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -13888,7 +13888,7 @@
     "timestamp": "00:07:42.886"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -13904,7 +13904,7 @@
     "timestamp": "00:07:44.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -13928,7 +13928,7 @@
     "timestamp": "00:08:17.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -13952,7 +13952,7 @@
     "timestamp": "00:08:19.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:08:20.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:08:26.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14056,7 +14056,7 @@
     "timestamp": "00:08:27.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -14072,7 +14072,7 @@
     "timestamp": "00:08:30.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14096,7 +14096,7 @@
     "timestamp": "00:13:54.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -14120,7 +14120,7 @@
     "timestamp": "00:14:15.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:14:15.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -14144,7 +14144,7 @@
     "timestamp": "00:14:25.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rianna Dean",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:14:27.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14168,7 +14168,7 @@
     "timestamp": "00:14:27.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rianna Dean",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:14:28.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:14:32.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14288,7 +14288,7 @@
     "timestamp": "00:14:46.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -14312,7 +14312,7 @@
     "timestamp": "00:14:54.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:14:58.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -14360,7 +14360,7 @@
     "timestamp": "00:15:02.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -14416,7 +14416,7 @@
     "timestamp": "00:15:06.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -14440,7 +14440,7 @@
     "timestamp": "00:15:07.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -14464,7 +14464,7 @@
     "timestamp": "00:15:10.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -14480,7 +14480,7 @@
     "timestamp": "00:15:16.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -14520,7 +14520,7 @@
     "timestamp": "00:15:30.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alisha Lehmann",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14552,7 +14552,7 @@
     "timestamp": "00:15:33.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:15:39.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:15:45.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -14680,7 +14680,7 @@
     "timestamp": "00:16:09.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14696,7 +14696,7 @@
     "timestamp": "00:16:12.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14744,7 +14744,7 @@
     "timestamp": "00:16:35.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -14768,7 +14768,7 @@
     "timestamp": "00:16:51.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -14824,7 +14824,7 @@
     "timestamp": "00:16:54.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -14864,7 +14864,7 @@
     "timestamp": "00:17:02.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -14888,7 +14888,7 @@
     "timestamp": "00:17:03.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:17:07.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:17:13.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -14976,7 +14976,7 @@
     "timestamp": "00:17:15.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -15000,7 +15000,7 @@
     "timestamp": "00:17:18.836"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -15016,7 +15016,7 @@
     "timestamp": "00:17:21.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -15048,7 +15048,7 @@
     "timestamp": "00:17:49.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -15064,7 +15064,7 @@
     "timestamp": "00:17:50.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -15120,7 +15120,7 @@
     "timestamp": "00:17:52.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Chloe Morgan",
     "player1_team": "Tottenham Hotspur Women",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:17:56.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -15168,7 +15168,7 @@
     "timestamp": "00:17:59.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -15184,7 +15184,7 @@
     "timestamp": "00:18:04.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -15216,7 +15216,7 @@
     "timestamp": "00:18:06.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -15240,7 +15240,7 @@
     "timestamp": "00:18:10.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -15264,7 +15264,7 @@
     "timestamp": "00:18:13.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -15288,7 +15288,7 @@
     "timestamp": "00:18:18.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:18:23.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:18:26.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -15360,7 +15360,7 @@
     "timestamp": "00:18:53.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -15408,7 +15408,7 @@
     "timestamp": "00:18:56.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -15432,7 +15432,7 @@
     "timestamp": "00:19:00.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:19:00.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -15464,7 +15464,7 @@
     "timestamp": "00:19:02.861"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -15504,7 +15504,7 @@
     "timestamp": "00:19:05.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -15520,7 +15520,7 @@
     "timestamp": "00:19:11.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:19:13.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:19:16.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -15584,7 +15584,7 @@
     "timestamp": "00:19:20.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:19:29.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:19:31.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -15688,7 +15688,7 @@
     "timestamp": "00:19:34.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -15760,7 +15760,7 @@
     "timestamp": "00:19:55.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:20:15.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -15832,7 +15832,7 @@
     "timestamp": "00:20:22.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:20:24.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -15888,7 +15888,7 @@
     "timestamp": "00:20:29.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -15904,7 +15904,7 @@
     "timestamp": "00:20:32.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -15936,7 +15936,7 @@
     "timestamp": "00:20:46.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16008,7 +16008,7 @@
     "timestamp": "00:20:58.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16032,7 +16032,7 @@
     "timestamp": "00:21:15.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:21:25.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:21:30.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:21:34.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -16144,7 +16144,7 @@
     "timestamp": "00:21:36.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:21:38.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:21:44.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -16232,7 +16232,7 @@
     "timestamp": "00:21:46.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "Alisha Lehmann",
     "player1_team": "West Ham United LFC",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:21:50.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16296,7 +16296,7 @@
     "timestamp": "00:21:52.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:22:24.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alisha Lehmann",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -16392,7 +16392,7 @@
     "timestamp": "00:22:29.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -16440,7 +16440,7 @@
     "timestamp": "00:22:33.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:23:29.811"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16488,7 +16488,7 @@
     "timestamp": "00:23:31.776"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rianna Dean",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16504,7 +16504,7 @@
     "timestamp": "00:23:32.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:23:56.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -16560,7 +16560,7 @@
     "timestamp": "00:23:59.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:24:06.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:24:15.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -16696,7 +16696,7 @@
     "timestamp": "00:24:17.715"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:24:18.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:24:23.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:24:27.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:24:56.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:24:57.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:25:00.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -16864,7 +16864,7 @@
     "timestamp": "00:25:02.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -16888,7 +16888,7 @@
     "timestamp": "00:25:04.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -16920,7 +16920,7 @@
     "timestamp": "00:25:07.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -16944,7 +16944,7 @@
     "timestamp": "00:25:08.368"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ashleigh Neville",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:25:27.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17024,7 +17024,7 @@
     "timestamp": "00:26:25.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:26:35.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17056,7 +17056,7 @@
     "timestamp": "00:27:01.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Chloe Morgan",
     "player1_team": "Tottenham Hotspur Women",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:27:04.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:27:09.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:27:17.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:27:25.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -17224,7 +17224,7 @@
     "timestamp": "00:27:29.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:27:30.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -17296,7 +17296,7 @@
     "timestamp": "00:28:05.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17328,7 +17328,7 @@
     "timestamp": "00:28:09.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -17376,7 +17376,7 @@
     "timestamp": "00:28:14.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:28:40.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:29:13.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:29:15.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:29:17.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -17480,7 +17480,7 @@
     "timestamp": "00:29:21.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:29:22.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:29:25.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -17568,7 +17568,7 @@
     "timestamp": "00:29:27.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -17584,7 +17584,7 @@
     "timestamp": "00:29:32.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -17616,7 +17616,7 @@
     "timestamp": "00:29:32.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17640,7 +17640,7 @@
     "timestamp": "00:29:33.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:29:36.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -17688,7 +17688,7 @@
     "timestamp": "00:29:42.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -17712,7 +17712,7 @@
     "timestamp": "00:29:44.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -17728,7 +17728,7 @@
     "timestamp": "00:29:51.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -17752,7 +17752,7 @@
     "timestamp": "00:30:09.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -17784,7 +17784,7 @@
     "timestamp": "00:30:10.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -17824,7 +17824,7 @@
     "timestamp": "00:30:14.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:30:18.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:30:22.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:30:27.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -17976,7 +17976,7 @@
     "timestamp": "00:30:30.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -18024,7 +18024,7 @@
     "timestamp": "00:31:12.614"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Hannah Godfrey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -18048,7 +18048,7 @@
     "timestamp": "00:31:12.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -18064,7 +18064,7 @@
     "timestamp": "00:31:48.339"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Hannah Godfrey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -18080,7 +18080,7 @@
     "timestamp": "00:31:48.887"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rianna Dean",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -18112,7 +18112,7 @@
     "timestamp": "00:31:49.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:31:54.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -18184,7 +18184,7 @@
     "timestamp": "00:31:57.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:32:00.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -18256,7 +18256,7 @@
     "timestamp": "00:32:07.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -18280,7 +18280,7 @@
     "timestamp": "00:32:09.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -18312,7 +18312,7 @@
     "timestamp": "00:32:16.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -18336,7 +18336,7 @@
     "timestamp": "00:32:17.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:32:21.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:32:53.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:33:00.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:33:04.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -18440,7 +18440,7 @@
     "timestamp": "00:33:06.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -18464,7 +18464,7 @@
     "timestamp": "00:33:11.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:33:17.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:33:22.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Leanne Kiernan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:33:26.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -18592,7 +18592,7 @@
     "timestamp": "00:33:28.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:33:34.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -18672,7 +18672,7 @@
     "timestamp": "00:33:44.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:33:47.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:33:48.841"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18736,7 +18736,7 @@
     "timestamp": "00:33:50.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -18760,7 +18760,7 @@
     "timestamp": "00:34:29.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -18784,7 +18784,7 @@
     "timestamp": "00:34:32.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -18816,7 +18816,7 @@
     "timestamp": "00:34:40.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:34:41.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:34:43.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Laura Vetterlein",
     "player1_team": "West Ham United LFC",
@@ -18888,7 +18888,7 @@
     "timestamp": "00:34:49.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18928,7 +18928,7 @@
     "timestamp": "00:34:52.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -18952,7 +18952,7 @@
     "timestamp": "00:34:55.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:34:56.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19048,7 +19048,7 @@
     "timestamp": "00:35:03.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -19144,7 +19144,7 @@
     "timestamp": "00:36:16.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -19168,7 +19168,7 @@
     "timestamp": "00:36:21.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -19288,7 +19288,7 @@
     "timestamp": "00:36:30.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:37:15.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -19320,7 +19320,7 @@
     "timestamp": "00:37:26.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -19344,7 +19344,7 @@
     "timestamp": "00:37:40.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:37:57.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -19400,7 +19400,7 @@
     "timestamp": "00:38:00.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:38:02.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:38:06.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:39:19.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -19520,7 +19520,7 @@
     "timestamp": "00:39:20.381"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Hannah Godfrey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -19536,7 +19536,7 @@
     "timestamp": "00:39:21.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -19568,7 +19568,7 @@
     "timestamp": "00:39:43.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -19576,7 +19576,7 @@
     "timestamp": "00:39:45.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -19648,7 +19648,7 @@
     "timestamp": "00:39:53.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -19704,7 +19704,7 @@
     "timestamp": "00:39:56.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -19736,7 +19736,7 @@
     "timestamp": "00:40:02.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19800,7 +19800,7 @@
     "timestamp": "00:40:10.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Rosella Ayane",
     "player1_team": "Tottenham Hotspur Women",
@@ -19824,7 +19824,7 @@
     "timestamp": "00:40:17.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:40:27.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:40:33.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:40:36.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -19936,7 +19936,7 @@
     "timestamp": "00:40:38.071"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -19960,7 +19960,7 @@
     "timestamp": "00:41:06.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Courtney Brosnan",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:41:18.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:42:54.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -20080,7 +20080,7 @@
     "timestamp": "00:43:06.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -20088,7 +20088,7 @@
     "timestamp": "00:43:07.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Laura Vetterlein",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:43:09.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -20112,7 +20112,7 @@
     "timestamp": "00:43:41.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -20152,7 +20152,7 @@
     "timestamp": "00:43:44.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:43:57.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Laura Vetterlein",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -20224,7 +20224,7 @@
     "timestamp": "00:43:59.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -20256,7 +20256,7 @@
     "timestamp": "00:44:00.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:44:03.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -20336,7 +20336,7 @@
     "timestamp": "00:44:16.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -20360,7 +20360,7 @@
     "timestamp": "00:44:27.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -20376,7 +20376,7 @@
     "timestamp": "00:44:36.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julia Simic",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:44:37.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Jacinta Galabadaarachchi",
     "player1_team": "West Ham United LFC",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:44:41.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:44:44.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -20520,7 +20520,7 @@
     "timestamp": "00:44:46.335"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -20536,7 +20536,7 @@
     "timestamp": "00:44:47.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -20560,7 +20560,7 @@
     "timestamp": "00:45:23.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:45:28.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:45:32.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:45:34.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:45:43.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -20680,7 +20680,7 @@
     "timestamp": "00:45:44.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -20696,7 +20696,7 @@
     "timestamp": "00:46:06.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:46:14.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -20776,7 +20776,7 @@
     "timestamp": "00:46:44.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -20800,7 +20800,7 @@
     "timestamp": "00:46:45.196"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Tessel Middag",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -20824,7 +20824,7 @@
     "timestamp": "00:46:46.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -20848,7 +20848,7 @@
     "timestamp": "00:47:04.021"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:47:04.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Angela Addison",
     "player1_team": "Tottenham Hotspur Women",
@@ -20896,7 +20896,7 @@
     "timestamp": "00:47:07.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -20928,7 +20928,7 @@
     "timestamp": "00:47:10.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Chloe Morgan",
     "player1_team": "Tottenham Hotspur Women",
@@ -20952,7 +20952,7 @@
     "timestamp": "00:47:15.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -20960,7 +20960,7 @@
     "timestamp": "00:47:18.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -20976,7 +20976,7 @@
     "timestamp": "00:47:22.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tessel Middag",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:47:24.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -21048,7 +21048,7 @@
     "timestamp": "00:47:26.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -21064,7 +21064,7 @@
     "timestamp": "00:47:29.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -21104,7 +21104,7 @@
     "timestamp": "00:47:31.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -21128,7 +21128,7 @@
     "timestamp": "00:47:35.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -21152,7 +21152,7 @@
     "timestamp": "00:47:36.591"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Martha Thomas",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -21168,7 +21168,7 @@
     "timestamp": "00:47:37.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -21192,7 +21192,7 @@
     "timestamp": "00:48:02.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Angela Addison",
     "player1_team": "Tottenham Hotspur Women",
@@ -21216,7 +21216,7 @@
     "timestamp": "00:48:06.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angela Addison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:48:06.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -21248,7 +21248,7 @@
     "timestamp": "00:48:12.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:48:12.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -21272,7 +21272,7 @@
     "timestamp": "00:48:18.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -21296,7 +21296,7 @@
     "timestamp": "00:48:20.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -21320,7 +21320,7 @@
     "timestamp": "00:48:22.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -21352,7 +21352,7 @@
     "timestamp": "00:48:26.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -21376,7 +21376,7 @@
     "timestamp": "00:48:31.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Tessel Middag",
     "player1_team": "West Ham United LFC",
@@ -21400,7 +21400,7 @@
     "timestamp": "00:48:39.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tessel Middag",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -21424,7 +21424,7 @@
     "timestamp": "00:48:41.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Angela Addison",
     "player1_team": "Tottenham Hotspur Women",
@@ -21456,7 +21456,7 @@
     "timestamp": "00:48:44.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angela Addison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -21472,7 +21472,7 @@
     "timestamp": "00:48:45.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:48:55.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -21536,7 +21536,7 @@
     "timestamp": "00:49:11.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -21560,7 +21560,7 @@
     "timestamp": "00:49:13.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -21584,7 +21584,7 @@
     "timestamp": "00:49:15.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Mukandi",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -21600,7 +21600,7 @@
     "timestamp": "00:49:16.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:49:17.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -21648,7 +21648,7 @@
     "timestamp": "00:49:18.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martha Thomas",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -21760,7 +21760,7 @@
     "timestamp": "00:49:21.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -21776,7 +21776,7 @@
     "timestamp": "00:49:42.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Emma Mukandi",
     "player1_team": "Tottenham Hotspur Women",
@@ -21792,7 +21792,7 @@
     "timestamp": "00:49:43.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:49:45.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -21880,7 +21880,7 @@
     "timestamp": "00:49:51.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Angela Addison",
     "player1_team": "Tottenham Hotspur Women",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:49:56.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angela Addison",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -21920,7 +21920,7 @@
     "timestamp": "00:49:59.471"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Rianna Dean",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -21936,7 +21936,7 @@
     "timestamp": "00:50:00.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:51:09.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kenza Dali",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -21992,7 +21992,7 @@
     "timestamp": "00:51:12.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Mukandi",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -22024,7 +22024,7 @@
     "timestamp": "00:51:15.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Fisk",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -22040,7 +22040,7 @@
     "timestamp": "00:51:19.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Leanne Kiernan",
     "player1_team": "West Ham United LFC",
@@ -22088,7 +22088,7 @@
     "timestamp": "00:51:33.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -22112,7 +22112,7 @@
     "timestamp": "00:51:58.039"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Julia Simic",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -22160,7 +22160,7 @@
     "timestamp": "00:52:03.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -22176,7 +22176,7 @@
     "timestamp": "00:52:11.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -22200,7 +22200,7 @@
     "timestamp": "00:52:12.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -22240,7 +22240,7 @@
     "timestamp": "00:52:20.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Leanne Kiernan",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:52:26.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -22296,7 +22296,7 @@
     "timestamp": "00:52:28.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kenza Dali",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -22320,7 +22320,7 @@
     "timestamp": "00:52:30.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -22336,7 +22336,7 @@
     "timestamp": "00:52:34.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Fisk",
     "player2": "Courtney Brosnan",
     "player1_team": "West Ham United LFC",
@@ -22368,7 +22368,7 @@
     "timestamp": "00:52:40.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:52:46.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Grace Fisk",
     "player1_team": "West Ham United LFC",
@@ -22440,7 +22440,7 @@
     "timestamp": "00:52:48.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -22488,7 +22488,7 @@
     "timestamp": "00:53:23.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -22576,7 +22576,7 @@
     "timestamp": "00:53:51.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -22600,7 +22600,7 @@
     "timestamp": "00:54:06.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:54:18.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Courtney Brosnan",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -22720,7 +22720,7 @@
     "timestamp": "00:54:39.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jacinta Galabadaarachchi",
     "player2": "Julia Simic",
     "player1_team": "West Ham United LFC",
@@ -22744,7 +22744,7 @@
     "timestamp": "00:54:42.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julia Simic",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -22768,7 +22768,7 @@
     "timestamp": "00:54:43.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martha Thomas",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -22792,7 +22792,7 @@
     "timestamp": "00:54:46.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "",
     "player1_team": "West Ham United LFC",

@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:04.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -64,7 +64,7 @@
     "timestamp": "00:00:10.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -88,7 +88,7 @@
     "timestamp": "00:00:36.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -120,7 +120,7 @@
     "timestamp": "00:00:39.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -144,7 +144,7 @@
     "timestamp": "00:00:40.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:48.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -184,7 +184,7 @@
     "timestamp": "00:00:48.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -208,7 +208,7 @@
     "timestamp": "00:00:52.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -224,7 +224,7 @@
     "timestamp": "00:00:53.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -240,7 +240,7 @@
     "timestamp": "00:00:54.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -272,7 +272,7 @@
     "timestamp": "00:00:57.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -384,7 +384,7 @@
     "timestamp": "00:01:05.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -400,7 +400,7 @@
     "timestamp": "00:02:24.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -416,7 +416,7 @@
     "timestamp": "00:02:24.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -424,7 +424,7 @@
     "timestamp": "00:02:26.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -448,7 +448,7 @@
     "timestamp": "00:02:30.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -464,7 +464,7 @@
     "timestamp": "00:02:33.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -536,7 +536,7 @@
     "timestamp": "00:02:39.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -568,7 +568,7 @@
     "timestamp": "00:02:41.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -600,7 +600,7 @@
     "timestamp": "00:02:45.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -624,7 +624,7 @@
     "timestamp": "00:02:47.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:52.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -680,7 +680,7 @@
     "timestamp": "00:02:58.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -704,7 +704,7 @@
     "timestamp": "00:03:03.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -728,7 +728,7 @@
     "timestamp": "00:03:07.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -792,7 +792,7 @@
     "timestamp": "00:03:13.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -832,7 +832,7 @@
     "timestamp": "00:03:28.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -856,7 +856,7 @@
     "timestamp": "00:03:30.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -880,7 +880,7 @@
     "timestamp": "00:03:33.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -904,7 +904,7 @@
     "timestamp": "00:03:37.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -928,7 +928,7 @@
     "timestamp": "00:03:42.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -936,7 +936,7 @@
     "timestamp": "00:03:42.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -952,7 +952,7 @@
     "timestamp": "00:04:05.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -968,7 +968,7 @@
     "timestamp": "00:04:05.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -1000,7 +1000,7 @@
     "timestamp": "00:04:09.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -1064,7 +1064,7 @@
     "timestamp": "00:04:16.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -1096,7 +1096,7 @@
     "timestamp": "00:04:17.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -1144,7 +1144,7 @@
     "timestamp": "00:04:21.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:04:25.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -1216,7 +1216,7 @@
     "timestamp": "00:04:33.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1240,7 +1240,7 @@
     "timestamp": "00:04:34.888"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Taylor Hinds",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:04:38.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -1312,7 +1312,7 @@
     "timestamp": "00:04:40.532"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:04:43.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1368,7 +1368,7 @@
     "timestamp": "00:05:08.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:05:30.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1408,7 +1408,7 @@
     "timestamp": "00:05:46.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:05:50.961"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1456,7 +1456,7 @@
     "timestamp": "00:05:54.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -1480,7 +1480,7 @@
     "timestamp": "00:06:28.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -1504,7 +1504,7 @@
     "timestamp": "00:06:29.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:06:31.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -1624,7 +1624,7 @@
     "timestamp": "00:06:42.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -1640,7 +1640,7 @@
     "timestamp": "00:06:44.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -1664,7 +1664,7 @@
     "timestamp": "00:06:45.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -1696,7 +1696,7 @@
     "timestamp": "00:06:49.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:06:54.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -1784,7 +1784,7 @@
     "timestamp": "00:06:57.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:07:02.335"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -1824,7 +1824,7 @@
     "timestamp": "00:07:04.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -1848,7 +1848,7 @@
     "timestamp": "00:07:52.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -1880,7 +1880,7 @@
     "timestamp": "00:07:54.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:07:56.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:08:01.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:08:03.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -1992,7 +1992,7 @@
     "timestamp": "00:08:06.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2008,7 +2008,7 @@
     "timestamp": "00:08:08.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2048,7 +2048,7 @@
     "timestamp": "00:08:14.354"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:08:17.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -2088,7 +2088,7 @@
     "timestamp": "00:08:49.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:08:51.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -2136,7 +2136,7 @@
     "timestamp": "00:08:55.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:08:58.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2184,7 +2184,7 @@
     "timestamp": "00:08:59.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:09:17.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:09:21.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:09:22.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:09:23.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:09:26.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:09:30.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:09:34.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:09:36.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:09:39.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:09:46.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -2584,7 +2584,7 @@
     "timestamp": "00:10:02.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -2608,7 +2608,7 @@
     "timestamp": "00:10:10.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -2632,7 +2632,7 @@
     "timestamp": "00:10:13.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:10:16.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:10:19.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -2680,7 +2680,7 @@
     "timestamp": "00:10:31.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2696,7 +2696,7 @@
     "timestamp": "00:10:31.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:10:38.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:10:38.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -2864,7 +2864,7 @@
     "timestamp": "00:10:41.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:10:42.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:10:44.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:10:50.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2992,7 +2992,7 @@
     "timestamp": "00:10:53.876"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -3008,7 +3008,7 @@
     "timestamp": "00:10:56.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:11:23.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -3056,7 +3056,7 @@
     "timestamp": "00:11:26.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -3104,7 +3104,7 @@
     "timestamp": "00:11:30.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:12:04.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -3144,7 +3144,7 @@
     "timestamp": "00:12:08.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -3160,7 +3160,7 @@
     "timestamp": "00:12:11.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:12:11.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:12:12.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -3216,7 +3216,7 @@
     "timestamp": "00:12:13.441"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -3232,7 +3232,7 @@
     "timestamp": "00:12:14.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -3264,7 +3264,7 @@
     "timestamp": "00:12:20.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:12:23.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:12:25.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:12:28.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -3368,7 +3368,7 @@
     "timestamp": "00:12:31.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:12:34.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -3416,7 +3416,7 @@
     "timestamp": "00:12:40.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:12:52.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:12:53.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:12:55.828"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:12:59.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -3560,7 +3560,7 @@
     "timestamp": "00:13:24.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:13:28.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -3608,7 +3608,7 @@
     "timestamp": "00:13:34.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:13:54.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:13:55.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:14:10.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -3680,7 +3680,7 @@
     "timestamp": "00:14:13.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:14:15.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -3736,7 +3736,7 @@
     "timestamp": "00:14:17.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:14:20.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:14:23.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:14:27.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -3824,7 +3824,7 @@
     "timestamp": "00:14:28.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -3856,7 +3856,7 @@
     "timestamp": "00:14:38.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -3880,7 +3880,7 @@
     "timestamp": "00:14:45.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -3928,7 +3928,7 @@
     "timestamp": "00:14:58.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -3984,7 +3984,7 @@
     "timestamp": "00:15:07.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -4016,7 +4016,7 @@
     "timestamp": "00:15:29.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -4040,7 +4040,7 @@
     "timestamp": "00:15:30.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:15:32.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -4088,7 +4088,7 @@
     "timestamp": "00:15:33.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:15:39.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:16:15.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellen White",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:16:18.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -4192,7 +4192,7 @@
     "timestamp": "00:16:19.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:16:23.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -4240,7 +4240,7 @@
     "timestamp": "00:16:26.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:16:32.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -4320,7 +4320,7 @@
     "timestamp": "00:16:35.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -4328,7 +4328,7 @@
     "timestamp": "00:16:35.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -4352,7 +4352,7 @@
     "timestamp": "00:16:52.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -4376,7 +4376,7 @@
     "timestamp": "00:16:55.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:16:59.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -4408,7 +4408,7 @@
     "timestamp": "00:17:51.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:17:57.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -4488,7 +4488,7 @@
     "timestamp": "00:18:07.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellen White",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -4496,7 +4496,7 @@
     "timestamp": "00:18:08.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:18:20.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -4544,7 +4544,7 @@
     "timestamp": "00:18:22.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -4576,7 +4576,7 @@
     "timestamp": "00:18:22.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:18:24.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -4648,7 +4648,7 @@
     "timestamp": "00:18:30.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:18:32.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -4688,7 +4688,7 @@
     "timestamp": "00:18:51.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -4712,7 +4712,7 @@
     "timestamp": "00:18:57.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:19:00.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:19:20.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -4784,7 +4784,7 @@
     "timestamp": "00:19:37.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:19:39.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -4856,7 +4856,7 @@
     "timestamp": "00:19:41.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -4880,7 +4880,7 @@
     "timestamp": "00:19:43.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -4904,7 +4904,7 @@
     "timestamp": "00:19:47.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -4928,7 +4928,7 @@
     "timestamp": "00:19:52.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -5000,7 +5000,7 @@
     "timestamp": "00:20:01.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -5024,7 +5024,7 @@
     "timestamp": "00:20:43.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:20:44.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:20:47.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:20:50.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -5088,7 +5088,7 @@
     "timestamp": "00:20:51.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:20:52.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -5112,7 +5112,7 @@
     "timestamp": "00:21:14.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:21:19.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -5176,7 +5176,7 @@
     "timestamp": "00:21:23.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -5200,7 +5200,7 @@
     "timestamp": "00:21:30.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -5216,7 +5216,7 @@
     "timestamp": "00:21:31.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:21:33.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -5280,7 +5280,7 @@
     "timestamp": "00:21:35.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -5304,7 +5304,7 @@
     "timestamp": "00:21:37.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:21:40.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -5368,7 +5368,7 @@
     "timestamp": "00:21:46.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:21:50.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -5416,7 +5416,7 @@
     "timestamp": "00:21:51.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:21:54.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -5472,7 +5472,7 @@
     "timestamp": "00:21:54.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:21:59.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:22:04.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:22:37.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:23:00.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -5656,7 +5656,7 @@
     "timestamp": "00:23:03.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -5672,7 +5672,7 @@
     "timestamp": "00:23:07.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -5736,7 +5736,7 @@
     "timestamp": "00:23:23.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -5760,7 +5760,7 @@
     "timestamp": "00:23:26.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -5784,7 +5784,7 @@
     "timestamp": "00:23:29.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:23:40.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -5848,7 +5848,7 @@
     "timestamp": "00:23:43.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:23:45.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:23:49.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -5984,7 +5984,7 @@
     "timestamp": "00:23:54.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:23:56.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -6040,7 +6040,7 @@
     "timestamp": "00:23:57.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -6064,7 +6064,7 @@
     "timestamp": "00:23:59.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -6088,7 +6088,7 @@
     "timestamp": "00:24:01.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellen White",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:24:04.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -6136,7 +6136,7 @@
     "timestamp": "00:24:07.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:24:10.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -6216,7 +6216,7 @@
     "timestamp": "00:24:14.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:24:29.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:24:31.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -6296,7 +6296,7 @@
     "timestamp": "00:24:33.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -6320,7 +6320,7 @@
     "timestamp": "00:24:37.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -6360,7 +6360,7 @@
     "timestamp": "00:24:49.337"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Claudia Walker",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -6376,7 +6376,7 @@
     "timestamp": "00:24:51.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:25:24.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:26:00.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:26:14.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:26:17.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:26:19.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -6496,7 +6496,7 @@
     "timestamp": "00:26:22.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:26:23.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -6560,7 +6560,7 @@
     "timestamp": "00:26:27.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -6576,7 +6576,7 @@
     "timestamp": "00:26:29.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:26:30.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:26:33.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -6640,7 +6640,7 @@
     "timestamp": "00:26:36.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:26:53.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:26:58.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -6728,7 +6728,7 @@
     "timestamp": "00:27:04.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:27:16.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -6832,7 +6832,7 @@
     "timestamp": "00:27:33.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:28:01.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:28:29.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:28:45.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:28:48.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -6944,7 +6944,7 @@
     "timestamp": "00:28:50.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -6960,7 +6960,7 @@
     "timestamp": "00:28:52.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:29:16.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -6992,7 +6992,7 @@
     "timestamp": "00:29:21.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:29:31.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -7064,7 +7064,7 @@
     "timestamp": "00:29:34.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -7088,7 +7088,7 @@
     "timestamp": "00:29:37.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -7136,7 +7136,7 @@
     "timestamp": "00:29:42.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -7176,7 +7176,7 @@
     "timestamp": "00:30:00.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:30:04.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:30:07.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:30:11.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -7288,7 +7288,7 @@
     "timestamp": "00:30:15.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -7312,7 +7312,7 @@
     "timestamp": "00:30:18.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:30:21.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:30:23.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -7384,7 +7384,7 @@
     "timestamp": "00:30:25.128"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -7408,7 +7408,7 @@
     "timestamp": "00:30:26.722"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Taylor Hinds",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:30:27.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -7456,7 +7456,7 @@
     "timestamp": "00:32:24.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:32:29.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -7504,7 +7504,7 @@
     "timestamp": "00:32:34.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -7528,7 +7528,7 @@
     "timestamp": "00:33:12.954"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7560,7 +7560,7 @@
     "timestamp": "00:33:13.605"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Ellen White",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7576,7 +7576,7 @@
     "timestamp": "00:33:14.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -7600,7 +7600,7 @@
     "timestamp": "00:33:57.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:34:00.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:34:03.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7672,7 +7672,7 @@
     "timestamp": "00:34:03.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -7688,7 +7688,7 @@
     "timestamp": "00:34:23.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:34:25.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:34:26.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7752,7 +7752,7 @@
     "timestamp": "00:34:28.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -7776,7 +7776,7 @@
     "timestamp": "00:34:38.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:34:42.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:34:50.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:35:04.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:35:08.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7896,7 +7896,7 @@
     "timestamp": "00:35:08.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:35:10.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:35:13.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:35:17.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -7984,7 +7984,7 @@
     "timestamp": "00:35:39.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:35:47.557"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:35:50.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:36:25.260"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Taylor Hinds",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -8080,7 +8080,7 @@
     "timestamp": "00:36:26.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -8088,7 +8088,7 @@
     "timestamp": "00:36:53.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -8104,7 +8104,7 @@
     "timestamp": "00:36:57.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -8128,7 +8128,7 @@
     "timestamp": "00:36:58.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:37:00.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:37:01.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -8216,7 +8216,7 @@
     "timestamp": "00:37:03.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:37:16.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -8264,7 +8264,7 @@
     "timestamp": "00:37:20.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -8312,7 +8312,7 @@
     "timestamp": "00:37:24.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -8336,7 +8336,7 @@
     "timestamp": "00:37:28.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:37:30.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:37:34.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -8416,7 +8416,7 @@
     "timestamp": "00:37:38.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:37:50.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:38:00.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:38:02.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -8544,7 +8544,7 @@
     "timestamp": "00:38:21.468"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:38:24.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -8568,7 +8568,7 @@
     "timestamp": "00:38:54.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -8584,7 +8584,7 @@
     "timestamp": "00:38:59.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -8608,7 +8608,7 @@
     "timestamp": "00:39:09.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -8640,7 +8640,7 @@
     "timestamp": "00:39:11.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:39:17.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:39:55.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -8776,7 +8776,7 @@
     "timestamp": "00:40:01.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:40:10.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:40:12.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:40:23.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellen White",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -8840,7 +8840,7 @@
     "timestamp": "00:40:23.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:40:40.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:40:46.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -8912,7 +8912,7 @@
     "timestamp": "00:41:07.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -8928,7 +8928,7 @@
     "timestamp": "00:41:08.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:41:40.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -8968,7 +8968,7 @@
     "timestamp": "00:41:41.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -9000,7 +9000,7 @@
     "timestamp": "00:41:42.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:41:44.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -9040,7 +9040,7 @@
     "timestamp": "00:41:45.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -9056,7 +9056,7 @@
     "timestamp": "00:41:47.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -9088,7 +9088,7 @@
     "timestamp": "00:41:48.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -9112,7 +9112,7 @@
     "timestamp": "00:41:49.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:41:51.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:41:52.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9168,7 +9168,7 @@
     "timestamp": "00:41:52.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -9200,7 +9200,7 @@
     "timestamp": "00:41:55.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -9224,7 +9224,7 @@
     "timestamp": "00:41:58.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -9288,7 +9288,7 @@
     "timestamp": "00:42:08.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9328,7 +9328,7 @@
     "timestamp": "00:42:17.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -9344,7 +9344,7 @@
     "timestamp": "00:42:19.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9368,7 +9368,7 @@
     "timestamp": "00:42:23.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9376,7 +9376,7 @@
     "timestamp": "00:42:49.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -9392,7 +9392,7 @@
     "timestamp": "00:43:13.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:43:13.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:43:18.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:43:38.450"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -9464,7 +9464,7 @@
     "timestamp": "00:43:42.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:43:44.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -9504,7 +9504,7 @@
     "timestamp": "00:43:58.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -9552,7 +9552,7 @@
     "timestamp": "00:44:00.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -9568,7 +9568,7 @@
     "timestamp": "00:44:02.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:44:05.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -9672,7 +9672,7 @@
     "timestamp": "00:44:16.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -9768,7 +9768,7 @@
     "timestamp": "00:44:26.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -9792,7 +9792,7 @@
     "timestamp": "00:45:04.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:45:07.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -9832,7 +9832,7 @@
     "timestamp": "00:45:10.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -9864,7 +9864,7 @@
     "timestamp": "00:45:12.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9912,7 +9912,7 @@
     "timestamp": "00:45:14.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:45:19.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:45:21.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -10032,7 +10032,7 @@
     "timestamp": "00:45:24.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -10048,7 +10048,7 @@
     "timestamp": "00:45:49.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -10080,7 +10080,7 @@
     "timestamp": "00:45:51.784"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:45:56.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -10112,7 +10112,7 @@
     "timestamp": "00:45:56.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -10144,7 +10144,7 @@
     "timestamp": "00:46:19.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:46:25.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -10208,7 +10208,7 @@
     "timestamp": "00:46:31.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -10240,7 +10240,7 @@
     "timestamp": "00:46:33.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:46:36.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -10304,7 +10304,7 @@
     "timestamp": "00:46:38.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -10328,7 +10328,7 @@
     "timestamp": "00:46:39.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:46:48.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -10360,7 +10360,7 @@
     "timestamp": "00:47:10.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -10384,7 +10384,7 @@
     "timestamp": "00:00:01.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:00:05.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -10424,7 +10424,7 @@
     "timestamp": "00:00:06.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:00:30.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -10472,7 +10472,7 @@
     "timestamp": "00:00:43.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -10488,7 +10488,7 @@
     "timestamp": "00:00:46.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -10512,7 +10512,7 @@
     "timestamp": "00:00:47.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -10544,7 +10544,7 @@
     "timestamp": "00:00:50.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -10576,7 +10576,7 @@
     "timestamp": "00:00:53.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:00:57.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -10672,7 +10672,7 @@
     "timestamp": "00:01:44.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -10688,7 +10688,7 @@
     "timestamp": "00:01:48.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -10720,7 +10720,7 @@
     "timestamp": "00:01:51.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -10760,7 +10760,7 @@
     "timestamp": "00:01:54.983"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Claudia Walker",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -10776,7 +10776,7 @@
     "timestamp": "00:01:59.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:02:07.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -10824,7 +10824,7 @@
     "timestamp": "00:02:08.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:02:29.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -10872,7 +10872,7 @@
     "timestamp": "00:02:32.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -11000,7 +11000,7 @@
     "timestamp": "00:02:42.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -11024,7 +11024,7 @@
     "timestamp": "00:02:45.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:02:48.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:02:50.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -11104,7 +11104,7 @@
     "timestamp": "00:02:57.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -11128,7 +11128,7 @@
     "timestamp": "00:03:00.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -11152,7 +11152,7 @@
     "timestamp": "00:03:04.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:03:22.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:03:24.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -11232,7 +11232,7 @@
     "timestamp": "00:03:36.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:03:36.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:03:39.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:03:40.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:03:43.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -11328,7 +11328,7 @@
     "timestamp": "00:03:46.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:03:48.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:03:52.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:03:55.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:03:56.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -11480,7 +11480,7 @@
     "timestamp": "00:03:59.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -11504,7 +11504,7 @@
     "timestamp": "00:04:03.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11528,7 +11528,7 @@
     "timestamp": "00:04:04.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:04:07.105"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -11576,7 +11576,7 @@
     "timestamp": "00:04:10.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:04:12.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -11640,7 +11640,7 @@
     "timestamp": "00:04:18.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:04:23.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -11696,7 +11696,7 @@
     "timestamp": "00:04:40.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -11720,7 +11720,7 @@
     "timestamp": "00:04:41.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -11744,7 +11744,7 @@
     "timestamp": "00:04:43.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -11792,7 +11792,7 @@
     "timestamp": "00:04:45.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:04:49.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:05:04.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -11936,7 +11936,7 @@
     "timestamp": "00:05:07.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:05:09.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -11992,7 +11992,7 @@
     "timestamp": "00:05:11.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -12008,7 +12008,7 @@
     "timestamp": "00:05:15.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -12032,7 +12032,7 @@
     "timestamp": "00:05:17.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -12064,7 +12064,7 @@
     "timestamp": "00:05:19.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -12104,7 +12104,7 @@
     "timestamp": "00:05:21.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -12144,7 +12144,7 @@
     "timestamp": "00:05:27.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -12168,7 +12168,7 @@
     "timestamp": "00:05:29.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12192,7 +12192,7 @@
     "timestamp": "00:05:35.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -12216,7 +12216,7 @@
     "timestamp": "00:05:38.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -12232,7 +12232,7 @@
     "timestamp": "00:05:41.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:05:42.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -12288,7 +12288,7 @@
     "timestamp": "00:05:46.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:05:48.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:05:50.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:05:51.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:06:21.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -12400,7 +12400,7 @@
     "timestamp": "00:06:23.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -12424,7 +12424,7 @@
     "timestamp": "00:06:25.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -12448,7 +12448,7 @@
     "timestamp": "00:06:29.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:06:32.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -12552,7 +12552,7 @@
     "timestamp": "00:06:42.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -12576,7 +12576,7 @@
     "timestamp": "00:06:43.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -12600,7 +12600,7 @@
     "timestamp": "00:06:44.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -12632,7 +12632,7 @@
     "timestamp": "00:06:46.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:06:49.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12672,7 +12672,7 @@
     "timestamp": "00:07:19.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:07:21.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:07:24.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -12744,7 +12744,7 @@
     "timestamp": "00:07:27.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -12776,7 +12776,7 @@
     "timestamp": "00:07:31.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -12824,7 +12824,7 @@
     "timestamp": "00:07:54.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -12856,7 +12856,7 @@
     "timestamp": "00:08:17.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -12880,7 +12880,7 @@
     "timestamp": "00:08:20.488"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Claudia Walker",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:08:22.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -12944,7 +12944,7 @@
     "timestamp": "00:08:50.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -12968,7 +12968,7 @@
     "timestamp": "00:08:53.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:08:55.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:08:59.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13072,7 +13072,7 @@
     "timestamp": "00:09:01.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -13096,7 +13096,7 @@
     "timestamp": "00:09:03.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:09:07.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellen White",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13152,7 +13152,7 @@
     "timestamp": "00:09:11.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:09:25.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -13232,7 +13232,7 @@
     "timestamp": "00:09:27.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -13264,7 +13264,7 @@
     "timestamp": "00:09:31.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:09:35.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -13320,7 +13320,7 @@
     "timestamp": "00:09:41.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:10:17.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -13376,7 +13376,7 @@
     "timestamp": "00:10:18.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:10:20.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:10:23.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:10:23.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:10:30.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:10:34.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:10:36.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -13512,7 +13512,7 @@
     "timestamp": "00:10:40.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:10:42.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13576,7 +13576,7 @@
     "timestamp": "00:10:44.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:10:46.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -13656,7 +13656,7 @@
     "timestamp": "00:10:50.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -13688,7 +13688,7 @@
     "timestamp": "00:10:53.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:10:55.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:10:58.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -13760,7 +13760,7 @@
     "timestamp": "00:11:03.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -13792,7 +13792,7 @@
     "timestamp": "00:11:06.908"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:11:13.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:11:29.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -13944,7 +13944,7 @@
     "timestamp": "00:11:35.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:11:37.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -14008,7 +14008,7 @@
     "timestamp": "00:11:39.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -14032,7 +14032,7 @@
     "timestamp": "00:11:41.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:11:46.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -14136,7 +14136,7 @@
     "timestamp": "00:11:51.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:11:53.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellen White",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14168,7 +14168,7 @@
     "timestamp": "00:11:55.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:12:00.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -14200,7 +14200,7 @@
     "timestamp": "00:12:01.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:12:02.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:12:02.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:12:05.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -14328,7 +14328,7 @@
     "timestamp": "00:12:07.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:12:23.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -14384,7 +14384,7 @@
     "timestamp": "00:12:26.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:12:26.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -14416,7 +14416,7 @@
     "timestamp": "00:12:34.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -14440,7 +14440,7 @@
     "timestamp": "00:12:35.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:12:36.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -14496,7 +14496,7 @@
     "timestamp": "00:12:38.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -14512,7 +14512,7 @@
     "timestamp": "00:12:40.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14528,7 +14528,7 @@
     "timestamp": "00:12:41.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:12:44.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -14568,7 +14568,7 @@
     "timestamp": "00:13:06.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -14600,7 +14600,7 @@
     "timestamp": "00:13:08.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -14624,7 +14624,7 @@
     "timestamp": "00:13:11.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:13:12.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -14680,7 +14680,7 @@
     "timestamp": "00:13:21.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:13:23.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -14744,7 +14744,7 @@
     "timestamp": "00:13:26.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -14768,7 +14768,7 @@
     "timestamp": "00:13:30.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -14816,7 +14816,7 @@
     "timestamp": "00:13:58.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -14832,7 +14832,7 @@
     "timestamp": "00:13:59.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:14:14.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:14:16.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:14:18.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:14:21.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -14976,7 +14976,7 @@
     "timestamp": "00:14:28.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danielle Turner",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -14984,7 +14984,7 @@
     "timestamp": "00:14:29.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14992,7 +14992,7 @@
     "timestamp": "00:15:06.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -15008,7 +15008,7 @@
     "timestamp": "00:15:11.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15016,7 +15016,7 @@
     "timestamp": "00:15:11.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:15:20.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15064,7 +15064,7 @@
     "timestamp": "00:15:24.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:15:28.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -15104,7 +15104,7 @@
     "timestamp": "00:15:29.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -15128,7 +15128,7 @@
     "timestamp": "00:15:36.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -15160,7 +15160,7 @@
     "timestamp": "00:15:39.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -15216,7 +15216,7 @@
     "timestamp": "00:15:47.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -15240,7 +15240,7 @@
     "timestamp": "00:15:50.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -15264,7 +15264,7 @@
     "timestamp": "00:15:55.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -15296,7 +15296,7 @@
     "timestamp": "00:15:59.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:16:01.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:16:07.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15408,7 +15408,7 @@
     "timestamp": "00:16:13.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -15432,7 +15432,7 @@
     "timestamp": "00:16:15.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:16:19.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:16:22.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:16:24.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:16:27.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:16:33.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -15640,7 +15640,7 @@
     "timestamp": "00:17:05.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15680,7 +15680,7 @@
     "timestamp": "00:17:39.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15696,7 +15696,7 @@
     "timestamp": "00:17:44.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:18:09.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -15744,7 +15744,7 @@
     "timestamp": "00:18:28.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -15760,7 +15760,7 @@
     "timestamp": "00:18:30.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -15784,7 +15784,7 @@
     "timestamp": "00:18:31.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:18:32.982"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Simone Magill",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:18:34.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:18:47.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:18:48.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -15904,7 +15904,7 @@
     "timestamp": "00:19:06.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15936,7 +15936,7 @@
     "timestamp": "00:19:45.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -15968,7 +15968,7 @@
     "timestamp": "00:19:46.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:19:49.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -16048,7 +16048,7 @@
     "timestamp": "00:19:54.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -16072,7 +16072,7 @@
     "timestamp": "00:19:56.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:19:57.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -16144,7 +16144,7 @@
     "timestamp": "00:20:00.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:20:02.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -16192,7 +16192,7 @@
     "timestamp": "00:20:05.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -16224,7 +16224,7 @@
     "timestamp": "00:20:08.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:20:18.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -16304,7 +16304,7 @@
     "timestamp": "00:20:20.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -16320,7 +16320,7 @@
     "timestamp": "00:20:21.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -16336,7 +16336,7 @@
     "timestamp": "00:20:22.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:20:23.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -16376,7 +16376,7 @@
     "timestamp": "00:20:23.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -16408,7 +16408,7 @@
     "timestamp": "00:20:25.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:20:30.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:20:32.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:20:36.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -16520,7 +16520,7 @@
     "timestamp": "00:20:40.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -16560,7 +16560,7 @@
     "timestamp": "00:20:57.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:21:36.271"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Ellen White",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:21:36.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:22:25.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:22:29.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16648,7 +16648,7 @@
     "timestamp": "00:22:55.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:22:59.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:23:01.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -16728,7 +16728,7 @@
     "timestamp": "00:23:04.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -16824,7 +16824,7 @@
     "timestamp": "00:23:27.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:23:56.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -16888,7 +16888,7 @@
     "timestamp": "00:24:06.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16912,7 +16912,7 @@
     "timestamp": "00:24:08.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -16976,7 +16976,7 @@
     "timestamp": "00:24:15.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -17000,7 +17000,7 @@
     "timestamp": "00:24:19.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -17032,7 +17032,7 @@
     "timestamp": "00:24:25.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -17056,7 +17056,7 @@
     "timestamp": "00:24:27.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -17072,7 +17072,7 @@
     "timestamp": "00:24:36.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -17096,7 +17096,7 @@
     "timestamp": "00:24:55.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -17120,7 +17120,7 @@
     "timestamp": "00:25:22.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -17144,7 +17144,7 @@
     "timestamp": "00:25:25.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -17160,7 +17160,7 @@
     "timestamp": "00:25:28.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:25:29.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:25:36.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:26:10.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -17288,7 +17288,7 @@
     "timestamp": "00:26:25.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -17336,7 +17336,7 @@
     "timestamp": "00:26:48.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -17360,7 +17360,7 @@
     "timestamp": "00:26:59.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:27:03.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:27:06.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:27:06.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:27:07.841"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:28:21.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -17528,7 +17528,7 @@
     "timestamp": "00:28:40.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -17552,7 +17552,7 @@
     "timestamp": "00:29:07.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -17568,7 +17568,7 @@
     "timestamp": "00:29:08.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -17584,7 +17584,7 @@
     "timestamp": "00:29:09.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:29:10.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dominique Bruinenberg",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:29:14.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -17640,7 +17640,7 @@
     "timestamp": "00:29:15.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:29:15.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dominique Bruinenberg",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:29:17.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -17688,7 +17688,7 @@
     "timestamp": "00:29:18.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:29:21.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -17760,7 +17760,7 @@
     "timestamp": "00:29:23.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -17776,7 +17776,7 @@
     "timestamp": "00:29:25.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -17792,7 +17792,7 @@
     "timestamp": "00:29:27.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:29:29.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -17856,7 +17856,7 @@
     "timestamp": "00:29:58.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:30:15.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:30:21.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:30:52.475"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:30:53.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:31:12.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -18008,7 +18008,7 @@
     "timestamp": "00:31:18.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -18032,7 +18032,7 @@
     "timestamp": "00:31:29.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -18056,7 +18056,7 @@
     "timestamp": "00:31:39.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -18064,7 +18064,7 @@
     "timestamp": "00:31:39.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -18096,7 +18096,7 @@
     "timestamp": "00:31:44.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:31:47.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18168,7 +18168,7 @@
     "timestamp": "00:32:06.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -18176,7 +18176,7 @@
     "timestamp": "00:32:06.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -18192,7 +18192,7 @@
     "timestamp": "00:32:10.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:32:11.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -18288,7 +18288,7 @@
     "timestamp": "00:32:21.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:32:28.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18400,7 +18400,7 @@
     "timestamp": "00:32:56.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Elise Hughes",
     "player1_team": "Everton LFC",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:33:12.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -18440,7 +18440,7 @@
     "timestamp": "00:33:13.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellen White",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -18456,7 +18456,7 @@
     "timestamp": "00:33:14.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:33:15.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -18528,7 +18528,7 @@
     "timestamp": "00:33:20.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:33:23.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:33:24.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -18576,7 +18576,7 @@
     "timestamp": "00:33:38.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -18592,7 +18592,7 @@
     "timestamp": "00:33:41.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:33:48.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -18680,7 +18680,7 @@
     "timestamp": "00:34:12.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -18712,7 +18712,7 @@
     "timestamp": "00:34:23.021"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -18768,7 +18768,7 @@
     "timestamp": "00:34:27.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18792,7 +18792,7 @@
     "timestamp": "00:34:34.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:34:37.988"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ellen White",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:34:40.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18872,7 +18872,7 @@
     "timestamp": "00:34:58.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:34:59.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18928,7 +18928,7 @@
     "timestamp": "00:35:01.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:35:04.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -18976,7 +18976,7 @@
     "timestamp": "00:35:05.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -19040,7 +19040,7 @@
     "timestamp": "00:35:52.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -19064,7 +19064,7 @@
     "timestamp": "00:35:56.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -19088,7 +19088,7 @@
     "timestamp": "00:36:27.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:36:34.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -19120,7 +19120,7 @@
     "timestamp": "00:36:40.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19136,7 +19136,7 @@
     "timestamp": "00:36:42.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:36:43.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -19216,7 +19216,7 @@
     "timestamp": "00:37:00.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -19232,7 +19232,7 @@
     "timestamp": "00:37:17.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -19256,7 +19256,7 @@
     "timestamp": "00:37:19.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Emma Brownlie",
     "player1_team": "Everton LFC",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:37:24.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:37:44.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -19392,7 +19392,7 @@
     "timestamp": "00:37:53.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -19424,7 +19424,7 @@
     "timestamp": "00:37:53.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:37:56.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:38:13.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19552,7 +19552,7 @@
     "timestamp": "00:38:24.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -19568,7 +19568,7 @@
     "timestamp": "00:38:27.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dominique Bruinenberg",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:38:28.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -19608,7 +19608,7 @@
     "timestamp": "00:38:31.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -19664,7 +19664,7 @@
     "timestamp": "00:38:40.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -19688,7 +19688,7 @@
     "timestamp": "00:38:42.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -19720,7 +19720,7 @@
     "timestamp": "00:38:44.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellen White",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -19744,7 +19744,7 @@
     "timestamp": "00:38:46.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:38:49.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:38:52.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:38:53.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -19840,7 +19840,7 @@
     "timestamp": "00:38:59.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -19872,7 +19872,7 @@
     "timestamp": "00:39:06.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:39:07.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:39:13.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dominique Bruinenberg",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -19928,7 +19928,7 @@
     "timestamp": "00:39:21.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -19944,7 +19944,7 @@
     "timestamp": "00:39:46.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Brownlie",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -19968,7 +19968,7 @@
     "timestamp": "00:39:49.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:39:52.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:39:54.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Cain",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -20064,7 +20064,7 @@
     "timestamp": "00:39:56.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -20080,7 +20080,7 @@
     "timestamp": "00:39:57.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:39:59.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Megan Finnigan",
     "player2": "Elise Hughes",
     "player1_team": "Everton LFC",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:40:14.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -20232,7 +20232,7 @@
     "timestamp": "00:40:31.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:40:34.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Danielle Turner",
     "player1_team": "Everton LFC",
@@ -20320,7 +20320,7 @@
     "timestamp": "00:40:39.166"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Danielle Turner",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20344,7 +20344,7 @@
     "timestamp": "00:40:40.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dominique Bruinenberg",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20360,7 +20360,7 @@
     "timestamp": "00:41:14.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20392,7 +20392,7 @@
     "timestamp": "00:41:19.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20400,7 +20400,7 @@
     "timestamp": "00:41:52.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:41:56.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -20480,7 +20480,7 @@
     "timestamp": "00:42:20.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -20496,7 +20496,7 @@
     "timestamp": "00:42:24.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Elise Hughes",
     "player1_team": "Everton LFC",
@@ -20512,7 +20512,7 @@
     "timestamp": "00:42:36.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Elise Hughes",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:42:39.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20584,7 +20584,7 @@
     "timestamp": "00:42:43.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Cain",
     "player2": "Taylor Hinds",
     "player1_team": "Everton LFC",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:42:48.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:42:57.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Taylor Hinds",
     "player2": "Elise Hughes",
     "player1_team": "Everton LFC",
@@ -20736,7 +20736,7 @@
     "timestamp": "00:43:03.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -20768,7 +20768,7 @@
     "timestamp": "00:43:15.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:43:16.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:43:40.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Megan Finnigan",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -20808,7 +20808,7 @@
     "timestamp": "00:43:44.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:43:48.920"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Hannah Cain",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -20848,7 +20848,7 @@
     "timestamp": "00:43:52.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:44:24.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:44:28.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -20912,7 +20912,7 @@
     "timestamp": "00:44:44.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:44:48.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20968,7 +20968,7 @@
     "timestamp": "00:44:54.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -21000,7 +21000,7 @@
     "timestamp": "00:45:06.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:45:19.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dominique Bruinenberg",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -21040,7 +21040,7 @@
     "timestamp": "00:45:22.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Elise Hughes",
     "player1_team": "Everton LFC",
@@ -21072,7 +21072,7 @@
     "timestamp": "00:45:23.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Ellen White",
     "player1_team": "Birmingham City WFC",
@@ -21096,7 +21096,7 @@
     "timestamp": "00:45:27.807"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ellen White",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -21112,7 +21112,7 @@
     "timestamp": "00:45:30.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstie Levell",
     "player2": "Siri Worm",
     "player1_team": "Everton LFC",
@@ -21144,7 +21144,7 @@
     "timestamp": "00:45:44.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -21152,7 +21152,7 @@
     "timestamp": "00:45:44.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -21216,7 +21216,7 @@
     "timestamp": "00:46:11.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:46:14.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Simone Magill",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:46:17.995"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Hannah Cain",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -21320,7 +21320,7 @@
     "timestamp": "00:46:26.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:46:28.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Simone Magill",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:46:30.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Brownlie",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -21424,7 +21424,7 @@
     "timestamp": "00:46:38.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -21464,7 +21464,7 @@
     "timestamp": "00:46:40.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danielle Turner",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -21480,7 +21480,7 @@
     "timestamp": "00:46:58.891"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Megan Finnigan",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -21496,7 +21496,7 @@
     "timestamp": "00:46:59.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -21512,7 +21512,7 @@
     "timestamp": "00:47:26.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:47:33.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:47:35.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -21632,7 +21632,7 @@
     "timestamp": "00:47:38.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstie Levell",
     "player2": "",
     "player1_team": "Everton LFC",

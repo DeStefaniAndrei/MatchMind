@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:04.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -72,7 +72,7 @@
     "timestamp": "00:00:07.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -96,7 +96,7 @@
     "timestamp": "00:00:11.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -144,7 +144,7 @@
     "timestamp": "00:00:13.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:16.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -192,7 +192,7 @@
     "timestamp": "00:00:19.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -208,7 +208,7 @@
     "timestamp": "00:00:19.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -240,7 +240,7 @@
     "timestamp": "00:00:21.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -272,7 +272,7 @@
     "timestamp": "00:00:24.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -288,7 +288,7 @@
     "timestamp": "00:00:42.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "",
     "player1_team": "Norwich City",
@@ -296,7 +296,7 @@
     "timestamp": "00:00:42.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -312,7 +312,7 @@
     "timestamp": "00:01:02.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -328,7 +328,7 @@
     "timestamp": "00:01:03.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -360,7 +360,7 @@
     "timestamp": "00:01:05.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -408,7 +408,7 @@
     "timestamp": "00:01:08.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -432,7 +432,7 @@
     "timestamp": "00:01:49.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -464,7 +464,7 @@
     "timestamp": "00:01:51.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -488,7 +488,7 @@
     "timestamp": "00:02:31.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -504,7 +504,7 @@
     "timestamp": "00:02:32.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "",
     "player1_team": "Sunderland",
@@ -520,7 +520,7 @@
     "timestamp": "00:02:32.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -536,7 +536,7 @@
     "timestamp": "00:02:36.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -576,7 +576,7 @@
     "timestamp": "00:02:40.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -608,7 +608,7 @@
     "timestamp": "00:04:17.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -632,7 +632,7 @@
     "timestamp": "00:04:20.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -720,7 +720,7 @@
     "timestamp": "00:04:26.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -744,7 +744,7 @@
     "timestamp": "00:04:27.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -768,7 +768,7 @@
     "timestamp": "00:04:28.470"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -808,7 +808,7 @@
     "timestamp": "00:04:30.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -840,7 +840,7 @@
     "timestamp": "00:04:31.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -864,7 +864,7 @@
     "timestamp": "00:04:33.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -888,7 +888,7 @@
     "timestamp": "00:04:36.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -920,7 +920,7 @@
     "timestamp": "00:04:39.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -944,7 +944,7 @@
     "timestamp": "00:04:39.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -976,7 +976,7 @@
     "timestamp": "00:04:40.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -1008,7 +1008,7 @@
     "timestamp": "00:04:44.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -1040,7 +1040,7 @@
     "timestamp": "00:04:51.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -1056,7 +1056,7 @@
     "timestamp": "00:05:27.771"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jonathan Howson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -1088,7 +1088,7 @@
     "timestamp": "00:05:30.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:05:33.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:05:40.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -1144,7 +1144,7 @@
     "timestamp": "00:05:43.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1176,7 +1176,7 @@
     "timestamp": "00:05:44.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:05:48.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1224,7 +1224,7 @@
     "timestamp": "00:05:51.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:05:52.422"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:05:54.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:06:17.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:06:20.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:06:21.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:06:27.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -1472,7 +1472,7 @@
     "timestamp": "00:06:33.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -1496,7 +1496,7 @@
     "timestamp": "00:06:36.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1560,7 +1560,7 @@
     "timestamp": "00:06:44.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1600,7 +1600,7 @@
     "timestamp": "00:06:55.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:06:57.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -1648,7 +1648,7 @@
     "timestamp": "00:06:59.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -1672,7 +1672,7 @@
     "timestamp": "00:07:02.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -1720,7 +1720,7 @@
     "timestamp": "00:07:07.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -1744,7 +1744,7 @@
     "timestamp": "00:07:16.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -1776,7 +1776,7 @@
     "timestamp": "00:07:18.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -1800,7 +1800,7 @@
     "timestamp": "00:07:20.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -1832,7 +1832,7 @@
     "timestamp": "00:07:26.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -1848,7 +1848,7 @@
     "timestamp": "00:07:29.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:07:31.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:07:34.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:08:02.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -1968,7 +1968,7 @@
     "timestamp": "00:08:04.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:08:05.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -2000,7 +2000,7 @@
     "timestamp": "00:08:06.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2032,7 +2032,7 @@
     "timestamp": "00:08:09.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "",
     "player1_team": "Norwich City",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:08:11.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -2080,7 +2080,7 @@
     "timestamp": "00:08:34.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -2104,7 +2104,7 @@
     "timestamp": "00:08:35.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:08:38.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "",
     "player1_team": "Norwich City",
@@ -2128,7 +2128,7 @@
     "timestamp": "00:08:38.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2136,7 +2136,7 @@
     "timestamp": "00:08:39.364"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:08:45.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -2176,7 +2176,7 @@
     "timestamp": "00:08:47.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -2192,7 +2192,7 @@
     "timestamp": "00:08:59.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:09:00.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:09:01.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:09:03.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:09:09.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -2312,7 +2312,7 @@
     "timestamp": "00:09:11.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -2328,7 +2328,7 @@
     "timestamp": "00:09:14.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -2352,7 +2352,7 @@
     "timestamp": "00:09:17.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:09:19.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -2408,7 +2408,7 @@
     "timestamp": "00:09:24.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:09:26.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -2456,7 +2456,7 @@
     "timestamp": "00:09:50.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:09:50.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -2480,7 +2480,7 @@
     "timestamp": "00:10:02.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -2512,7 +2512,7 @@
     "timestamp": "00:10:05.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -2536,7 +2536,7 @@
     "timestamp": "00:10:06.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -2560,7 +2560,7 @@
     "timestamp": "00:10:07.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2584,7 +2584,7 @@
     "timestamp": "00:10:12.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -2616,7 +2616,7 @@
     "timestamp": "00:10:15.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:10:22.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -2688,7 +2688,7 @@
     "timestamp": "00:10:25.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:10:28.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:10:55.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:11:01.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:11:05.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -2840,7 +2840,7 @@
     "timestamp": "00:11:09.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -2896,7 +2896,7 @@
     "timestamp": "00:11:13.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:11:15.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2944,7 +2944,7 @@
     "timestamp": "00:11:19.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -2960,7 +2960,7 @@
     "timestamp": "00:11:49.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -2984,7 +2984,7 @@
     "timestamp": "00:11:51.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -3000,7 +3000,7 @@
     "timestamp": "00:11:57.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -3016,7 +3016,7 @@
     "timestamp": "00:11:58.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:11:58.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -3048,7 +3048,7 @@
     "timestamp": "00:12:01.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -3072,7 +3072,7 @@
     "timestamp": "00:12:04.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:12:06.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:12:11.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -3144,7 +3144,7 @@
     "timestamp": "00:12:13.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -3160,7 +3160,7 @@
     "timestamp": "00:12:16.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -3184,7 +3184,7 @@
     "timestamp": "00:12:17.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -3208,7 +3208,7 @@
     "timestamp": "00:12:20.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:12:23.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -3264,7 +3264,7 @@
     "timestamp": "00:12:25.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:12:28.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:12:31.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:12:33.187"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "",
     "player1_team": "Norwich City",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:12:33.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:12:58.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3424,7 +3424,7 @@
     "timestamp": "00:12:59.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -3440,7 +3440,7 @@
     "timestamp": "00:13:01.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:13:03.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -3496,7 +3496,7 @@
     "timestamp": "00:13:08.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -3552,7 +3552,7 @@
     "timestamp": "00:13:11.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -3560,7 +3560,7 @@
     "timestamp": "00:13:11.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3624,7 +3624,7 @@
     "timestamp": "00:13:44.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:13:45.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -3672,7 +3672,7 @@
     "timestamp": "00:13:48.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:13:50.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:13:54.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -3752,7 +3752,7 @@
     "timestamp": "00:13:55.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:13:58.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -3816,7 +3816,7 @@
     "timestamp": "00:14:02.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -3848,7 +3848,7 @@
     "timestamp": "00:14:59.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -3872,7 +3872,7 @@
     "timestamp": "00:15:09.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -3904,7 +3904,7 @@
     "timestamp": "00:15:14.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:15:17.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3968,7 +3968,7 @@
     "timestamp": "00:15:21.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "",
     "player1_team": "Sunderland",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:15:24.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -4000,7 +4000,7 @@
     "timestamp": "00:15:28.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:15:30.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -4040,7 +4040,7 @@
     "timestamp": "00:15:33.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:15:33.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:16:11.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -4136,7 +4136,7 @@
     "timestamp": "00:16:38.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -4160,7 +4160,7 @@
     "timestamp": "00:17:21.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4176,7 +4176,7 @@
     "timestamp": "00:17:23.219"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -4192,7 +4192,7 @@
     "timestamp": "00:17:24.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:17:59.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:18:01.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -4240,7 +4240,7 @@
     "timestamp": "00:18:01.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:18:05.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -4296,7 +4296,7 @@
     "timestamp": "00:18:06.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -4320,7 +4320,7 @@
     "timestamp": "00:18:09.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4336,7 +4336,7 @@
     "timestamp": "00:18:13.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -4352,7 +4352,7 @@
     "timestamp": "00:18:15.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:18:18.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -4400,7 +4400,7 @@
     "timestamp": "00:18:20.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4432,7 +4432,7 @@
     "timestamp": "00:18:23.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:18:25.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:18:27.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:18:30.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -4536,7 +4536,7 @@
     "timestamp": "00:18:32.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -4584,7 +4584,7 @@
     "timestamp": "00:18:35.225"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -4600,7 +4600,7 @@
     "timestamp": "00:18:36.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -4624,7 +4624,7 @@
     "timestamp": "00:19:03.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:19:04.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:19:06.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -4680,7 +4680,7 @@
     "timestamp": "00:19:10.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -4712,7 +4712,7 @@
     "timestamp": "00:19:11.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:19:14.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:19:19.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:19:22.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -4808,7 +4808,7 @@
     "timestamp": "00:19:26.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -4840,7 +4840,7 @@
     "timestamp": "00:19:32.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:19:37.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -4904,7 +4904,7 @@
     "timestamp": "00:20:02.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4920,7 +4920,7 @@
     "timestamp": "00:20:05.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:20:06.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:20:14.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5024,7 +5024,7 @@
     "timestamp": "00:20:20.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:20:22.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5072,7 +5072,7 @@
     "timestamp": "00:20:23.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:20:29.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:20:45.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:20:45.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -5152,7 +5152,7 @@
     "timestamp": "00:20:47.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -5176,7 +5176,7 @@
     "timestamp": "00:20:49.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -5208,7 +5208,7 @@
     "timestamp": "00:20:55.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:20:59.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:21:10.648"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5312,7 +5312,7 @@
     "timestamp": "00:21:12.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:21:15.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:21:19.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -5408,7 +5408,7 @@
     "timestamp": "00:21:22.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:21:24.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:21:26.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:21:32.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -5528,7 +5528,7 @@
     "timestamp": "00:21:38.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:21:42.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -5584,7 +5584,7 @@
     "timestamp": "00:21:47.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -5624,7 +5624,7 @@
     "timestamp": "00:21:47.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -5648,7 +5648,7 @@
     "timestamp": "00:21:51.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5672,7 +5672,7 @@
     "timestamp": "00:21:53.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -5696,7 +5696,7 @@
     "timestamp": "00:21:55.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -5720,7 +5720,7 @@
     "timestamp": "00:21:57.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5744,7 +5744,7 @@
     "timestamp": "00:22:01.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -5768,7 +5768,7 @@
     "timestamp": "00:22:05.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:22:11.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -5800,7 +5800,7 @@
     "timestamp": "00:22:41.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:22:43.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:22:44.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:22:47.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -5920,7 +5920,7 @@
     "timestamp": "00:22:49.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5936,7 +5936,7 @@
     "timestamp": "00:22:52.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -5960,7 +5960,7 @@
     "timestamp": "00:22:55.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -5984,7 +5984,7 @@
     "timestamp": "00:22:57.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:23:00.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -6032,7 +6032,7 @@
     "timestamp": "00:23:03.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -6056,7 +6056,7 @@
     "timestamp": "00:23:07.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -6072,7 +6072,7 @@
     "timestamp": "00:23:12.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -6088,7 +6088,7 @@
     "timestamp": "00:23:39.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -6104,7 +6104,7 @@
     "timestamp": "00:23:40.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:23:42.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:23:43.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -6160,7 +6160,7 @@
     "timestamp": "00:23:46.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -6184,7 +6184,7 @@
     "timestamp": "00:23:47.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:23:47.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -6208,7 +6208,7 @@
     "timestamp": "00:23:52.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:23:53.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:24:15.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:24:18.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -6304,7 +6304,7 @@
     "timestamp": "00:24:20.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:24:24.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6344,7 +6344,7 @@
     "timestamp": "00:24:29.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -6408,7 +6408,7 @@
     "timestamp": "00:24:32.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6424,7 +6424,7 @@
     "timestamp": "00:24:35.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:24:37.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:24:41.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:24:44.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -6536,7 +6536,7 @@
     "timestamp": "00:24:50.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:24:57.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:24:59.152"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Steven Naismith",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:25:05.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -6736,7 +6736,7 @@
     "timestamp": "00:25:09.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:25:11.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:25:46.969"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6832,7 +6832,7 @@
     "timestamp": "00:25:48.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:26:27.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:26:31.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:26:38.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -6952,7 +6952,7 @@
     "timestamp": "00:26:40.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -6976,7 +6976,7 @@
     "timestamp": "00:26:44.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7000,7 +7000,7 @@
     "timestamp": "00:27:01.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -7016,7 +7016,7 @@
     "timestamp": "00:27:03.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:27:04.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "",
     "player1_team": "Sunderland",
@@ -7064,7 +7064,7 @@
     "timestamp": "00:27:06.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7088,7 +7088,7 @@
     "timestamp": "00:27:09.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:27:11.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -7128,7 +7128,7 @@
     "timestamp": "00:27:25.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -7152,7 +7152,7 @@
     "timestamp": "00:27:26.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -7176,7 +7176,7 @@
     "timestamp": "00:27:29.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -7216,7 +7216,7 @@
     "timestamp": "00:27:33.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:27:39.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:27:44.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -7272,7 +7272,7 @@
     "timestamp": "00:27:47.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7320,7 +7320,7 @@
     "timestamp": "00:27:51.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -7352,7 +7352,7 @@
     "timestamp": "00:27:55.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:27:57.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:28:01.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -7448,7 +7448,7 @@
     "timestamp": "00:28:35.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:28:37.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:28:42.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -7576,7 +7576,7 @@
     "timestamp": "00:28:45.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:28:48.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -7632,7 +7632,7 @@
     "timestamp": "00:28:50.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:28:53.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -7688,7 +7688,7 @@
     "timestamp": "00:28:57.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:29:00.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -7744,7 +7744,7 @@
     "timestamp": "00:29:04.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:29:07.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:29:11.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:29:15.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -7832,7 +7832,7 @@
     "timestamp": "00:29:18.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:29:45.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:29:51.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:30:17.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:30:26.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -7952,7 +7952,7 @@
     "timestamp": "00:30:29.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -7976,7 +7976,7 @@
     "timestamp": "00:30:32.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -8000,7 +8000,7 @@
     "timestamp": "00:30:35.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:30:45.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8088,7 +8088,7 @@
     "timestamp": "00:30:48.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -8104,7 +8104,7 @@
     "timestamp": "00:30:53.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -8128,7 +8128,7 @@
     "timestamp": "00:30:54.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -8160,7 +8160,7 @@
     "timestamp": "00:30:56.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:31:02.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -8200,7 +8200,7 @@
     "timestamp": "00:31:05.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -8224,7 +8224,7 @@
     "timestamp": "00:31:08.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:31:08.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:31:12.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:33:04.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:33:14.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8384,7 +8384,7 @@
     "timestamp": "00:33:18.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -8400,7 +8400,7 @@
     "timestamp": "00:33:22.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:33:24.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:33:32.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:33:36.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8496,7 +8496,7 @@
     "timestamp": "00:33:39.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:33:41.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -8544,7 +8544,7 @@
     "timestamp": "00:33:46.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:33:47.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -8608,7 +8608,7 @@
     "timestamp": "00:33:49.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8648,7 +8648,7 @@
     "timestamp": "00:33:53.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:34:06.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:34:11.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:34:13.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:34:18.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -8800,7 +8800,7 @@
     "timestamp": "00:34:19.412"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lee Cattermole",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:34:20.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:34:50.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:34:54.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -8912,7 +8912,7 @@
     "timestamp": "00:34:57.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8920,7 +8920,7 @@
     "timestamp": "00:34:57.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:35:19.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -8984,7 +8984,7 @@
     "timestamp": "00:36:00.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:36:03.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9032,7 +9032,7 @@
     "timestamp": "00:36:07.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -9064,7 +9064,7 @@
     "timestamp": "00:36:09.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:36:11.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -9112,7 +9112,7 @@
     "timestamp": "00:36:11.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:36:15.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -9192,7 +9192,7 @@
     "timestamp": "00:36:20.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -9216,7 +9216,7 @@
     "timestamp": "00:36:22.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -9240,7 +9240,7 @@
     "timestamp": "00:36:26.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9264,7 +9264,7 @@
     "timestamp": "00:36:29.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -9312,7 +9312,7 @@
     "timestamp": "00:36:36.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9336,7 +9336,7 @@
     "timestamp": "00:37:11.298"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "",
     "player1_team": "Norwich City",
@@ -9368,7 +9368,7 @@
     "timestamp": "00:37:12.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -9392,7 +9392,7 @@
     "timestamp": "00:37:21.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:37:43.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:37:43.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9464,7 +9464,7 @@
     "timestamp": "00:37:45.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -9504,7 +9504,7 @@
     "timestamp": "00:37:49.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9520,7 +9520,7 @@
     "timestamp": "00:37:51.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:37:56.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -9600,7 +9600,7 @@
     "timestamp": "00:37:56.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:38:13.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -9640,7 +9640,7 @@
     "timestamp": "00:38:14.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:38:15.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -9672,7 +9672,7 @@
     "timestamp": "00:38:16.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -9680,7 +9680,7 @@
     "timestamp": "00:38:16.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9696,7 +9696,7 @@
     "timestamp": "00:38:29.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -9720,7 +9720,7 @@
     "timestamp": "00:38:30.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -9736,7 +9736,7 @@
     "timestamp": "00:38:31.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:38:37.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:38:40.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -9840,7 +9840,7 @@
     "timestamp": "00:38:41.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -9872,7 +9872,7 @@
     "timestamp": "00:38:46.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -9896,7 +9896,7 @@
     "timestamp": "00:38:48.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -9928,7 +9928,7 @@
     "timestamp": "00:38:51.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:38:52.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -10000,7 +10000,7 @@
     "timestamp": "00:38:56.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -10032,7 +10032,7 @@
     "timestamp": "00:39:02.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -10056,7 +10056,7 @@
     "timestamp": "00:39:06.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:39:14.201"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:40:29.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -10136,7 +10136,7 @@
     "timestamp": "00:41:20.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:41:22.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -10184,7 +10184,7 @@
     "timestamp": "00:41:25.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -10240,7 +10240,7 @@
     "timestamp": "00:41:35.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:41:41.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:41:43.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -10320,7 +10320,7 @@
     "timestamp": "00:41:46.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -10336,7 +10336,7 @@
     "timestamp": "00:41:51.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "",
     "player1_team": "Norwich City",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:41:52.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -10392,7 +10392,7 @@
     "timestamp": "00:42:27.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -10408,7 +10408,7 @@
     "timestamp": "00:42:30.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:42:33.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:42:36.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -10472,7 +10472,7 @@
     "timestamp": "00:42:41.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Matt Jarvis",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -10488,7 +10488,7 @@
     "timestamp": "00:42:42.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -10512,7 +10512,7 @@
     "timestamp": "00:42:43.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:42:46.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -10568,7 +10568,7 @@
     "timestamp": "00:42:52.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:42:54.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Brady",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:42:55.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -10616,7 +10616,7 @@
     "timestamp": "00:42:57.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -10640,7 +10640,7 @@
     "timestamp": "00:42:58.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:43:01.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -10680,7 +10680,7 @@
     "timestamp": "00:43:26.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -10712,7 +10712,7 @@
     "timestamp": "00:43:29.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:43:35.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:43:37.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -10824,7 +10824,7 @@
     "timestamp": "00:43:45.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "",
     "player1_team": "Norwich City",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:43:51.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:44:03.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Matt Jarvis",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -10904,7 +10904,7 @@
     "timestamp": "00:44:05.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -10928,7 +10928,7 @@
     "timestamp": "00:44:06.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -10944,7 +10944,7 @@
     "timestamp": "00:44:28.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -10976,7 +10976,7 @@
     "timestamp": "00:45:01.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -11008,7 +11008,7 @@
     "timestamp": "00:45:03.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -11024,7 +11024,7 @@
     "timestamp": "00:45:05.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11048,7 +11048,7 @@
     "timestamp": "00:45:10.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -11072,7 +11072,7 @@
     "timestamp": "00:45:14.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:45:16.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11104,7 +11104,7 @@
     "timestamp": "00:45:17.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -11136,7 +11136,7 @@
     "timestamp": "00:45:48.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -11208,7 +11208,7 @@
     "timestamp": "00:45:55.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:46:15.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:46:20.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -11304,7 +11304,7 @@
     "timestamp": "00:46:24.476"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -11320,7 +11320,7 @@
     "timestamp": "00:46:25.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11344,7 +11344,7 @@
     "timestamp": "00:46:47.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:47:21.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11384,7 +11384,7 @@
     "timestamp": "00:47:24.897"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jonathan Howson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11432,7 +11432,7 @@
     "timestamp": "00:00:00.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:00:00.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -11464,7 +11464,7 @@
     "timestamp": "00:00:01.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -11488,7 +11488,7 @@
     "timestamp": "00:00:04.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -11504,7 +11504,7 @@
     "timestamp": "00:00:18.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:00:20.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:00:29.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:00:56.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -11696,7 +11696,7 @@
     "timestamp": "00:01:07.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -11728,7 +11728,7 @@
     "timestamp": "00:01:14.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11744,7 +11744,7 @@
     "timestamp": "00:01:48.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -11768,7 +11768,7 @@
     "timestamp": "00:01:53.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11776,7 +11776,7 @@
     "timestamp": "00:01:53.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -11808,7 +11808,7 @@
     "timestamp": "00:01:58.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:02:01.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:02:02.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:02:04.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:02:05.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:02:08.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:02:09.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -11944,7 +11944,7 @@
     "timestamp": "00:02:24.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:02:28.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -11992,7 +11992,7 @@
     "timestamp": "00:02:33.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -12024,7 +12024,7 @@
     "timestamp": "00:02:41.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -12040,7 +12040,7 @@
     "timestamp": "00:02:43.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -12072,7 +12072,7 @@
     "timestamp": "00:02:47.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:02:48.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -12120,7 +12120,7 @@
     "timestamp": "00:02:55.612"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:02:58.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -12152,7 +12152,7 @@
     "timestamp": "00:03:33.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12184,7 +12184,7 @@
     "timestamp": "00:03:35.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -12208,7 +12208,7 @@
     "timestamp": "00:03:56.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:03:58.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:04:36.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:04:38.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:04:46.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Duncan Watmore",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -12472,7 +12472,7 @@
     "timestamp": "00:04:49.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:04:51.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12512,7 +12512,7 @@
     "timestamp": "00:04:54.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:05:24.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "",
     "player1_team": "Norwich City",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:05:27.348"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "",
     "player1_team": "Sunderland",
@@ -12536,7 +12536,7 @@
     "timestamp": "00:05:29.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -12552,7 +12552,7 @@
     "timestamp": "00:05:48.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -12576,7 +12576,7 @@
     "timestamp": "00:05:58.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -12600,7 +12600,7 @@
     "timestamp": "00:06:02.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -12632,7 +12632,7 @@
     "timestamp": "00:06:08.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -12656,7 +12656,7 @@
     "timestamp": "00:06:09.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -12680,7 +12680,7 @@
     "timestamp": "00:06:12.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:06:14.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -12760,7 +12760,7 @@
     "timestamp": "00:06:19.170"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "",
     "player1_team": "Norwich City",
@@ -12776,7 +12776,7 @@
     "timestamp": "00:06:22.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:06:55.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:07:01.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -12880,7 +12880,7 @@
     "timestamp": "00:07:05.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:07:07.218"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -12912,7 +12912,7 @@
     "timestamp": "00:07:07.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -12928,7 +12928,7 @@
     "timestamp": "00:08:16.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:08:19.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -12968,7 +12968,7 @@
     "timestamp": "00:08:20.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:08:30.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -13000,7 +13000,7 @@
     "timestamp": "00:08:34.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13016,7 +13016,7 @@
     "timestamp": "00:08:38.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:08:40.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13056,7 +13056,7 @@
     "timestamp": "00:08:40.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -13080,7 +13080,7 @@
     "timestamp": "00:09:24.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -13104,7 +13104,7 @@
     "timestamp": "00:09:25.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -13136,7 +13136,7 @@
     "timestamp": "00:09:26.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13152,7 +13152,7 @@
     "timestamp": "00:09:28.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -13184,7 +13184,7 @@
     "timestamp": "00:09:30.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13232,7 +13232,7 @@
     "timestamp": "00:09:49.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13256,7 +13256,7 @@
     "timestamp": "00:09:52.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -13272,7 +13272,7 @@
     "timestamp": "00:09:55.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -13288,7 +13288,7 @@
     "timestamp": "00:09:57.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:10:02.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:10:03.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -13376,7 +13376,7 @@
     "timestamp": "00:10:36.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Steven Naismith",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13392,7 +13392,7 @@
     "timestamp": "00:10:38.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:10:40.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:10:42.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:10:45.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:10:49.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:10:52.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -13504,7 +13504,7 @@
     "timestamp": "00:10:53.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -13528,7 +13528,7 @@
     "timestamp": "00:10:58.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -13552,7 +13552,7 @@
     "timestamp": "00:10:59.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:11:01.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -13648,7 +13648,7 @@
     "timestamp": "00:11:07.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:11:56.771"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Steven Naismith",
     "player2": "",
     "player1_team": "Norwich City",
@@ -13704,7 +13704,7 @@
     "timestamp": "00:11:59.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -13784,7 +13784,7 @@
     "timestamp": "00:12:06.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13928,7 +13928,7 @@
     "timestamp": "00:12:20.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -13960,7 +13960,7 @@
     "timestamp": "00:12:23.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -13992,7 +13992,7 @@
     "timestamp": "00:12:26.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -14016,7 +14016,7 @@
     "timestamp": "00:12:30.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -14064,7 +14064,7 @@
     "timestamp": "00:13:51.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14104,7 +14104,7 @@
     "timestamp": "00:14:09.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -14120,7 +14120,7 @@
     "timestamp": "00:14:12.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -14144,7 +14144,7 @@
     "timestamp": "00:14:13.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -14168,7 +14168,7 @@
     "timestamp": "00:14:14.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:14:19.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:14:41.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -14304,7 +14304,7 @@
     "timestamp": "00:14:43.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -14344,7 +14344,7 @@
     "timestamp": "00:14:50.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:15:49.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:15:55.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -14416,7 +14416,7 @@
     "timestamp": "00:15:57.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:16:02.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Duncan Watmore",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14488,7 +14488,7 @@
     "timestamp": "00:16:06.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -14512,7 +14512,7 @@
     "timestamp": "00:16:19.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:16:25.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -14584,7 +14584,7 @@
     "timestamp": "00:16:27.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -14608,7 +14608,7 @@
     "timestamp": "00:16:31.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -14632,7 +14632,7 @@
     "timestamp": "00:16:37.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -14656,7 +14656,7 @@
     "timestamp": "00:16:38.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "",
     "player1_team": "Norwich City",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:16:42.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Hoolahan",
     "player2": "",
     "player1_team": "Norwich City",
@@ -14688,7 +14688,7 @@
     "timestamp": "00:17:08.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:17:30.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -14736,7 +14736,7 @@
     "timestamp": "00:17:31.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14768,7 +14768,7 @@
     "timestamp": "00:17:37.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:17:39.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14808,7 +14808,7 @@
     "timestamp": "00:17:41.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -14832,7 +14832,7 @@
     "timestamp": "00:17:45.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:17:46.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:17:47.453"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "",
     "player1_team": "Norwich City",
@@ -14912,7 +14912,7 @@
     "timestamp": "00:17:50.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -14936,7 +14936,7 @@
     "timestamp": "00:18:01.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:18:05.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -14992,7 +14992,7 @@
     "timestamp": "00:18:06.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -15016,7 +15016,7 @@
     "timestamp": "00:18:09.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -15072,7 +15072,7 @@
     "timestamp": "00:18:17.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Duncan Watmore",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -15104,7 +15104,7 @@
     "timestamp": "00:18:20.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -15128,7 +15128,7 @@
     "timestamp": "00:18:24.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -15160,7 +15160,7 @@
     "timestamp": "00:18:32.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Hoolahan",
     "player2": "",
     "player1_team": "Norwich City",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:18:39.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:18:41.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -15232,7 +15232,7 @@
     "timestamp": "00:19:38.589"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "",
     "player1_team": "Norwich City",
@@ -15264,7 +15264,7 @@
     "timestamp": "00:19:40.764"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Wes Hoolahan",
     "player2": "",
     "player1_team": "Norwich City",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:19:41.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:20:04.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:20:18.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:20:19.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:21:13.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -15416,7 +15416,7 @@
     "timestamp": "00:21:24.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15472,7 +15472,7 @@
     "timestamp": "00:21:26.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:21:31.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:21:35.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -15528,7 +15528,7 @@
     "timestamp": "00:21:36.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:22:38.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -15584,7 +15584,7 @@
     "timestamp": "00:22:41.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:22:59.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:23:07.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:23:10.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:23:36.362"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:24:37.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -15744,7 +15744,7 @@
     "timestamp": "00:25:05.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -15768,7 +15768,7 @@
     "timestamp": "00:25:08.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -15784,7 +15784,7 @@
     "timestamp": "00:25:15.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -15832,7 +15832,7 @@
     "timestamp": "00:25:16.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:25:43.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -15856,7 +15856,7 @@
     "timestamp": "00:26:06.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15880,7 +15880,7 @@
     "timestamp": "00:26:07.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Steven Naismith",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -15912,7 +15912,7 @@
     "timestamp": "00:26:09.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:26:11.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:26:15.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15968,7 +15968,7 @@
     "timestamp": "00:26:38.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -15984,7 +15984,7 @@
     "timestamp": "00:26:42.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:26:42.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:26:45.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:26:52.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:26:56.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:26:58.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -16128,7 +16128,7 @@
     "timestamp": "00:27:01.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16160,7 +16160,7 @@
     "timestamp": "00:27:03.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -16184,7 +16184,7 @@
     "timestamp": "00:27:06.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:27:07.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -16232,7 +16232,7 @@
     "timestamp": "00:27:09.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -16272,7 +16272,7 @@
     "timestamp": "00:27:20.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:27:52.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "",
     "player1_team": "Norwich City",
@@ -16312,7 +16312,7 @@
     "timestamp": "00:28:20.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:28:36.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:28:42.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:28:45.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:28:46.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:28:50.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sebastian Larsson",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:28:51.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -16512,7 +16512,7 @@
     "timestamp": "00:28:53.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -16536,7 +16536,7 @@
     "timestamp": "00:28:53.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:29:13.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:29:15.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:29:19.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:29:22.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:29:27.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -16656,7 +16656,7 @@
     "timestamp": "00:29:28.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -16672,7 +16672,7 @@
     "timestamp": "00:29:29.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -16720,7 +16720,7 @@
     "timestamp": "00:29:32.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:29:34.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:29:40.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:29:44.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -16824,7 +16824,7 @@
     "timestamp": "00:29:46.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -16856,7 +16856,7 @@
     "timestamp": "00:29:51.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -16904,7 +16904,7 @@
     "timestamp": "00:30:04.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -16936,7 +16936,7 @@
     "timestamp": "00:30:07.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:30:12.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -16984,7 +16984,7 @@
     "timestamp": "00:30:14.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -17000,7 +17000,7 @@
     "timestamp": "00:30:24.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:30:50.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -17032,7 +17032,7 @@
     "timestamp": "00:30:56.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -17056,7 +17056,7 @@
     "timestamp": "00:30:58.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:31:00.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:31:01.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:31:07.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -17152,7 +17152,7 @@
     "timestamp": "00:31:12.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -17176,7 +17176,7 @@
     "timestamp": "00:31:15.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -17208,7 +17208,7 @@
     "timestamp": "00:31:21.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:31:23.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:31:25.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -17312,7 +17312,7 @@
     "timestamp": "00:31:31.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:32:13.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17336,7 +17336,7 @@
     "timestamp": "00:32:18.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -17352,7 +17352,7 @@
     "timestamp": "00:32:20.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:32:25.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:32:28.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17456,7 +17456,7 @@
     "timestamp": "00:32:56.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -17512,7 +17512,7 @@
     "timestamp": "00:32:59.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:33:05.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -17584,7 +17584,7 @@
     "timestamp": "00:33:12.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cameron Jerome",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:33:18.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -17672,7 +17672,7 @@
     "timestamp": "00:33:21.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17696,7 +17696,7 @@
     "timestamp": "00:33:25.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:33:27.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17744,7 +17744,7 @@
     "timestamp": "00:33:29.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:33:31.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "",
     "player1_team": "Norwich City",
@@ -17784,7 +17784,7 @@
     "timestamp": "00:33:33.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -17808,7 +17808,7 @@
     "timestamp": "00:33:40.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -17824,7 +17824,7 @@
     "timestamp": "00:33:41.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:33:55.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:33:55.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -17904,7 +17904,7 @@
     "timestamp": "00:33:59.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:34:02.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:34:05.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -17976,7 +17976,7 @@
     "timestamp": "00:34:29.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -18000,7 +18000,7 @@
     "timestamp": "00:34:34.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -18024,7 +18024,7 @@
     "timestamp": "00:34:39.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -18128,7 +18128,7 @@
     "timestamp": "00:34:48.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -18152,7 +18152,7 @@
     "timestamp": "00:34:50.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -18200,7 +18200,7 @@
     "timestamp": "00:34:53.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:35:00.655"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18248,7 +18248,7 @@
     "timestamp": "00:35:01.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -18264,7 +18264,7 @@
     "timestamp": "00:35:19.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -18280,7 +18280,7 @@
     "timestamp": "00:35:20.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -18304,7 +18304,7 @@
     "timestamp": "00:35:22.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -18328,7 +18328,7 @@
     "timestamp": "00:35:24.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -18344,7 +18344,7 @@
     "timestamp": "00:35:26.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:35:28.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -18384,7 +18384,7 @@
     "timestamp": "00:35:59.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "",
     "player1_team": "Sunderland",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:35:59.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:36:07.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -18440,7 +18440,7 @@
     "timestamp": "00:36:13.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cameron Jerome",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -18464,7 +18464,7 @@
     "timestamp": "00:36:16.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:36:19.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -18512,7 +18512,7 @@
     "timestamp": "00:36:20.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:36:27.280"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18576,7 +18576,7 @@
     "timestamp": "00:36:28.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:36:50.381"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jonathan Howson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:36:51.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -18672,7 +18672,7 @@
     "timestamp": "00:37:03.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Hoolahan",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -18696,7 +18696,7 @@
     "timestamp": "00:37:04.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:37:11.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18744,7 +18744,7 @@
     "timestamp": "00:37:17.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:37:20.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -18784,7 +18784,7 @@
     "timestamp": "00:37:24.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:37:26.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:37:28.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -18880,7 +18880,7 @@
     "timestamp": "00:37:34.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -18904,7 +18904,7 @@
     "timestamp": "00:37:44.841"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Hoolahan",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18936,7 +18936,7 @@
     "timestamp": "00:37:51.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Howson",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18952,7 +18952,7 @@
     "timestamp": "00:37:55.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:38:19.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -18984,7 +18984,7 @@
     "timestamp": "00:38:23.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -19000,7 +19000,7 @@
     "timestamp": "00:38:27.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -19072,7 +19072,7 @@
     "timestamp": "00:38:35.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -19128,7 +19128,7 @@
     "timestamp": "00:38:38.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:38:41.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Bennett",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:38:44.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -19216,7 +19216,7 @@
     "timestamp": "00:38:49.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cameron Jerome",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -19240,7 +19240,7 @@
     "timestamp": "00:38:53.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -19264,7 +19264,7 @@
     "timestamp": "00:38:55.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -19288,7 +19288,7 @@
     "timestamp": "00:38:57.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:39:03.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Andre Wisdom",
     "player1_team": "Norwich City",
@@ -19376,7 +19376,7 @@
     "timestamp": "00:39:11.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -19408,7 +19408,7 @@
     "timestamp": "00:39:16.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19432,7 +19432,7 @@
     "timestamp": "00:39:27.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:39:59.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:40:02.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:40:04.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:40:08.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -19528,7 +19528,7 @@
     "timestamp": "00:40:13.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -19560,7 +19560,7 @@
     "timestamp": "00:40:19.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cameron Jerome",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:40:20.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -19616,7 +19616,7 @@
     "timestamp": "00:40:24.286"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Cameron Jerome",
     "player2": "",
     "player1_team": "Norwich City",
@@ -19632,7 +19632,7 @@
     "timestamp": "00:40:25.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "John O''Shea",
     "player1_team": "Sunderland",
@@ -19648,7 +19648,7 @@
     "timestamp": "00:40:58.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John O''Shea",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -19696,7 +19696,7 @@
     "timestamp": "00:41:02.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -19720,7 +19720,7 @@
     "timestamp": "00:41:04.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -19744,7 +19744,7 @@
     "timestamp": "00:41:06.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:41:09.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:41:13.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:41:15.907"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -19832,7 +19832,7 @@
     "timestamp": "00:41:16.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:41:48.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -19864,7 +19864,7 @@
     "timestamp": "00:41:55.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "",
     "player1_team": "Norwich City",
@@ -19896,7 +19896,7 @@
     "timestamp": "00:41:58.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Hoolahan",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -19928,7 +19928,7 @@
     "timestamp": "00:42:17.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -19968,7 +19968,7 @@
     "timestamp": "00:42:25.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:42:34.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -20072,7 +20072,7 @@
     "timestamp": "00:42:53.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:42:54.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sebastian Larsson",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -20112,7 +20112,7 @@
     "timestamp": "00:42:57.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -20136,7 +20136,7 @@
     "timestamp": "00:43:05.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -20160,7 +20160,7 @@
     "timestamp": "00:43:08.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "John Ruddy",
     "player1_team": "Norwich City",
@@ -20176,7 +20176,7 @@
     "timestamp": "00:43:13.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -20224,7 +20224,7 @@
     "timestamp": "00:43:19.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andre Wisdom",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -20320,7 +20320,7 @@
     "timestamp": "00:43:26.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andre Wisdom",
     "player2": "",
     "player1_team": "Norwich City",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:43:29.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Hoolahan",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20368,7 +20368,7 @@
     "timestamp": "00:43:34.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:43:44.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "John Ruddy",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -20440,7 +20440,7 @@
     "timestamp": "00:43:50.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -20464,7 +20464,7 @@
     "timestamp": "00:44:16.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20520,7 +20520,7 @@
     "timestamp": "00:44:25.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Hoolahan",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -20544,7 +20544,7 @@
     "timestamp": "00:44:27.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "",
     "player1_team": "Norwich City",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:44:27.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:44:38.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:44:57.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:45:05.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -20728,7 +20728,7 @@
     "timestamp": "00:45:08.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -20744,7 +20744,7 @@
     "timestamp": "00:45:11.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -20776,7 +20776,7 @@
     "timestamp": "00:45:13.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -20800,7 +20800,7 @@
     "timestamp": "00:45:16.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sebastian Larsson",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:45:17.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:45:18.300"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Duncan Watmore",
     "player2": "",
     "player1_team": "Sunderland",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:45:21.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cameron Jerome",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -20872,7 +20872,7 @@
     "timestamp": "00:46:21.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Bennett",
     "player2": "",
     "player1_team": "Norwich City",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:46:25.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -20912,7 +20912,7 @@
     "timestamp": "00:46:32.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20928,7 +20928,7 @@
     "timestamp": "00:46:42.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -20960,7 +20960,7 @@
     "timestamp": "00:47:13.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -20984,7 +20984,7 @@
     "timestamp": "00:47:31.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:47:38.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -21056,7 +21056,7 @@
     "timestamp": "00:47:45.967"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Wes Hoolahan",
     "player2": "",
     "player1_team": "Norwich City",
@@ -21072,7 +21072,7 @@
     "timestamp": "00:47:48.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -21096,7 +21096,7 @@
     "timestamp": "00:48:16.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -21104,7 +21104,7 @@
     "timestamp": "00:48:32.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -21128,7 +21128,7 @@
     "timestamp": "00:48:35.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Howson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -21152,7 +21152,7 @@
     "timestamp": "00:48:37.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gary O''Neil",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -21176,7 +21176,7 @@
     "timestamp": "00:48:41.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Nathan Redmond",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -21200,7 +21200,7 @@
     "timestamp": "00:48:48.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:48:53.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",

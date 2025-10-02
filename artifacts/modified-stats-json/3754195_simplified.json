@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -56,7 +56,7 @@
     "timestamp": "00:00:03.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -88,7 +88,7 @@
     "timestamp": "00:00:08.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -112,7 +112,7 @@
     "timestamp": "00:00:10.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -128,7 +128,7 @@
     "timestamp": "00:00:13.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -160,7 +160,7 @@
     "timestamp": "00:00:15.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Moussa Sissoko",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:25.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:46.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -224,7 +224,7 @@
     "timestamp": "00:00:47.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -240,7 +240,7 @@
     "timestamp": "00:00:48.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -264,7 +264,7 @@
     "timestamp": "00:00:53.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -280,7 +280,7 @@
     "timestamp": "00:00:55.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -296,7 +296,7 @@
     "timestamp": "00:01:37.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -320,7 +320,7 @@
     "timestamp": "00:01:39.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -344,7 +344,7 @@
     "timestamp": "00:01:42.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -360,7 +360,7 @@
     "timestamp": "00:01:43.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -376,7 +376,7 @@
     "timestamp": "00:01:45.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -400,7 +400,7 @@
     "timestamp": "00:01:46.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -424,7 +424,7 @@
     "timestamp": "00:01:47.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -448,7 +448,7 @@
     "timestamp": "00:01:52.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -472,7 +472,7 @@
     "timestamp": "00:01:54.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -536,7 +536,7 @@
     "timestamp": "00:01:57.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -568,7 +568,7 @@
     "timestamp": "00:02:02.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -592,7 +592,7 @@
     "timestamp": "00:02:20.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -624,7 +624,7 @@
     "timestamp": "00:02:22.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:25.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -672,7 +672,7 @@
     "timestamp": "00:02:28.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -712,7 +712,7 @@
     "timestamp": "00:02:31.627"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -744,7 +744,7 @@
     "timestamp": "00:02:32.844"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -768,7 +768,7 @@
     "timestamp": "00:02:33.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aleksandar Mitrović",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -784,7 +784,7 @@
     "timestamp": "00:02:38.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -816,7 +816,7 @@
     "timestamp": "00:02:41.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -848,7 +848,7 @@
     "timestamp": "00:02:44.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -872,7 +872,7 @@
     "timestamp": "00:02:48.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -920,7 +920,7 @@
     "timestamp": "00:02:56.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -944,7 +944,7 @@
     "timestamp": "00:02:59.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -976,7 +976,7 @@
     "timestamp": "00:03:03.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:03:07.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -1056,7 +1056,7 @@
     "timestamp": "00:03:13.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -1136,7 +1136,7 @@
     "timestamp": "00:03:20.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:03:52.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -1176,7 +1176,7 @@
     "timestamp": "00:03:57.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -1256,7 +1256,7 @@
     "timestamp": "00:04:01.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:04:21.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -1288,7 +1288,7 @@
     "timestamp": "00:04:22.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -1320,7 +1320,7 @@
     "timestamp": "00:04:23.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Vurnon Anita",
     "player1_team": "Newcastle United",
@@ -1344,7 +1344,7 @@
     "timestamp": "00:04:24.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vurnon Anita",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -1368,7 +1368,7 @@
     "timestamp": "00:04:26.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:04:28.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -1416,7 +1416,7 @@
     "timestamp": "00:04:35.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:04:38.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:04:40.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:04:46.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:04:47.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:04:50.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Vurnon Anita",
     "player1_team": "Newcastle United",
@@ -1560,7 +1560,7 @@
     "timestamp": "00:04:52.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vurnon Anita",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -1584,7 +1584,7 @@
     "timestamp": "00:04:56.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:04:58.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -1640,7 +1640,7 @@
     "timestamp": "00:05:02.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Vurnon Anita",
     "player1_team": "Newcastle United",
@@ -1664,7 +1664,7 @@
     "timestamp": "00:05:05.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vurnon Anita",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:05:08.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:05:10.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:05:13.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -1744,7 +1744,7 @@
     "timestamp": "00:05:15.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -1760,7 +1760,7 @@
     "timestamp": "00:05:18.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -1824,7 +1824,7 @@
     "timestamp": "00:05:24.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonas Olsson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -1848,7 +1848,7 @@
     "timestamp": "00:05:25.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:05:28.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -1896,7 +1896,7 @@
     "timestamp": "00:05:36.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:05:40.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:05:48.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:05:50.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -1976,7 +1976,7 @@
     "timestamp": "00:05:52.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -2024,7 +2024,7 @@
     "timestamp": "00:05:56.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:06:16.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:06:25.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -2096,7 +2096,7 @@
     "timestamp": "00:06:31.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:06:33.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:06:37.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:06:42.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -2192,7 +2192,7 @@
     "timestamp": "00:06:44.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:06:45.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -2240,7 +2240,7 @@
     "timestamp": "00:06:54.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:06:59.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -2288,7 +2288,7 @@
     "timestamp": "00:07:03.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -2312,7 +2312,7 @@
     "timestamp": "00:07:04.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonas Olsson",
     "player1_team": "West Bromwich Albion",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:07:07.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonas Olsson",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:07:10.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Jonas Olsson",
     "player1_team": "West Bromwich Albion",
@@ -2384,7 +2384,7 @@
     "timestamp": "00:07:17.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonas Olsson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -2408,7 +2408,7 @@
     "timestamp": "00:07:20.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:07:24.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:07:26.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:07:30.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -2520,7 +2520,7 @@
     "timestamp": "00:07:38.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -2544,7 +2544,7 @@
     "timestamp": "00:07:41.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:07:44.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -2600,7 +2600,7 @@
     "timestamp": "00:07:47.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:07:49.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -2656,7 +2656,7 @@
     "timestamp": "00:07:52.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -2680,7 +2680,7 @@
     "timestamp": "00:08:21.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -2712,7 +2712,7 @@
     "timestamp": "00:08:23.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:08:26.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -2760,7 +2760,7 @@
     "timestamp": "00:08:28.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -2792,7 +2792,7 @@
     "timestamp": "00:08:30.741"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:08:32.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -2832,7 +2832,7 @@
     "timestamp": "00:09:03.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -2856,7 +2856,7 @@
     "timestamp": "00:09:08.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:09:11.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:09:42.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:09:44.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -2944,7 +2944,7 @@
     "timestamp": "00:09:46.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -2968,7 +2968,7 @@
     "timestamp": "00:09:49.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:09:52.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:09:54.437"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:09:58.474"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -3112,7 +3112,7 @@
     "timestamp": "00:09:59.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -3128,7 +3128,7 @@
     "timestamp": "00:10:19.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "Jonas Olsson",
     "player1_team": "West Bromwich Albion",
@@ -3216,7 +3216,7 @@
     "timestamp": "00:10:54.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -3256,7 +3256,7 @@
     "timestamp": "00:10:57.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -3280,7 +3280,7 @@
     "timestamp": "00:11:02.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -3312,7 +3312,7 @@
     "timestamp": "00:11:08.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:11:11.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -3408,7 +3408,7 @@
     "timestamp": "00:11:26.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:11:35.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -3472,7 +3472,7 @@
     "timestamp": "00:12:00.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:12:02.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:12:07.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -3544,7 +3544,7 @@
     "timestamp": "00:12:09.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:12:11.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:12:14.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:12:16.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Vurnon Anita",
     "player1_team": "Newcastle United",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:12:18.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vurnon Anita",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:12:21.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -3688,7 +3688,7 @@
     "timestamp": "00:12:24.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:12:27.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -3736,7 +3736,7 @@
     "timestamp": "00:12:28.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Vurnon Anita",
     "player1_team": "Newcastle United",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:12:31.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vurnon Anita",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -3792,7 +3792,7 @@
     "timestamp": "00:12:35.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -3816,7 +3816,7 @@
     "timestamp": "00:12:36.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -3848,7 +3848,7 @@
     "timestamp": "00:12:37.610"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Georginio Wijnaldum",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -3888,7 +3888,7 @@
     "timestamp": "00:12:42.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:12:45.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -3920,7 +3920,7 @@
     "timestamp": "00:12:51.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -3944,7 +3944,7 @@
     "timestamp": "00:12:57.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -3968,7 +3968,7 @@
     "timestamp": "00:12:59.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -4000,7 +4000,7 @@
     "timestamp": "00:13:19.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aleksandar Mitrović",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -4008,7 +4008,7 @@
     "timestamp": "00:13:20.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:13:59.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -4040,7 +4040,7 @@
     "timestamp": "00:14:03.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Vurnon Anita",
     "player1_team": "Newcastle United",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:14:04.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vurnon Anita",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -4072,7 +4072,7 @@
     "timestamp": "00:14:05.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:14:07.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:14:10.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:14:14.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -4176,7 +4176,7 @@
     "timestamp": "00:14:18.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -4200,7 +4200,7 @@
     "timestamp": "00:14:20.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:14:58.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -4256,7 +4256,7 @@
     "timestamp": "00:15:21.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -4288,7 +4288,7 @@
     "timestamp": "00:15:22.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -4312,7 +4312,7 @@
     "timestamp": "00:15:23.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -4336,7 +4336,7 @@
     "timestamp": "00:15:27.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -4360,7 +4360,7 @@
     "timestamp": "00:15:33.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:15:43.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -4408,7 +4408,7 @@
     "timestamp": "00:15:44.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:15:44.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:15:48.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:15:51.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -4528,7 +4528,7 @@
     "timestamp": "00:15:57.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -4552,7 +4552,7 @@
     "timestamp": "00:15:59.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:17:10.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -4584,7 +4584,7 @@
     "timestamp": "00:17:27.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aleksandar Mitrović",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -4600,7 +4600,7 @@
     "timestamp": "00:17:31.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:17:47.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -4672,7 +4672,7 @@
     "timestamp": "00:17:50.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:17:51.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:17:52.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:17:54.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:17:57.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:18:03.280"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:18:07.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -4864,7 +4864,7 @@
     "timestamp": "00:18:41.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:18:44.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:18:47.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -4976,7 +4976,7 @@
     "timestamp": "00:18:52.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -5000,7 +5000,7 @@
     "timestamp": "00:18:55.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Vurnon Anita",
     "player1_team": "Newcastle United",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:18:57.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vurnon Anita",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:18:58.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:19:00.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:19:02.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vurnon Anita",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -5128,7 +5128,7 @@
     "timestamp": "00:19:04.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -5200,7 +5200,7 @@
     "timestamp": "00:19:17.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:19:27.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -5280,7 +5280,7 @@
     "timestamp": "00:19:31.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georginio Wijnaldum",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -5304,7 +5304,7 @@
     "timestamp": "00:19:31.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -5328,7 +5328,7 @@
     "timestamp": "00:19:54.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -5352,7 +5352,7 @@
     "timestamp": "00:19:55.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:20:00.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -5408,7 +5408,7 @@
     "timestamp": "00:20:01.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:20:03.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:20:05.452"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Aleksandar Mitrović",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -5488,7 +5488,7 @@
     "timestamp": "00:20:06.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -5520,7 +5520,7 @@
     "timestamp": "00:20:43.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:21:13.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:21:15.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -5624,7 +5624,7 @@
     "timestamp": "00:21:19.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -5640,7 +5640,7 @@
     "timestamp": "00:21:21.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aleksandar Mitrović",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -5680,7 +5680,7 @@
     "timestamp": "00:21:26.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -5704,7 +5704,7 @@
     "timestamp": "00:21:28.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -5752,7 +5752,7 @@
     "timestamp": "00:21:36.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:21:45.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -5800,7 +5800,7 @@
     "timestamp": "00:21:52.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -5832,7 +5832,7 @@
     "timestamp": "00:21:54.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -5864,7 +5864,7 @@
     "timestamp": "00:21:56.419"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:21:58.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -5912,7 +5912,7 @@
     "timestamp": "00:22:36.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -5936,7 +5936,7 @@
     "timestamp": "00:22:43.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glyn Oliver Myhill",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -5976,7 +5976,7 @@
     "timestamp": "00:23:12.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:23:14.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:23:19.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:25:34.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:25:48.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:25:52.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:25:53.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -6216,7 +6216,7 @@
     "timestamp": "00:25:59.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:26:01.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -6256,7 +6256,7 @@
     "timestamp": "00:26:05.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:26:07.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -6304,7 +6304,7 @@
     "timestamp": "00:26:08.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -6344,7 +6344,7 @@
     "timestamp": "00:26:17.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -6376,7 +6376,7 @@
     "timestamp": "00:26:33.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:26:37.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:26:39.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:26:41.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:26:46.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Glyn Oliver Myhill",
     "player1_team": "West Bromwich Albion",
@@ -6496,7 +6496,7 @@
     "timestamp": "00:26:49.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -6504,7 +6504,7 @@
     "timestamp": "00:26:50.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:27:09.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:27:12.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -6640,7 +6640,7 @@
     "timestamp": "00:27:19.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:27:40.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:27:42.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -6720,7 +6720,7 @@
     "timestamp": "00:27:47.615"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:27:49.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:27:53.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:27:54.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:27:55.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -6840,7 +6840,7 @@
     "timestamp": "00:27:59.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:28:03.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -6888,7 +6888,7 @@
     "timestamp": "00:28:05.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -6904,7 +6904,7 @@
     "timestamp": "00:28:08.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:28:14.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -6944,7 +6944,7 @@
     "timestamp": "00:28:21.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:28:22.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -6992,7 +6992,7 @@
     "timestamp": "00:28:26.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:28:29.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:28:30.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -7048,7 +7048,7 @@
     "timestamp": "00:28:33.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -7080,7 +7080,7 @@
     "timestamp": "00:28:34.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:28:37.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -7136,7 +7136,7 @@
     "timestamp": "00:28:38.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -7160,7 +7160,7 @@
     "timestamp": "00:28:41.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -7192,7 +7192,7 @@
     "timestamp": "00:28:53.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:28:56.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:28:58.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:29:01.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:29:44.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:30:20.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -7392,7 +7392,7 @@
     "timestamp": "00:30:24.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:30:27.084"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:30:28.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -7464,7 +7464,7 @@
     "timestamp": "00:31:30.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -7496,7 +7496,7 @@
     "timestamp": "00:31:34.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -7536,7 +7536,7 @@
     "timestamp": "00:31:59.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -7640,7 +7640,7 @@
     "timestamp": "00:32:05.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:32:11.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabricio Coloccini",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -7688,7 +7688,7 @@
     "timestamp": "00:32:14.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Glyn Oliver Myhill",
     "player1_team": "West Bromwich Albion",
@@ -7720,7 +7720,7 @@
     "timestamp": "00:32:18.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:32:23.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -7760,7 +7760,7 @@
     "timestamp": "00:32:25.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -7776,7 +7776,7 @@
     "timestamp": "00:32:27.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -7800,7 +7800,7 @@
     "timestamp": "00:32:28.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:32:34.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:32:37.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:32:42.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:32:44.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -7968,7 +7968,7 @@
     "timestamp": "00:32:45.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:32:52.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:32:53.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:32:57.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -8112,7 +8112,7 @@
     "timestamp": "00:33:05.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -8160,7 +8160,7 @@
     "timestamp": "00:33:08.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:33:12.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -8216,7 +8216,7 @@
     "timestamp": "00:33:19.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:33:24.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:33:28.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:33:38.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:33:43.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:33:45.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -8392,7 +8392,7 @@
     "timestamp": "00:33:47.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -8408,7 +8408,7 @@
     "timestamp": "00:33:49.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -8432,7 +8432,7 @@
     "timestamp": "00:33:50.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:33:55.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:33:58.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:33:59.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -8528,7 +8528,7 @@
     "timestamp": "00:34:02.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -8552,7 +8552,7 @@
     "timestamp": "00:34:05.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -8584,7 +8584,7 @@
     "timestamp": "00:34:11.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:34:54.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:34:55.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:35:23.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:35:26.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:35:28.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -8720,7 +8720,7 @@
     "timestamp": "00:35:57.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:35:58.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:36:03.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:36:05.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:36:07.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:36:11.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -8888,7 +8888,7 @@
     "timestamp": "00:36:15.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -8912,7 +8912,7 @@
     "timestamp": "00:36:18.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:36:22.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Glyn Oliver Myhill",
     "player1_team": "West Bromwich Albion",
@@ -8960,7 +8960,7 @@
     "timestamp": "00:36:26.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -8976,7 +8976,7 @@
     "timestamp": "00:36:34.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -9000,7 +9000,7 @@
     "timestamp": "00:36:36.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -9064,7 +9064,7 @@
     "timestamp": "00:36:44.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -9088,7 +9088,7 @@
     "timestamp": "00:36:45.966"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -9112,7 +9112,7 @@
     "timestamp": "00:36:48.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:36:50.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -9152,7 +9152,7 @@
     "timestamp": "00:36:52.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -9184,7 +9184,7 @@
     "timestamp": "00:36:55.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:36:57.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:37:02.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -9256,7 +9256,7 @@
     "timestamp": "00:37:04.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -9280,7 +9280,7 @@
     "timestamp": "00:37:27.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -9296,7 +9296,7 @@
     "timestamp": "00:37:28.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -9320,7 +9320,7 @@
     "timestamp": "00:37:29.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:37:56.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -9384,7 +9384,7 @@
     "timestamp": "00:37:59.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:38:03.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -9432,7 +9432,7 @@
     "timestamp": "00:38:06.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -9456,7 +9456,7 @@
     "timestamp": "00:38:11.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jack Colback",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -9472,7 +9472,7 @@
     "timestamp": "00:38:11.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:38:36.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -9552,7 +9552,7 @@
     "timestamp": "00:39:02.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -9600,7 +9600,7 @@
     "timestamp": "00:39:13.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -9640,7 +9640,7 @@
     "timestamp": "00:39:51.156"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -9680,7 +9680,7 @@
     "timestamp": "00:39:52.176"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -9696,7 +9696,7 @@
     "timestamp": "00:39:54.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -9768,7 +9768,7 @@
     "timestamp": "00:40:39.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:40:58.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -9808,7 +9808,7 @@
     "timestamp": "00:40:59.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -9832,7 +9832,7 @@
     "timestamp": "00:41:02.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -9864,7 +9864,7 @@
     "timestamp": "00:41:09.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -9912,7 +9912,7 @@
     "timestamp": "00:41:14.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -9936,7 +9936,7 @@
     "timestamp": "00:41:24.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:41:27.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:41:30.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:41:34.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -10032,7 +10032,7 @@
     "timestamp": "00:41:38.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -10056,7 +10056,7 @@
     "timestamp": "00:41:39.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -10088,7 +10088,7 @@
     "timestamp": "00:41:42.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -10096,7 +10096,7 @@
     "timestamp": "00:41:43.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -10112,7 +10112,7 @@
     "timestamp": "00:41:46.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -10144,7 +10144,7 @@
     "timestamp": "00:41:47.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -10184,7 +10184,7 @@
     "timestamp": "00:41:49.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabricio Coloccini",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -10216,7 +10216,7 @@
     "timestamp": "00:41:52.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -10240,7 +10240,7 @@
     "timestamp": "00:41:56.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:41:59.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -10288,7 +10288,7 @@
     "timestamp": "00:42:05.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -10304,7 +10304,7 @@
     "timestamp": "00:42:07.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -10328,7 +10328,7 @@
     "timestamp": "00:42:08.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:42:10.836"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Claudio Ariel Yacob",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:42:13.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -10384,7 +10384,7 @@
     "timestamp": "00:42:41.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:42:45.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -10424,7 +10424,7 @@
     "timestamp": "00:42:46.470"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -10448,7 +10448,7 @@
     "timestamp": "00:42:50.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -10496,7 +10496,7 @@
     "timestamp": "00:42:52.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -10528,7 +10528,7 @@
     "timestamp": "00:43:08.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -10552,7 +10552,7 @@
     "timestamp": "00:43:11.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -10576,7 +10576,7 @@
     "timestamp": "00:43:14.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:43:19.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:43:21.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:43:22.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -10664,7 +10664,7 @@
     "timestamp": "00:43:23.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -10760,7 +10760,7 @@
     "timestamp": "00:43:28.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -10784,7 +10784,7 @@
     "timestamp": "00:43:49.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -10832,7 +10832,7 @@
     "timestamp": "00:44:00.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:44:05.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -10872,7 +10872,7 @@
     "timestamp": "00:44:06.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -10896,7 +10896,7 @@
     "timestamp": "00:44:09.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -10920,7 +10920,7 @@
     "timestamp": "00:44:14.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -10968,7 +10968,7 @@
     "timestamp": "00:44:17.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Moussa Sissoko",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -10984,7 +10984,7 @@
     "timestamp": "00:44:17.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -11008,7 +11008,7 @@
     "timestamp": "00:44:23.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -11024,7 +11024,7 @@
     "timestamp": "00:44:23.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -11048,7 +11048,7 @@
     "timestamp": "00:44:25.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -11072,7 +11072,7 @@
     "timestamp": "00:44:26.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:44:31.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -11112,7 +11112,7 @@
     "timestamp": "00:44:31.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -11136,7 +11136,7 @@
     "timestamp": "00:44:38.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -11200,7 +11200,7 @@
     "timestamp": "00:44:47.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -11224,7 +11224,7 @@
     "timestamp": "00:44:51.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:44:53.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:44:56.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:44:57.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -11320,7 +11320,7 @@
     "timestamp": "00:44:59.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -11344,7 +11344,7 @@
     "timestamp": "00:45:01.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:45:06.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -11408,7 +11408,7 @@
     "timestamp": "00:45:12.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -11432,7 +11432,7 @@
     "timestamp": "00:45:15.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:45:18.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -11480,7 +11480,7 @@
     "timestamp": "00:45:25.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -11512,7 +11512,7 @@
     "timestamp": "00:45:29.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -11536,7 +11536,7 @@
     "timestamp": "00:45:31.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -11552,7 +11552,7 @@
     "timestamp": "00:45:36.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -11576,7 +11576,7 @@
     "timestamp": "00:45:37.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:45:44.776"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Craig Gardner",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:46:55.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -11728,7 +11728,7 @@
     "timestamp": "00:47:42.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -11744,7 +11744,7 @@
     "timestamp": "00:00:01.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:00:02.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -11792,7 +11792,7 @@
     "timestamp": "00:00:04.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -11808,7 +11808,7 @@
     "timestamp": "00:00:08.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:00:39.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:00:41.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:00:44.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -11912,7 +11912,7 @@
     "timestamp": "00:00:46.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:00:50.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -11992,7 +11992,7 @@
     "timestamp": "00:01:24.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:01:33.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -12064,7 +12064,7 @@
     "timestamp": "00:01:37.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:01:38.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:01:39.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -12120,7 +12120,7 @@
     "timestamp": "00:01:47.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -12144,7 +12144,7 @@
     "timestamp": "00:01:52.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Glyn Oliver Myhill",
     "player1_team": "West Bromwich Albion",
@@ -12168,7 +12168,7 @@
     "timestamp": "00:01:55.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -12192,7 +12192,7 @@
     "timestamp": "00:01:59.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -12216,7 +12216,7 @@
     "timestamp": "00:01:59.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -12232,7 +12232,7 @@
     "timestamp": "00:02:03.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:02:21.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:02:22.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -12296,7 +12296,7 @@
     "timestamp": "00:02:24.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -12312,7 +12312,7 @@
     "timestamp": "00:02:25.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:02:27.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:02:29.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -12448,7 +12448,7 @@
     "timestamp": "00:02:32.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:02:37.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -12512,7 +12512,7 @@
     "timestamp": "00:02:40.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jack Colback",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -12544,7 +12544,7 @@
     "timestamp": "00:02:46.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -12568,7 +12568,7 @@
     "timestamp": "00:02:56.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -12616,7 +12616,7 @@
     "timestamp": "00:03:02.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -12656,7 +12656,7 @@
     "timestamp": "00:03:08.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -12696,7 +12696,7 @@
     "timestamp": "00:03:12.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:03:16.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georginio Wijnaldum",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -12736,7 +12736,7 @@
     "timestamp": "00:03:19.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -12760,7 +12760,7 @@
     "timestamp": "00:04:07.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:04:10.350"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -12840,7 +12840,7 @@
     "timestamp": "00:04:11.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:04:18.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -12928,7 +12928,7 @@
     "timestamp": "00:04:53.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:05:20.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:05:26.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -13000,7 +13000,7 @@
     "timestamp": "00:05:31.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:05:36.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:05:38.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -13096,7 +13096,7 @@
     "timestamp": "00:05:39.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -13128,7 +13128,7 @@
     "timestamp": "00:05:43.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:05:47.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:05:50.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:06:01.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -13192,7 +13192,7 @@
     "timestamp": "00:06:03.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -13216,7 +13216,7 @@
     "timestamp": "00:06:04.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -13248,7 +13248,7 @@
     "timestamp": "00:06:05.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -13264,7 +13264,7 @@
     "timestamp": "00:06:06.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -13280,7 +13280,7 @@
     "timestamp": "00:06:06.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:06:07.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:06:10.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -13368,7 +13368,7 @@
     "timestamp": "00:06:12.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -13392,7 +13392,7 @@
     "timestamp": "00:06:12.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:06:12.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:06:15.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -13448,7 +13448,7 @@
     "timestamp": "00:06:19.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -13480,7 +13480,7 @@
     "timestamp": "00:06:21.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -13504,7 +13504,7 @@
     "timestamp": "00:06:24.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:06:26.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:06:38.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -13592,7 +13592,7 @@
     "timestamp": "00:06:41.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -13616,7 +13616,7 @@
     "timestamp": "00:06:50.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -13632,7 +13632,7 @@
     "timestamp": "00:06:52.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -13696,7 +13696,7 @@
     "timestamp": "00:06:54.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -13728,7 +13728,7 @@
     "timestamp": "00:07:29.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheik Ismaël Tioté",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -13792,7 +13792,7 @@
     "timestamp": "00:07:35.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -13816,7 +13816,7 @@
     "timestamp": "00:07:38.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:07:42.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:07:45.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -13880,7 +13880,7 @@
     "timestamp": "00:07:48.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -13896,7 +13896,7 @@
     "timestamp": "00:08:17.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -13920,7 +13920,7 @@
     "timestamp": "00:08:19.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -13984,7 +13984,7 @@
     "timestamp": "00:08:28.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -14008,7 +14008,7 @@
     "timestamp": "00:08:32.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:08:35.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -14056,7 +14056,7 @@
     "timestamp": "00:08:36.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -14080,7 +14080,7 @@
     "timestamp": "00:09:11.340"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Paul Dummett",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:09:14.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -14216,7 +14216,7 @@
     "timestamp": "00:10:08.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:10:30.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:10:35.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -14296,7 +14296,7 @@
     "timestamp": "00:10:42.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -14320,7 +14320,7 @@
     "timestamp": "00:10:45.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -14344,7 +14344,7 @@
     "timestamp": "00:10:48.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georginio Wijnaldum",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -14376,7 +14376,7 @@
     "timestamp": "00:10:58.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -14408,7 +14408,7 @@
     "timestamp": "00:11:00.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -14424,7 +14424,7 @@
     "timestamp": "00:11:02.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:11:02.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:11:09.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -14480,7 +14480,7 @@
     "timestamp": "00:11:11.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -14496,7 +14496,7 @@
     "timestamp": "00:11:11.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -14520,7 +14520,7 @@
     "timestamp": "00:11:39.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:11:43.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -14568,7 +14568,7 @@
     "timestamp": "00:11:49.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -14608,7 +14608,7 @@
     "timestamp": "00:11:53.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -14640,7 +14640,7 @@
     "timestamp": "00:11:56.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -14664,7 +14664,7 @@
     "timestamp": "00:11:58.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -14688,7 +14688,7 @@
     "timestamp": "00:12:00.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:12:05.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -14728,7 +14728,7 @@
     "timestamp": "00:12:06.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -14752,7 +14752,7 @@
     "timestamp": "00:12:08.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -14776,7 +14776,7 @@
     "timestamp": "00:12:08.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -14800,7 +14800,7 @@
     "timestamp": "00:12:23.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -14816,7 +14816,7 @@
     "timestamp": "00:12:26.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:12:30.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:12:32.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Morrison",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:12:34.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:12:35.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -14952,7 +14952,7 @@
     "timestamp": "00:12:37.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -14984,7 +14984,7 @@
     "timestamp": "00:13:10.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -15000,7 +15000,7 @@
     "timestamp": "00:13:40.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:13:44.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -15072,7 +15072,7 @@
     "timestamp": "00:13:46.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:13:48.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -15120,7 +15120,7 @@
     "timestamp": "00:13:49.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -15200,7 +15200,7 @@
     "timestamp": "00:14:00.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -15232,7 +15232,7 @@
     "timestamp": "00:14:02.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -15248,7 +15248,7 @@
     "timestamp": "00:14:06.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -15272,7 +15272,7 @@
     "timestamp": "00:14:40.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -15296,7 +15296,7 @@
     "timestamp": "00:14:51.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:14:54.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:14:55.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -15360,7 +15360,7 @@
     "timestamp": "00:14:56.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -15384,7 +15384,7 @@
     "timestamp": "00:15:00.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -15416,7 +15416,7 @@
     "timestamp": "00:15:07.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -15456,7 +15456,7 @@
     "timestamp": "00:15:11.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:15:12.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:15:19.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:15:21.181"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Aleksandar Mitrović",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:15:22.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -15584,7 +15584,7 @@
     "timestamp": "00:16:29.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:16:35.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -15656,7 +15656,7 @@
     "timestamp": "00:16:40.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:16:42.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabricio Coloccini",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:16:45.209"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:16:47.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -15736,7 +15736,7 @@
     "timestamp": "00:17:17.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -15808,7 +15808,7 @@
     "timestamp": "00:17:26.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:17:32.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:17:36.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:17:37.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -15888,7 +15888,7 @@
     "timestamp": "00:17:39.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -15912,7 +15912,7 @@
     "timestamp": "00:17:41.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -15928,7 +15928,7 @@
     "timestamp": "00:17:45.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:17:49.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -15968,7 +15968,7 @@
     "timestamp": "00:17:51.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:17:55.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:17:58.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:18:01.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:18:13.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -16152,7 +16152,7 @@
     "timestamp": "00:18:16.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:18:20.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Glyn Oliver Myhill",
     "player1_team": "West Bromwich Albion",
@@ -16192,7 +16192,7 @@
     "timestamp": "00:18:23.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -16216,7 +16216,7 @@
     "timestamp": "00:18:26.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -16256,7 +16256,7 @@
     "timestamp": "00:18:30.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:18:32.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -16312,7 +16312,7 @@
     "timestamp": "00:18:35.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:18:37.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:18:38.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:18:40.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:18:44.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:18:47.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:18:49.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabricio Coloccini",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -16488,7 +16488,7 @@
     "timestamp": "00:18:56.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -16512,7 +16512,7 @@
     "timestamp": "00:18:57.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -16536,7 +16536,7 @@
     "timestamp": "00:18:59.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:19:20.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -16584,7 +16584,7 @@
     "timestamp": "00:19:25.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -16608,7 +16608,7 @@
     "timestamp": "00:19:27.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:19:31.364"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Aleksandar Mitrović",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:19:32.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -16688,7 +16688,7 @@
     "timestamp": "00:19:44.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:20:21.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:20:26.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Moussa Sissoko",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -16792,7 +16792,7 @@
     "timestamp": "00:20:29.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:21:51.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -16824,7 +16824,7 @@
     "timestamp": "00:21:58.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:22:02.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:22:15.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -16904,7 +16904,7 @@
     "timestamp": "00:22:17.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:22:20.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:22:27.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabricio Coloccini",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -17032,7 +17032,7 @@
     "timestamp": "00:22:28.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabricio Coloccini",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:22:29.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabricio Coloccini",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -17080,7 +17080,7 @@
     "timestamp": "00:22:31.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:22:33.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:22:35.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -17152,7 +17152,7 @@
     "timestamp": "00:22:37.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Morrison",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:22:38.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:22:43.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -17224,7 +17224,7 @@
     "timestamp": "00:22:49.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -17288,7 +17288,7 @@
     "timestamp": "00:22:54.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -17328,7 +17328,7 @@
     "timestamp": "00:22:59.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -17352,7 +17352,7 @@
     "timestamp": "00:23:01.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -17376,7 +17376,7 @@
     "timestamp": "00:23:06.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:23:07.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:23:11.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -17456,7 +17456,7 @@
     "timestamp": "00:23:15.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -17480,7 +17480,7 @@
     "timestamp": "00:23:21.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:23:28.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -17528,7 +17528,7 @@
     "timestamp": "00:23:31.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -17552,7 +17552,7 @@
     "timestamp": "00:23:35.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:23:39.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -17600,7 +17600,7 @@
     "timestamp": "00:23:41.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:23:44.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -17656,7 +17656,7 @@
     "timestamp": "00:23:50.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -17688,7 +17688,7 @@
     "timestamp": "00:23:55.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:23:57.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -17752,7 +17752,7 @@
     "timestamp": "00:24:00.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -17776,7 +17776,7 @@
     "timestamp": "00:24:03.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -17808,7 +17808,7 @@
     "timestamp": "00:24:06.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ayoze Pérez Gutiérrez",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:24:11.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:24:49.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:25:11.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -17952,7 +17952,7 @@
     "timestamp": "00:25:13.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -17976,7 +17976,7 @@
     "timestamp": "00:25:14.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Saido Berahino",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -18000,7 +18000,7 @@
     "timestamp": "00:25:18.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -18024,7 +18024,7 @@
     "timestamp": "00:25:33.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -18048,7 +18048,7 @@
     "timestamp": "00:25:36.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:25:37.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:25:41.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -18128,7 +18128,7 @@
     "timestamp": "00:25:45.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Moussa Sissoko",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:25:48.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -18168,7 +18168,7 @@
     "timestamp": "00:25:51.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -18192,7 +18192,7 @@
     "timestamp": "00:25:54.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:25:56.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -18272,7 +18272,7 @@
     "timestamp": "00:26:48.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -18336,7 +18336,7 @@
     "timestamp": "00:27:08.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -18352,7 +18352,7 @@
     "timestamp": "00:27:10.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:27:13.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:27:16.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gareth McAuley",
     "player2": "Glyn Oliver Myhill",
     "player1_team": "West Bromwich Albion",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:27:19.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:27:24.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -18464,7 +18464,7 @@
     "timestamp": "00:27:47.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -18496,7 +18496,7 @@
     "timestamp": "00:27:50.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:27:51.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:27:54.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -18560,7 +18560,7 @@
     "timestamp": "00:27:56.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:27:58.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:28:01.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -18640,7 +18640,7 @@
     "timestamp": "00:28:02.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:28:04.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:28:06.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:28:11.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:28:14.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -18768,7 +18768,7 @@
     "timestamp": "00:28:46.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:28:48.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Karl Darlow",
     "player1_team": "Newcastle United",
@@ -18840,7 +18840,7 @@
     "timestamp": "00:28:50.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:29:21.572"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -18880,7 +18880,7 @@
     "timestamp": "00:29:22.715"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -18904,7 +18904,7 @@
     "timestamp": "00:29:23.248"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:29:25.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -18976,7 +18976,7 @@
     "timestamp": "00:29:38.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -19000,7 +19000,7 @@
     "timestamp": "00:29:41.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -19056,7 +19056,7 @@
     "timestamp": "00:29:47.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -19192,7 +19192,7 @@
     "timestamp": "00:30:01.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:30:33.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Glyn Oliver Myhill",
     "player1_team": "West Bromwich Albion",
@@ -19232,7 +19232,7 @@
     "timestamp": "00:30:36.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glyn Oliver Myhill",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -19280,7 +19280,7 @@
     "timestamp": "00:30:42.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -19304,7 +19304,7 @@
     "timestamp": "00:30:43.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -19328,7 +19328,7 @@
     "timestamp": "00:30:45.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -19360,7 +19360,7 @@
     "timestamp": "00:30:48.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -19384,7 +19384,7 @@
     "timestamp": "00:30:50.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -19416,7 +19416,7 @@
     "timestamp": "00:30:51.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -19432,7 +19432,7 @@
     "timestamp": "00:30:54.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -19464,7 +19464,7 @@
     "timestamp": "00:31:13.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Craig Gardner",
     "player1_team": "West Bromwich Albion",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:31:16.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Gardner",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -19568,7 +19568,7 @@
     "timestamp": "00:31:23.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -19592,7 +19592,7 @@
     "timestamp": "00:31:25.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -19616,7 +19616,7 @@
     "timestamp": "00:31:26.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -19632,7 +19632,7 @@
     "timestamp": "00:31:28.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -19648,7 +19648,7 @@
     "timestamp": "00:32:06.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:32:19.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -19704,7 +19704,7 @@
     "timestamp": "00:32:33.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:32:35.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -19752,7 +19752,7 @@
     "timestamp": "00:32:36.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:32:39.200"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Saido Berahino",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -19808,7 +19808,7 @@
     "timestamp": "00:32:41.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -19840,7 +19840,7 @@
     "timestamp": "00:32:48.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -19856,7 +19856,7 @@
     "timestamp": "00:32:50.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -19872,7 +19872,7 @@
     "timestamp": "00:32:52.002"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:32:52.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:34:01.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:34:03.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -19944,7 +19944,7 @@
     "timestamp": "00:34:06.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -19960,7 +19960,7 @@
     "timestamp": "00:34:09.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aleksandar Mitrović",
     "player2": "Siem Stefan de Jong",
     "player1_team": "Newcastle United",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:34:12.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -20008,7 +20008,7 @@
     "timestamp": "00:34:12.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheik Ismaël Tioté",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:34:16.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:34:22.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -20160,7 +20160,7 @@
     "timestamp": "00:34:33.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -20184,7 +20184,7 @@
     "timestamp": "00:35:16.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -20208,7 +20208,7 @@
     "timestamp": "00:35:24.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Moussa Sissoko",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -20240,7 +20240,7 @@
     "timestamp": "00:35:27.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -20264,7 +20264,7 @@
     "timestamp": "00:35:30.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:35:32.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -20312,7 +20312,7 @@
     "timestamp": "00:35:35.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Siem Stefan de Jong",
     "player1_team": "Newcastle United",
@@ -20336,7 +20336,7 @@
     "timestamp": "00:35:38.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siem Stefan de Jong",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -20360,7 +20360,7 @@
     "timestamp": "00:35:43.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -20384,7 +20384,7 @@
     "timestamp": "00:35:47.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:35:51.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:35:53.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -20448,7 +20448,7 @@
     "timestamp": "00:35:54.119"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -20472,7 +20472,7 @@
     "timestamp": "00:35:56.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -20496,7 +20496,7 @@
     "timestamp": "00:35:59.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -20520,7 +20520,7 @@
     "timestamp": "00:36:02.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Siem Stefan de Jong",
     "player1_team": "Newcastle United",
@@ -20536,7 +20536,7 @@
     "timestamp": "00:36:06.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siem Stefan de Jong",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -20560,7 +20560,7 @@
     "timestamp": "00:36:08.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:36:16.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Moussa Sissoko",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:36:17.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Gardner",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -20680,7 +20680,7 @@
     "timestamp": "00:36:26.492"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Victor Chinedu Anichebe",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -20696,7 +20696,7 @@
     "timestamp": "00:36:28.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -20776,7 +20776,7 @@
     "timestamp": "00:37:17.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Grant Evans",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -20800,7 +20800,7 @@
     "timestamp": "00:37:21.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:37:28.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:37:30.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -20880,7 +20880,7 @@
     "timestamp": "00:37:38.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:37:40.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Paul Dummett",
     "player1_team": "Newcastle United",
@@ -20928,7 +20928,7 @@
     "timestamp": "00:37:42.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paul Dummett",
     "player2": "Siem Stefan de Jong",
     "player1_team": "Newcastle United",
@@ -20960,7 +20960,7 @@
     "timestamp": "00:37:46.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jack Colback",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -20984,7 +20984,7 @@
     "timestamp": "00:37:49.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:37:55.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Moussa Sissoko",
     "player2": "Siem Stefan de Jong",
     "player1_team": "Newcastle United",
@@ -21064,7 +21064,7 @@
     "timestamp": "00:38:08.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -21088,7 +21088,7 @@
     "timestamp": "00:38:11.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:38:14.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:38:36.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -21240,7 +21240,7 @@
     "timestamp": "00:39:22.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Chinedu Anichebe",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:39:23.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -21288,7 +21288,7 @@
     "timestamp": "00:39:28.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -21312,7 +21312,7 @@
     "timestamp": "00:39:31.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:39:33.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:39:35.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -21384,7 +21384,7 @@
     "timestamp": "00:39:38.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chris Brunt",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -21424,7 +21424,7 @@
     "timestamp": "00:39:53.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -21456,7 +21456,7 @@
     "timestamp": "00:40:27.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Siem Stefan de Jong",
     "player1_team": "Newcastle United",
@@ -21488,7 +21488,7 @@
     "timestamp": "00:40:29.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siem Stefan de Jong",
     "player2": "Florian Thauvin",
     "player1_team": "Newcastle United",
@@ -21568,7 +21568,7 @@
     "timestamp": "00:40:32.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paul Dummett",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:40:45.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabricio Coloccini",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:40:48.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -21632,7 +21632,7 @@
     "timestamp": "00:40:51.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -21656,7 +21656,7 @@
     "timestamp": "00:40:52.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -21680,7 +21680,7 @@
     "timestamp": "00:40:53.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Florian Thauvin",
     "player1_team": "Newcastle United",
@@ -21736,7 +21736,7 @@
     "timestamp": "00:40:56.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Victor Chinedu Anichebe",
     "player1_team": "West Bromwich Albion",
@@ -21768,7 +21768,7 @@
     "timestamp": "00:41:03.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -21792,7 +21792,7 @@
     "timestamp": "00:41:06.019"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Saido Berahino",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -21816,7 +21816,7 @@
     "timestamp": "00:42:33.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:43:02.881"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -21888,7 +21888,7 @@
     "timestamp": "00:43:06.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:43:13.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siem Stefan de Jong",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -21992,7 +21992,7 @@
     "timestamp": "00:43:28.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -22024,7 +22024,7 @@
     "timestamp": "00:45:25.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -22048,7 +22048,7 @@
     "timestamp": "00:45:42.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rickie Lambert",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -22080,7 +22080,7 @@
     "timestamp": "00:45:45.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -22104,7 +22104,7 @@
     "timestamp": "00:46:04.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aleksandar Mitrović",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -22128,7 +22128,7 @@
     "timestamp": "00:46:05.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georginio Wijnaldum",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -22144,7 +22144,7 @@
     "timestamp": "00:46:06.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Moussa Sissoko",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -22176,7 +22176,7 @@
     "timestamp": "00:46:10.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Daryl Janmaat",
     "player1_team": "Newcastle United",
@@ -22200,7 +22200,7 @@
     "timestamp": "00:46:13.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -22232,7 +22232,7 @@
     "timestamp": "00:46:16.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -22296,7 +22296,7 @@
     "timestamp": "00:46:39.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Fletcher",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -22328,7 +22328,7 @@
     "timestamp": "00:46:44.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Karl Darlow",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -22344,7 +22344,7 @@
     "timestamp": "00:46:55.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gareth McAuley",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -22360,7 +22360,7 @@
     "timestamp": "00:46:57.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheik Ismaël Tioté",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -22416,7 +22416,7 @@
     "timestamp": "00:47:02.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -22472,7 +22472,7 @@
     "timestamp": "00:47:08.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -22536,7 +22536,7 @@
     "timestamp": "00:47:53.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Grant Evans",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -22544,7 +22544,7 @@
     "timestamp": "00:47:56.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Florian Thauvin",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -22576,7 +22576,7 @@
     "timestamp": "00:48:00.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rickie Lambert",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -22592,7 +22592,7 @@
     "timestamp": "00:48:02.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -22616,7 +22616,7 @@
     "timestamp": "00:48:03.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -22640,7 +22640,7 @@
     "timestamp": "00:48:04.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:48:20.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -22704,7 +22704,7 @@
     "timestamp": "00:48:37.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rickie Lambert",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -22752,7 +22752,7 @@
     "timestamp": "00:48:40.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Fletcher",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -22784,7 +22784,7 @@
     "timestamp": "00:48:44.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Saido Berahino",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:48:49.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stéphane Sessègnon",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",

@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:00.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -56,7 +56,7 @@
     "timestamp": "00:00:01.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:04.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -112,7 +112,7 @@
     "timestamp": "00:00:08.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -144,7 +144,7 @@
     "timestamp": "00:00:09.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -192,7 +192,7 @@
     "timestamp": "00:00:13.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -248,7 +248,7 @@
     "timestamp": "00:00:45.057"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "",
     "player1_team": "West Ham United",
@@ -320,7 +320,7 @@
     "timestamp": "00:00:49.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -344,7 +344,7 @@
     "timestamp": "00:00:51.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -376,7 +376,7 @@
     "timestamp": "00:00:52.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -408,7 +408,7 @@
     "timestamp": "00:00:56.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -440,7 +440,7 @@
     "timestamp": "00:00:57.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -472,7 +472,7 @@
     "timestamp": "00:01:01.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -496,7 +496,7 @@
     "timestamp": "00:01:04.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -520,7 +520,7 @@
     "timestamp": "00:01:06.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -544,7 +544,7 @@
     "timestamp": "00:01:08.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -568,7 +568,7 @@
     "timestamp": "00:01:11.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -600,7 +600,7 @@
     "timestamp": "00:01:15.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -624,7 +624,7 @@
     "timestamp": "00:01:16.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -648,7 +648,7 @@
     "timestamp": "00:01:18.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -792,7 +792,7 @@
     "timestamp": "00:01:33.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -816,7 +816,7 @@
     "timestamp": "00:01:37.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -840,7 +840,7 @@
     "timestamp": "00:01:41.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -856,7 +856,7 @@
     "timestamp": "00:01:47.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -904,7 +904,7 @@
     "timestamp": "00:02:26.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -928,7 +928,7 @@
     "timestamp": "00:02:34.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -960,7 +960,7 @@
     "timestamp": "00:02:35.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -1000,7 +1000,7 @@
     "timestamp": "00:02:36.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Philipp Wollscheid",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:02:40.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -1056,7 +1056,7 @@
     "timestamp": "00:02:47.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -1080,7 +1080,7 @@
     "timestamp": "00:02:49.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:02:51.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -1144,7 +1144,7 @@
     "timestamp": "00:02:53.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:02:54.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:03:01.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -1224,7 +1224,7 @@
     "timestamp": "00:03:03.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:03:06.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:03:11.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:03:12.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:03:15.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:03:17.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -1376,7 +1376,7 @@
     "timestamp": "00:03:22.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:03:24.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -1424,7 +1424,7 @@
     "timestamp": "00:03:29.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "",
     "player1_team": "West Ham United",
@@ -1432,7 +1432,7 @@
     "timestamp": "00:03:33.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -1456,7 +1456,7 @@
     "timestamp": "00:04:48.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -1480,7 +1480,7 @@
     "timestamp": "00:04:56.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -1504,7 +1504,7 @@
     "timestamp": "00:04:59.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -1528,7 +1528,7 @@
     "timestamp": "00:05:01.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -1560,7 +1560,7 @@
     "timestamp": "00:05:08.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -1584,7 +1584,7 @@
     "timestamp": "00:05:12.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:05:19.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -1656,7 +1656,7 @@
     "timestamp": "00:05:21.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -1672,7 +1672,7 @@
     "timestamp": "00:05:27.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:05:28.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -1752,7 +1752,7 @@
     "timestamp": "00:05:31.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -1776,7 +1776,7 @@
     "timestamp": "00:05:32.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -1800,7 +1800,7 @@
     "timestamp": "00:05:33.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -1832,7 +1832,7 @@
     "timestamp": "00:05:40.169"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Manuel Lanzini",
     "player2": "",
     "player1_team": "West Ham United",
@@ -1856,7 +1856,7 @@
     "timestamp": "00:05:42.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:05:46.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -1912,7 +1912,7 @@
     "timestamp": "00:05:50.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:05:56.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:05:58.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -1992,7 +1992,7 @@
     "timestamp": "00:06:01.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -2016,7 +2016,7 @@
     "timestamp": "00:06:05.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -2032,7 +2032,7 @@
     "timestamp": "00:06:08.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:06:10.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:06:11.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "",
     "player1_team": "Stoke City",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:06:52.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -2192,7 +2192,7 @@
     "timestamp": "00:06:58.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:07:34.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:08:05.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:08:08.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -2288,7 +2288,7 @@
     "timestamp": "00:08:11.119"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -2312,7 +2312,7 @@
     "timestamp": "00:08:21.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -2352,7 +2352,7 @@
     "timestamp": "00:08:28.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -2392,7 +2392,7 @@
     "timestamp": "00:08:31.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:08:33.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:08:37.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -2448,7 +2448,7 @@
     "timestamp": "00:09:04.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:09:08.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -2480,7 +2480,7 @@
     "timestamp": "00:09:13.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -2512,7 +2512,7 @@
     "timestamp": "00:09:25.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -2536,7 +2536,7 @@
     "timestamp": "00:09:25.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -2560,7 +2560,7 @@
     "timestamp": "00:09:29.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Shay Given",
     "player1_team": "Stoke City",
@@ -2592,7 +2592,7 @@
     "timestamp": "00:09:33.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -2616,7 +2616,7 @@
     "timestamp": "00:09:37.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -2640,7 +2640,7 @@
     "timestamp": "00:09:41.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -2672,7 +2672,7 @@
     "timestamp": "00:09:49.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -2696,7 +2696,7 @@
     "timestamp": "00:09:52.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:09:56.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -2744,7 +2744,7 @@
     "timestamp": "00:09:59.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:10:05.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -2800,7 +2800,7 @@
     "timestamp": "00:10:11.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -2832,7 +2832,7 @@
     "timestamp": "00:10:15.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -2864,7 +2864,7 @@
     "timestamp": "00:10:19.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -2896,7 +2896,7 @@
     "timestamp": "00:10:24.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -2928,7 +2928,7 @@
     "timestamp": "00:10:26.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -2952,7 +2952,7 @@
     "timestamp": "00:10:27.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -2984,7 +2984,7 @@
     "timestamp": "00:10:30.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -3008,7 +3008,7 @@
     "timestamp": "00:10:32.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:10:37.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -3048,7 +3048,7 @@
     "timestamp": "00:10:40.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -3072,7 +3072,7 @@
     "timestamp": "00:10:42.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:10:44.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -3144,7 +3144,7 @@
     "timestamp": "00:10:48.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -3168,7 +3168,7 @@
     "timestamp": "00:10:50.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -3192,7 +3192,7 @@
     "timestamp": "00:10:52.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -3216,7 +3216,7 @@
     "timestamp": "00:10:58.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -3240,7 +3240,7 @@
     "timestamp": "00:11:00.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -3264,7 +3264,7 @@
     "timestamp": "00:11:03.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:11:04.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -3312,7 +3312,7 @@
     "timestamp": "00:11:08.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:11:10.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:11:13.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -3384,7 +3384,7 @@
     "timestamp": "00:11:15.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -3408,7 +3408,7 @@
     "timestamp": "00:11:20.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:11:23.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -3448,7 +3448,7 @@
     "timestamp": "00:11:32.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:11:37.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:11:41.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -3512,7 +3512,7 @@
     "timestamp": "00:11:44.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -3560,7 +3560,7 @@
     "timestamp": "00:11:55.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:12:03.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:12:07.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:12:09.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:12:11.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:12:18.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -3736,7 +3736,7 @@
     "timestamp": "00:12:35.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:12:36.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -3792,7 +3792,7 @@
     "timestamp": "00:12:38.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -3824,7 +3824,7 @@
     "timestamp": "00:12:46.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -3872,7 +3872,7 @@
     "timestamp": "00:12:51.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:13:03.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -3928,7 +3928,7 @@
     "timestamp": "00:13:07.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -3944,7 +3944,7 @@
     "timestamp": "00:13:10.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -3968,7 +3968,7 @@
     "timestamp": "00:13:29.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Shay Given",
     "player1_team": "Stoke City",
@@ -3992,7 +3992,7 @@
     "timestamp": "00:13:30.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -4032,7 +4032,7 @@
     "timestamp": "00:13:34.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -4048,7 +4048,7 @@
     "timestamp": "00:13:40.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -4072,7 +4072,7 @@
     "timestamp": "00:13:41.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:13:53.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:13:55.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:13:58.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:14:34.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -4192,7 +4192,7 @@
     "timestamp": "00:14:51.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -4216,7 +4216,7 @@
     "timestamp": "00:14:54.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:14:58.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:15:01.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -4328,7 +4328,7 @@
     "timestamp": "00:15:04.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -4352,7 +4352,7 @@
     "timestamp": "00:15:05.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:15:10.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -4416,7 +4416,7 @@
     "timestamp": "00:15:12.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:15:14.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -4464,7 +4464,7 @@
     "timestamp": "00:15:16.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -4496,7 +4496,7 @@
     "timestamp": "00:15:20.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:15:23.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -4544,7 +4544,7 @@
     "timestamp": "00:15:25.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:15:28.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -4592,7 +4592,7 @@
     "timestamp": "00:15:34.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -4624,7 +4624,7 @@
     "timestamp": "00:15:41.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -4648,7 +4648,7 @@
     "timestamp": "00:15:45.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:15:52.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diafra Sakho",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -4712,7 +4712,7 @@
     "timestamp": "00:15:55.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:15:57.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Shay Given",
     "player1_team": "Stoke City",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:15:59.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:16:03.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:16:28.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:16:31.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:16:32.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -4920,7 +4920,7 @@
     "timestamp": "00:16:34.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -4936,7 +4936,7 @@
     "timestamp": "00:16:41.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:16:43.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -4984,7 +4984,7 @@
     "timestamp": "00:16:46.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -5000,7 +5000,7 @@
     "timestamp": "00:16:47.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:17:23.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:17:38.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -5088,7 +5088,7 @@
     "timestamp": "00:17:53.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diafra Sakho",
     "player2": "",
     "player1_team": "West Ham United",
@@ -5112,7 +5112,7 @@
     "timestamp": "00:17:54.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:17:57.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -5160,7 +5160,7 @@
     "timestamp": "00:18:00.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -5184,7 +5184,7 @@
     "timestamp": "00:18:04.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -5208,7 +5208,7 @@
     "timestamp": "00:18:05.537"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:18:09.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:18:10.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:18:13.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -5320,7 +5320,7 @@
     "timestamp": "00:18:17.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:18:19.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -5368,7 +5368,7 @@
     "timestamp": "00:18:23.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:18:30.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -5472,7 +5472,7 @@
     "timestamp": "00:19:03.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5496,7 +5496,7 @@
     "timestamp": "00:19:49.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -5520,7 +5520,7 @@
     "timestamp": "00:19:52.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:19:55.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5552,7 +5552,7 @@
     "timestamp": "00:19:57.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:20:12.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:20:16.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:20:25.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -5688,7 +5688,7 @@
     "timestamp": "00:20:25.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -5712,7 +5712,7 @@
     "timestamp": "00:22:01.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -5768,7 +5768,7 @@
     "timestamp": "00:22:04.198"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -5792,7 +5792,7 @@
     "timestamp": "00:22:05.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -5808,7 +5808,7 @@
     "timestamp": "00:23:23.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bojan Krkíc Pérez",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5832,7 +5832,7 @@
     "timestamp": "00:23:26.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -5856,7 +5856,7 @@
     "timestamp": "00:23:28.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:23:34.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "",
     "player1_team": "West Ham United",
@@ -5920,7 +5920,7 @@
     "timestamp": "00:23:58.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:24:14.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -5968,7 +5968,7 @@
     "timestamp": "00:24:15.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6032,7 +6032,7 @@
     "timestamp": "00:24:18.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -6056,7 +6056,7 @@
     "timestamp": "00:24:20.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Philipp Wollscheid",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:24:25.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:24:26.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -6136,7 +6136,7 @@
     "timestamp": "00:24:27.688"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Manuel Lanzini",
     "player2": "",
     "player1_team": "West Ham United",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:24:32.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -6224,7 +6224,7 @@
     "timestamp": "00:24:38.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:24:55.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "",
     "player1_team": "Stoke City",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:24:57.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -6288,7 +6288,7 @@
     "timestamp": "00:24:58.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -6320,7 +6320,7 @@
     "timestamp": "00:25:00.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -6344,7 +6344,7 @@
     "timestamp": "00:25:02.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -6368,7 +6368,7 @@
     "timestamp": "00:25:08.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:25:09.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -6416,7 +6416,7 @@
     "timestamp": "00:25:16.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6440,7 +6440,7 @@
     "timestamp": "00:25:18.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:25:24.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6496,7 +6496,7 @@
     "timestamp": "00:25:26.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:25:29.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:25:31.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6576,7 +6576,7 @@
     "timestamp": "00:25:33.718"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:25:37.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:26:12.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:26:17.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:26:18.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -6720,7 +6720,7 @@
     "timestamp": "00:26:22.467"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Diafra Sakho",
     "player2": "",
     "player1_team": "West Ham United",
@@ -6736,7 +6736,7 @@
     "timestamp": "00:26:24.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:26:45.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Philipp Wollscheid",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:26:48.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -6800,7 +6800,7 @@
     "timestamp": "00:26:56.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -6824,7 +6824,7 @@
     "timestamp": "00:26:58.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:27:01.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:27:06.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:27:08.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:27:11.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -6944,7 +6944,7 @@
     "timestamp": "00:27:13.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:27:17.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -6976,7 +6976,7 @@
     "timestamp": "00:27:17.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:27:46.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:27:49.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -7064,7 +7064,7 @@
     "timestamp": "00:27:51.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:27:53.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -7144,7 +7144,7 @@
     "timestamp": "00:27:54.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -7168,7 +7168,7 @@
     "timestamp": "00:27:59.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -7192,7 +7192,7 @@
     "timestamp": "00:28:01.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:28:04.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:28:06.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:28:08.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -7328,7 +7328,7 @@
     "timestamp": "00:28:13.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -7352,7 +7352,7 @@
     "timestamp": "00:28:15.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:28:18.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:28:21.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:28:23.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -7464,7 +7464,7 @@
     "timestamp": "00:28:26.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -7488,7 +7488,7 @@
     "timestamp": "00:28:31.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:28:33.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -7544,7 +7544,7 @@
     "timestamp": "00:28:36.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -7576,7 +7576,7 @@
     "timestamp": "00:28:40.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -7600,7 +7600,7 @@
     "timestamp": "00:29:02.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:29:02.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:29:06.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:29:08.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -7728,7 +7728,7 @@
     "timestamp": "00:29:11.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -7752,7 +7752,7 @@
     "timestamp": "00:29:16.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:29:19.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:29:20.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:29:22.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:29:25.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:29:36.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:29:38.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:29:40.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:29:48.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:29:50.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:29:54.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:29:56.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:29:58.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:30:00.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -8088,7 +8088,7 @@
     "timestamp": "00:30:04.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:30:09.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -8176,7 +8176,7 @@
     "timestamp": "00:30:12.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -8200,7 +8200,7 @@
     "timestamp": "00:30:16.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:30:18.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:30:20.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:30:23.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:30:29.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:30:36.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:30:39.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -8392,7 +8392,7 @@
     "timestamp": "00:30:46.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:30:47.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:30:51.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:30:54.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:31:11.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:31:13.786"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Diafra Sakho",
     "player2": "",
     "player1_team": "West Ham United",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:31:15.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -8536,7 +8536,7 @@
     "timestamp": "00:31:16.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:31:22.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:31:25.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bojan Krkíc Pérez",
     "player2": "",
     "player1_team": "Stoke City",
@@ -8640,7 +8640,7 @@
     "timestamp": "00:31:31.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:31:35.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:31:38.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:31:38.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -8736,7 +8736,7 @@
     "timestamp": "00:31:42.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:31:44.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:31:50.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -8848,7 +8848,7 @@
     "timestamp": "00:33:35.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -8920,7 +8920,7 @@
     "timestamp": "00:33:40.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:33:42.658"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Cheikhou Kouyaté",
     "player2": "",
     "player1_team": "West Ham United",
@@ -8968,7 +8968,7 @@
     "timestamp": "00:33:43.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "",
     "player1_team": "West Ham United",
@@ -9072,7 +9072,7 @@
     "timestamp": "00:34:22.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:34:26.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:34:29.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -9152,7 +9152,7 @@
     "timestamp": "00:34:35.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -9176,7 +9176,7 @@
     "timestamp": "00:34:36.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:34:39.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -9216,7 +9216,7 @@
     "timestamp": "00:34:43.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -9264,7 +9264,7 @@
     "timestamp": "00:35:13.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -9296,7 +9296,7 @@
     "timestamp": "00:35:19.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -9320,7 +9320,7 @@
     "timestamp": "00:35:23.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -9352,7 +9352,7 @@
     "timestamp": "00:35:25.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -9384,7 +9384,7 @@
     "timestamp": "00:35:30.870"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Diafra Sakho",
     "player2": "",
     "player1_team": "West Ham United",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:35:33.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:35:56.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -9472,7 +9472,7 @@
     "timestamp": "00:36:04.896"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -9496,7 +9496,7 @@
     "timestamp": "00:36:06.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -9520,7 +9520,7 @@
     "timestamp": "00:36:24.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -9544,7 +9544,7 @@
     "timestamp": "00:36:26.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "",
     "player1_team": "West Ham United",
@@ -9576,7 +9576,7 @@
     "timestamp": "00:36:32.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -9608,7 +9608,7 @@
     "timestamp": "00:36:38.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -9632,7 +9632,7 @@
     "timestamp": "00:36:42.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:36:44.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -9680,7 +9680,7 @@
     "timestamp": "00:36:46.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -9704,7 +9704,7 @@
     "timestamp": "00:36:50.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -9728,7 +9728,7 @@
     "timestamp": "00:36:53.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -9752,7 +9752,7 @@
     "timestamp": "00:36:55.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -9776,7 +9776,7 @@
     "timestamp": "00:36:57.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -9800,7 +9800,7 @@
     "timestamp": "00:36:59.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -9824,7 +9824,7 @@
     "timestamp": "00:37:04.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -9848,7 +9848,7 @@
     "timestamp": "00:37:08.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -9864,7 +9864,7 @@
     "timestamp": "00:37:10.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -9888,7 +9888,7 @@
     "timestamp": "00:37:11.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -9912,7 +9912,7 @@
     "timestamp": "00:37:14.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -9928,7 +9928,7 @@
     "timestamp": "00:37:17.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:37:21.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -9992,7 +9992,7 @@
     "timestamp": "00:38:02.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -10016,7 +10016,7 @@
     "timestamp": "00:38:05.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -10048,7 +10048,7 @@
     "timestamp": "00:38:10.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:38:14.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "",
     "player1_team": "West Ham United",
@@ -10096,7 +10096,7 @@
     "timestamp": "00:38:16.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:38:18.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -10136,7 +10136,7 @@
     "timestamp": "00:38:22.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:38:24.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -10200,7 +10200,7 @@
     "timestamp": "00:38:26.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "",
     "player1_team": "West Ham United",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:38:27.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:38:30.155"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Bojan Krkíc Pérez",
     "player2": "",
     "player1_team": "Stoke City",
@@ -10264,7 +10264,7 @@
     "timestamp": "00:38:34.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:39:05.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -10360,7 +10360,7 @@
     "timestamp": "00:39:16.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -10384,7 +10384,7 @@
     "timestamp": "00:39:56.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -10408,7 +10408,7 @@
     "timestamp": "00:40:00.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -10440,7 +10440,7 @@
     "timestamp": "00:40:03.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -10472,7 +10472,7 @@
     "timestamp": "00:40:05.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:40:07.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:40:09.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -10552,7 +10552,7 @@
     "timestamp": "00:40:12.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -10576,7 +10576,7 @@
     "timestamp": "00:40:14.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:40:14.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:40:24.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -10624,7 +10624,7 @@
     "timestamp": "00:40:27.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:40:33.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -10672,7 +10672,7 @@
     "timestamp": "00:40:35.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -10688,7 +10688,7 @@
     "timestamp": "00:40:37.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -10712,7 +10712,7 @@
     "timestamp": "00:41:12.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -10752,7 +10752,7 @@
     "timestamp": "00:41:20.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -10776,7 +10776,7 @@
     "timestamp": "00:41:22.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -10800,7 +10800,7 @@
     "timestamp": "00:41:25.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -10824,7 +10824,7 @@
     "timestamp": "00:41:28.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:41:28.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:41:40.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -10896,7 +10896,7 @@
     "timestamp": "00:41:43.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "",
     "player1_team": "Stoke City",
@@ -10904,7 +10904,7 @@
     "timestamp": "00:41:43.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -10928,7 +10928,7 @@
     "timestamp": "00:41:45.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:41:47.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:41:56.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:41:58.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -11064,7 +11064,7 @@
     "timestamp": "00:42:01.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:42:07.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:42:14.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:42:17.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:42:20.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -11224,7 +11224,7 @@
     "timestamp": "00:42:21.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -11248,7 +11248,7 @@
     "timestamp": "00:42:24.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:42:28.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:42:30.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "",
     "player1_team": "Stoke City",
@@ -11320,7 +11320,7 @@
     "timestamp": "00:42:35.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -11344,7 +11344,7 @@
     "timestamp": "00:42:38.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:42:43.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:42:45.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:42:46.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:42:48.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -11488,7 +11488,7 @@
     "timestamp": "00:42:50.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:42:52.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:42:54.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -11640,7 +11640,7 @@
     "timestamp": "00:42:58.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -11664,7 +11664,7 @@
     "timestamp": "00:43:00.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -11688,7 +11688,7 @@
     "timestamp": "00:43:02.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -11720,7 +11720,7 @@
     "timestamp": "00:43:08.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -11744,7 +11744,7 @@
     "timestamp": "00:43:10.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -11768,7 +11768,7 @@
     "timestamp": "00:43:12.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -11800,7 +11800,7 @@
     "timestamp": "00:43:17.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:43:19.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:43:27.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -11888,7 +11888,7 @@
     "timestamp": "00:44:08.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:44:10.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:44:13.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:44:15.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -11976,7 +11976,7 @@
     "timestamp": "00:44:15.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -11984,7 +11984,7 @@
     "timestamp": "00:44:16.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -12000,7 +12000,7 @@
     "timestamp": "00:44:23.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -12024,7 +12024,7 @@
     "timestamp": "00:44:25.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:44:28.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12072,7 +12072,7 @@
     "timestamp": "00:44:37.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:44:41.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "",
     "player1_team": "West Ham United",
@@ -12104,7 +12104,7 @@
     "timestamp": "00:44:59.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -12128,7 +12128,7 @@
     "timestamp": "00:45:02.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -12144,7 +12144,7 @@
     "timestamp": "00:45:08.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -12176,7 +12176,7 @@
     "timestamp": "00:45:08.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:45:43.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -12224,7 +12224,7 @@
     "timestamp": "00:45:44.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -12248,7 +12248,7 @@
     "timestamp": "00:45:47.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -12312,7 +12312,7 @@
     "timestamp": "00:45:51.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:45:56.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:45:58.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:45:58.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:46:01.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -12464,7 +12464,7 @@
     "timestamp": "00:46:06.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -12488,7 +12488,7 @@
     "timestamp": "00:46:13.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -12544,7 +12544,7 @@
     "timestamp": "00:46:17.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:46:49.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -12600,7 +12600,7 @@
     "timestamp": "00:46:51.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:46:54.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:46:58.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -12680,7 +12680,7 @@
     "timestamp": "00:47:23.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -12752,7 +12752,7 @@
     "timestamp": "00:47:27.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -12776,7 +12776,7 @@
     "timestamp": "00:47:50.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:47:55.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -12824,7 +12824,7 @@
     "timestamp": "00:00:00.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12840,7 +12840,7 @@
     "timestamp": "00:00:00.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:00:01.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:00:05.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Philipp Wollscheid",
     "player2": "",
     "player1_team": "Stoke City",
@@ -12904,7 +12904,7 @@
     "timestamp": "00:00:09.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -12920,7 +12920,7 @@
     "timestamp": "00:00:12.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -12936,7 +12936,7 @@
     "timestamp": "00:00:13.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:00:40.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:00:41.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -13000,7 +13000,7 @@
     "timestamp": "00:00:46.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Winston Reid",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:00:47.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:00:54.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -13088,7 +13088,7 @@
     "timestamp": "00:00:59.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:01:02.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:01:06.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -13168,7 +13168,7 @@
     "timestamp": "00:01:36.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:01:36.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:01:39.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -13224,7 +13224,7 @@
     "timestamp": "00:01:42.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Shay Given",
     "player1_team": "Stoke City",
@@ -13248,7 +13248,7 @@
     "timestamp": "00:01:47.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -13272,7 +13272,7 @@
     "timestamp": "00:01:50.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -13288,7 +13288,7 @@
     "timestamp": "00:01:53.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:01:59.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -13376,7 +13376,7 @@
     "timestamp": "00:02:07.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:02:08.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:02:09.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:02:12.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:02:21.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Philipp Wollscheid",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:02:24.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -13560,7 +13560,7 @@
     "timestamp": "00:02:43.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -13592,7 +13592,7 @@
     "timestamp": "00:02:48.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -13616,7 +13616,7 @@
     "timestamp": "00:02:51.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -13664,7 +13664,7 @@
     "timestamp": "00:02:58.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -13696,7 +13696,7 @@
     "timestamp": "00:03:02.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -13728,7 +13728,7 @@
     "timestamp": "00:03:05.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -13752,7 +13752,7 @@
     "timestamp": "00:03:07.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -13824,7 +13824,7 @@
     "timestamp": "00:03:15.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -13848,7 +13848,7 @@
     "timestamp": "00:03:17.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -13880,7 +13880,7 @@
     "timestamp": "00:03:18.105"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -13904,7 +13904,7 @@
     "timestamp": "00:03:21.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -13936,7 +13936,7 @@
     "timestamp": "00:03:26.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:03:28.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -13992,7 +13992,7 @@
     "timestamp": "00:03:30.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:03:40.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -14056,7 +14056,7 @@
     "timestamp": "00:03:43.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -14080,7 +14080,7 @@
     "timestamp": "00:03:45.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -14104,7 +14104,7 @@
     "timestamp": "00:03:47.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -14120,7 +14120,7 @@
     "timestamp": "00:03:50.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -14136,7 +14136,7 @@
     "timestamp": "00:03:52.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:03:53.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:03:55.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:03:59.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -14248,7 +14248,7 @@
     "timestamp": "00:04:02.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -14264,7 +14264,7 @@
     "timestamp": "00:04:23.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -14288,7 +14288,7 @@
     "timestamp": "00:04:24.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -14320,7 +14320,7 @@
     "timestamp": "00:04:26.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -14384,7 +14384,7 @@
     "timestamp": "00:04:28.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -14400,7 +14400,7 @@
     "timestamp": "00:04:30.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -14416,7 +14416,7 @@
     "timestamp": "00:04:32.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:04:34.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -14464,7 +14464,7 @@
     "timestamp": "00:04:35.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -14488,7 +14488,7 @@
     "timestamp": "00:04:38.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -14536,7 +14536,7 @@
     "timestamp": "00:04:40.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:04:46.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -14600,7 +14600,7 @@
     "timestamp": "00:04:50.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -14624,7 +14624,7 @@
     "timestamp": "00:04:52.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:04:54.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:04:58.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -14688,7 +14688,7 @@
     "timestamp": "00:05:00.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:05:01.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -14736,7 +14736,7 @@
     "timestamp": "00:05:03.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:05:05.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:05:09.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -14832,7 +14832,7 @@
     "timestamp": "00:05:21.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:05:29.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -14904,7 +14904,7 @@
     "timestamp": "00:05:33.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -14992,7 +14992,7 @@
     "timestamp": "00:05:39.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -15008,7 +15008,7 @@
     "timestamp": "00:05:45.833"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Diafra Sakho",
     "player2": "",
     "player1_team": "West Ham United",
@@ -15032,7 +15032,7 @@
     "timestamp": "00:05:49.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -15048,7 +15048,7 @@
     "timestamp": "00:05:51.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -15072,7 +15072,7 @@
     "timestamp": "00:05:53.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:05:54.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -15120,7 +15120,7 @@
     "timestamp": "00:05:57.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:06:02.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -15184,7 +15184,7 @@
     "timestamp": "00:06:08.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:06:10.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -15240,7 +15240,7 @@
     "timestamp": "00:06:17.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -15264,7 +15264,7 @@
     "timestamp": "00:06:19.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -15288,7 +15288,7 @@
     "timestamp": "00:06:21.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:06:25.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:06:28.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -15368,7 +15368,7 @@
     "timestamp": "00:06:49.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -15384,7 +15384,7 @@
     "timestamp": "00:06:57.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:07:34.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -15464,7 +15464,7 @@
     "timestamp": "00:07:43.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -15528,7 +15528,7 @@
     "timestamp": "00:07:57.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:08:04.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:08:05.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:08:08.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -15624,7 +15624,7 @@
     "timestamp": "00:08:09.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:08:13.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -15704,7 +15704,7 @@
     "timestamp": "00:08:21.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:08:23.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -15752,7 +15752,7 @@
     "timestamp": "00:08:29.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -15768,7 +15768,7 @@
     "timestamp": "00:08:53.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "",
     "player1_team": "Stoke City",
@@ -15784,7 +15784,7 @@
     "timestamp": "00:08:56.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:09:10.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -15928,7 +15928,7 @@
     "timestamp": "00:09:10.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -15968,7 +15968,7 @@
     "timestamp": "00:09:32.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -15992,7 +15992,7 @@
     "timestamp": "00:09:34.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:09:36.507"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "",
     "player1_team": "Stoke City",
@@ -16072,7 +16072,7 @@
     "timestamp": "00:09:40.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:10:40.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:10:47.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diafra Sakho",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -16144,7 +16144,7 @@
     "timestamp": "00:10:51.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diafra Sakho",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -16176,7 +16176,7 @@
     "timestamp": "00:10:53.057"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Manuel Lanzini",
     "player2": "",
     "player1_team": "West Ham United",
@@ -16192,7 +16192,7 @@
     "timestamp": "00:10:56.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:11:33.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:11:38.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:11:41.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -16344,7 +16344,7 @@
     "timestamp": "00:12:11.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -16368,7 +16368,7 @@
     "timestamp": "00:12:15.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -16392,7 +16392,7 @@
     "timestamp": "00:12:16.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -16416,7 +16416,7 @@
     "timestamp": "00:12:20.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:12:23.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:12:24.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bojan Krkíc Pérez",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -16504,7 +16504,7 @@
     "timestamp": "00:12:30.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Bojan Krkíc Pérez",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:12:34.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:12:36.584"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "",
     "player1_team": "Stoke City",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:12:39.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:12:42.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Diafra Sakho",
     "player1_team": "West Ham United",
@@ -16704,7 +16704,7 @@
     "timestamp": "00:12:48.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -16728,7 +16728,7 @@
     "timestamp": "00:12:53.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -16752,7 +16752,7 @@
     "timestamp": "00:12:57.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:12:59.730"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Bojan Krkíc Pérez",
     "player2": "",
     "player1_team": "Stoke City",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:15:18.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -16824,7 +16824,7 @@
     "timestamp": "00:16:12.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:16:13.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -16888,7 +16888,7 @@
     "timestamp": "00:16:20.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -16912,7 +16912,7 @@
     "timestamp": "00:16:23.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -16944,7 +16944,7 @@
     "timestamp": "00:16:25.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:16:28.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -16992,7 +16992,7 @@
     "timestamp": "00:16:30.743"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jonathan Walters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:16:31.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -17024,7 +17024,7 @@
     "timestamp": "00:16:54.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emmanuel Emenike",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -17056,7 +17056,7 @@
     "timestamp": "00:16:58.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -17080,7 +17080,7 @@
     "timestamp": "00:17:01.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -17104,7 +17104,7 @@
     "timestamp": "00:17:05.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:17:11.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:17:16.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -17216,7 +17216,7 @@
     "timestamp": "00:17:17.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17240,7 +17240,7 @@
     "timestamp": "00:17:19.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:17:22.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -17304,7 +17304,7 @@
     "timestamp": "00:17:25.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -17352,7 +17352,7 @@
     "timestamp": "00:17:31.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Luis Sanmartín Mato",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -17480,7 +17480,7 @@
     "timestamp": "00:17:45.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:17:50.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -17520,7 +17520,7 @@
     "timestamp": "00:17:51.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:17:53.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -17656,7 +17656,7 @@
     "timestamp": "00:18:03.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -17680,7 +17680,7 @@
     "timestamp": "00:18:06.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -17704,7 +17704,7 @@
     "timestamp": "00:18:09.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -17728,7 +17728,7 @@
     "timestamp": "00:18:10.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -17752,7 +17752,7 @@
     "timestamp": "00:18:13.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -17776,7 +17776,7 @@
     "timestamp": "00:18:17.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -17800,7 +17800,7 @@
     "timestamp": "00:18:20.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -17824,7 +17824,7 @@
     "timestamp": "00:18:24.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:18:32.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:19:08.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:19:34.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -17976,7 +17976,7 @@
     "timestamp": "00:20:09.528"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Winston Reid",
     "player2": "",
     "player1_team": "West Ham United",
@@ -18008,7 +18008,7 @@
     "timestamp": "00:20:11.065"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "James Tomkins",
     "player2": "",
     "player1_team": "West Ham United",
@@ -18024,7 +18024,7 @@
     "timestamp": "00:20:11.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -18048,7 +18048,7 @@
     "timestamp": "00:20:25.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:20:28.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -18096,7 +18096,7 @@
     "timestamp": "00:20:33.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -18120,7 +18120,7 @@
     "timestamp": "00:20:36.819"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "",
     "player1_team": "Stoke City",
@@ -18136,7 +18136,7 @@
     "timestamp": "00:20:40.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -18152,7 +18152,7 @@
     "timestamp": "00:20:53.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:20:58.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:21:04.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -18256,7 +18256,7 @@
     "timestamp": "00:21:38.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -18280,7 +18280,7 @@
     "timestamp": "00:21:57.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:22:01.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -18320,7 +18320,7 @@
     "timestamp": "00:22:03.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -18344,7 +18344,7 @@
     "timestamp": "00:22:10.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:22:16.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -18376,7 +18376,7 @@
     "timestamp": "00:22:31.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:22:33.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:22:36.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Winston Reid",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:22:42.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:22:48.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -18496,7 +18496,7 @@
     "timestamp": "00:22:50.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -18512,7 +18512,7 @@
     "timestamp": "00:22:56.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -18536,7 +18536,7 @@
     "timestamp": "00:22:58.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -18560,7 +18560,7 @@
     "timestamp": "00:23:00.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -18592,7 +18592,7 @@
     "timestamp": "00:23:04.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -18624,7 +18624,7 @@
     "timestamp": "00:23:08.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -18656,7 +18656,7 @@
     "timestamp": "00:23:09.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:23:13.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:23:17.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:23:19.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -18744,7 +18744,7 @@
     "timestamp": "00:23:22.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -18768,7 +18768,7 @@
     "timestamp": "00:23:25.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -18800,7 +18800,7 @@
     "timestamp": "00:23:29.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:23:34.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:23:35.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -18880,7 +18880,7 @@
     "timestamp": "00:23:37.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -18904,7 +18904,7 @@
     "timestamp": "00:23:40.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -18952,7 +18952,7 @@
     "timestamp": "00:23:46.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -18992,7 +18992,7 @@
     "timestamp": "00:23:53.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -19008,7 +19008,7 @@
     "timestamp": "00:24:04.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19040,7 +19040,7 @@
     "timestamp": "00:24:06.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -19064,7 +19064,7 @@
     "timestamp": "00:24:13.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -19080,7 +19080,7 @@
     "timestamp": "00:24:15.229"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "",
     "player1_team": "West Ham United",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:24:15.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -19112,7 +19112,7 @@
     "timestamp": "00:24:44.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -19136,7 +19136,7 @@
     "timestamp": "00:24:47.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:24:51.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:24:54.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:24:56.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -19224,7 +19224,7 @@
     "timestamp": "00:24:57.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -19248,7 +19248,7 @@
     "timestamp": "00:24:58.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -19304,7 +19304,7 @@
     "timestamp": "00:25:01.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Bojan Krkíc Pérez",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -19328,7 +19328,7 @@
     "timestamp": "00:25:07.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -19352,7 +19352,7 @@
     "timestamp": "00:25:09.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:25:15.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -19400,7 +19400,7 @@
     "timestamp": "00:25:33.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -19432,7 +19432,7 @@
     "timestamp": "00:25:37.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -19456,7 +19456,7 @@
     "timestamp": "00:25:40.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:25:43.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -19512,7 +19512,7 @@
     "timestamp": "00:25:46.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19560,7 +19560,7 @@
     "timestamp": "00:26:00.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:26:25.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -19608,7 +19608,7 @@
     "timestamp": "00:26:31.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19632,7 +19632,7 @@
     "timestamp": "00:26:33.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -19656,7 +19656,7 @@
     "timestamp": "00:26:33.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19680,7 +19680,7 @@
     "timestamp": "00:26:42.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -19704,7 +19704,7 @@
     "timestamp": "00:26:43.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:26:48.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -19760,7 +19760,7 @@
     "timestamp": "00:26:53.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19776,7 +19776,7 @@
     "timestamp": "00:26:59.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -19800,7 +19800,7 @@
     "timestamp": "00:27:01.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:27:05.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:27:42.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:27:47.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -19984,7 +19984,7 @@
     "timestamp": "00:28:26.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:28:48.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -20016,7 +20016,7 @@
     "timestamp": "00:28:49.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -20032,7 +20032,7 @@
     "timestamp": "00:28:51.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -20064,7 +20064,7 @@
     "timestamp": "00:28:52.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -20088,7 +20088,7 @@
     "timestamp": "00:28:54.860"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -20112,7 +20112,7 @@
     "timestamp": "00:28:56.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -20136,7 +20136,7 @@
     "timestamp": "00:29:03.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Darren Randolph",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -20160,7 +20160,7 @@
     "timestamp": "00:29:07.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:29:14.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -20216,7 +20216,7 @@
     "timestamp": "00:29:16.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -20248,7 +20248,7 @@
     "timestamp": "00:29:19.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -20264,7 +20264,7 @@
     "timestamp": "00:29:21.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:29:23.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -20320,7 +20320,7 @@
     "timestamp": "00:29:26.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -20376,7 +20376,7 @@
     "timestamp": "00:29:31.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:29:33.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "",
     "player1_team": "West Ham United",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:29:36.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "James Tomkins",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -20456,7 +20456,7 @@
     "timestamp": "00:29:55.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -20568,7 +20568,7 @@
     "timestamp": "00:30:05.554"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emmanuel Emenike",
     "player2": "",
     "player1_team": "West Ham United",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:30:07.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:30:34.693"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "",
     "player1_team": "West Ham United",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:30:35.833"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emmanuel Emenike",
     "player2": "",
     "player1_team": "West Ham United",
@@ -20672,7 +20672,7 @@
     "timestamp": "00:30:36.806"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -20728,7 +20728,7 @@
     "timestamp": "00:30:44.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -20776,7 +20776,7 @@
     "timestamp": "00:30:56.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -20800,7 +20800,7 @@
     "timestamp": "00:31:24.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:31:30.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:31:36.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:31:46.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -20952,7 +20952,7 @@
     "timestamp": "00:32:35.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -20976,7 +20976,7 @@
     "timestamp": "00:32:53.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:32:54.638"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21016,7 +21016,7 @@
     "timestamp": "00:32:55.314"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Cheikhou Kouyaté",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21096,7 +21096,7 @@
     "timestamp": "00:32:59.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -21128,7 +21128,7 @@
     "timestamp": "00:33:02.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -21152,7 +21152,7 @@
     "timestamp": "00:33:06.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:33:09.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -21208,7 +21208,7 @@
     "timestamp": "00:34:07.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:34:23.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Philipp Wollscheid",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -21240,7 +21240,7 @@
     "timestamp": "00:34:28.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:34:30.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:34:30.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -21304,7 +21304,7 @@
     "timestamp": "00:34:32.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:34:36.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:34:40.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -21416,7 +21416,7 @@
     "timestamp": "00:34:45.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:34:47.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "James Tomkins",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21448,7 +21448,7 @@
     "timestamp": "00:35:16.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mame Biram Diouf",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -21496,7 +21496,7 @@
     "timestamp": "00:35:21.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:35:24.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -21544,7 +21544,7 @@
     "timestamp": "00:35:26.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:35:31.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -21640,7 +21640,7 @@
     "timestamp": "00:35:35.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -21664,7 +21664,7 @@
     "timestamp": "00:35:37.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -21688,7 +21688,7 @@
     "timestamp": "00:35:39.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -21712,7 +21712,7 @@
     "timestamp": "00:35:40.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -21736,7 +21736,7 @@
     "timestamp": "00:35:42.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -21760,7 +21760,7 @@
     "timestamp": "00:35:47.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -21808,7 +21808,7 @@
     "timestamp": "00:36:04.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:36:25.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:36:25.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21880,7 +21880,7 @@
     "timestamp": "00:36:25.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:36:35.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -21928,7 +21928,7 @@
     "timestamp": "00:36:37.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:36:43.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -21976,7 +21976,7 @@
     "timestamp": "00:36:45.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -22008,7 +22008,7 @@
     "timestamp": "00:37:21.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -22048,7 +22048,7 @@
     "timestamp": "00:37:24.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -22072,7 +22072,7 @@
     "timestamp": "00:37:26.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -22096,7 +22096,7 @@
     "timestamp": "00:37:29.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -22112,7 +22112,7 @@
     "timestamp": "00:37:34.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -22160,7 +22160,7 @@
     "timestamp": "00:38:05.701"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -22184,7 +22184,7 @@
     "timestamp": "00:38:11.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -22216,7 +22216,7 @@
     "timestamp": "00:38:40.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -22240,7 +22240,7 @@
     "timestamp": "00:38:43.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Philipp Wollscheid",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -22280,7 +22280,7 @@
     "timestamp": "00:38:46.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -22352,7 +22352,7 @@
     "timestamp": "00:38:58.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -22368,7 +22368,7 @@
     "timestamp": "00:39:12.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -22384,7 +22384,7 @@
     "timestamp": "00:39:14.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -22432,7 +22432,7 @@
     "timestamp": "00:39:20.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mame Biram Diouf",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -22448,7 +22448,7 @@
     "timestamp": "00:39:23.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -22472,7 +22472,7 @@
     "timestamp": "00:39:24.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -22496,7 +22496,7 @@
     "timestamp": "00:39:29.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -22520,7 +22520,7 @@
     "timestamp": "00:39:33.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -22544,7 +22544,7 @@
     "timestamp": "00:39:40.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -22560,7 +22560,7 @@
     "timestamp": "00:39:43.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:39:44.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -22608,7 +22608,7 @@
     "timestamp": "00:39:48.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -22632,7 +22632,7 @@
     "timestamp": "00:39:54.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -22656,7 +22656,7 @@
     "timestamp": "00:40:00.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -22680,7 +22680,7 @@
     "timestamp": "00:40:02.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -22712,7 +22712,7 @@
     "timestamp": "00:40:09.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -22736,7 +22736,7 @@
     "timestamp": "00:40:15.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -22792,7 +22792,7 @@
     "timestamp": "00:40:58.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shay Given",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -22808,7 +22808,7 @@
     "timestamp": "00:41:23.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mame Biram Diouf",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -22864,7 +22864,7 @@
     "timestamp": "00:41:26.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Philipp Wollscheid",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -22880,7 +22880,7 @@
     "timestamp": "00:41:59.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -22912,7 +22912,7 @@
     "timestamp": "00:42:01.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -22936,7 +22936,7 @@
     "timestamp": "00:42:25.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -22968,7 +22968,7 @@
     "timestamp": "00:42:28.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -22992,7 +22992,7 @@
     "timestamp": "00:42:30.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -23016,7 +23016,7 @@
     "timestamp": "00:42:34.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -23032,7 +23032,7 @@
     "timestamp": "00:42:53.176"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Mame Biram Diouf",
     "player2": "",
     "player1_team": "Stoke City",
@@ -23056,7 +23056,7 @@
     "timestamp": "00:44:00.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -23072,7 +23072,7 @@
     "timestamp": "00:44:19.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -23088,7 +23088,7 @@
     "timestamp": "00:44:22.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Darren Randolph",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -23184,7 +23184,7 @@
     "timestamp": "00:44:32.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -23216,7 +23216,7 @@
     "timestamp": "00:44:35.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -23240,7 +23240,7 @@
     "timestamp": "00:44:37.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -23264,7 +23264,7 @@
     "timestamp": "00:44:45.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -23288,7 +23288,7 @@
     "timestamp": "00:44:50.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -23320,7 +23320,7 @@
     "timestamp": "00:44:54.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -23344,7 +23344,7 @@
     "timestamp": "00:44:57.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -23376,7 +23376,7 @@
     "timestamp": "00:45:05.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -23400,7 +23400,7 @@
     "timestamp": "00:45:07.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -23432,7 +23432,7 @@
     "timestamp": "00:45:10.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -23472,7 +23472,7 @@
     "timestamp": "00:45:33.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -23496,7 +23496,7 @@
     "timestamp": "00:45:38.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -23520,7 +23520,7 @@
     "timestamp": "00:47:08.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Phil Bardsley",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -23568,7 +23568,7 @@
     "timestamp": "00:47:23.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -23592,7 +23592,7 @@
     "timestamp": "00:47:26.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -23704,7 +23704,7 @@
     "timestamp": "00:48:19.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -23752,7 +23752,7 @@
     "timestamp": "00:48:49.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mame Biram Diouf",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -23784,7 +23784,7 @@
     "timestamp": "00:48:51.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -23832,7 +23832,7 @@
     "timestamp": "00:48:55.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -23848,7 +23848,7 @@
     "timestamp": "00:49:30.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -23888,7 +23888,7 @@
     "timestamp": "00:49:34.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -23912,7 +23912,7 @@
     "timestamp": "00:49:46.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -23936,7 +23936,7 @@
     "timestamp": "00:49:48.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -23960,7 +23960,7 @@
     "timestamp": "00:49:52.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -23984,7 +23984,7 @@
     "timestamp": "00:49:54.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -24000,7 +24000,7 @@
     "timestamp": "00:49:58.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -24024,7 +24024,7 @@
     "timestamp": "00:50:00.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -24048,7 +24048,7 @@
     "timestamp": "00:50:05.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -24072,7 +24072,7 @@
     "timestamp": "00:50:09.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -24096,7 +24096,7 @@
     "timestamp": "00:50:11.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -24120,7 +24120,7 @@
     "timestamp": "00:50:14.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -24184,7 +24184,7 @@
     "timestamp": "00:50:22.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Darren Randolph",
     "player1_team": "West Ham United",
@@ -24200,7 +24200,7 @@
     "timestamp": "00:51:11.066"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Darren Randolph",
     "player2": "",
     "player1_team": "West Ham United",
@@ -24216,7 +24216,7 @@
     "timestamp": "00:51:11.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shay Given",
     "player2": "",
     "player1_team": "Stoke City",

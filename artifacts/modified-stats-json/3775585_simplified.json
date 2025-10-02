@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -56,7 +56,7 @@
     "timestamp": "00:00:05.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -88,7 +88,7 @@
     "timestamp": "00:00:10.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -112,7 +112,7 @@
     "timestamp": "00:00:11.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -136,7 +136,7 @@
     "timestamp": "00:01:07.334"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -160,7 +160,7 @@
     "timestamp": "00:01:08.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -184,7 +184,7 @@
     "timestamp": "00:01:10.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -208,7 +208,7 @@
     "timestamp": "00:01:15.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -232,7 +232,7 @@
     "timestamp": "00:01:17.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -280,7 +280,7 @@
     "timestamp": "00:01:24.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -296,7 +296,7 @@
     "timestamp": "00:01:30.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -312,7 +312,7 @@
     "timestamp": "00:01:50.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -336,7 +336,7 @@
     "timestamp": "00:01:52.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -400,7 +400,7 @@
     "timestamp": "00:01:54.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -424,7 +424,7 @@
     "timestamp": "00:01:57.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -448,7 +448,7 @@
     "timestamp": "00:01:58.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -472,7 +472,7 @@
     "timestamp": "00:02:02.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -496,7 +496,7 @@
     "timestamp": "00:02:05.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -520,7 +520,7 @@
     "timestamp": "00:02:08.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -544,7 +544,7 @@
     "timestamp": "00:02:10.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -568,7 +568,7 @@
     "timestamp": "00:02:13.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -592,7 +592,7 @@
     "timestamp": "00:02:16.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -616,7 +616,7 @@
     "timestamp": "00:02:19.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -688,7 +688,7 @@
     "timestamp": "00:02:27.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -720,7 +720,7 @@
     "timestamp": "00:03:01.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -752,7 +752,7 @@
     "timestamp": "00:03:21.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -792,7 +792,7 @@
     "timestamp": "00:03:28.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -808,7 +808,7 @@
     "timestamp": "00:03:30.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -832,7 +832,7 @@
     "timestamp": "00:03:33.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -872,7 +872,7 @@
     "timestamp": "00:03:41.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -896,7 +896,7 @@
     "timestamp": "00:04:08.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -968,7 +968,7 @@
     "timestamp": "00:04:11.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1024,7 +1024,7 @@
     "timestamp": "00:04:13.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -1072,7 +1072,7 @@
     "timestamp": "00:04:18.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -1104,7 +1104,7 @@
     "timestamp": "00:04:37.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -1136,7 +1136,7 @@
     "timestamp": "00:04:41.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -1192,7 +1192,7 @@
     "timestamp": "00:04:46.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1216,7 +1216,7 @@
     "timestamp": "00:04:47.557"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:04:48.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:05:20.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1304,7 +1304,7 @@
     "timestamp": "00:05:22.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:05:23.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1368,7 +1368,7 @@
     "timestamp": "00:05:30.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:05:31.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1432,7 +1432,7 @@
     "timestamp": "00:06:04.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1456,7 +1456,7 @@
     "timestamp": "00:06:05.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1496,7 +1496,7 @@
     "timestamp": "00:06:08.104"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Maya Le Tissier",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1520,7 +1520,7 @@
     "timestamp": "00:06:08.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:06:58.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -1576,7 +1576,7 @@
     "timestamp": "00:07:01.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:07:07.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1664,7 +1664,7 @@
     "timestamp": "00:07:13.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1744,7 +1744,7 @@
     "timestamp": "00:07:52.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:07:56.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:08:19.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1832,7 +1832,7 @@
     "timestamp": "00:08:21.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1864,7 +1864,7 @@
     "timestamp": "00:08:24.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1880,7 +1880,7 @@
     "timestamp": "00:08:29.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -1912,7 +1912,7 @@
     "timestamp": "00:08:46.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:08:48.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1968,7 +1968,7 @@
     "timestamp": "00:08:52.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2008,7 +2008,7 @@
     "timestamp": "00:08:55.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -2112,7 +2112,7 @@
     "timestamp": "00:09:03.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:09:05.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -2176,7 +2176,7 @@
     "timestamp": "00:09:09.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:09:12.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:09:15.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:09:19.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:09:24.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2312,7 +2312,7 @@
     "timestamp": "00:09:25.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:09:27.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:09:29.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2384,7 +2384,7 @@
     "timestamp": "00:09:31.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:09:34.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -2440,7 +2440,7 @@
     "timestamp": "00:09:38.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:09:44.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2496,7 +2496,7 @@
     "timestamp": "00:09:46.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2544,7 +2544,7 @@
     "timestamp": "00:09:53.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2584,7 +2584,7 @@
     "timestamp": "00:10:44.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -2672,7 +2672,7 @@
     "timestamp": "00:10:50.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:10:53.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:10:55.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -2752,7 +2752,7 @@
     "timestamp": "00:10:58.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:11:03.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -2840,7 +2840,7 @@
     "timestamp": "00:11:05.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:11:06.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -2896,7 +2896,7 @@
     "timestamp": "00:11:08.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -2984,7 +2984,7 @@
     "timestamp": "00:11:20.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:11:41.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -3032,7 +3032,7 @@
     "timestamp": "00:12:07.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3056,7 +3056,7 @@
     "timestamp": "00:12:29.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3080,7 +3080,7 @@
     "timestamp": "00:12:30.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3104,7 +3104,7 @@
     "timestamp": "00:12:31.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3144,7 +3144,7 @@
     "timestamp": "00:12:36.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:12:43.516"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kayleigh Green",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3192,7 +3192,7 @@
     "timestamp": "00:12:44.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:13:06.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3240,7 +3240,7 @@
     "timestamp": "00:13:12.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:13:50.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -3304,7 +3304,7 @@
     "timestamp": "00:14:01.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -3352,7 +3352,7 @@
     "timestamp": "00:14:04.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -3384,7 +3384,7 @@
     "timestamp": "00:14:06.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:14:09.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:14:13.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:14:15.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:14:16.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3528,7 +3528,7 @@
     "timestamp": "00:14:19.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3544,7 +3544,7 @@
     "timestamp": "00:14:26.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:14:48.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:14:52.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:14:56.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:14:59.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:15:02.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -3704,7 +3704,7 @@
     "timestamp": "00:15:07.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:15:10.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:15:14.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:15:36.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -3816,7 +3816,7 @@
     "timestamp": "00:15:37.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:15:45.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -3888,7 +3888,7 @@
     "timestamp": "00:15:47.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:16:04.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:16:07.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3960,7 +3960,7 @@
     "timestamp": "00:16:09.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3992,7 +3992,7 @@
     "timestamp": "00:16:10.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -4016,7 +4016,7 @@
     "timestamp": "00:16:27.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:16:31.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:16:32.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:16:34.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:16:37.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:16:39.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4248,7 +4248,7 @@
     "timestamp": "00:16:42.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -4312,7 +4312,7 @@
     "timestamp": "00:17:36.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -4368,7 +4368,7 @@
     "timestamp": "00:17:40.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:18:02.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4416,7 +4416,7 @@
     "timestamp": "00:18:03.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4432,7 +4432,7 @@
     "timestamp": "00:18:08.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:18:08.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:18:14.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:18:16.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -4512,7 +4512,7 @@
     "timestamp": "00:18:20.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:18:22.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4544,7 +4544,7 @@
     "timestamp": "00:18:25.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:18:29.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4592,7 +4592,7 @@
     "timestamp": "00:18:47.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:18:48.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:18:49.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:18:53.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:18:57.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:19:48.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:20:15.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:20:16.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:20:23.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4880,7 +4880,7 @@
     "timestamp": "00:20:25.789"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kayleigh Green",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:20:26.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -4920,7 +4920,7 @@
     "timestamp": "00:20:54.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:20:56.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:20:57.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:20:59.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:21:00.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:21:05.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:21:23.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -5088,7 +5088,7 @@
     "timestamp": "00:21:26.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:21:31.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:21:34.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -5144,7 +5144,7 @@
     "timestamp": "00:21:41.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -5168,7 +5168,7 @@
     "timestamp": "00:21:58.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -5184,7 +5184,7 @@
     "timestamp": "00:21:59.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5208,7 +5208,7 @@
     "timestamp": "00:22:13.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5232,7 +5232,7 @@
     "timestamp": "00:22:14.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:22:24.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5360,7 +5360,7 @@
     "timestamp": "00:22:27.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:22:31.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5408,7 +5408,7 @@
     "timestamp": "00:22:37.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:22:40.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:22:44.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:22:48.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:22:54.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:23:02.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5560,7 +5560,7 @@
     "timestamp": "00:23:06.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5584,7 +5584,7 @@
     "timestamp": "00:23:11.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:23:14.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:23:14.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5688,7 +5688,7 @@
     "timestamp": "00:23:15.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5720,7 +5720,7 @@
     "timestamp": "00:23:18.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -5744,7 +5744,7 @@
     "timestamp": "00:23:23.033"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:23:25.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -5800,7 +5800,7 @@
     "timestamp": "00:23:28.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -5832,7 +5832,7 @@
     "timestamp": "00:23:36.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5856,7 +5856,7 @@
     "timestamp": "00:23:42.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:23:49.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:23:52.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5928,7 +5928,7 @@
     "timestamp": "00:23:55.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5952,7 +5952,7 @@
     "timestamp": "00:23:59.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5976,7 +5976,7 @@
     "timestamp": "00:24:02.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6000,7 +6000,7 @@
     "timestamp": "00:24:06.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:24:13.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -6040,7 +6040,7 @@
     "timestamp": "00:24:14.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -6056,7 +6056,7 @@
     "timestamp": "00:24:17.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:24:18.450"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6152,7 +6152,7 @@
     "timestamp": "00:24:30.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:24:32.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:24:37.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -6248,7 +6248,7 @@
     "timestamp": "00:24:39.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:24:40.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6304,7 +6304,7 @@
     "timestamp": "00:24:45.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:24:48.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6360,7 +6360,7 @@
     "timestamp": "00:24:50.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6384,7 +6384,7 @@
     "timestamp": "00:24:53.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6408,7 +6408,7 @@
     "timestamp": "00:24:54.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6424,7 +6424,7 @@
     "timestamp": "00:25:05.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:25:28.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6464,7 +6464,7 @@
     "timestamp": "00:25:30.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:25:36.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6504,7 +6504,7 @@
     "timestamp": "00:25:39.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -6536,7 +6536,7 @@
     "timestamp": "00:25:41.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:25:45.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:25:47.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:25:50.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:25:54.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6680,7 +6680,7 @@
     "timestamp": "00:26:05.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6712,7 +6712,7 @@
     "timestamp": "00:26:11.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:26:14.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:26:18.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -6840,7 +6840,7 @@
     "timestamp": "00:26:21.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:26:25.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -6888,7 +6888,7 @@
     "timestamp": "00:26:27.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -6912,7 +6912,7 @@
     "timestamp": "00:26:30.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:26:52.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6952,7 +6952,7 @@
     "timestamp": "00:26:54.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6984,7 +6984,7 @@
     "timestamp": "00:27:12.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:27:18.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:27:45.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -7088,7 +7088,7 @@
     "timestamp": "00:27:49.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7176,7 +7176,7 @@
     "timestamp": "00:27:54.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:28:38.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:28:55.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:28:58.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7296,7 +7296,7 @@
     "timestamp": "00:29:00.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7312,7 +7312,7 @@
     "timestamp": "00:29:04.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -7344,7 +7344,7 @@
     "timestamp": "00:29:06.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:29:07.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -7384,7 +7384,7 @@
     "timestamp": "00:29:11.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7408,7 +7408,7 @@
     "timestamp": "00:29:46.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:29:49.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7448,7 +7448,7 @@
     "timestamp": "00:29:50.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7464,7 +7464,7 @@
     "timestamp": "00:29:54.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:29:56.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -7496,7 +7496,7 @@
     "timestamp": "00:29:58.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7528,7 +7528,7 @@
     "timestamp": "00:29:59.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7584,7 +7584,7 @@
     "timestamp": "00:30:03.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:30:04.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -7640,7 +7640,7 @@
     "timestamp": "00:30:05.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -7672,7 +7672,7 @@
     "timestamp": "00:30:10.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7704,7 +7704,7 @@
     "timestamp": "00:30:13.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7728,7 +7728,7 @@
     "timestamp": "00:30:16.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7760,7 +7760,7 @@
     "timestamp": "00:30:21.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7776,7 +7776,7 @@
     "timestamp": "00:30:22.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7784,7 +7784,7 @@
     "timestamp": "00:30:44.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:31:13.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:31:16.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:31:19.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:31:24.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7968,7 +7968,7 @@
     "timestamp": "00:31:29.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:31:31.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:31:33.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:31:34.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:31:38.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:31:41.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:31:47.222"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emily Simpkins",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:31:55.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8272,7 +8272,7 @@
     "timestamp": "00:32:46.894"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emily Simpkins",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8296,7 +8296,7 @@
     "timestamp": "00:32:48.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:34:35.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:34:36.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:34:37.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:34:40.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8456,7 +8456,7 @@
     "timestamp": "00:34:41.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:34:45.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -8584,7 +8584,7 @@
     "timestamp": "00:34:51.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:34:59.019"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Yana Daniëls",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:35:01.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:35:20.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:35:26.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:35:51.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:35:52.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8840,7 +8840,7 @@
     "timestamp": "00:35:54.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8920,7 +8920,7 @@
     "timestamp": "00:36:02.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:36:04.522"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -8960,7 +8960,7 @@
     "timestamp": "00:36:06.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:36:22.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:36:25.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -9088,7 +9088,7 @@
     "timestamp": "00:36:32.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9112,7 +9112,7 @@
     "timestamp": "00:36:36.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:36:39.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9168,7 +9168,7 @@
     "timestamp": "00:36:42.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9200,7 +9200,7 @@
     "timestamp": "00:36:44.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:36:46.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9256,7 +9256,7 @@
     "timestamp": "00:36:48.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9304,7 +9304,7 @@
     "timestamp": "00:36:53.251"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9336,7 +9336,7 @@
     "timestamp": "00:36:58.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:37:01.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9376,7 +9376,7 @@
     "timestamp": "00:37:03.033"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:37:05.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -9472,7 +9472,7 @@
     "timestamp": "00:37:10.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9504,7 +9504,7 @@
     "timestamp": "00:37:12.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:37:14.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9552,7 +9552,7 @@
     "timestamp": "00:37:16.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9568,7 +9568,7 @@
     "timestamp": "00:37:21.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:37:57.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -9608,7 +9608,7 @@
     "timestamp": "00:37:59.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9632,7 +9632,7 @@
     "timestamp": "00:38:02.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9680,7 +9680,7 @@
     "timestamp": "00:38:05.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9704,7 +9704,7 @@
     "timestamp": "00:38:09.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9728,7 +9728,7 @@
     "timestamp": "00:38:11.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9752,7 +9752,7 @@
     "timestamp": "00:38:12.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9776,7 +9776,7 @@
     "timestamp": "00:38:14.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9824,7 +9824,7 @@
     "timestamp": "00:38:19.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:38:55.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -9880,7 +9880,7 @@
     "timestamp": "00:39:02.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -9920,7 +9920,7 @@
     "timestamp": "00:39:07.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:39:09.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10000,7 +10000,7 @@
     "timestamp": "00:39:11.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:39:12.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10048,7 +10048,7 @@
     "timestamp": "00:39:14.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10080,7 +10080,7 @@
     "timestamp": "00:39:17.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -10152,7 +10152,7 @@
     "timestamp": "00:39:24.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:40:00.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10192,7 +10192,7 @@
     "timestamp": "00:40:03.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10216,7 +10216,7 @@
     "timestamp": "00:40:06.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10240,7 +10240,7 @@
     "timestamp": "00:40:08.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:40:10.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:40:12.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10328,7 +10328,7 @@
     "timestamp": "00:40:15.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:40:17.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10376,7 +10376,7 @@
     "timestamp": "00:40:22.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10408,7 +10408,7 @@
     "timestamp": "00:40:27.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:40:28.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:40:31.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10480,7 +10480,7 @@
     "timestamp": "00:40:35.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:40:42.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10528,7 +10528,7 @@
     "timestamp": "00:40:47.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10592,7 +10592,7 @@
     "timestamp": "00:40:55.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10624,7 +10624,7 @@
     "timestamp": "00:41:37.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:41:42.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10672,7 +10672,7 @@
     "timestamp": "00:41:44.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10696,7 +10696,7 @@
     "timestamp": "00:41:47.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10720,7 +10720,7 @@
     "timestamp": "00:41:50.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:41:54.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10896,7 +10896,7 @@
     "timestamp": "00:42:00.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10928,7 +10928,7 @@
     "timestamp": "00:42:05.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:42:07.368"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10976,7 +10976,7 @@
     "timestamp": "00:42:08.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:42:18.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:42:19.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:42:20.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11064,7 +11064,7 @@
     "timestamp": "00:42:21.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:42:24.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11136,7 +11136,7 @@
     "timestamp": "00:42:27.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11152,7 +11152,7 @@
     "timestamp": "00:42:50.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11176,7 +11176,7 @@
     "timestamp": "00:42:51.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11200,7 +11200,7 @@
     "timestamp": "00:42:52.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:42:53.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:42:57.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:43:00.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:43:00.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:43:04.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:43:13.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -11384,7 +11384,7 @@
     "timestamp": "00:43:19.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:43:35.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:43:36.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:43:42.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11472,7 +11472,7 @@
     "timestamp": "00:44:01.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:44:09.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:44:46.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11584,7 +11584,7 @@
     "timestamp": "00:44:48.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:44:50.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:44:55.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:44:56.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:44:58.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11784,7 +11784,7 @@
     "timestamp": "00:45:01.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:45:04.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11848,7 +11848,7 @@
     "timestamp": "00:45:28.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:45:31.793"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Victoria Williams",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11896,7 +11896,7 @@
     "timestamp": "00:45:34.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11984,7 +11984,7 @@
     "timestamp": "00:46:03.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12016,7 +12016,7 @@
     "timestamp": "00:46:44.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12032,7 +12032,7 @@
     "timestamp": "00:46:45.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:46:49.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Faye Bryson",
     "player2": "Charlie Wellings",
     "player1_team": "Bristol City WFC",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:46:57.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12104,7 +12104,7 @@
     "timestamp": "00:47:00.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -12152,7 +12152,7 @@
     "timestamp": "00:47:09.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12176,7 +12176,7 @@
     "timestamp": "00:00:01.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:00:04.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12232,7 +12232,7 @@
     "timestamp": "00:00:07.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:00:13.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:00:23.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:00:44.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:00:48.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12416,7 +12416,7 @@
     "timestamp": "00:00:56.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:00:58.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12464,7 +12464,7 @@
     "timestamp": "00:01:19.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:01:21.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:01:24.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:01:40.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -12592,7 +12592,7 @@
     "timestamp": "00:01:44.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:01:47.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12664,7 +12664,7 @@
     "timestamp": "00:02:08.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12688,7 +12688,7 @@
     "timestamp": "00:02:45.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:02:48.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -12752,7 +12752,7 @@
     "timestamp": "00:03:09.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:03:12.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:03:15.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:03:20.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12912,7 +12912,7 @@
     "timestamp": "00:03:40.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12944,7 +12944,7 @@
     "timestamp": "00:03:44.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13056,7 +13056,7 @@
     "timestamp": "00:03:50.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13104,7 +13104,7 @@
     "timestamp": "00:03:52.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -13128,7 +13128,7 @@
     "timestamp": "00:04:20.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:04:21.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13184,7 +13184,7 @@
     "timestamp": "00:04:22.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:04:23.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13224,7 +13224,7 @@
     "timestamp": "00:04:24.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13248,7 +13248,7 @@
     "timestamp": "00:04:26.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13272,7 +13272,7 @@
     "timestamp": "00:04:27.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:04:32.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:04:37.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:04:40.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:04:43.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:04:45.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:04:51.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13512,7 +13512,7 @@
     "timestamp": "00:04:56.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:04:58.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13568,7 +13568,7 @@
     "timestamp": "00:05:00.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13592,7 +13592,7 @@
     "timestamp": "00:05:02.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13616,7 +13616,7 @@
     "timestamp": "00:05:04.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13664,7 +13664,7 @@
     "timestamp": "00:05:07.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13680,7 +13680,7 @@
     "timestamp": "00:05:08.753"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13696,7 +13696,7 @@
     "timestamp": "00:05:10.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:05:33.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:05:54.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13760,7 +13760,7 @@
     "timestamp": "00:05:56.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13784,7 +13784,7 @@
     "timestamp": "00:06:00.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:06:03.754"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13840,7 +13840,7 @@
     "timestamp": "00:06:05.509"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Geum-Min Lee",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13856,7 +13856,7 @@
     "timestamp": "00:06:05.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -13880,7 +13880,7 @@
     "timestamp": "00:06:54.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -13904,7 +13904,7 @@
     "timestamp": "00:06:57.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Faye Bryson",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -13920,7 +13920,7 @@
     "timestamp": "00:06:59.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Faye Bryson",
     "player1_team": "Bristol City WFC",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:07:00.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13992,7 +13992,7 @@
     "timestamp": "00:07:34.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14048,7 +14048,7 @@
     "timestamp": "00:07:52.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14168,7 +14168,7 @@
     "timestamp": "00:08:39.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14192,7 +14192,7 @@
     "timestamp": "00:08:42.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:09:42.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -14280,7 +14280,7 @@
     "timestamp": "00:10:01.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -14296,7 +14296,7 @@
     "timestamp": "00:10:02.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14312,7 +14312,7 @@
     "timestamp": "00:10:03.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14360,7 +14360,7 @@
     "timestamp": "00:10:05.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14376,7 +14376,7 @@
     "timestamp": "00:10:06.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14400,7 +14400,7 @@
     "timestamp": "00:10:22.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:10:23.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:11:03.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -14480,7 +14480,7 @@
     "timestamp": "00:11:06.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14504,7 +14504,7 @@
     "timestamp": "00:11:07.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14520,7 +14520,7 @@
     "timestamp": "00:11:08.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:11:09.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -14592,7 +14592,7 @@
     "timestamp": "00:11:15.935"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -14608,7 +14608,7 @@
     "timestamp": "00:12:00.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14624,7 +14624,7 @@
     "timestamp": "00:12:41.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -14680,7 +14680,7 @@
     "timestamp": "00:12:45.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:12:49.713"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14728,7 +14728,7 @@
     "timestamp": "00:12:52.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -14744,7 +14744,7 @@
     "timestamp": "00:13:16.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:13:19.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -14792,7 +14792,7 @@
     "timestamp": "00:13:27.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -14808,7 +14808,7 @@
     "timestamp": "00:13:30.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14824,7 +14824,7 @@
     "timestamp": "00:13:33.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:13:41.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aimee Palmer",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:13:44.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:13:54.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:13:59.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abigail Harrison",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -15000,7 +15000,7 @@
     "timestamp": "00:14:02.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15024,7 +15024,7 @@
     "timestamp": "00:14:28.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15072,7 +15072,7 @@
     "timestamp": "00:14:31.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:14:56.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15128,7 +15128,7 @@
     "timestamp": "00:14:59.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15168,7 +15168,7 @@
     "timestamp": "00:15:04.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15200,7 +15200,7 @@
     "timestamp": "00:15:06.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -15264,7 +15264,7 @@
     "timestamp": "00:15:12.389"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ebony Salmon",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15288,7 +15288,7 @@
     "timestamp": "00:15:14.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:15:18.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:15:23.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -15360,7 +15360,7 @@
     "timestamp": "00:15:25.184"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Abigail Harrison",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:15:25.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:16:04.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15424,7 +15424,7 @@
     "timestamp": "00:16:08.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15456,7 +15456,7 @@
     "timestamp": "00:16:17.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:16:18.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15520,7 +15520,7 @@
     "timestamp": "00:16:21.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:16:22.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:16:23.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15592,7 +15592,7 @@
     "timestamp": "00:16:25.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:16:27.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:16:53.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -15656,7 +15656,7 @@
     "timestamp": "00:16:55.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:17:04.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15736,7 +15736,7 @@
     "timestamp": "00:17:06.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15768,7 +15768,7 @@
     "timestamp": "00:17:13.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:17:16.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15832,7 +15832,7 @@
     "timestamp": "00:17:18.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:17:24.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:17:44.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Abigail Harrison",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -15992,7 +15992,7 @@
     "timestamp": "00:17:49.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:17:51.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Emma Bissell",
     "player1_team": "Bristol City WFC",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:17:55.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Bissell",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:18:10.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:18:31.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aimee Palmer",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -16184,7 +16184,7 @@
     "timestamp": "00:18:37.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:18:40.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -16232,7 +16232,7 @@
     "timestamp": "00:18:48.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16256,7 +16256,7 @@
     "timestamp": "00:18:56.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:19:13.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -16312,7 +16312,7 @@
     "timestamp": "00:19:15.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:19:17.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:19:19.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:19:20.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16408,7 +16408,7 @@
     "timestamp": "00:19:23.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:19:26.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:19:26.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:19:29.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:19:30.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:19:34.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16512,7 +16512,7 @@
     "timestamp": "00:19:41.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:20:14.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:20:15.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:20:17.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:20:23.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -16656,7 +16656,7 @@
     "timestamp": "00:20:27.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16672,7 +16672,7 @@
     "timestamp": "00:20:30.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16688,7 +16688,7 @@
     "timestamp": "00:20:42.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:20:44.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16728,7 +16728,7 @@
     "timestamp": "00:20:58.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Emma Bissell",
     "player1_team": "Bristol City WFC",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:20:59.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Bissell",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:21:03.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16816,7 +16816,7 @@
     "timestamp": "00:21:04.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:21:07.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:21:10.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -16896,7 +16896,7 @@
     "timestamp": "00:21:18.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -16976,7 +16976,7 @@
     "timestamp": "00:21:21.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17000,7 +17000,7 @@
     "timestamp": "00:21:22.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17024,7 +17024,7 @@
     "timestamp": "00:21:25.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17056,7 +17056,7 @@
     "timestamp": "00:21:29.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17072,7 +17072,7 @@
     "timestamp": "00:21:34.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -17096,7 +17096,7 @@
     "timestamp": "00:21:44.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:21:50.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -17176,7 +17176,7 @@
     "timestamp": "00:21:54.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:21:57.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17216,7 +17216,7 @@
     "timestamp": "00:21:59.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:22:01.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17296,7 +17296,7 @@
     "timestamp": "00:22:51.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:22:54.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17352,7 +17352,7 @@
     "timestamp": "00:22:55.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -17376,7 +17376,7 @@
     "timestamp": "00:23:01.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ebony Salmon",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -17416,7 +17416,7 @@
     "timestamp": "00:23:06.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:23:26.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17464,7 +17464,7 @@
     "timestamp": "00:23:30.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:23:32.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17512,7 +17512,7 @@
     "timestamp": "00:23:32.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17560,7 +17560,7 @@
     "timestamp": "00:23:55.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -17584,7 +17584,7 @@
     "timestamp": "00:23:58.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -17600,7 +17600,7 @@
     "timestamp": "00:24:02.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17616,7 +17616,7 @@
     "timestamp": "00:24:03.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17688,7 +17688,7 @@
     "timestamp": "00:24:10.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:24:15.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:24:52.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:25:14.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:25:18.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:25:19.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:25:22.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:25:25.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18008,7 +18008,7 @@
     "timestamp": "00:26:06.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:26:09.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18040,7 +18040,7 @@
     "timestamp": "00:26:13.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18064,7 +18064,7 @@
     "timestamp": "00:26:20.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18088,7 +18088,7 @@
     "timestamp": "00:26:24.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:26:35.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18216,7 +18216,7 @@
     "timestamp": "00:27:31.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18240,7 +18240,7 @@
     "timestamp": "00:27:32.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -18344,7 +18344,7 @@
     "timestamp": "00:28:00.245"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ebony Salmon",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:28:01.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18376,7 +18376,7 @@
     "timestamp": "00:28:42.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18400,7 +18400,7 @@
     "timestamp": "00:28:43.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:28:57.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:29:32.223"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18504,7 +18504,7 @@
     "timestamp": "00:29:37.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18528,7 +18528,7 @@
     "timestamp": "00:29:39.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:29:40.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:29:48.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:29:50.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:29:53.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:29:56.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Emma Bissell",
     "player1_team": "Bristol City WFC",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:29:58.350"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18744,7 +18744,7 @@
     "timestamp": "00:30:49.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -18800,7 +18800,7 @@
     "timestamp": "00:31:40.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -18840,7 +18840,7 @@
     "timestamp": "00:31:46.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victoria Williams",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:31:46.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18864,7 +18864,7 @@
     "timestamp": "00:32:16.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:32:28.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Bissell",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -18936,7 +18936,7 @@
     "timestamp": "00:32:37.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:33:00.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19032,7 +19032,7 @@
     "timestamp": "00:33:06.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geum-Min Lee",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19048,7 +19048,7 @@
     "timestamp": "00:33:06.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19072,7 +19072,7 @@
     "timestamp": "00:33:35.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:33:36.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19112,7 +19112,7 @@
     "timestamp": "00:33:37.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19128,7 +19128,7 @@
     "timestamp": "00:34:00.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19152,7 +19152,7 @@
     "timestamp": "00:34:01.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:34:06.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:34:08.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:34:13.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19352,7 +19352,7 @@
     "timestamp": "00:34:16.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:34:18.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -19384,7 +19384,7 @@
     "timestamp": "00:34:34.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Emma Bissell",
     "player1_team": "Bristol City WFC",
@@ -19408,7 +19408,7 @@
     "timestamp": "00:34:42.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Bissell",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:34:43.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:34:46.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:35:03.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19528,7 +19528,7 @@
     "timestamp": "00:35:07.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19544,7 +19544,7 @@
     "timestamp": "00:35:09.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19568,7 +19568,7 @@
     "timestamp": "00:35:12.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19600,7 +19600,7 @@
     "timestamp": "00:35:16.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19624,7 +19624,7 @@
     "timestamp": "00:35:18.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19648,7 +19648,7 @@
     "timestamp": "00:35:20.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:35:23.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:35:25.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -19776,7 +19776,7 @@
     "timestamp": "00:35:35.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Emma Bissell",
     "player1_team": "Bristol City WFC",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:36:40.090"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Bissell",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -19840,7 +19840,7 @@
     "timestamp": "00:36:42.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -19864,7 +19864,7 @@
     "timestamp": "00:36:43.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:36:46.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abigail Harrison",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:36:49.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:36:53.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19992,7 +19992,7 @@
     "timestamp": "00:38:19.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20016,7 +20016,7 @@
     "timestamp": "00:38:21.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20080,7 +20080,7 @@
     "timestamp": "00:38:24.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20088,7 +20088,7 @@
     "timestamp": "00:38:26.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:39:07.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Inessa Kaagman",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:39:09.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20152,7 +20152,7 @@
     "timestamp": "00:39:10.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20176,7 +20176,7 @@
     "timestamp": "00:39:30.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -20224,7 +20224,7 @@
     "timestamp": "00:39:40.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20240,7 +20240,7 @@
     "timestamp": "00:39:43.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20272,7 +20272,7 @@
     "timestamp": "00:39:50.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:39:53.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20328,7 +20328,7 @@
     "timestamp": "00:39:55.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20360,7 +20360,7 @@
     "timestamp": "00:39:59.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -20392,7 +20392,7 @@
     "timestamp": "00:40:04.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Abigail Harrison",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:40:10.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:40:34.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Maya Le Tissier",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20464,7 +20464,7 @@
     "timestamp": "00:40:40.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -20480,7 +20480,7 @@
     "timestamp": "00:40:42.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:40:44.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -20536,7 +20536,7 @@
     "timestamp": "00:40:48.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -20560,7 +20560,7 @@
     "timestamp": "00:40:52.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Kiera Skeels",
     "player1_team": "Bristol City WFC",
@@ -20576,7 +20576,7 @@
     "timestamp": "00:40:58.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kiera Skeels",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -20600,7 +20600,7 @@
     "timestamp": "00:40:59.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -20632,7 +20632,7 @@
     "timestamp": "00:41:03.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Jemma Elizabeth Purfield",
     "player1_team": "Bristol City WFC",
@@ -20656,7 +20656,7 @@
     "timestamp": "00:41:05.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:41:17.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20744,7 +20744,7 @@
     "timestamp": "00:41:18.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20768,7 +20768,7 @@
     "timestamp": "00:41:20.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:41:24.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:41:26.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:41:31.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:41:40.704"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ellie Brazil",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:41:43.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:41:58.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aileen Whelan",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21056,7 +21056,7 @@
     "timestamp": "00:42:00.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Pike",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -21088,7 +21088,7 @@
     "timestamp": "00:42:07.238"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ebony Salmon",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -21104,7 +21104,7 @@
     "timestamp": "00:42:09.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:42:44.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21152,7 +21152,7 @@
     "timestamp": "00:42:45.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21176,7 +21176,7 @@
     "timestamp": "00:42:46.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21200,7 +21200,7 @@
     "timestamp": "00:42:47.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:42:50.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21248,7 +21248,7 @@
     "timestamp": "00:42:56.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21272,7 +21272,7 @@
     "timestamp": "00:42:59.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21296,7 +21296,7 @@
     "timestamp": "00:43:00.470"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21328,7 +21328,7 @@
     "timestamp": "00:43:03.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:43:04.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21440,7 +21440,7 @@
     "timestamp": "00:43:11.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Meaghan Sargeant",
     "player1_team": "Bristol City WFC",
@@ -21456,7 +21456,7 @@
     "timestamp": "00:44:06.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -21504,7 +21504,7 @@
     "timestamp": "00:44:33.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -21528,7 +21528,7 @@
     "timestamp": "00:44:39.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jemma Elizabeth Purfield",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -21584,7 +21584,7 @@
     "timestamp": "00:44:46.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ebony Salmon",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -21608,7 +21608,7 @@
     "timestamp": "00:44:50.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Emma Bissell",
     "player1_team": "Bristol City WFC",
@@ -21632,7 +21632,7 @@
     "timestamp": "00:44:54.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Bissell",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -21704,7 +21704,7 @@
     "timestamp": "00:45:00.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21728,7 +21728,7 @@
     "timestamp": "00:45:02.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Maya Le Tissier",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21752,7 +21752,7 @@
     "timestamp": "00:45:04.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kayleigh Green",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21776,7 +21776,7 @@
     "timestamp": "00:45:06.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21808,7 +21808,7 @@
     "timestamp": "00:45:07.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21832,7 +21832,7 @@
     "timestamp": "00:45:08.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:45:11.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21888,7 +21888,7 @@
     "timestamp": "00:45:15.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21912,7 +21912,7 @@
     "timestamp": "00:45:17.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21936,7 +21936,7 @@
     "timestamp": "00:45:19.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21968,7 +21968,7 @@
     "timestamp": "00:45:20.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22000,7 +22000,7 @@
     "timestamp": "00:45:22.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22024,7 +22024,7 @@
     "timestamp": "00:45:24.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Cecilie Fiskerstrand",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22048,7 +22048,7 @@
     "timestamp": "00:45:28.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22072,7 +22072,7 @@
     "timestamp": "00:45:33.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22096,7 +22096,7 @@
     "timestamp": "00:45:36.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:45:38.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22144,7 +22144,7 @@
     "timestamp": "00:45:39.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22168,7 +22168,7 @@
     "timestamp": "00:45:40.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22200,7 +22200,7 @@
     "timestamp": "00:45:43.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Simpkins",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22232,7 +22232,7 @@
     "timestamp": "00:45:46.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -22248,7 +22248,7 @@
     "timestamp": "00:45:54.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22280,7 +22280,7 @@
     "timestamp": "00:45:57.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22304,7 +22304,7 @@
     "timestamp": "00:45:59.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22328,7 +22328,7 @@
     "timestamp": "00:46:02.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geum-Min Lee",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22352,7 +22352,7 @@
     "timestamp": "00:46:03.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22376,7 +22376,7 @@
     "timestamp": "00:46:07.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22400,7 +22400,7 @@
     "timestamp": "00:46:11.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kayleigh Green",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22448,7 +22448,7 @@
     "timestamp": "00:46:18.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Molly Pike",
     "player1_team": "Bristol City WFC",
@@ -22472,7 +22472,7 @@
     "timestamp": "00:46:39.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22488,7 +22488,7 @@
     "timestamp": "00:47:03.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cecilie Fiskerstrand",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22512,7 +22512,7 @@
     "timestamp": "00:47:24.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yana Daniëls",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -22544,7 +22544,7 @@
     "timestamp": "00:47:26.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22560,7 +22560,7 @@
     "timestamp": "00:47:29.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:47:30.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22632,7 +22632,7 @@
     "timestamp": "00:47:35.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22664,7 +22664,7 @@
     "timestamp": "00:47:42.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:47:44.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22712,7 +22712,7 @@
     "timestamp": "00:47:46.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ellie Brazil",
     "player2": "Emma Wilhelmina Koivisto",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22736,7 +22736,7 @@
     "timestamp": "00:47:47.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Wilhelmina Koivisto",
     "player2": "Ellie Brazil",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22760,7 +22760,7 @@
     "timestamp": "00:47:50.904"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ellie Brazil",
     "player2": "Inessa Kaagman",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22792,7 +22792,7 @@
     "timestamp": "00:47:54.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -22816,7 +22816,7 @@
     "timestamp": "00:48:00.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aimee Palmer",
     "player2": "Yana Daniëls",
     "player1_team": "Bristol City WFC",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:48:02.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yana Daniëls",
     "player2": "Ebony Salmon",
     "player1_team": "Bristol City WFC",
@@ -22888,7 +22888,7 @@
     "timestamp": "00:48:08.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Florence Allen",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -22912,7 +22912,7 @@
     "timestamp": "00:48:11.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22944,7 +22944,7 @@
     "timestamp": "00:48:20.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22952,7 +22952,7 @@
     "timestamp": "00:48:30.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -22968,7 +22968,7 @@
     "timestamp": "00:48:32.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -22992,7 +22992,7 @@
     "timestamp": "00:48:34.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "Abigail Harrison",
     "player1_team": "Bristol City WFC",
@@ -23016,7 +23016,7 @@
     "timestamp": "00:48:37.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23040,7 +23040,7 @@
     "timestamp": "00:48:38.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23064,7 +23064,7 @@
     "timestamp": "00:48:39.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Geum-Min Lee",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23080,7 +23080,7 @@
     "timestamp": "00:48:41.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Aimee Palmer",
     "player1_team": "Bristol City WFC",
@@ -23120,7 +23120,7 @@
     "timestamp": "00:48:45.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Pike",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23128,7 +23128,7 @@
     "timestamp": "00:48:45.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23160,7 +23160,7 @@
     "timestamp": "00:48:50.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Simpkins",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23184,7 +23184,7 @@
     "timestamp": "00:48:55.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23208,7 +23208,7 @@
     "timestamp": "00:48:58.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Victoria Williams",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23232,7 +23232,7 @@
     "timestamp": "00:49:00.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victoria Williams",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23256,7 +23256,7 @@
     "timestamp": "00:49:01.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Libby Bance",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23280,7 +23280,7 @@
     "timestamp": "00:49:04.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Libby Bance",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23304,7 +23304,7 @@
     "timestamp": "00:49:09.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aileen Whelan",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23336,7 +23336,7 @@
     "timestamp": "00:49:13.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23392,7 +23392,7 @@
     "timestamp": "00:49:16.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Felicity Gibbons",
     "player2": "Libby Bance",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -23408,7 +23408,7 @@
     "timestamp": "00:49:41.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Libby Bance",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",

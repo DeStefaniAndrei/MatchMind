@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -32,7 +32,7 @@
     "timestamp": "00:00:07.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -64,7 +64,7 @@
     "timestamp": "00:00:11.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:24.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -96,7 +96,7 @@
     "timestamp": "00:00:25.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -152,7 +152,7 @@
     "timestamp": "00:00:54.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:56.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:59.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -224,7 +224,7 @@
     "timestamp": "00:01:04.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -240,7 +240,7 @@
     "timestamp": "00:01:07.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -264,7 +264,7 @@
     "timestamp": "00:01:09.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -296,7 +296,7 @@
     "timestamp": "00:01:22.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -320,7 +320,7 @@
     "timestamp": "00:01:27.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -336,7 +336,7 @@
     "timestamp": "00:01:28.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -432,7 +432,7 @@
     "timestamp": "00:01:34.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -448,7 +448,7 @@
     "timestamp": "00:01:37.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -472,7 +472,7 @@
     "timestamp": "00:01:38.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -488,7 +488,7 @@
     "timestamp": "00:01:44.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -512,7 +512,7 @@
     "timestamp": "00:01:45.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -544,7 +544,7 @@
     "timestamp": "00:01:50.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -576,7 +576,7 @@
     "timestamp": "00:01:54.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -608,7 +608,7 @@
     "timestamp": "00:01:55.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -624,7 +624,7 @@
     "timestamp": "00:01:56.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -640,7 +640,7 @@
     "timestamp": "00:02:00.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -672,7 +672,7 @@
     "timestamp": "00:02:13.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -744,7 +744,7 @@
     "timestamp": "00:02:17.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -752,7 +752,7 @@
     "timestamp": "00:02:18.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -768,7 +768,7 @@
     "timestamp": "00:02:22.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -784,7 +784,7 @@
     "timestamp": "00:02:27.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -800,7 +800,7 @@
     "timestamp": "00:02:30.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -808,7 +808,7 @@
     "timestamp": "00:02:30.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -832,7 +832,7 @@
     "timestamp": "00:03:00.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -848,7 +848,7 @@
     "timestamp": "00:03:01.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -872,7 +872,7 @@
     "timestamp": "00:03:34.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -936,7 +936,7 @@
     "timestamp": "00:03:37.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -960,7 +960,7 @@
     "timestamp": "00:03:39.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -976,7 +976,7 @@
     "timestamp": "00:03:51.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -992,7 +992,7 @@
     "timestamp": "00:03:53.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1024,7 +1024,7 @@
     "timestamp": "00:03:56.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:03:57.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -1080,7 +1080,7 @@
     "timestamp": "00:03:58.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -1104,7 +1104,7 @@
     "timestamp": "00:03:59.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:04:01.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:04:05.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -1184,7 +1184,7 @@
     "timestamp": "00:04:08.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -1224,7 +1224,7 @@
     "timestamp": "00:04:10.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -1256,7 +1256,7 @@
     "timestamp": "00:04:13.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -1280,7 +1280,7 @@
     "timestamp": "00:04:17.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -1304,7 +1304,7 @@
     "timestamp": "00:04:21.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:04:22.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -1360,7 +1360,7 @@
     "timestamp": "00:04:25.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:04:28.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -1416,7 +1416,7 @@
     "timestamp": "00:04:30.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:04:50.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1480,7 +1480,7 @@
     "timestamp": "00:04:52.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:05:12.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1528,7 +1528,7 @@
     "timestamp": "00:05:12.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -1552,7 +1552,7 @@
     "timestamp": "00:05:29.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -1584,7 +1584,7 @@
     "timestamp": "00:05:30.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -1632,7 +1632,7 @@
     "timestamp": "00:05:34.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -1664,7 +1664,7 @@
     "timestamp": "00:05:37.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:05:41.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:05:44.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1736,7 +1736,7 @@
     "timestamp": "00:05:50.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -1752,7 +1752,7 @@
     "timestamp": "00:06:02.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1768,7 +1768,7 @@
     "timestamp": "00:06:09.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -1800,7 +1800,7 @@
     "timestamp": "00:06:27.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -1824,7 +1824,7 @@
     "timestamp": "00:06:28.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -1848,7 +1848,7 @@
     "timestamp": "00:06:30.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1856,7 +1856,7 @@
     "timestamp": "00:06:30.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:06:35.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:06:39.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:06:40.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -1944,7 +1944,7 @@
     "timestamp": "00:06:42.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -1968,7 +1968,7 @@
     "timestamp": "00:06:57.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -2000,7 +2000,7 @@
     "timestamp": "00:07:04.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -2024,7 +2024,7 @@
     "timestamp": "00:07:07.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -2048,7 +2048,7 @@
     "timestamp": "00:07:07.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:07:17.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -2104,7 +2104,7 @@
     "timestamp": "00:07:20.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -2136,7 +2136,7 @@
     "timestamp": "00:07:22.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:07:23.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -2176,7 +2176,7 @@
     "timestamp": "00:07:36.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2248,7 +2248,7 @@
     "timestamp": "00:07:50.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:09:36.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2400,7 +2400,7 @@
     "timestamp": "00:09:47.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:09:56.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:10:01.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -2512,7 +2512,7 @@
     "timestamp": "00:10:05.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2544,7 +2544,7 @@
     "timestamp": "00:10:11.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:10:13.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2584,7 +2584,7 @@
     "timestamp": "00:10:14.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:10:20.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -2656,7 +2656,7 @@
     "timestamp": "00:10:24.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -2696,7 +2696,7 @@
     "timestamp": "00:10:26.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:10:28.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:10:35.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -2848,7 +2848,7 @@
     "timestamp": "00:10:40.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -2880,7 +2880,7 @@
     "timestamp": "00:10:41.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:10:48.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -2944,7 +2944,7 @@
     "timestamp": "00:10:57.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -2968,7 +2968,7 @@
     "timestamp": "00:11:02.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -2992,7 +2992,7 @@
     "timestamp": "00:11:06.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -3016,7 +3016,7 @@
     "timestamp": "00:11:09.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:11:11.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -3072,7 +3072,7 @@
     "timestamp": "00:11:18.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3104,7 +3104,7 @@
     "timestamp": "00:11:20.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:11:22.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:11:23.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:11:25.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:11:28.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:11:39.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:12:01.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -3352,7 +3352,7 @@
     "timestamp": "00:12:04.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3384,7 +3384,7 @@
     "timestamp": "00:12:07.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -3400,7 +3400,7 @@
     "timestamp": "00:12:09.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -3424,7 +3424,7 @@
     "timestamp": "00:12:11.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:12:16.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -3472,7 +3472,7 @@
     "timestamp": "00:12:17.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -3496,7 +3496,7 @@
     "timestamp": "00:12:19.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:12:24.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -3600,7 +3600,7 @@
     "timestamp": "00:12:29.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:12:35.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:13:15.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -3688,7 +3688,7 @@
     "timestamp": "00:13:17.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:13:21.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3752,7 +3752,7 @@
     "timestamp": "00:13:23.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -3776,7 +3776,7 @@
     "timestamp": "00:13:27.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:13:30.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -3856,7 +3856,7 @@
     "timestamp": "00:13:32.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -3872,7 +3872,7 @@
     "timestamp": "00:13:33.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -3904,7 +3904,7 @@
     "timestamp": "00:13:35.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:13:52.532"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:13:54.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:14:06.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -4008,7 +4008,7 @@
     "timestamp": "00:14:08.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -4040,7 +4040,7 @@
     "timestamp": "00:14:11.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:14:14.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:14:16.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -4136,7 +4136,7 @@
     "timestamp": "00:14:21.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:14:26.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -4192,7 +4192,7 @@
     "timestamp": "00:14:29.524"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:14:31.976"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4248,7 +4248,7 @@
     "timestamp": "00:14:34.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -4264,7 +4264,7 @@
     "timestamp": "00:14:59.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -4288,7 +4288,7 @@
     "timestamp": "00:15:00.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -4312,7 +4312,7 @@
     "timestamp": "00:15:04.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -4344,7 +4344,7 @@
     "timestamp": "00:15:09.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -4368,7 +4368,7 @@
     "timestamp": "00:15:11.021"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4424,7 +4424,7 @@
     "timestamp": "00:15:15.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -4448,7 +4448,7 @@
     "timestamp": "00:15:59.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:16:02.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -4512,7 +4512,7 @@
     "timestamp": "00:16:05.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -4544,7 +4544,7 @@
     "timestamp": "00:16:09.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -4576,7 +4576,7 @@
     "timestamp": "00:16:13.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -4600,7 +4600,7 @@
     "timestamp": "00:16:16.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -4656,7 +4656,7 @@
     "timestamp": "00:17:29.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -4680,7 +4680,7 @@
     "timestamp": "00:19:20.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:19:40.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:19:44.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:20:11.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -4784,7 +4784,7 @@
     "timestamp": "00:20:35.021"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -4808,7 +4808,7 @@
     "timestamp": "00:20:37.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:20:39.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -4864,7 +4864,7 @@
     "timestamp": "00:20:39.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4880,7 +4880,7 @@
     "timestamp": "00:20:41.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:20:59.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -4928,7 +4928,7 @@
     "timestamp": "00:21:02.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -4960,7 +4960,7 @@
     "timestamp": "00:21:04.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:21:07.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:21:09.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -5096,7 +5096,7 @@
     "timestamp": "00:21:15.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -5112,7 +5112,7 @@
     "timestamp": "00:21:19.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -5152,7 +5152,7 @@
     "timestamp": "00:21:23.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -5200,7 +5200,7 @@
     "timestamp": "00:21:31.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -5232,7 +5232,7 @@
     "timestamp": "00:21:33.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:21:35.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:21:43.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:21:47.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -5328,7 +5328,7 @@
     "timestamp": "00:21:51.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -5352,7 +5352,7 @@
     "timestamp": "00:22:30.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:22:32.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:22:37.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -5504,7 +5504,7 @@
     "timestamp": "00:22:39.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:22:41.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:22:43.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -5608,7 +5608,7 @@
     "timestamp": "00:22:46.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -5640,7 +5640,7 @@
     "timestamp": "00:22:53.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -5704,7 +5704,7 @@
     "timestamp": "00:22:56.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5728,7 +5728,7 @@
     "timestamp": "00:22:58.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -5752,7 +5752,7 @@
     "timestamp": "00:22:59.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -5784,7 +5784,7 @@
     "timestamp": "00:23:03.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:23:08.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:23:10.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:23:17.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:23:17.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:23:46.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -5976,7 +5976,7 @@
     "timestamp": "00:23:48.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -6000,7 +6000,7 @@
     "timestamp": "00:23:50.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:23:51.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -6040,7 +6040,7 @@
     "timestamp": "00:23:54.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -6064,7 +6064,7 @@
     "timestamp": "00:23:59.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6160,7 +6160,7 @@
     "timestamp": "00:24:06.033"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:24:08.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:24:42.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -6216,7 +6216,7 @@
     "timestamp": "00:24:45.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:24:48.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:24:49.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:24:51.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -6352,7 +6352,7 @@
     "timestamp": "00:24:55.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -6384,7 +6384,7 @@
     "timestamp": "00:24:59.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:25:02.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:25:13.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -6464,7 +6464,7 @@
     "timestamp": "00:25:16.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:25:21.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:25:26.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:25:30.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:25:33.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -6712,7 +6712,7 @@
     "timestamp": "00:25:38.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -6736,7 +6736,7 @@
     "timestamp": "00:25:39.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:25:40.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:25:41.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:26:10.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6840,7 +6840,7 @@
     "timestamp": "00:26:27.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:26:31.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -6952,7 +6952,7 @@
     "timestamp": "00:26:42.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -7024,7 +7024,7 @@
     "timestamp": "00:26:46.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:26:49.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -7080,7 +7080,7 @@
     "timestamp": "00:27:18.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:27:21.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -7136,7 +7136,7 @@
     "timestamp": "00:27:26.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -7160,7 +7160,7 @@
     "timestamp": "00:27:29.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -7176,7 +7176,7 @@
     "timestamp": "00:27:44.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7184,7 +7184,7 @@
     "timestamp": "00:27:44.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:27:46.817"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:27:48.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7248,7 +7248,7 @@
     "timestamp": "00:27:50.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:27:55.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:27:56.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -7360,7 +7360,7 @@
     "timestamp": "00:28:04.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:28:05.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -7408,7 +7408,7 @@
     "timestamp": "00:28:23.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:28:24.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:28:28.033"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -7448,7 +7448,7 @@
     "timestamp": "00:28:29.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -7520,7 +7520,7 @@
     "timestamp": "00:28:40.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -7536,7 +7536,7 @@
     "timestamp": "00:28:56.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7568,7 +7568,7 @@
     "timestamp": "00:28:58.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -7592,7 +7592,7 @@
     "timestamp": "00:28:59.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:29:04.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -7640,7 +7640,7 @@
     "timestamp": "00:29:08.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -7680,7 +7680,7 @@
     "timestamp": "00:29:11.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7720,7 +7720,7 @@
     "timestamp": "00:29:14.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -7744,7 +7744,7 @@
     "timestamp": "00:30:01.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -7784,7 +7784,7 @@
     "timestamp": "00:30:09.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:30:12.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7848,7 +7848,7 @@
     "timestamp": "00:30:14.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -7880,7 +7880,7 @@
     "timestamp": "00:30:16.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:30:17.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:30:22.232"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:30:28.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:30:32.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:30:35.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:30:39.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:30:51.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -8200,7 +8200,7 @@
     "timestamp": "00:30:55.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -8248,7 +8248,7 @@
     "timestamp": "00:31:29.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -8272,7 +8272,7 @@
     "timestamp": "00:31:34.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -8320,7 +8320,7 @@
     "timestamp": "00:31:41.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:32:23.685"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8368,7 +8368,7 @@
     "timestamp": "00:32:25.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -8400,7 +8400,7 @@
     "timestamp": "00:32:43.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -8424,7 +8424,7 @@
     "timestamp": "00:32:45.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -8440,7 +8440,7 @@
     "timestamp": "00:32:50.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:32:51.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:32:54.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:32:58.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8552,7 +8552,7 @@
     "timestamp": "00:33:02.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:33:04.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:33:10.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:33:30.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:33:33.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:33:35.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:33:39.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:33:41.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:33:44.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:33:48.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -8888,7 +8888,7 @@
     "timestamp": "00:33:50.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:33:58.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -8976,7 +8976,7 @@
     "timestamp": "00:34:00.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:34:02.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -9032,7 +9032,7 @@
     "timestamp": "00:34:05.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:34:09.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -9096,7 +9096,7 @@
     "timestamp": "00:34:16.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:34:21.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -9152,7 +9152,7 @@
     "timestamp": "00:34:24.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -9184,7 +9184,7 @@
     "timestamp": "00:34:32.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -9192,7 +9192,7 @@
     "timestamp": "00:34:32.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:34:51.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -9240,7 +9240,7 @@
     "timestamp": "00:34:52.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -9272,7 +9272,7 @@
     "timestamp": "00:34:54.116"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -9288,7 +9288,7 @@
     "timestamp": "00:35:38.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -9320,7 +9320,7 @@
     "timestamp": "00:36:22.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -9336,7 +9336,7 @@
     "timestamp": "00:36:24.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -9376,7 +9376,7 @@
     "timestamp": "00:36:26.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -9392,7 +9392,7 @@
     "timestamp": "00:36:31.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:36:40.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -9432,7 +9432,7 @@
     "timestamp": "00:36:41.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -9480,7 +9480,7 @@
     "timestamp": "00:36:44.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -9504,7 +9504,7 @@
     "timestamp": "00:37:09.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -9552,7 +9552,7 @@
     "timestamp": "00:37:18.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -9584,7 +9584,7 @@
     "timestamp": "00:37:39.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -9608,7 +9608,7 @@
     "timestamp": "00:37:41.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -9640,7 +9640,7 @@
     "timestamp": "00:37:46.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:37:52.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9696,7 +9696,7 @@
     "timestamp": "00:37:55.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -9704,7 +9704,7 @@
     "timestamp": "00:37:55.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -9728,7 +9728,7 @@
     "timestamp": "00:38:14.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -9752,7 +9752,7 @@
     "timestamp": "00:38:20.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:38:25.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:38:54.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -9840,7 +9840,7 @@
     "timestamp": "00:38:55.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:38:57.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -9880,7 +9880,7 @@
     "timestamp": "00:38:59.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -9904,7 +9904,7 @@
     "timestamp": "00:39:01.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -9928,7 +9928,7 @@
     "timestamp": "00:39:04.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:39:11.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:39:35.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:39:36.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:39:48.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10048,7 +10048,7 @@
     "timestamp": "00:39:51.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -10080,7 +10080,7 @@
     "timestamp": "00:39:53.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10112,7 +10112,7 @@
     "timestamp": "00:39:56.877"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Rachel Furness",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -10128,7 +10128,7 @@
     "timestamp": "00:39:58.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -10160,7 +10160,7 @@
     "timestamp": "00:40:24.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -10192,7 +10192,7 @@
     "timestamp": "00:40:26.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -10216,7 +10216,7 @@
     "timestamp": "00:40:27.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:40:35.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10264,7 +10264,7 @@
     "timestamp": "00:40:40.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -10320,7 +10320,7 @@
     "timestamp": "00:41:14.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:41:15.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:41:17.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10392,7 +10392,7 @@
     "timestamp": "00:41:19.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:41:22.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:41:23.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:41:24.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:41:28.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10568,7 +10568,7 @@
     "timestamp": "00:41:31.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:41:34.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:41:39.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -10624,7 +10624,7 @@
     "timestamp": "00:41:42.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -10672,7 +10672,7 @@
     "timestamp": "00:41:44.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:41:46.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -10760,7 +10760,7 @@
     "timestamp": "00:41:50.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:42:07.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -10800,7 +10800,7 @@
     "timestamp": "00:42:07.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:42:32.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -10904,7 +10904,7 @@
     "timestamp": "00:42:33.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -10928,7 +10928,7 @@
     "timestamp": "00:42:53.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -10960,7 +10960,7 @@
     "timestamp": "00:42:57.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -10984,7 +10984,7 @@
     "timestamp": "00:42:59.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:43:01.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:43:07.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -11104,7 +11104,7 @@
     "timestamp": "00:43:16.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -11128,7 +11128,7 @@
     "timestamp": "00:43:20.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:43:25.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -11176,7 +11176,7 @@
     "timestamp": "00:43:31.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:43:35.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:43:36.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11264,7 +11264,7 @@
     "timestamp": "00:43:38.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:43:40.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:43:47.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -11392,7 +11392,7 @@
     "timestamp": "00:43:50.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:43:55.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11464,7 +11464,7 @@
     "timestamp": "00:44:01.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:44:23.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:44:26.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -11536,7 +11536,7 @@
     "timestamp": "00:44:30.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -11552,7 +11552,7 @@
     "timestamp": "00:44:32.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:44:33.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:44:38.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -11640,7 +11640,7 @@
     "timestamp": "00:44:42.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -11664,7 +11664,7 @@
     "timestamp": "00:44:44.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:44:45.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -11696,7 +11696,7 @@
     "timestamp": "00:44:47.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -11720,7 +11720,7 @@
     "timestamp": "00:44:50.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11752,7 +11752,7 @@
     "timestamp": "00:44:59.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -11784,7 +11784,7 @@
     "timestamp": "00:45:05.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11800,7 +11800,7 @@
     "timestamp": "00:45:06.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:45:38.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:45:40.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:45:53.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -11872,7 +11872,7 @@
     "timestamp": "00:45:54.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:45:56.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:45:57.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11936,7 +11936,7 @@
     "timestamp": "00:45:57.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -12032,7 +12032,7 @@
     "timestamp": "00:46:15.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -12056,7 +12056,7 @@
     "timestamp": "00:46:18.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12080,7 +12080,7 @@
     "timestamp": "00:46:29.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:46:33.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -12112,7 +12112,7 @@
     "timestamp": "00:46:34.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -12160,7 +12160,7 @@
     "timestamp": "00:46:37.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -12208,7 +12208,7 @@
     "timestamp": "00:46:39.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12224,7 +12224,7 @@
     "timestamp": "00:46:40.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:47:05.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12296,7 +12296,7 @@
     "timestamp": "00:47:07.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:47:11.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -12352,7 +12352,7 @@
     "timestamp": "00:47:15.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:47:19.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -12432,7 +12432,7 @@
     "timestamp": "00:47:22.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12456,7 +12456,7 @@
     "timestamp": "00:47:47.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:47:55.724"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12512,7 +12512,7 @@
     "timestamp": "00:47:57.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:48:09.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -12552,7 +12552,7 @@
     "timestamp": "00:48:12.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -12568,7 +12568,7 @@
     "timestamp": "00:48:13.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12616,7 +12616,7 @@
     "timestamp": "00:48:39.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:48:41.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12656,7 +12656,7 @@
     "timestamp": "00:48:42.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12664,7 +12664,7 @@
     "timestamp": "00:49:01.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -12688,7 +12688,7 @@
     "timestamp": "00:00:01.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:00:05.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12736,7 +12736,7 @@
     "timestamp": "00:00:06.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -12752,7 +12752,7 @@
     "timestamp": "00:00:22.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:00:27.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -12824,7 +12824,7 @@
     "timestamp": "00:00:31.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -12856,7 +12856,7 @@
     "timestamp": "00:00:32.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -12880,7 +12880,7 @@
     "timestamp": "00:00:37.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:00:41.138"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12936,7 +12936,7 @@
     "timestamp": "00:00:43.492"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12976,7 +12976,7 @@
     "timestamp": "00:00:44.801"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:00:45.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13000,7 +13000,7 @@
     "timestamp": "00:01:26.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13032,7 +13032,7 @@
     "timestamp": "00:01:30.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -13056,7 +13056,7 @@
     "timestamp": "00:01:35.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -13088,7 +13088,7 @@
     "timestamp": "00:01:40.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -13112,7 +13112,7 @@
     "timestamp": "00:01:45.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -13136,7 +13136,7 @@
     "timestamp": "00:01:57.648"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:02:02.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13184,7 +13184,7 @@
     "timestamp": "00:02:03.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -13208,7 +13208,7 @@
     "timestamp": "00:02:07.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -13232,7 +13232,7 @@
     "timestamp": "00:02:10.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13272,7 +13272,7 @@
     "timestamp": "00:02:12.506"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -13288,7 +13288,7 @@
     "timestamp": "00:02:13.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -13320,7 +13320,7 @@
     "timestamp": "00:02:42.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -13376,7 +13376,7 @@
     "timestamp": "00:02:45.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13392,7 +13392,7 @@
     "timestamp": "00:02:47.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:02:49.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -13440,7 +13440,7 @@
     "timestamp": "00:02:55.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:02:57.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:02:59.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13496,7 +13496,7 @@
     "timestamp": "00:02:59.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:03:02.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:03:06.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -13560,7 +13560,7 @@
     "timestamp": "00:03:07.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -13592,7 +13592,7 @@
     "timestamp": "00:03:11.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:03:12.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -13632,7 +13632,7 @@
     "timestamp": "00:03:34.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:03:39.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -13696,7 +13696,7 @@
     "timestamp": "00:03:42.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -13752,7 +13752,7 @@
     "timestamp": "00:03:48.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13808,7 +13808,7 @@
     "timestamp": "00:03:51.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -13856,7 +13856,7 @@
     "timestamp": "00:03:54.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13896,7 +13896,7 @@
     "timestamp": "00:04:00.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -13928,7 +13928,7 @@
     "timestamp": "00:04:16.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -13944,7 +13944,7 @@
     "timestamp": "00:04:19.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:04:20.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -13992,7 +13992,7 @@
     "timestamp": "00:04:21.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14008,7 +14008,7 @@
     "timestamp": "00:04:23.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -14056,7 +14056,7 @@
     "timestamp": "00:04:26.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:04:44.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -14136,7 +14136,7 @@
     "timestamp": "00:04:45.731"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14152,7 +14152,7 @@
     "timestamp": "00:04:48.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14176,7 +14176,7 @@
     "timestamp": "00:05:18.283"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14192,7 +14192,7 @@
     "timestamp": "00:05:19.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14200,7 +14200,7 @@
     "timestamp": "00:05:48.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:05:52.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -14264,7 +14264,7 @@
     "timestamp": "00:05:54.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -14288,7 +14288,7 @@
     "timestamp": "00:05:56.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14320,7 +14320,7 @@
     "timestamp": "00:05:59.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -14352,7 +14352,7 @@
     "timestamp": "00:06:26.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:06:28.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -14416,7 +14416,7 @@
     "timestamp": "00:06:34.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:07:52.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -14456,7 +14456,7 @@
     "timestamp": "00:08:23.176"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:08:24.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -14488,7 +14488,7 @@
     "timestamp": "00:08:53.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -14512,7 +14512,7 @@
     "timestamp": "00:08:56.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:09:00.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -14576,7 +14576,7 @@
     "timestamp": "00:09:26.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:10:05.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -14664,7 +14664,7 @@
     "timestamp": "00:10:08.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14696,7 +14696,7 @@
     "timestamp": "00:10:17.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -14720,7 +14720,7 @@
     "timestamp": "00:10:19.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -14752,7 +14752,7 @@
     "timestamp": "00:10:19.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:10:27.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -14808,7 +14808,7 @@
     "timestamp": "00:10:28.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -14840,7 +14840,7 @@
     "timestamp": "00:10:29.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -14864,7 +14864,7 @@
     "timestamp": "00:10:32.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:10:35.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:11:11.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -14936,7 +14936,7 @@
     "timestamp": "00:11:15.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:11:17.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:11:21.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -15056,7 +15056,7 @@
     "timestamp": "00:11:44.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -15072,7 +15072,7 @@
     "timestamp": "00:11:45.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -15088,7 +15088,7 @@
     "timestamp": "00:11:46.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -15104,7 +15104,7 @@
     "timestamp": "00:11:47.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -15128,7 +15128,7 @@
     "timestamp": "00:11:49.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15152,7 +15152,7 @@
     "timestamp": "00:11:51.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:11:52.830"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:11:57.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:12:00.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:12:04.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -15304,7 +15304,7 @@
     "timestamp": "00:12:07.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15344,7 +15344,7 @@
     "timestamp": "00:12:11.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -15368,7 +15368,7 @@
     "timestamp": "00:12:56.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:13:12.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15424,7 +15424,7 @@
     "timestamp": "00:13:15.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -15456,7 +15456,7 @@
     "timestamp": "00:13:24.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:13:30.134"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:13:33.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -15528,7 +15528,7 @@
     "timestamp": "00:14:07.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -15560,7 +15560,7 @@
     "timestamp": "00:14:14.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:14:16.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -15584,7 +15584,7 @@
     "timestamp": "00:14:22.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -15608,7 +15608,7 @@
     "timestamp": "00:14:22.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:14:24.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -15696,7 +15696,7 @@
     "timestamp": "00:14:32.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:14:35.021"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -15736,7 +15736,7 @@
     "timestamp": "00:14:36.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -15760,7 +15760,7 @@
     "timestamp": "00:14:39.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:14:43.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:14:57.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:14:58.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -15856,7 +15856,7 @@
     "timestamp": "00:14:59.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -15872,7 +15872,7 @@
     "timestamp": "00:15:01.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -15912,7 +15912,7 @@
     "timestamp": "00:15:02.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:15:04.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -15992,7 +15992,7 @@
     "timestamp": "00:15:09.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16016,7 +16016,7 @@
     "timestamp": "00:16:01.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:16:15.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:16:16.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16128,7 +16128,7 @@
     "timestamp": "00:16:18.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16144,7 +16144,7 @@
     "timestamp": "00:16:20.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:16:39.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -16200,7 +16200,7 @@
     "timestamp": "00:16:41.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -16224,7 +16224,7 @@
     "timestamp": "00:16:42.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -16256,7 +16256,7 @@
     "timestamp": "00:16:43.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:16:45.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -16296,7 +16296,7 @@
     "timestamp": "00:16:46.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16320,7 +16320,7 @@
     "timestamp": "00:16:46.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -16368,7 +16368,7 @@
     "timestamp": "00:16:50.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:17:07.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lauren Bruton",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -16440,7 +16440,7 @@
     "timestamp": "00:17:08.988"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16464,7 +16464,7 @@
     "timestamp": "00:17:09.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -16488,7 +16488,7 @@
     "timestamp": "00:17:40.879"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Rachel Furness",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16504,7 +16504,7 @@
     "timestamp": "00:17:42.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16520,7 +16520,7 @@
     "timestamp": "00:18:08.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:18:11.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:18:17.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -16584,7 +16584,7 @@
     "timestamp": "00:18:40.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -16608,7 +16608,7 @@
     "timestamp": "00:18:43.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -16632,7 +16632,7 @@
     "timestamp": "00:18:44.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -16648,7 +16648,7 @@
     "timestamp": "00:18:50.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:18:51.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -16752,7 +16752,7 @@
     "timestamp": "00:18:57.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:18:59.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -16872,7 +16872,7 @@
     "timestamp": "00:20:06.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -16896,7 +16896,7 @@
     "timestamp": "00:20:19.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:20:22.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:20:26.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16984,7 +16984,7 @@
     "timestamp": "00:20:27.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -17016,7 +17016,7 @@
     "timestamp": "00:20:58.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:21:04.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:21:13.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:21:19.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:21:25.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17224,7 +17224,7 @@
     "timestamp": "00:21:40.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:21:43.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -17280,7 +17280,7 @@
     "timestamp": "00:21:57.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:22:04.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:22:08.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -17360,7 +17360,7 @@
     "timestamp": "00:22:10.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:22:12.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -17416,7 +17416,7 @@
     "timestamp": "00:22:20.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:22:25.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -17464,7 +17464,7 @@
     "timestamp": "00:22:27.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:22:30.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -17528,7 +17528,7 @@
     "timestamp": "00:22:32.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:22:41.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -17656,7 +17656,7 @@
     "timestamp": "00:22:48.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -17680,7 +17680,7 @@
     "timestamp": "00:22:53.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -17704,7 +17704,7 @@
     "timestamp": "00:22:59.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:23:02.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -17744,7 +17744,7 @@
     "timestamp": "00:23:05.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:23:09.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -17792,7 +17792,7 @@
     "timestamp": "00:23:11.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:23:14.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:23:16.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -17872,7 +17872,7 @@
     "timestamp": "00:23:20.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lauren Bruton",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:23:27.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:23:30.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:23:34.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -17984,7 +17984,7 @@
     "timestamp": "00:23:36.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:23:41.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -18032,7 +18032,7 @@
     "timestamp": "00:23:45.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -18056,7 +18056,7 @@
     "timestamp": "00:23:47.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -18120,7 +18120,7 @@
     "timestamp": "00:23:54.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:23:55.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -18168,7 +18168,7 @@
     "timestamp": "00:23:59.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:24:03.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:24:07.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -18248,7 +18248,7 @@
     "timestamp": "00:24:09.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -18280,7 +18280,7 @@
     "timestamp": "00:24:12.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:24:54.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -18320,7 +18320,7 @@
     "timestamp": "00:24:56.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -18344,7 +18344,7 @@
     "timestamp": "00:24:58.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:25:00.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:25:02.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Lauren Bruton",
     "player1_team": "Reading WFC",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:25:09.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -18464,7 +18464,7 @@
     "timestamp": "00:25:15.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:25:19.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:25:21.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:25:24.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:25:45.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:25:48.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:25:52.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -18648,7 +18648,7 @@
     "timestamp": "00:25:59.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:26:02.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18712,7 +18712,7 @@
     "timestamp": "00:26:07.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -18736,7 +18736,7 @@
     "timestamp": "00:26:09.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -18768,7 +18768,7 @@
     "timestamp": "00:26:14.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -18784,7 +18784,7 @@
     "timestamp": "00:26:18.812"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -18800,7 +18800,7 @@
     "timestamp": "00:26:19.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:28:11.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:28:24.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -18872,7 +18872,7 @@
     "timestamp": "00:28:30.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Kirstyn Pearce",
     "player1_team": "Reading WFC",
@@ -18904,7 +18904,7 @@
     "timestamp": "00:28:32.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kirstyn Pearce",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18936,7 +18936,7 @@
     "timestamp": "00:28:35.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:28:38.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -18992,7 +18992,7 @@
     "timestamp": "00:29:05.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -19016,7 +19016,7 @@
     "timestamp": "00:29:35.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -19040,7 +19040,7 @@
     "timestamp": "00:29:38.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -19064,7 +19064,7 @@
     "timestamp": "00:29:41.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:29:42.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -19104,7 +19104,7 @@
     "timestamp": "00:29:44.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kirstyn Pearce",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19144,7 +19144,7 @@
     "timestamp": "00:29:48.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19176,7 +19176,7 @@
     "timestamp": "00:29:50.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:29:53.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19232,7 +19232,7 @@
     "timestamp": "00:29:55.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -19328,7 +19328,7 @@
     "timestamp": "00:30:03.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -19376,7 +19376,7 @@
     "timestamp": "00:30:34.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -19400,7 +19400,7 @@
     "timestamp": "00:30:36.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -19424,7 +19424,7 @@
     "timestamp": "00:30:39.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:30:42.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:30:45.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -19528,7 +19528,7 @@
     "timestamp": "00:30:49.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -19552,7 +19552,7 @@
     "timestamp": "00:30:51.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:30:53.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:30:59.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -19664,7 +19664,7 @@
     "timestamp": "00:31:03.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -19704,7 +19704,7 @@
     "timestamp": "00:31:07.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -19736,7 +19736,7 @@
     "timestamp": "00:31:20.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19760,7 +19760,7 @@
     "timestamp": "00:31:22.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -19784,7 +19784,7 @@
     "timestamp": "00:31:23.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:31:25.033"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:32:15.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -19872,7 +19872,7 @@
     "timestamp": "00:32:38.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -19952,7 +19952,7 @@
     "timestamp": "00:32:44.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -19984,7 +19984,7 @@
     "timestamp": "00:32:50.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20008,7 +20008,7 @@
     "timestamp": "00:32:53.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -20104,7 +20104,7 @@
     "timestamp": "00:33:03.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:33:03.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:33:07.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -20176,7 +20176,7 @@
     "timestamp": "00:33:13.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -20208,7 +20208,7 @@
     "timestamp": "00:33:18.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20272,7 +20272,7 @@
     "timestamp": "00:33:29.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:33:37.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -20328,7 +20328,7 @@
     "timestamp": "00:33:43.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:33:47.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -20376,7 +20376,7 @@
     "timestamp": "00:33:51.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:33:56.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:34:02.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20448,7 +20448,7 @@
     "timestamp": "00:34:08.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -20472,7 +20472,7 @@
     "timestamp": "00:34:09.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20496,7 +20496,7 @@
     "timestamp": "00:34:14.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20520,7 +20520,7 @@
     "timestamp": "00:34:18.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:34:19.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20608,7 +20608,7 @@
     "timestamp": "00:34:26.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20624,7 +20624,7 @@
     "timestamp": "00:34:27.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:34:30.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -20672,7 +20672,7 @@
     "timestamp": "00:34:33.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -20712,7 +20712,7 @@
     "timestamp": "00:34:36.193"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lucy Quinn",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20728,7 +20728,7 @@
     "timestamp": "00:34:39.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20736,7 +20736,7 @@
     "timestamp": "00:35:07.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:35:11.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:35:13.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:35:16.781"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:35:20.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -20848,7 +20848,7 @@
     "timestamp": "00:35:45.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -20872,7 +20872,7 @@
     "timestamp": "00:35:46.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -20912,7 +20912,7 @@
     "timestamp": "00:35:51.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -20960,7 +20960,7 @@
     "timestamp": "00:35:57.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -20984,7 +20984,7 @@
     "timestamp": "00:36:39.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -21024,7 +21024,7 @@
     "timestamp": "00:36:45.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -21048,7 +21048,7 @@
     "timestamp": "00:37:19.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -21080,7 +21080,7 @@
     "timestamp": "00:37:23.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -21112,7 +21112,7 @@
     "timestamp": "00:37:26.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -21128,7 +21128,7 @@
     "timestamp": "00:37:28.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -21160,7 +21160,7 @@
     "timestamp": "00:37:31.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21248,7 +21248,7 @@
     "timestamp": "00:38:47.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:39:05.450"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:39:12.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:39:14.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -21376,7 +21376,7 @@
     "timestamp": "00:39:18.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:40:02.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -21456,7 +21456,7 @@
     "timestamp": "00:40:16.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21480,7 +21480,7 @@
     "timestamp": "00:40:20.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21496,7 +21496,7 @@
     "timestamp": "00:40:24.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -21512,7 +21512,7 @@
     "timestamp": "00:40:56.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -21560,7 +21560,7 @@
     "timestamp": "00:40:59.174"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:41:02.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21608,7 +21608,7 @@
     "timestamp": "00:41:05.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -21632,7 +21632,7 @@
     "timestamp": "00:41:06.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Molly Bartrip",
     "player1_team": "Reading WFC",
@@ -21656,7 +21656,7 @@
     "timestamp": "00:41:14.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -21704,7 +21704,7 @@
     "timestamp": "00:41:19.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -21720,7 +21720,7 @@
     "timestamp": "00:41:55.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21744,7 +21744,7 @@
     "timestamp": "00:41:57.071"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21776,7 +21776,7 @@
     "timestamp": "00:41:57.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -21792,7 +21792,7 @@
     "timestamp": "00:42:28.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -21808,7 +21808,7 @@
     "timestamp": "00:42:31.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -21824,7 +21824,7 @@
     "timestamp": "00:42:34.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:42:36.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Bailey",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:42:37.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21872,7 +21872,7 @@
     "timestamp": "00:42:38.936"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -21928,7 +21928,7 @@
     "timestamp": "00:42:50.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -21952,7 +21952,7 @@
     "timestamp": "00:42:55.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -22016,7 +22016,7 @@
     "timestamp": "00:43:01.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -22040,7 +22040,7 @@
     "timestamp": "00:43:40.319"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -22056,7 +22056,7 @@
     "timestamp": "00:43:42.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -22080,7 +22080,7 @@
     "timestamp": "00:44:54.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -22144,7 +22144,7 @@
     "timestamp": "00:45:04.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Molly Bartrip",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -22208,7 +22208,7 @@
     "timestamp": "00:45:12.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22240,7 +22240,7 @@
     "timestamp": "00:45:20.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22248,7 +22248,7 @@
     "timestamp": "00:45:22.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:45:23.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -22280,7 +22280,7 @@
     "timestamp": "00:45:25.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Bailey",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -22320,7 +22320,7 @@
     "timestamp": "00:45:27.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Bailey",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -22344,7 +22344,7 @@
     "timestamp": "00:45:29.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -22368,7 +22368,7 @@
     "timestamp": "00:45:35.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:45:42.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Jade Bailey",
     "player1_team": "Reading WFC",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:45:44.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Bailey",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22424,7 +22424,7 @@
     "timestamp": "00:45:45.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -22448,7 +22448,7 @@
     "timestamp": "00:45:49.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22488,7 +22488,7 @@
     "timestamp": "00:45:53.369"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22520,7 +22520,7 @@
     "timestamp": "00:45:54.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -22528,7 +22528,7 @@
     "timestamp": "00:46:13.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -22552,7 +22552,7 @@
     "timestamp": "00:46:27.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22560,7 +22560,7 @@
     "timestamp": "00:46:29.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:46:32.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -22608,7 +22608,7 @@
     "timestamp": "00:46:34.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -22624,7 +22624,7 @@
     "timestamp": "00:46:35.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -22680,7 +22680,7 @@
     "timestamp": "00:46:41.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Furness",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22712,7 +22712,7 @@
     "timestamp": "00:46:49.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -22792,7 +22792,7 @@
     "timestamp": "00:46:54.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -22816,7 +22816,7 @@
     "timestamp": "00:47:34.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -22848,7 +22848,7 @@
     "timestamp": "00:47:40.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -22880,7 +22880,7 @@
     "timestamp": "00:47:42.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -22904,7 +22904,7 @@
     "timestamp": "00:47:44.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22928,7 +22928,7 @@
     "timestamp": "00:47:47.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -22952,7 +22952,7 @@
     "timestamp": "00:47:50.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -22976,7 +22976,7 @@
     "timestamp": "00:47:56.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Molly Bartrip",
     "player2": "Natasha Harding",
     "player1_team": "Reading WFC",
@@ -23000,7 +23000,7 @@
     "timestamp": "00:47:57.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natasha Harding",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -23016,7 +23016,7 @@
     "timestamp": "00:47:58.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Bailey",
     "player1_team": "Reading WFC",
@@ -23048,7 +23048,7 @@
     "timestamp": "00:48:00.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Bailey",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -23072,7 +23072,7 @@
     "timestamp": "00:48:01.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -23104,7 +23104,7 @@
     "timestamp": "00:48:07.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -23152,7 +23152,7 @@
     "timestamp": "00:48:16.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -23160,7 +23160,7 @@
     "timestamp": "00:48:18.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -23248,7 +23248,7 @@
     "timestamp": "00:48:50.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -23312,7 +23312,7 @@
     "timestamp": "00:48:55.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -23368,7 +23368,7 @@
     "timestamp": "00:49:01.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -23392,7 +23392,7 @@
     "timestamp": "00:49:07.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Rachel Furness",
     "player1_team": "Reading WFC",
@@ -23424,7 +23424,7 @@
     "timestamp": "00:49:21.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Furness",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -23456,7 +23456,7 @@
     "timestamp": "00:49:23.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -23488,7 +23488,7 @@
     "timestamp": "00:49:26.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -23528,7 +23528,7 @@
     "timestamp": "00:49:43.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Bailey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Reading WFC",
@@ -23552,7 +23552,7 @@
     "timestamp": "00:49:45.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -23584,7 +23584,7 @@
     "timestamp": "00:49:46.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -23608,7 +23608,7 @@
     "timestamp": "00:49:48.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -23624,7 +23624,7 @@
     "timestamp": "00:49:55.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -23640,7 +23640,7 @@
     "timestamp": "00:49:58.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",

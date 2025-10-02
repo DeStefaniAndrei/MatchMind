@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -56,7 +56,7 @@
     "timestamp": "00:00:03.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:05.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -112,7 +112,7 @@
     "timestamp": "00:00:08.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -136,7 +136,7 @@
     "timestamp": "00:00:11.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -152,7 +152,7 @@
     "timestamp": "00:00:18.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:28.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -192,7 +192,7 @@
     "timestamp": "00:00:30.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -216,7 +216,7 @@
     "timestamp": "00:00:31.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -240,7 +240,7 @@
     "timestamp": "00:00:34.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -296,7 +296,7 @@
     "timestamp": "00:00:38.908"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -320,7 +320,7 @@
     "timestamp": "00:00:41.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -344,7 +344,7 @@
     "timestamp": "00:00:43.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -368,7 +368,7 @@
     "timestamp": "00:00:44.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -392,7 +392,7 @@
     "timestamp": "00:00:47.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -416,7 +416,7 @@
     "timestamp": "00:00:51.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -448,7 +448,7 @@
     "timestamp": "00:00:56.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -464,7 +464,7 @@
     "timestamp": "00:00:58.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -496,7 +496,7 @@
     "timestamp": "00:01:13.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Luca Fusi",
     "player2": "",
     "player1_team": "Napoli",
@@ -544,7 +544,7 @@
     "timestamp": "00:01:18.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -576,7 +576,7 @@
     "timestamp": "00:01:24.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -624,7 +624,7 @@
     "timestamp": "00:01:31.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roland Wohlfarth",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -656,7 +656,7 @@
     "timestamp": "00:01:34.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -696,7 +696,7 @@
     "timestamp": "00:01:38.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -720,7 +720,7 @@
     "timestamp": "00:02:09.338"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -736,7 +736,7 @@
     "timestamp": "00:02:09.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Raimond Aumann",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -744,7 +744,7 @@
     "timestamp": "00:02:30.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Luca Fusi",
     "player2": "",
     "player1_team": "Napoli",
@@ -760,7 +760,7 @@
     "timestamp": "00:02:35.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erland Johnsen",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -792,7 +792,7 @@
     "timestamp": "00:02:36.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -808,7 +808,7 @@
     "timestamp": "00:02:38.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ciro Ferrara",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -832,7 +832,7 @@
     "timestamp": "00:02:44.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -856,7 +856,7 @@
     "timestamp": "00:02:45.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -880,7 +880,7 @@
     "timestamp": "00:02:51.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -912,7 +912,7 @@
     "timestamp": "00:03:08.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -936,7 +936,7 @@
     "timestamp": "00:03:14.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -960,7 +960,7 @@
     "timestamp": "00:03:16.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -984,7 +984,7 @@
     "timestamp": "00:03:18.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stefan Reuter",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -1000,7 +1000,7 @@
     "timestamp": "00:03:24.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ciro Ferrara",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -1024,7 +1024,7 @@
     "timestamp": "00:03:27.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Ciro Ferrara",
     "player1_team": "Napoli",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:03:32.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ciro Ferrara",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -1072,7 +1072,7 @@
     "timestamp": "00:03:34.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -1096,7 +1096,7 @@
     "timestamp": "00:03:42.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Ciro Ferrara",
     "player1_team": "Napoli",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:03:45.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ciro Ferrara",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -1136,7 +1136,7 @@
     "timestamp": "00:03:47.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -1160,7 +1160,7 @@
     "timestamp": "00:03:56.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -1184,7 +1184,7 @@
     "timestamp": "00:04:00.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:04:02.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -1224,7 +1224,7 @@
     "timestamp": "00:04:10.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:04:12.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -1280,7 +1280,7 @@
     "timestamp": "00:04:13.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -1304,7 +1304,7 @@
     "timestamp": "00:04:14.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:04:17.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:04:19.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -1376,7 +1376,7 @@
     "timestamp": "00:04:22.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:04:26.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -1448,7 +1448,7 @@
     "timestamp": "00:04:38.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -1480,7 +1480,7 @@
     "timestamp": "00:04:55.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:04:58.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -1568,7 +1568,7 @@
     "timestamp": "00:05:00.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:05:00.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:05:01.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -1624,7 +1624,7 @@
     "timestamp": "00:05:04.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -1640,7 +1640,7 @@
     "timestamp": "00:05:06.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -1664,7 +1664,7 @@
     "timestamp": "00:05:08.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:05:11.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johnny Ekström",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:05:13.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:05:15.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andrea Carnevale",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -1800,7 +1800,7 @@
     "timestamp": "00:05:19.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -1824,7 +1824,7 @@
     "timestamp": "00:05:22.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -1848,7 +1848,7 @@
     "timestamp": "00:05:29.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -1880,7 +1880,7 @@
     "timestamp": "00:05:46.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -1936,7 +1936,7 @@
     "timestamp": "00:05:48.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -1952,7 +1952,7 @@
     "timestamp": "00:05:49.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Luca Fusi",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:05:51.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -2008,7 +2008,7 @@
     "timestamp": "00:06:06.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -2032,7 +2032,7 @@
     "timestamp": "00:06:09.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:06:14.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -2088,7 +2088,7 @@
     "timestamp": "00:06:18.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:06:20.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giancarlo Corradini",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:06:23.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -2184,7 +2184,7 @@
     "timestamp": "00:06:27.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:06:29.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:06:33.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:06:33.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:06:36.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:06:39.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -2328,7 +2328,7 @@
     "timestamp": "00:06:42.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -2352,7 +2352,7 @@
     "timestamp": "00:06:45.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -2368,7 +2368,7 @@
     "timestamp": "00:06:48.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -2392,7 +2392,7 @@
     "timestamp": "00:06:49.465"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -2408,7 +2408,7 @@
     "timestamp": "00:06:52.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -2424,7 +2424,7 @@
     "timestamp": "00:07:09.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -2448,7 +2448,7 @@
     "timestamp": "00:07:12.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Klaus Augenthaler",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -2472,7 +2472,7 @@
     "timestamp": "00:07:20.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "",
     "player1_team": "Napoli",
@@ -2480,7 +2480,7 @@
     "timestamp": "00:07:42.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -2496,7 +2496,7 @@
     "timestamp": "00:07:47.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johnny Ekström",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -2528,7 +2528,7 @@
     "timestamp": "00:07:47.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:07:51.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:07:55.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -2640,7 +2640,7 @@
     "timestamp": "00:07:58.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:08:00.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:08:07.540"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Hansi Flick",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -2744,7 +2744,7 @@
     "timestamp": "00:08:08.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:08:47.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giancarlo Corradini",
     "player2": "",
     "player1_team": "Napoli",
@@ -2776,7 +2776,7 @@
     "timestamp": "00:08:47.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -2800,7 +2800,7 @@
     "timestamp": "00:08:52.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -2824,7 +2824,7 @@
     "timestamp": "00:08:54.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -2848,7 +2848,7 @@
     "timestamp": "00:08:57.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:09:00.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -2896,7 +2896,7 @@
     "timestamp": "00:09:03.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:09:08.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -2928,7 +2928,7 @@
     "timestamp": "00:09:17.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -2968,7 +2968,7 @@
     "timestamp": "00:09:22.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -2992,7 +2992,7 @@
     "timestamp": "00:09:37.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -3016,7 +3016,7 @@
     "timestamp": "00:09:42.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:09:46.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -3056,7 +3056,7 @@
     "timestamp": "00:09:54.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ciro Ferrara",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -3080,7 +3080,7 @@
     "timestamp": "00:09:56.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -3104,7 +3104,7 @@
     "timestamp": "00:10:00.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -3128,7 +3128,7 @@
     "timestamp": "00:10:06.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:10:10.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andrea Carnevale",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:10:14.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "",
     "player1_team": "Napoli",
@@ -3184,7 +3184,7 @@
     "timestamp": "00:10:17.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -3208,7 +3208,7 @@
     "timestamp": "00:10:19.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -3232,7 +3232,7 @@
     "timestamp": "00:10:23.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alessandro Renica",
     "player2": "",
     "player1_team": "Napoli",
@@ -3240,7 +3240,7 @@
     "timestamp": "00:10:26.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -3264,7 +3264,7 @@
     "timestamp": "00:10:41.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:10:44.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -3312,7 +3312,7 @@
     "timestamp": "00:10:47.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:10:51.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -3368,7 +3368,7 @@
     "timestamp": "00:10:56.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roland Wohlfarth",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:11:05.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -3416,7 +3416,7 @@
     "timestamp": "00:11:09.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:11:18.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -3512,7 +3512,7 @@
     "timestamp": "00:11:20.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -3560,7 +3560,7 @@
     "timestamp": "00:11:23.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:11:57.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:12:08.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:12:09.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -3688,7 +3688,7 @@
     "timestamp": "00:12:21.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -3720,7 +3720,7 @@
     "timestamp": "00:12:22.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -3736,7 +3736,7 @@
     "timestamp": "00:12:25.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:12:29.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Luca Fusi",
     "player2": "",
     "player1_team": "Napoli",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:12:30.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:12:43.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:12:47.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:12:50.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -3864,7 +3864,7 @@
     "timestamp": "00:12:53.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -3888,7 +3888,7 @@
     "timestamp": "00:12:57.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:13:03.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -3944,7 +3944,7 @@
     "timestamp": "00:13:09.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -3968,7 +3968,7 @@
     "timestamp": "00:13:11.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -3984,7 +3984,7 @@
     "timestamp": "00:13:14.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -4000,7 +4000,7 @@
     "timestamp": "00:13:14.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:13:17.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -4048,7 +4048,7 @@
     "timestamp": "00:13:24.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:13:29.233"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:13:31.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "",
     "player1_team": "Napoli",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:13:59.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:14:17.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -4192,7 +4192,7 @@
     "timestamp": "00:14:22.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -4216,7 +4216,7 @@
     "timestamp": "00:14:26.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -4248,7 +4248,7 @@
     "timestamp": "00:14:29.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:14:31.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:14:38.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -4352,7 +4352,7 @@
     "timestamp": "00:14:43.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -4368,7 +4368,7 @@
     "timestamp": "00:15:08.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johnny Ekström",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:15:08.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -4400,7 +4400,7 @@
     "timestamp": "00:15:30.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -4424,7 +4424,7 @@
     "timestamp": "00:16:02.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:16:16.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -4448,7 +4448,7 @@
     "timestamp": "00:16:16.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stefan Reuter",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:16:17.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Luca Fusi",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -4472,7 +4472,7 @@
     "timestamp": "00:16:19.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -4512,7 +4512,7 @@
     "timestamp": "00:16:21.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -4544,7 +4544,7 @@
     "timestamp": "00:16:37.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:16:39.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -4592,7 +4592,7 @@
     "timestamp": "00:16:43.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -4608,7 +4608,7 @@
     "timestamp": "00:16:45.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -4632,7 +4632,7 @@
     "timestamp": "00:16:56.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:17:00.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -4688,7 +4688,7 @@
     "timestamp": "00:17:03.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -4720,7 +4720,7 @@
     "timestamp": "00:17:07.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -4760,7 +4760,7 @@
     "timestamp": "00:17:12.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -4808,7 +4808,7 @@
     "timestamp": "00:17:15.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -4824,7 +4824,7 @@
     "timestamp": "00:17:30.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:17:32.523"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Klaus Augenthaler",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -4864,7 +4864,7 @@
     "timestamp": "00:17:38.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -4880,7 +4880,7 @@
     "timestamp": "00:17:48.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -4920,7 +4920,7 @@
     "timestamp": "00:17:50.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:17:52.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -4976,7 +4976,7 @@
     "timestamp": "00:17:53.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:18:00.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:18:16.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Klaus Augenthaler",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -5112,7 +5112,7 @@
     "timestamp": "00:18:17.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:18:31.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -5160,7 +5160,7 @@
     "timestamp": "00:18:32.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -5192,7 +5192,7 @@
     "timestamp": "00:18:34.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -5216,7 +5216,7 @@
     "timestamp": "00:18:40.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:18:44.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:18:47.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:18:49.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:18:55.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -5352,7 +5352,7 @@
     "timestamp": "00:19:25.509"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Alessandro Renica",
     "player2": "",
     "player1_team": "Napoli",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:19:26.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -5400,7 +5400,7 @@
     "timestamp": "00:19:35.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -5424,7 +5424,7 @@
     "timestamp": "00:19:37.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giancarlo Corradini",
     "player2": "",
     "player1_team": "Napoli",
@@ -5448,7 +5448,7 @@
     "timestamp": "00:19:40.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:19:43.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -5504,7 +5504,7 @@
     "timestamp": "00:19:44.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:19:48.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -5560,7 +5560,7 @@
     "timestamp": "00:19:53.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -5584,7 +5584,7 @@
     "timestamp": "00:19:54.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -5608,7 +5608,7 @@
     "timestamp": "00:20:05.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -5680,7 +5680,7 @@
     "timestamp": "00:20:10.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -5760,7 +5760,7 @@
     "timestamp": "00:20:18.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -5784,7 +5784,7 @@
     "timestamp": "00:20:23.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -5824,7 +5824,7 @@
     "timestamp": "00:20:28.424"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:21:28.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -5856,7 +5856,7 @@
     "timestamp": "00:21:40.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:21:42.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:21:47.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -5928,7 +5928,7 @@
     "timestamp": "00:21:57.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -5960,7 +5960,7 @@
     "timestamp": "00:22:02.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -5992,7 +5992,7 @@
     "timestamp": "00:22:08.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:22:11.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -6032,7 +6032,7 @@
     "timestamp": "00:22:40.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johnny Ekström",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -6072,7 +6072,7 @@
     "timestamp": "00:22:43.371"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -6088,7 +6088,7 @@
     "timestamp": "00:22:45.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -6104,7 +6104,7 @@
     "timestamp": "00:23:06.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "",
     "player1_team": "Napoli",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:23:15.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Wohlfarth",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:23:18.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -6216,7 +6216,7 @@
     "timestamp": "00:23:20.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:23:22.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:23:26.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -6288,7 +6288,7 @@
     "timestamp": "00:23:29.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:23:32.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:23:35.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -6360,7 +6360,7 @@
     "timestamp": "00:23:43.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -6376,7 +6376,7 @@
     "timestamp": "00:23:48.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:23:49.860"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:23:51.713"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Hansi Flick",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:23:52.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -6504,7 +6504,7 @@
     "timestamp": "00:23:59.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -6544,7 +6544,7 @@
     "timestamp": "00:24:10.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:24:12.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:24:14.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -6608,7 +6608,7 @@
     "timestamp": "00:24:18.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -6632,7 +6632,7 @@
     "timestamp": "00:24:19.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -6656,7 +6656,7 @@
     "timestamp": "00:24:26.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Klaus Augenthaler",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:24:27.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -6688,7 +6688,7 @@
     "timestamp": "00:25:19.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "",
     "player1_team": "Napoli",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:25:19.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -6720,7 +6720,7 @@
     "timestamp": "00:25:22.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -6744,7 +6744,7 @@
     "timestamp": "00:25:27.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:25:34.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -6800,7 +6800,7 @@
     "timestamp": "00:25:38.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -6824,7 +6824,7 @@
     "timestamp": "00:25:41.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:25:44.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:25:48.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:25:52.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stefan Reuter",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -6912,7 +6912,7 @@
     "timestamp": "00:25:57.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -6936,7 +6936,7 @@
     "timestamp": "00:26:10.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -6960,7 +6960,7 @@
     "timestamp": "00:26:14.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -6984,7 +6984,7 @@
     "timestamp": "00:26:16.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:26:22.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:26:25.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:26:27.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -7096,7 +7096,7 @@
     "timestamp": "00:26:29.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:26:30.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -7144,7 +7144,7 @@
     "timestamp": "00:26:34.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -7176,7 +7176,7 @@
     "timestamp": "00:26:37.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:26:40.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -7224,7 +7224,7 @@
     "timestamp": "00:26:42.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:26:48.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -7328,7 +7328,7 @@
     "timestamp": "00:26:53.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -7352,7 +7352,7 @@
     "timestamp": "00:27:22.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:27:23.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -7464,7 +7464,7 @@
     "timestamp": "00:27:33.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -7488,7 +7488,7 @@
     "timestamp": "00:27:48.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Wohlfarth",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:27:50.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -7536,7 +7536,7 @@
     "timestamp": "00:27:58.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -7568,7 +7568,7 @@
     "timestamp": "00:28:04.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -7592,7 +7592,7 @@
     "timestamp": "00:28:12.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -7632,7 +7632,7 @@
     "timestamp": "00:28:22.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "",
     "player1_team": "Napoli",
@@ -7640,7 +7640,7 @@
     "timestamp": "00:28:25.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:28:41.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:28:44.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -7720,7 +7720,7 @@
     "timestamp": "00:28:47.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -7760,7 +7760,7 @@
     "timestamp": "00:28:48.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -7784,7 +7784,7 @@
     "timestamp": "00:29:24.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:29:27.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:29:31.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:29:36.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:29:47.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -7920,7 +7920,7 @@
     "timestamp": "00:29:52.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -7952,7 +7952,7 @@
     "timestamp": "00:29:54.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -8000,7 +8000,7 @@
     "timestamp": "00:30:01.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:30:28.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -8048,7 +8048,7 @@
     "timestamp": "00:30:29.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:30:47.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:30:50.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:30:56.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -8136,7 +8136,7 @@
     "timestamp": "00:30:59.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -8160,7 +8160,7 @@
     "timestamp": "00:31:01.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:31:04.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:31:07.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:31:17.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:31:23.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -8296,7 +8296,7 @@
     "timestamp": "00:31:27.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:31:27.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:31:28.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:31:33.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -8400,7 +8400,7 @@
     "timestamp": "00:31:37.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andrea Carnevale",
     "player2": "",
     "player1_team": "Napoli",
@@ -8440,7 +8440,7 @@
     "timestamp": "00:31:44.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:31:47.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:31:50.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -8512,7 +8512,7 @@
     "timestamp": "00:31:54.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -8536,7 +8536,7 @@
     "timestamp": "00:31:57.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:32:00.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:32:02.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -8592,7 +8592,7 @@
     "timestamp": "00:32:05.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -8616,7 +8616,7 @@
     "timestamp": "00:32:07.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -8648,7 +8648,7 @@
     "timestamp": "00:32:11.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:32:13.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:32:18.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:32:23.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:32:24.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:33:58.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:34:00.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Wohlfarth",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:34:01.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:34:04.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:34:08.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -8904,7 +8904,7 @@
     "timestamp": "00:34:18.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -8928,7 +8928,7 @@
     "timestamp": "00:34:22.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -8952,7 +8952,7 @@
     "timestamp": "00:34:27.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -8976,7 +8976,7 @@
     "timestamp": "00:34:29.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -9000,7 +9000,7 @@
     "timestamp": "00:34:41.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -9024,7 +9024,7 @@
     "timestamp": "00:34:46.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -9056,7 +9056,7 @@
     "timestamp": "00:34:52.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:34:53.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:34:55.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:35:00.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -9168,7 +9168,7 @@
     "timestamp": "00:35:03.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -9192,7 +9192,7 @@
     "timestamp": "00:35:05.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -9200,7 +9200,7 @@
     "timestamp": "00:35:05.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -9224,7 +9224,7 @@
     "timestamp": "00:35:28.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -9248,7 +9248,7 @@
     "timestamp": "00:35:30.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -9264,7 +9264,7 @@
     "timestamp": "00:35:34.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giovanni Francini",
     "player2": "",
     "player1_team": "Napoli",
@@ -9272,7 +9272,7 @@
     "timestamp": "00:35:34.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Klaus Augenthaler",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -9296,7 +9296,7 @@
     "timestamp": "00:35:40.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -9320,7 +9320,7 @@
     "timestamp": "00:35:43.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -9368,7 +9368,7 @@
     "timestamp": "00:35:50.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -9384,7 +9384,7 @@
     "timestamp": "00:36:23.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:36:29.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alessandro Renica",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:36:30.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -9496,7 +9496,7 @@
     "timestamp": "00:37:01.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johnny Ekström",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -9520,7 +9520,7 @@
     "timestamp": "00:37:06.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -9544,7 +9544,7 @@
     "timestamp": "00:37:13.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -9568,7 +9568,7 @@
     "timestamp": "00:37:18.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:37:20.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:37:26.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:37:29.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -9688,7 +9688,7 @@
     "timestamp": "00:37:43.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:37:46.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -9736,7 +9736,7 @@
     "timestamp": "00:37:50.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:37:52.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:37:56.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -9968,7 +9968,7 @@
     "timestamp": "00:38:18.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -9992,7 +9992,7 @@
     "timestamp": "00:39:16.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -10016,7 +10016,7 @@
     "timestamp": "00:39:20.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -10040,7 +10040,7 @@
     "timestamp": "00:39:23.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -10064,7 +10064,7 @@
     "timestamp": "00:39:30.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -10088,7 +10088,7 @@
     "timestamp": "00:39:32.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:39:34.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -10128,7 +10128,7 @@
     "timestamp": "00:39:36.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -10152,7 +10152,7 @@
     "timestamp": "00:39:38.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:39:40.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -10200,7 +10200,7 @@
     "timestamp": "00:39:43.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:39:49.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erland Johnsen",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -10256,7 +10256,7 @@
     "timestamp": "00:39:53.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ciro Ferrara",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:39:56.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -10304,7 +10304,7 @@
     "timestamp": "00:40:00.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -10328,7 +10328,7 @@
     "timestamp": "00:40:04.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:40:08.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:40:12.605"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:40:14.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Wohlfarth",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:40:57.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johnny Ekström",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:40:58.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -10480,7 +10480,7 @@
     "timestamp": "00:41:00.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:41:01.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -10528,7 +10528,7 @@
     "timestamp": "00:41:03.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -10552,7 +10552,7 @@
     "timestamp": "00:41:06.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:41:09.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:41:13.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -10624,7 +10624,7 @@
     "timestamp": "00:41:21.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:41:22.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:41:35.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:41:45.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:41:47.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:41:50.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -10816,7 +10816,7 @@
     "timestamp": "00:41:54.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -10864,7 +10864,7 @@
     "timestamp": "00:42:03.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:42:16.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -10912,7 +10912,7 @@
     "timestamp": "00:42:19.655"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -10928,7 +10928,7 @@
     "timestamp": "00:42:19.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Raimond Aumann",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -11000,7 +11000,7 @@
     "timestamp": "00:42:48.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -11032,7 +11032,7 @@
     "timestamp": "00:43:04.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:43:07.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Ciro Ferrara",
     "player1_team": "Napoli",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:43:12.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ciro Ferrara",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -11104,7 +11104,7 @@
     "timestamp": "00:43:16.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -11128,7 +11128,7 @@
     "timestamp": "00:43:30.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:43:34.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -11184,7 +11184,7 @@
     "timestamp": "00:43:36.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:43:38.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:43:42.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -11264,7 +11264,7 @@
     "timestamp": "00:43:45.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -11288,7 +11288,7 @@
     "timestamp": "00:43:50.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:44:03.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Klaus Augenthaler",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:44:20.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:44:25.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:44:29.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:44:34.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:44:39.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -11504,7 +11504,7 @@
     "timestamp": "00:44:44.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -11528,7 +11528,7 @@
     "timestamp": "00:45:32.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -11552,7 +11552,7 @@
     "timestamp": "00:45:34.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -11576,7 +11576,7 @@
     "timestamp": "00:45:36.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:45:41.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:45:44.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -11688,7 +11688,7 @@
     "timestamp": "00:45:48.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -11728,7 +11728,7 @@
     "timestamp": "00:46:14.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -11744,7 +11744,7 @@
     "timestamp": "00:46:17.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Wohlfarth",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:00:01.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johnny Ekström",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -11784,7 +11784,7 @@
     "timestamp": "00:00:02.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -11808,7 +11808,7 @@
     "timestamp": "00:00:07.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:00:09.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:00:12.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:00:17.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:00:23.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:00:27.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:00:30.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -11976,7 +11976,7 @@
     "timestamp": "00:00:32.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -12008,7 +12008,7 @@
     "timestamp": "00:00:39.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Wohlfarth",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -12072,7 +12072,7 @@
     "timestamp": "00:00:44.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -12120,7 +12120,7 @@
     "timestamp": "00:00:46.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:01:37.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -12160,7 +12160,7 @@
     "timestamp": "00:01:38.452"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Klaus Augenthaler",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -12216,7 +12216,7 @@
     "timestamp": "00:01:41.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -12232,7 +12232,7 @@
     "timestamp": "00:01:43.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -12264,7 +12264,7 @@
     "timestamp": "00:01:46.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -12312,7 +12312,7 @@
     "timestamp": "00:01:52.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:02:02.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -12352,7 +12352,7 @@
     "timestamp": "00:02:18.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -12376,7 +12376,7 @@
     "timestamp": "00:02:22.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -12400,7 +12400,7 @@
     "timestamp": "00:02:26.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -12432,7 +12432,7 @@
     "timestamp": "00:02:30.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erland Johnsen",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -12464,7 +12464,7 @@
     "timestamp": "00:02:32.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:03:42.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:03:44.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erland Johnsen",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -12576,7 +12576,7 @@
     "timestamp": "00:03:48.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -12608,7 +12608,7 @@
     "timestamp": "00:04:05.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:04:12.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -12712,7 +12712,7 @@
     "timestamp": "00:04:18.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:04:20.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -12744,7 +12744,7 @@
     "timestamp": "00:04:24.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:04:25.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:04:26.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -12824,7 +12824,7 @@
     "timestamp": "00:04:29.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -12880,7 +12880,7 @@
     "timestamp": "00:04:32.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hansi Flick",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:04:33.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -12928,7 +12928,7 @@
     "timestamp": "00:04:47.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:04:51.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -12960,7 +12960,7 @@
     "timestamp": "00:04:54.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -13016,7 +13016,7 @@
     "timestamp": "00:04:57.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -13072,7 +13072,7 @@
     "timestamp": "00:05:08.446"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Andrea Carnevale",
     "player2": "",
     "player1_team": "Napoli",
@@ -13112,7 +13112,7 @@
     "timestamp": "00:05:11.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -13128,7 +13128,7 @@
     "timestamp": "00:05:18.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -13152,7 +13152,7 @@
     "timestamp": "00:05:25.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:05:29.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:05:33.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -13224,7 +13224,7 @@
     "timestamp": "00:05:36.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:05:41.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johnny Ekström",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -13280,7 +13280,7 @@
     "timestamp": "00:05:43.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:05:54.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stefan Reuter",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:05:56.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ciro Ferrara",
     "player2": "",
     "player1_team": "Napoli",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:05:57.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -13368,7 +13368,7 @@
     "timestamp": "00:06:01.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -13392,7 +13392,7 @@
     "timestamp": "00:06:07.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -13440,7 +13440,7 @@
     "timestamp": "00:06:12.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erland Johnsen",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -13448,7 +13448,7 @@
     "timestamp": "00:06:13.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -13504,7 +13504,7 @@
     "timestamp": "00:06:19.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:06:25.697"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -13552,7 +13552,7 @@
     "timestamp": "00:06:34.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -13576,7 +13576,7 @@
     "timestamp": "00:06:40.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:06:45.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -13696,7 +13696,7 @@
     "timestamp": "00:06:59.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -13744,7 +13744,7 @@
     "timestamp": "00:07:05.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -13776,7 +13776,7 @@
     "timestamp": "00:07:31.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -13808,7 +13808,7 @@
     "timestamp": "00:07:35.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -13840,7 +13840,7 @@
     "timestamp": "00:07:41.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:07:43.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -13888,7 +13888,7 @@
     "timestamp": "00:07:49.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -13920,7 +13920,7 @@
     "timestamp": "00:07:54.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:07:59.663"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -13992,7 +13992,7 @@
     "timestamp": "00:08:14.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -14008,7 +14008,7 @@
     "timestamp": "00:08:41.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -14032,7 +14032,7 @@
     "timestamp": "00:08:43.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roland Wohlfarth",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:08:45.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -14064,7 +14064,7 @@
     "timestamp": "00:08:50.276"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "",
     "player1_team": "Napoli",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:09:16.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -14136,7 +14136,7 @@
     "timestamp": "00:09:20.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:09:28.119"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:09:31.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:09:32.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:09:35.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -14312,7 +14312,7 @@
     "timestamp": "00:09:42.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -14344,7 +14344,7 @@
     "timestamp": "00:09:50.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:09:52.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -14408,7 +14408,7 @@
     "timestamp": "00:09:55.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -14424,7 +14424,7 @@
     "timestamp": "00:10:02.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andrea Carnevale",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -14440,7 +14440,7 @@
     "timestamp": "00:10:05.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -14464,7 +14464,7 @@
     "timestamp": "00:10:20.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -14488,7 +14488,7 @@
     "timestamp": "00:10:23.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -14520,7 +14520,7 @@
     "timestamp": "00:10:30.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Wohlfarth",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -14536,7 +14536,7 @@
     "timestamp": "00:10:32.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -14568,7 +14568,7 @@
     "timestamp": "00:10:35.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -14592,7 +14592,7 @@
     "timestamp": "00:10:37.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:10:45.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -14640,7 +14640,7 @@
     "timestamp": "00:10:52.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -14664,7 +14664,7 @@
     "timestamp": "00:10:59.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -14680,7 +14680,7 @@
     "timestamp": "00:11:01.137"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Andrea Carnevale",
     "player2": "",
     "player1_team": "Napoli",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:11:04.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -14736,7 +14736,7 @@
     "timestamp": "00:11:12.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:11:16.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:11:18.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -14808,7 +14808,7 @@
     "timestamp": "00:11:21.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -14832,7 +14832,7 @@
     "timestamp": "00:11:27.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -14856,7 +14856,7 @@
     "timestamp": "00:11:30.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:11:34.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:11:40.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -14928,7 +14928,7 @@
     "timestamp": "00:12:02.983"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:12:16.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -14992,7 +14992,7 @@
     "timestamp": "00:12:38.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -15016,7 +15016,7 @@
     "timestamp": "00:12:41.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "",
     "player1_team": "Napoli",
@@ -15056,7 +15056,7 @@
     "timestamp": "00:12:56.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:13:01.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:13:05.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -15120,7 +15120,7 @@
     "timestamp": "00:13:06.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:13:11.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hansi Flick",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:13:17.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:13:22.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -15232,7 +15232,7 @@
     "timestamp": "00:13:31.908"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:13:32.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:13:40.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "",
     "player1_team": "Napoli",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:13:55.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -15344,7 +15344,7 @@
     "timestamp": "00:13:57.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -15368,7 +15368,7 @@
     "timestamp": "00:13:59.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Antônio de Oliveira Filho",
     "player2": "",
     "player1_team": "Napoli",
@@ -15384,7 +15384,7 @@
     "timestamp": "00:14:06.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -15408,7 +15408,7 @@
     "timestamp": "00:14:30.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -15432,7 +15432,7 @@
     "timestamp": "00:14:32.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -15456,7 +15456,7 @@
     "timestamp": "00:14:35.874"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Andrea Carnevale",
     "player2": "",
     "player1_team": "Napoli",
@@ -15472,7 +15472,7 @@
     "timestamp": "00:14:36.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Wohlfarth",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -15488,7 +15488,7 @@
     "timestamp": "00:15:19.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johnny Ekström",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:15:20.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:15:27.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:15:30.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johnny Ekström",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:15:30.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:15:32.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -15664,7 +15664,7 @@
     "timestamp": "00:15:40.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -15688,7 +15688,7 @@
     "timestamp": "00:15:43.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:15:47.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -15736,7 +15736,7 @@
     "timestamp": "00:15:51.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -15760,7 +15760,7 @@
     "timestamp": "00:15:56.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -15792,7 +15792,7 @@
     "timestamp": "00:15:58.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:16:00.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:16:04.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -15872,7 +15872,7 @@
     "timestamp": "00:16:07.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erland Johnsen",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -15912,7 +15912,7 @@
     "timestamp": "00:16:13.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -15936,7 +15936,7 @@
     "timestamp": "00:16:18.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:16:22.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andrea Carnevale",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -15976,7 +15976,7 @@
     "timestamp": "00:16:27.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:16:29.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -16048,7 +16048,7 @@
     "timestamp": "00:16:32.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roland Wohlfarth",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:16:41.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:17:27.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:17:28.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -16160,7 +16160,7 @@
     "timestamp": "00:17:33.021"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "",
     "player1_team": "Napoli",
@@ -16184,7 +16184,7 @@
     "timestamp": "00:17:46.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:17:49.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -16232,7 +16232,7 @@
     "timestamp": "00:17:51.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -16256,7 +16256,7 @@
     "timestamp": "00:17:53.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:17:58.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -16304,7 +16304,7 @@
     "timestamp": "00:18:02.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:18:05.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:18:08.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -16376,7 +16376,7 @@
     "timestamp": "00:18:12.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:18:15.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -16432,7 +16432,7 @@
     "timestamp": "00:18:24.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:18:30.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:18:32.864"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ricardo Rogério de Brito",
     "player2": "",
     "player1_team": "Napoli",
@@ -16520,7 +16520,7 @@
     "timestamp": "00:18:36.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:18:39.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:18:51.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:18:54.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:18:58.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:19:01.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -16688,7 +16688,7 @@
     "timestamp": "00:19:04.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:19:07.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -16752,7 +16752,7 @@
     "timestamp": "00:19:16.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:19:45.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -16792,7 +16792,7 @@
     "timestamp": "00:19:47.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -16816,7 +16816,7 @@
     "timestamp": "00:19:47.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -16840,7 +16840,7 @@
     "timestamp": "00:19:52.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giovanni Francini",
     "player2": "",
     "player1_team": "Napoli",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:20:01.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -16944,7 +16944,7 @@
     "timestamp": "00:20:06.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:20:10.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -17000,7 +17000,7 @@
     "timestamp": "00:20:21.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:20:22.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -17032,7 +17032,7 @@
     "timestamp": "00:20:26.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:20:31.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:20:48.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "",
     "player1_team": "Napoli",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:20:53.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:20:58.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -17152,7 +17152,7 @@
     "timestamp": "00:20:59.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -17176,7 +17176,7 @@
     "timestamp": "00:21:03.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:21:05.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -17216,7 +17216,7 @@
     "timestamp": "00:21:08.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -17240,7 +17240,7 @@
     "timestamp": "00:21:09.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:21:12.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -17288,7 +17288,7 @@
     "timestamp": "00:21:15.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -17336,7 +17336,7 @@
     "timestamp": "00:21:25.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -17360,7 +17360,7 @@
     "timestamp": "00:21:36.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:21:40.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -17408,7 +17408,7 @@
     "timestamp": "00:21:43.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:22:02.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:22:12.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -17472,7 +17472,7 @@
     "timestamp": "00:22:16.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:22:23.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:22:26.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -17568,7 +17568,7 @@
     "timestamp": "00:22:30.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -17632,7 +17632,7 @@
     "timestamp": "00:22:35.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -17656,7 +17656,7 @@
     "timestamp": "00:22:37.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -17680,7 +17680,7 @@
     "timestamp": "00:22:43.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johnny Ekström",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -17712,7 +17712,7 @@
     "timestamp": "00:22:47.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -17736,7 +17736,7 @@
     "timestamp": "00:22:49.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:22:51.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -17792,7 +17792,7 @@
     "timestamp": "00:22:52.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:22:54.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -17848,7 +17848,7 @@
     "timestamp": "00:22:58.373"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:23:01.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "",
     "player1_team": "Napoli",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:23:39.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johnny Ekström",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -17952,7 +17952,7 @@
     "timestamp": "00:23:41.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -17968,7 +17968,7 @@
     "timestamp": "00:23:44.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:25:04.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -18048,7 +18048,7 @@
     "timestamp": "00:25:07.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -18056,7 +18056,7 @@
     "timestamp": "00:25:11.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -18080,7 +18080,7 @@
     "timestamp": "00:25:15.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Giancarlo Corradini",
     "player1_team": "Napoli",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:25:21.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giancarlo Corradini",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:25:34.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -18184,7 +18184,7 @@
     "timestamp": "00:26:04.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -18200,7 +18200,7 @@
     "timestamp": "00:26:05.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Luca Fusi",
     "player1_team": "Napoli",
@@ -18248,7 +18248,7 @@
     "timestamp": "00:26:22.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -18272,7 +18272,7 @@
     "timestamp": "00:26:46.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:26:47.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -18320,7 +18320,7 @@
     "timestamp": "00:26:50.348"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -18344,7 +18344,7 @@
     "timestamp": "00:26:54.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:26:56.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:27:03.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:27:09.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hansi Flick",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -18440,7 +18440,7 @@
     "timestamp": "00:27:12.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -18528,7 +18528,7 @@
     "timestamp": "00:27:17.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:27:22.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diego Armando Maradona",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -18576,7 +18576,7 @@
     "timestamp": "00:27:28.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -18600,7 +18600,7 @@
     "timestamp": "00:27:30.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -18624,7 +18624,7 @@
     "timestamp": "00:27:40.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -18640,7 +18640,7 @@
     "timestamp": "00:27:55.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:28:10.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:28:11.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -18712,7 +18712,7 @@
     "timestamp": "00:28:15.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -18744,7 +18744,7 @@
     "timestamp": "00:28:18.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alessandro Renica",
     "player2": "",
     "player1_team": "Napoli",
@@ -18776,7 +18776,7 @@
     "timestamp": "00:28:20.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:28:24.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Alessandro Renica",
     "player2": "",
     "player1_team": "Napoli",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:28:51.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:29:03.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -18872,7 +18872,7 @@
     "timestamp": "00:29:16.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giovanni Francini",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -18928,7 +18928,7 @@
     "timestamp": "00:29:40.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -18944,7 +18944,7 @@
     "timestamp": "00:29:42.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Klaus Augenthaler",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -18952,7 +18952,7 @@
     "timestamp": "00:29:42.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Diego Armando Maradona",
     "player1_team": "Napoli",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:29:46.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diego Armando Maradona",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -19000,7 +19000,7 @@
     "timestamp": "00:29:48.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -19024,7 +19024,7 @@
     "timestamp": "00:29:52.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -19056,7 +19056,7 @@
     "timestamp": "00:29:56.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -19080,7 +19080,7 @@
     "timestamp": "00:29:59.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -19104,7 +19104,7 @@
     "timestamp": "00:30:00.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -19136,7 +19136,7 @@
     "timestamp": "00:30:06.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Johnny Ekström",
     "player1_team": "Bayern Munich",
@@ -19168,7 +19168,7 @@
     "timestamp": "00:30:07.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johnny Ekström",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -19232,7 +19232,7 @@
     "timestamp": "00:30:14.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -19256,7 +19256,7 @@
     "timestamp": "00:30:18.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -19280,7 +19280,7 @@
     "timestamp": "00:30:26.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -19336,7 +19336,7 @@
     "timestamp": "00:30:38.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -19360,7 +19360,7 @@
     "timestamp": "00:30:44.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -19384,7 +19384,7 @@
     "timestamp": "00:30:46.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -19400,7 +19400,7 @@
     "timestamp": "00:30:53.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -19424,7 +19424,7 @@
     "timestamp": "00:30:53.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:30:59.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:31:03.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:31:08.064"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stefan Reuter",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -19520,7 +19520,7 @@
     "timestamp": "00:31:11.767"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -19544,7 +19544,7 @@
     "timestamp": "00:31:15.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -19560,7 +19560,7 @@
     "timestamp": "00:31:21.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:31:22.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -19616,7 +19616,7 @@
     "timestamp": "00:31:28.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -19632,7 +19632,7 @@
     "timestamp": "00:31:29.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -19656,7 +19656,7 @@
     "timestamp": "00:31:32.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:31:36.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -19696,7 +19696,7 @@
     "timestamp": "00:31:37.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -19720,7 +19720,7 @@
     "timestamp": "00:31:42.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -19752,7 +19752,7 @@
     "timestamp": "00:31:44.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -19776,7 +19776,7 @@
     "timestamp": "00:31:45.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -19832,7 +19832,7 @@
     "timestamp": "00:31:51.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -19864,7 +19864,7 @@
     "timestamp": "00:31:54.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:31:55.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -19912,7 +19912,7 @@
     "timestamp": "00:32:12.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:32:39.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giovanni Francini",
     "player2": "",
     "player1_team": "Napoli",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:32:44.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:32:47.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -20040,7 +20040,7 @@
     "timestamp": "00:32:50.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -20064,7 +20064,7 @@
     "timestamp": "00:32:52.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -20080,7 +20080,7 @@
     "timestamp": "00:32:57.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Armin Eck",
     "player1_team": "Bayern Munich",
@@ -20112,7 +20112,7 @@
     "timestamp": "00:32:58.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Armin Eck",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -20216,7 +20216,7 @@
     "timestamp": "00:33:03.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -20256,7 +20256,7 @@
     "timestamp": "00:33:36.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hansi Flick",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -20280,7 +20280,7 @@
     "timestamp": "00:33:37.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andrea Carnevale",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:33:40.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -20376,7 +20376,7 @@
     "timestamp": "00:33:51.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hansi Flick",
     "player1_team": "Bayern Munich",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:33:54.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Raimond Aumann",
     "player1_team": "Bayern Munich",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:33:56.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -20456,7 +20456,7 @@
     "timestamp": "00:34:01.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -20480,7 +20480,7 @@
     "timestamp": "00:34:05.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:34:11.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -20528,7 +20528,7 @@
     "timestamp": "00:34:15.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Erland Johnsen",
     "player1_team": "Bayern Munich",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:34:21.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erland Johnsen",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -20576,7 +20576,7 @@
     "timestamp": "00:34:24.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:34:28.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -20608,7 +20608,7 @@
     "timestamp": "00:34:29.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:35:49.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giovanni Francini",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:36:07.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Roland Grahammer",
     "player1_team": "Bayern Munich",
@@ -20744,7 +20744,7 @@
     "timestamp": "00:36:20.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Grahammer",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -20768,7 +20768,7 @@
     "timestamp": "00:36:21.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:36:25.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Roland Grahammer",
     "player1_team": "Bayern Munich",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:36:31.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Grahammer",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:36:35.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -20848,7 +20848,7 @@
     "timestamp": "00:36:38.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dieter Stinka",
     "player2": "",
     "player1_team": "Napoli",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:37:00.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Klaus Augenthaler",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:37:03.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "",
     "player1_team": "Napoli",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:37:07.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -20912,7 +20912,7 @@
     "timestamp": "00:37:09.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -20928,7 +20928,7 @@
     "timestamp": "00:37:09.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Roland Grahammer",
     "player1_team": "Bayern Munich",
@@ -20952,7 +20952,7 @@
     "timestamp": "00:37:11.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Grahammer",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -20968,7 +20968,7 @@
     "timestamp": "00:37:16.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:37:18.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -21016,7 +21016,7 @@
     "timestamp": "00:37:21.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:37:24.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -21072,7 +21072,7 @@
     "timestamp": "00:37:48.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Alessandro Renica",
     "player1_team": "Napoli",
@@ -21096,7 +21096,7 @@
     "timestamp": "00:38:13.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Dieter Stinka",
     "player1_team": "Napoli",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:38:15.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dieter Stinka",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -21192,7 +21192,7 @@
     "timestamp": "00:38:30.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antonio Carannante",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -21216,7 +21216,7 @@
     "timestamp": "00:38:37.182"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Andrea Carnevale",
     "player2": "",
     "player1_team": "Napoli",
@@ -21232,7 +21232,7 @@
     "timestamp": "00:38:39.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:38:51.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:38:56.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -21304,7 +21304,7 @@
     "timestamp": "00:39:00.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -21328,7 +21328,7 @@
     "timestamp": "00:39:02.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Roland Wohlfarth",
     "player1_team": "Bayern Munich",
@@ -21400,7 +21400,7 @@
     "timestamp": "00:39:12.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Antonio Carannante",
     "player1_team": "Napoli",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:39:38.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antonio Carannante",
     "player2": "Andrea Carnevale",
     "player1_team": "Napoli",
@@ -21488,7 +21488,7 @@
     "timestamp": "00:39:54.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andrea Carnevale",
     "player2": "Giovanni Francini",
     "player1_team": "Napoli",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:39:59.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -21544,7 +21544,7 @@
     "timestamp": "00:40:09.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -21568,7 +21568,7 @@
     "timestamp": "00:40:13.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:40:15.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:40:19.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -21648,7 +21648,7 @@
     "timestamp": "00:40:26.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ludwig Kögl",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -21664,7 +21664,7 @@
     "timestamp": "00:40:28.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -21688,7 +21688,7 @@
     "timestamp": "00:40:32.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fernando De Napoli",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -21712,7 +21712,7 @@
     "timestamp": "00:40:35.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Antônio de Oliveira Filho",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -21768,7 +21768,7 @@
     "timestamp": "00:40:40.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Antonio Carannante",
     "player1_team": "Napoli",
@@ -21816,7 +21816,7 @@
     "timestamp": "00:40:51.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "Antônio de Oliveira Filho",
     "player1_team": "Napoli",
@@ -21832,7 +21832,7 @@
     "timestamp": "00:41:55.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -21856,7 +21856,7 @@
     "timestamp": "00:42:01.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -21880,7 +21880,7 @@
     "timestamp": "00:42:06.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:42:12.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -21928,7 +21928,7 @@
     "timestamp": "00:42:15.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Roland Grahammer",
     "player1_team": "Bayern Munich",
@@ -21944,7 +21944,7 @@
     "timestamp": "00:42:20.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roland Grahammer",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -21968,7 +21968,7 @@
     "timestamp": "00:42:21.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Ludwig Kögl",
     "player1_team": "Bayern Munich",
@@ -21984,7 +21984,7 @@
     "timestamp": "00:42:25.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ludwig Kögl",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -22048,7 +22048,7 @@
     "timestamp": "00:42:28.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Luca Fusi",
     "player2": "Fernando De Napoli",
     "player1_team": "Napoli",
@@ -22072,7 +22072,7 @@
     "timestamp": "00:42:31.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fernando De Napoli",
     "player2": "",
     "player1_team": "Napoli",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:42:37.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -22136,7 +22136,7 @@
     "timestamp": "00:43:06.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -22160,7 +22160,7 @@
     "timestamp": "00:43:07.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -22184,7 +22184,7 @@
     "timestamp": "00:43:15.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -22192,7 +22192,7 @@
     "timestamp": "00:43:16.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Alessandro Renica",
     "player2": "Ricardo Rogério de Brito",
     "player1_team": "Napoli",
@@ -22216,7 +22216,7 @@
     "timestamp": "00:43:18.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ricardo Rogério de Brito",
     "player2": "",
     "player1_team": "Napoli",
@@ -22248,7 +22248,7 @@
     "timestamp": "00:43:29.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -22272,7 +22272,7 @@
     "timestamp": "00:43:35.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Luca Fusi",
     "player2": "Antonio Carannante",
     "player1_team": "Napoli",
@@ -22336,7 +22336,7 @@
     "timestamp": "00:43:41.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -22360,7 +22360,7 @@
     "timestamp": "00:43:55.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -22384,7 +22384,7 @@
     "timestamp": "00:43:59.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hans Dorfner",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:44:02.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Armin Eck",
     "player1_team": "Bayern Munich",
@@ -22440,7 +22440,7 @@
     "timestamp": "00:44:08.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Armin Eck",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -22456,7 +22456,7 @@
     "timestamp": "00:44:10.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olaf Thon",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -22480,7 +22480,7 @@
     "timestamp": "00:44:33.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Norbert Nachtweih",
     "player1_team": "Bayern Munich",
@@ -22504,7 +22504,7 @@
     "timestamp": "00:44:37.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Norbert Nachtweih",
     "player2": "Olaf Thon",
     "player1_team": "Bayern Munich",
@@ -22576,7 +22576,7 @@
     "timestamp": "00:44:48.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olaf Thon",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -22600,7 +22600,7 @@
     "timestamp": "00:44:51.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -22656,7 +22656,7 @@
     "timestamp": "00:44:54.236"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -22696,7 +22696,7 @@
     "timestamp": "00:45:00.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Norbert Nachtweih",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -22720,7 +22720,7 @@
     "timestamp": "00:45:02.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giovanni Francini",
     "player2": "",
     "player1_team": "Napoli",
@@ -22744,7 +22744,7 @@
     "timestamp": "00:45:05.508"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hansi Flick",
     "player2": "Stefan Reuter",
     "player1_team": "Bayern Munich",
@@ -22768,7 +22768,7 @@
     "timestamp": "00:45:11.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stefan Reuter",
     "player2": "Klaus Augenthaler",
     "player1_team": "Bayern Munich",
@@ -22792,7 +22792,7 @@
     "timestamp": "00:45:17.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Klaus Augenthaler",
     "player2": "Hans Dorfner",
     "player1_team": "Bayern Munich",
@@ -22816,7 +22816,7 @@
     "timestamp": "00:45:21.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hans Dorfner",
     "player2": "",
     "player1_team": "Bayern Munich",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:45:22.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andrea Carnevale",
     "player2": "",
     "player1_team": "Napoli",
@@ -22864,7 +22864,7 @@
     "timestamp": "00:45:33.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Raimond Aumann",
     "player2": "Roland Grahammer",
     "player1_team": "Bayern Munich",
@@ -22888,7 +22888,7 @@
     "timestamp": "00:45:37.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roland Grahammer",
     "player2": "",
     "player1_team": "Bayern Munich",

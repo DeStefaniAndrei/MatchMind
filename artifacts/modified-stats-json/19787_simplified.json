@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:01.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -56,7 +56,7 @@
     "timestamp": "00:00:07.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:09.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -104,7 +104,7 @@
     "timestamp": "00:00:11.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -120,7 +120,7 @@
     "timestamp": "00:00:18.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -136,7 +136,7 @@
     "timestamp": "00:00:35.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -160,7 +160,7 @@
     "timestamp": "00:00:37.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -184,7 +184,7 @@
     "timestamp": "00:00:40.033"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:41.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -232,7 +232,7 @@
     "timestamp": "00:00:43.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -256,7 +256,7 @@
     "timestamp": "00:00:46.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -288,7 +288,7 @@
     "timestamp": "00:00:49.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -320,7 +320,7 @@
     "timestamp": "00:00:51.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -352,7 +352,7 @@
     "timestamp": "00:00:55.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -384,7 +384,7 @@
     "timestamp": "00:01:00.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -392,7 +392,7 @@
     "timestamp": "00:01:01.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -416,7 +416,7 @@
     "timestamp": "00:01:43.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -432,7 +432,7 @@
     "timestamp": "00:01:45.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -456,7 +456,7 @@
     "timestamp": "00:01:47.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -480,7 +480,7 @@
     "timestamp": "00:01:50.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -496,7 +496,7 @@
     "timestamp": "00:02:14.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -568,7 +568,7 @@
     "timestamp": "00:02:19.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -592,7 +592,7 @@
     "timestamp": "00:02:20.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -624,7 +624,7 @@
     "timestamp": "00:02:38.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -648,7 +648,7 @@
     "timestamp": "00:02:39.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -680,7 +680,7 @@
     "timestamp": "00:02:41.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -696,7 +696,7 @@
     "timestamp": "00:02:43.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -728,7 +728,7 @@
     "timestamp": "00:02:46.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -744,7 +744,7 @@
     "timestamp": "00:02:49.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -760,7 +760,7 @@
     "timestamp": "00:02:50.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -784,7 +784,7 @@
     "timestamp": "00:02:51.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -808,7 +808,7 @@
     "timestamp": "00:02:53.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Loren Dykes",
     "player1_team": "Bristol City WFC",
@@ -832,7 +832,7 @@
     "timestamp": "00:02:54.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -856,7 +856,7 @@
     "timestamp": "00:02:56.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -872,7 +872,7 @@
     "timestamp": "00:03:09.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -896,7 +896,7 @@
     "timestamp": "00:03:11.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -920,7 +920,7 @@
     "timestamp": "00:03:12.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -976,7 +976,7 @@
     "timestamp": "00:03:17.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -1008,7 +1008,7 @@
     "timestamp": "00:03:19.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1064,7 +1064,7 @@
     "timestamp": "00:03:21.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -1104,7 +1104,7 @@
     "timestamp": "00:03:26.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:03:26.662"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:03:59.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -1160,7 +1160,7 @@
     "timestamp": "00:04:01.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:04:04.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:04:09.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:04:11.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Loren Dykes",
     "player1_team": "Bristol City WFC",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:04:14.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -1360,7 +1360,7 @@
     "timestamp": "00:04:17.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -1384,7 +1384,7 @@
     "timestamp": "00:04:25.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -1424,7 +1424,7 @@
     "timestamp": "00:04:32.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:04:34.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:04:37.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:04:41.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:04:45.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:04:46.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:04:49.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -1584,7 +1584,7 @@
     "timestamp": "00:05:23.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:05:26.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:05:32.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:05:34.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -1720,7 +1720,7 @@
     "timestamp": "00:05:36.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -1744,7 +1744,7 @@
     "timestamp": "00:05:39.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -1768,7 +1768,7 @@
     "timestamp": "00:05:39.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:05:41.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -1816,7 +1816,7 @@
     "timestamp": "00:05:48.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -1848,7 +1848,7 @@
     "timestamp": "00:05:50.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:05:53.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:05:58.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -1928,7 +1928,7 @@
     "timestamp": "00:06:01.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:06:06.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:06:10.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -2024,7 +2024,7 @@
     "timestamp": "00:06:19.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -2048,7 +2048,7 @@
     "timestamp": "00:06:22.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:06:26.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:06:37.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:06:52.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:06:56.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -2184,7 +2184,7 @@
     "timestamp": "00:07:01.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -2200,7 +2200,7 @@
     "timestamp": "00:07:30.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:07:34.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -2248,7 +2248,7 @@
     "timestamp": "00:07:42.757"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -2280,7 +2280,7 @@
     "timestamp": "00:07:45.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -2304,7 +2304,7 @@
     "timestamp": "00:07:47.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -2328,7 +2328,7 @@
     "timestamp": "00:07:48.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:07:59.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -2392,7 +2392,7 @@
     "timestamp": "00:08:01.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:08:03.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -2448,7 +2448,7 @@
     "timestamp": "00:08:07.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -2472,7 +2472,7 @@
     "timestamp": "00:08:10.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -2504,7 +2504,7 @@
     "timestamp": "00:08:14.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -2528,7 +2528,7 @@
     "timestamp": "00:08:17.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -2544,7 +2544,7 @@
     "timestamp": "00:08:19.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:08:22.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -2608,7 +2608,7 @@
     "timestamp": "00:08:24.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -2640,7 +2640,7 @@
     "timestamp": "00:08:27.364"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Danique Kerkdijk",
     "player1_team": "Bristol City WFC",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:08:29.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danique Kerkdijk",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -2680,7 +2680,7 @@
     "timestamp": "00:08:30.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:08:32.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julie Biesmans",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:08:34.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -2760,7 +2760,7 @@
     "timestamp": "00:08:39.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -2784,7 +2784,7 @@
     "timestamp": "00:08:41.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:08:45.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:08:58.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -2888,7 +2888,7 @@
     "timestamp": "00:09:10.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -2912,7 +2912,7 @@
     "timestamp": "00:09:12.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -2936,7 +2936,7 @@
     "timestamp": "00:09:14.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -2968,7 +2968,7 @@
     "timestamp": "00:09:20.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:09:28.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -3072,7 +3072,7 @@
     "timestamp": "00:09:30.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:09:32.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Danique Kerkdijk",
     "player1_team": "Bristol City WFC",
@@ -3128,7 +3128,7 @@
     "timestamp": "00:09:34.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:09:36.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -3184,7 +3184,7 @@
     "timestamp": "00:09:39.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -3216,7 +3216,7 @@
     "timestamp": "00:09:43.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:09:45.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -3312,7 +3312,7 @@
     "timestamp": "00:09:50.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:09:52.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -3368,7 +3368,7 @@
     "timestamp": "00:10:01.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:10:02.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -3408,7 +3408,7 @@
     "timestamp": "00:10:06.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:10:43.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:10:45.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:10:46.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -3552,7 +3552,7 @@
     "timestamp": "00:10:52.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -3576,7 +3576,7 @@
     "timestamp": "00:10:54.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:10:59.477"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -3624,7 +3624,7 @@
     "timestamp": "00:11:14.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julie Biesmans",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:11:16.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -3680,7 +3680,7 @@
     "timestamp": "00:11:18.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -3696,7 +3696,7 @@
     "timestamp": "00:11:37.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:11:41.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -3744,7 +3744,7 @@
     "timestamp": "00:11:43.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:11:46.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -3792,7 +3792,7 @@
     "timestamp": "00:11:50.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -3816,7 +3816,7 @@
     "timestamp": "00:11:53.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:11:58.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -4008,7 +4008,7 @@
     "timestamp": "00:12:03.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:12:07.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:12:13.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -4160,7 +4160,7 @@
     "timestamp": "00:12:15.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:12:18.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danique Kerkdijk",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:12:59.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -4240,7 +4240,7 @@
     "timestamp": "00:13:10.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:13:12.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -4296,7 +4296,7 @@
     "timestamp": "00:13:17.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -4312,7 +4312,7 @@
     "timestamp": "00:13:22.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -4344,7 +4344,7 @@
     "timestamp": "00:13:51.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:13:55.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:13:56.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -4424,7 +4424,7 @@
     "timestamp": "00:14:10.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:14:58.633"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:15:00.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:15:44.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:15:48.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -4536,7 +4536,7 @@
     "timestamp": "00:15:53.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -4560,7 +4560,7 @@
     "timestamp": "00:15:55.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:16:06.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:16:09.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:16:12.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:16:17.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:16:20.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -4800,7 +4800,7 @@
     "timestamp": "00:16:23.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -4816,7 +4816,7 @@
     "timestamp": "00:16:44.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:16:49.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:16:51.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -4912,7 +4912,7 @@
     "timestamp": "00:16:55.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -4936,7 +4936,7 @@
     "timestamp": "00:17:02.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Loren Dykes",
     "player1_team": "Bristol City WFC",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:17:04.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:17:06.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "Loren Dykes",
     "player1_team": "Bristol City WFC",
@@ -5024,7 +5024,7 @@
     "timestamp": "00:17:08.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:17:16.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:17:20.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:17:21.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -5160,7 +5160,7 @@
     "timestamp": "00:17:22.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -5192,7 +5192,7 @@
     "timestamp": "00:17:24.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:17:31.348"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:17:54.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:18:12.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -5320,7 +5320,7 @@
     "timestamp": "00:18:14.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:18:16.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -5360,7 +5360,7 @@
     "timestamp": "00:18:18.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -5400,7 +5400,7 @@
     "timestamp": "00:18:23.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -5416,7 +5416,7 @@
     "timestamp": "00:18:27.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:18:29.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:18:30.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -5472,7 +5472,7 @@
     "timestamp": "00:18:31.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:18:34.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:18:37.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:18:40.364"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:20:13.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:20:16.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:20:18.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -5656,7 +5656,7 @@
     "timestamp": "00:20:28.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -5680,7 +5680,7 @@
     "timestamp": "00:20:32.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -5696,7 +5696,7 @@
     "timestamp": "00:20:36.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -5720,7 +5720,7 @@
     "timestamp": "00:20:48.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -5744,7 +5744,7 @@
     "timestamp": "00:20:49.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -5768,7 +5768,7 @@
     "timestamp": "00:20:52.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:20:57.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -5856,7 +5856,7 @@
     "timestamp": "00:21:02.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:21:15.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -5896,7 +5896,7 @@
     "timestamp": "00:21:21.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -5920,7 +5920,7 @@
     "timestamp": "00:21:23.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Loren Dykes",
     "player1_team": "Bristol City WFC",
@@ -5952,7 +5952,7 @@
     "timestamp": "00:21:25.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -5992,7 +5992,7 @@
     "timestamp": "00:21:30.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -6024,7 +6024,7 @@
     "timestamp": "00:21:34.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -6048,7 +6048,7 @@
     "timestamp": "00:21:37.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:21:41.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:21:44.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -6128,7 +6128,7 @@
     "timestamp": "00:21:47.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:21:50.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -6208,7 +6208,7 @@
     "timestamp": "00:22:23.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:22:30.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:22:31.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -6296,7 +6296,7 @@
     "timestamp": "00:22:35.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:22:41.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -6352,7 +6352,7 @@
     "timestamp": "00:22:42.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:22:46.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -6424,7 +6424,7 @@
     "timestamp": "00:22:47.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Rutherford",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:22:49.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:22:55.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:23:05.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -6544,7 +6544,7 @@
     "timestamp": "00:23:09.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -6576,7 +6576,7 @@
     "timestamp": "00:23:12.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -6608,7 +6608,7 @@
     "timestamp": "00:23:14.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -6632,7 +6632,7 @@
     "timestamp": "00:23:22.122"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:23:23.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:23:24.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -6712,7 +6712,7 @@
     "timestamp": "00:23:32.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -6736,7 +6736,7 @@
     "timestamp": "00:23:33.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Rutherford",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:23:36.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -6792,7 +6792,7 @@
     "timestamp": "00:23:37.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:23:54.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -6840,7 +6840,7 @@
     "timestamp": "00:23:57.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:24:00.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:24:02.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -6912,7 +6912,7 @@
     "timestamp": "00:24:07.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:24:50.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -6984,7 +6984,7 @@
     "timestamp": "00:24:51.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -7016,7 +7016,7 @@
     "timestamp": "00:24:55.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:24:57.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:25:00.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -7104,7 +7104,7 @@
     "timestamp": "00:25:10.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -7136,7 +7136,7 @@
     "timestamp": "00:25:12.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:25:22.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:26:02.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -7248,7 +7248,7 @@
     "timestamp": "00:26:03.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -7272,7 +7272,7 @@
     "timestamp": "00:26:06.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:26:07.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -7328,7 +7328,7 @@
     "timestamp": "00:26:09.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -7392,7 +7392,7 @@
     "timestamp": "00:26:14.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:26:21.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -7448,7 +7448,7 @@
     "timestamp": "00:26:25.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -7488,7 +7488,7 @@
     "timestamp": "00:26:31.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:26:33.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -7536,7 +7536,7 @@
     "timestamp": "00:26:35.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -7560,7 +7560,7 @@
     "timestamp": "00:26:39.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -7584,7 +7584,7 @@
     "timestamp": "00:26:41.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:26:45.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -7632,7 +7632,7 @@
     "timestamp": "00:26:47.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Loren Dykes",
     "player1_team": "Bristol City WFC",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:26:50.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -7680,7 +7680,7 @@
     "timestamp": "00:26:51.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -7704,7 +7704,7 @@
     "timestamp": "00:26:57.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:27:01.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:27:03.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:27:07.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:27:08.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:27:14.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:27:50.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:28:01.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -7920,7 +7920,7 @@
     "timestamp": "00:28:03.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -7952,7 +7952,7 @@
     "timestamp": "00:28:07.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -8000,7 +8000,7 @@
     "timestamp": "00:28:11.097"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -8048,7 +8048,7 @@
     "timestamp": "00:28:58.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:29:00.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -8104,7 +8104,7 @@
     "timestamp": "00:29:10.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:29:13.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:29:15.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -8176,7 +8176,7 @@
     "timestamp": "00:29:19.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:29:21.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:29:27.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:29:32.843"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:29:34.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:29:38.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:29:39.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:29:46.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -8384,7 +8384,7 @@
     "timestamp": "00:29:51.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -8408,7 +8408,7 @@
     "timestamp": "00:29:54.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:30:00.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:30:02.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:30:04.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -8552,7 +8552,7 @@
     "timestamp": "00:30:11.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -8616,7 +8616,7 @@
     "timestamp": "00:30:14.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:30:16.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:30:42.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:30:44.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -8712,7 +8712,7 @@
     "timestamp": "00:30:47.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -8736,7 +8736,7 @@
     "timestamp": "00:30:48.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:30:52.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Danique Kerkdijk",
     "player1_team": "Bristol City WFC",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:30:59.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -8848,7 +8848,7 @@
     "timestamp": "00:31:10.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -8872,7 +8872,7 @@
     "timestamp": "00:31:13.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -8888,7 +8888,7 @@
     "timestamp": "00:31:14.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -8920,7 +8920,7 @@
     "timestamp": "00:31:16.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:31:19.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -8976,7 +8976,7 @@
     "timestamp": "00:31:24.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:31:30.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Danique Kerkdijk",
     "player1_team": "Bristol City WFC",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:31:31.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -9040,7 +9040,7 @@
     "timestamp": "00:31:33.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -9072,7 +9072,7 @@
     "timestamp": "00:31:34.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -9096,7 +9096,7 @@
     "timestamp": "00:31:39.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -9120,7 +9120,7 @@
     "timestamp": "00:31:42.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -9152,7 +9152,7 @@
     "timestamp": "00:32:35.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -9176,7 +9176,7 @@
     "timestamp": "00:32:40.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:32:46.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julie Biesmans",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -9248,7 +9248,7 @@
     "timestamp": "00:32:48.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -9288,7 +9288,7 @@
     "timestamp": "00:32:57.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danique Kerkdijk",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -9328,7 +9328,7 @@
     "timestamp": "00:33:09.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -9352,7 +9352,7 @@
     "timestamp": "00:33:10.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -9368,7 +9368,7 @@
     "timestamp": "00:33:15.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:33:21.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -9448,7 +9448,7 @@
     "timestamp": "00:33:29.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -9464,7 +9464,7 @@
     "timestamp": "00:33:32.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -9496,7 +9496,7 @@
     "timestamp": "00:33:34.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:33:36.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -9584,7 +9584,7 @@
     "timestamp": "00:33:48.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -9624,7 +9624,7 @@
     "timestamp": "00:34:25.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -9640,7 +9640,7 @@
     "timestamp": "00:34:43.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:34:48.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -9720,7 +9720,7 @@
     "timestamp": "00:34:53.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:35:00.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -9792,7 +9792,7 @@
     "timestamp": "00:36:28.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:36:43.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -9880,7 +9880,7 @@
     "timestamp": "00:37:05.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -9912,7 +9912,7 @@
     "timestamp": "00:37:24.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:37:27.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -9968,7 +9968,7 @@
     "timestamp": "00:38:28.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:39:11.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:39:15.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -10032,7 +10032,7 @@
     "timestamp": "00:39:18.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -10048,7 +10048,7 @@
     "timestamp": "00:39:38.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -10056,7 +10056,7 @@
     "timestamp": "00:39:38.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:39:56.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:39:57.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -10136,7 +10136,7 @@
     "timestamp": "00:39:58.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:40:03.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -10184,7 +10184,7 @@
     "timestamp": "00:40:06.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -10208,7 +10208,7 @@
     "timestamp": "00:40:07.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -10240,7 +10240,7 @@
     "timestamp": "00:40:09.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -10256,7 +10256,7 @@
     "timestamp": "00:40:11.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -10304,7 +10304,7 @@
     "timestamp": "00:40:14.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -10336,7 +10336,7 @@
     "timestamp": "00:40:29.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -10360,7 +10360,7 @@
     "timestamp": "00:40:30.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -10392,7 +10392,7 @@
     "timestamp": "00:40:33.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -10408,7 +10408,7 @@
     "timestamp": "00:40:35.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:40:36.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -10464,7 +10464,7 @@
     "timestamp": "00:40:40.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -10488,7 +10488,7 @@
     "timestamp": "00:40:43.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -10512,7 +10512,7 @@
     "timestamp": "00:40:48.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:40:53.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -10568,7 +10568,7 @@
     "timestamp": "00:40:56.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:41:09.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -10664,7 +10664,7 @@
     "timestamp": "00:41:14.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -10696,7 +10696,7 @@
     "timestamp": "00:41:16.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -10752,7 +10752,7 @@
     "timestamp": "00:41:22.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Rutherford",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -10800,7 +10800,7 @@
     "timestamp": "00:41:34.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:41:43.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -10864,7 +10864,7 @@
     "timestamp": "00:41:49.833"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ella Rutherford",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:41:50.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -10904,7 +10904,7 @@
     "timestamp": "00:41:54.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -10936,7 +10936,7 @@
     "timestamp": "00:42:18.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -10960,7 +10960,7 @@
     "timestamp": "00:42:20.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11008,7 +11008,7 @@
     "timestamp": "00:42:24.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -11024,7 +11024,7 @@
     "timestamp": "00:42:27.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11048,7 +11048,7 @@
     "timestamp": "00:42:28.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:42:40.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -11112,7 +11112,7 @@
     "timestamp": "00:42:42.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:42:45.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:42:48.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11224,7 +11224,7 @@
     "timestamp": "00:42:53.299"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:42:55.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:43:35.893"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:43:37.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -11288,7 +11288,7 @@
     "timestamp": "00:44:08.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:44:09.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:44:13.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:44:17.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -11384,7 +11384,7 @@
     "timestamp": "00:44:23.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -11408,7 +11408,7 @@
     "timestamp": "00:44:45.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:44:46.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:44:48.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -11472,7 +11472,7 @@
     "timestamp": "00:44:51.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:44:53.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:44:56.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -11552,7 +11552,7 @@
     "timestamp": "00:45:01.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11584,7 +11584,7 @@
     "timestamp": "00:45:06.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11592,7 +11592,7 @@
     "timestamp": "00:45:08.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -11624,7 +11624,7 @@
     "timestamp": "00:45:17.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -11688,7 +11688,7 @@
     "timestamp": "00:45:26.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -11720,7 +11720,7 @@
     "timestamp": "00:45:34.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -11744,7 +11744,7 @@
     "timestamp": "00:45:39.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11776,7 +11776,7 @@
     "timestamp": "00:45:43.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -11808,7 +11808,7 @@
     "timestamp": "00:45:47.559"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:45:52.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:45:53.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:00:00.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:00:01.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:00:05.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:00:08.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -11976,7 +11976,7 @@
     "timestamp": "00:00:10.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -12040,7 +12040,7 @@
     "timestamp": "00:00:13.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -12064,7 +12064,7 @@
     "timestamp": "00:00:15.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:00:17.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -12120,7 +12120,7 @@
     "timestamp": "00:00:19.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -12144,7 +12144,7 @@
     "timestamp": "00:00:20.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -12224,7 +12224,7 @@
     "timestamp": "00:00:24.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:00:38.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -12296,7 +12296,7 @@
     "timestamp": "00:00:40.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Evans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:00:40.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:00:59.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:01:02.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -12392,7 +12392,7 @@
     "timestamp": "00:01:08.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -12416,7 +12416,7 @@
     "timestamp": "00:01:11.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:01:15.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -12464,7 +12464,7 @@
     "timestamp": "00:01:17.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:01:21.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:01:24.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -12544,7 +12544,7 @@
     "timestamp": "00:01:26.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -12568,7 +12568,7 @@
     "timestamp": "00:01:29.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:01:40.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -12656,7 +12656,7 @@
     "timestamp": "00:01:44.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -12696,7 +12696,7 @@
     "timestamp": "00:02:05.105"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -12728,7 +12728,7 @@
     "timestamp": "00:02:08.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -12760,7 +12760,7 @@
     "timestamp": "00:02:16.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:02:18.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -12824,7 +12824,7 @@
     "timestamp": "00:02:20.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -12904,7 +12904,7 @@
     "timestamp": "00:02:26.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -12944,7 +12944,7 @@
     "timestamp": "00:02:29.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -12976,7 +12976,7 @@
     "timestamp": "00:02:31.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -13008,7 +13008,7 @@
     "timestamp": "00:02:42.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -13032,7 +13032,7 @@
     "timestamp": "00:02:45.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:02:48.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -13088,7 +13088,7 @@
     "timestamp": "00:03:00.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:03:04.450"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:03:11.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -13168,7 +13168,7 @@
     "timestamp": "00:03:13.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:03:16.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danique Kerkdijk",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -13232,7 +13232,7 @@
     "timestamp": "00:03:22.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -13256,7 +13256,7 @@
     "timestamp": "00:03:24.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -13296,7 +13296,7 @@
     "timestamp": "00:03:26.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -13328,7 +13328,7 @@
     "timestamp": "00:03:28.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:03:30.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -13376,7 +13376,7 @@
     "timestamp": "00:03:33.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:03:36.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:03:38.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:03:43.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:03:45.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:03:46.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:03:49.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -13568,7 +13568,7 @@
     "timestamp": "00:03:53.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -13592,7 +13592,7 @@
     "timestamp": "00:03:59.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -13624,7 +13624,7 @@
     "timestamp": "00:04:05.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -13648,7 +13648,7 @@
     "timestamp": "00:04:10.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -13680,7 +13680,7 @@
     "timestamp": "00:04:13.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:04:17.623"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -13744,7 +13744,7 @@
     "timestamp": "00:04:25.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -13768,7 +13768,7 @@
     "timestamp": "00:04:27.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:04:29.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:04:32.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:04:34.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -13896,7 +13896,7 @@
     "timestamp": "00:04:37.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -13928,7 +13928,7 @@
     "timestamp": "00:04:39.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -13952,7 +13952,7 @@
     "timestamp": "00:04:41.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julie Biesmans",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -13984,7 +13984,7 @@
     "timestamp": "00:04:43.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -14032,7 +14032,7 @@
     "timestamp": "00:04:45.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -14056,7 +14056,7 @@
     "timestamp": "00:04:47.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -14080,7 +14080,7 @@
     "timestamp": "00:04:48.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -14096,7 +14096,7 @@
     "timestamp": "00:04:49.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:05:00.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -14176,7 +14176,7 @@
     "timestamp": "00:05:03.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -14192,7 +14192,7 @@
     "timestamp": "00:05:06.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:05:12.292"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:05:16.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:05:42.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -14304,7 +14304,7 @@
     "timestamp": "00:05:43.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:05:45.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -14424,7 +14424,7 @@
     "timestamp": "00:05:57.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:07:17.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -14456,7 +14456,7 @@
     "timestamp": "00:07:38.015"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Loren Dykes",
     "player1_team": "Bristol City WFC",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:07:40.056"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -14496,7 +14496,7 @@
     "timestamp": "00:07:40.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -14536,7 +14536,7 @@
     "timestamp": "00:07:41.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -14568,7 +14568,7 @@
     "timestamp": "00:07:45.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -14584,7 +14584,7 @@
     "timestamp": "00:07:48.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -14624,7 +14624,7 @@
     "timestamp": "00:07:49.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -14656,7 +14656,7 @@
     "timestamp": "00:07:50.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -14728,7 +14728,7 @@
     "timestamp": "00:08:00.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:08:03.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -14792,7 +14792,7 @@
     "timestamp": "00:08:07.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -14816,7 +14816,7 @@
     "timestamp": "00:08:13.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -14840,7 +14840,7 @@
     "timestamp": "00:08:14.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:08:19.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -14904,7 +14904,7 @@
     "timestamp": "00:08:23.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14936,7 +14936,7 @@
     "timestamp": "00:08:26.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:08:29.386"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14984,7 +14984,7 @@
     "timestamp": "00:08:33.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -15024,7 +15024,7 @@
     "timestamp": "00:08:49.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -15048,7 +15048,7 @@
     "timestamp": "00:08:56.309"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rosella Ayane",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15064,7 +15064,7 @@
     "timestamp": "00:08:57.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:09:01.468"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15112,7 +15112,7 @@
     "timestamp": "00:09:02.119"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -15136,7 +15136,7 @@
     "timestamp": "00:09:09.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -15160,7 +15160,7 @@
     "timestamp": "00:09:14.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -15184,7 +15184,7 @@
     "timestamp": "00:09:17.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -15216,7 +15216,7 @@
     "timestamp": "00:09:20.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:09:24.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:09:31.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:09:33.537"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -15416,7 +15416,7 @@
     "timestamp": "00:09:44.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -15504,7 +15504,7 @@
     "timestamp": "00:10:24.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danique Kerkdijk",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:10:28.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -15536,7 +15536,7 @@
     "timestamp": "00:10:34.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:10:37.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:10:53.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:11:14.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -15624,7 +15624,7 @@
     "timestamp": "00:11:15.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -15656,7 +15656,7 @@
     "timestamp": "00:11:17.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -15680,7 +15680,7 @@
     "timestamp": "00:11:19.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:11:22.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:11:23.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -15744,7 +15744,7 @@
     "timestamp": "00:11:26.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -15776,7 +15776,7 @@
     "timestamp": "00:11:26.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -15808,7 +15808,7 @@
     "timestamp": "00:11:32.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:11:36.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -15872,7 +15872,7 @@
     "timestamp": "00:11:38.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Gemma Evans",
     "player1_team": "Bristol City WFC",
@@ -15896,7 +15896,7 @@
     "timestamp": "00:11:41.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Danique Kerkdijk",
     "player1_team": "Bristol City WFC",
@@ -15928,7 +15928,7 @@
     "timestamp": "00:11:42.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danique Kerkdijk",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:11:47.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -15976,7 +15976,7 @@
     "timestamp": "00:11:56.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:11:59.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -16032,7 +16032,7 @@
     "timestamp": "00:12:07.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:12:09.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -16072,7 +16072,7 @@
     "timestamp": "00:12:12.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -16096,7 +16096,7 @@
     "timestamp": "00:12:15.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -16128,7 +16128,7 @@
     "timestamp": "00:12:16.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Danique Kerkdijk",
     "player1_team": "Bristol City WFC",
@@ -16152,7 +16152,7 @@
     "timestamp": "00:12:19.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danique Kerkdijk",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:12:25.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -16192,7 +16192,7 @@
     "timestamp": "00:12:27.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -16216,7 +16216,7 @@
     "timestamp": "00:12:41.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16240,7 +16240,7 @@
     "timestamp": "00:12:46.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -16272,7 +16272,7 @@
     "timestamp": "00:12:50.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -16336,7 +16336,7 @@
     "timestamp": "00:12:54.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -16368,7 +16368,7 @@
     "timestamp": "00:12:56.129"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Carla Humphrey",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:12:58.342"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:13:17.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:13:22.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hayley Ladd",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:13:26.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:13:30.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -16520,7 +16520,7 @@
     "timestamp": "00:13:32.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:13:33.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Follis",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:13:37.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:13:44.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:13:52.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:14:01.655"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:14:03.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Frankie Brown",
     "player1_team": "Bristol City WFC",
@@ -16704,7 +16704,7 @@
     "timestamp": "00:14:05.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:14:07.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -16768,7 +16768,7 @@
     "timestamp": "00:14:09.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -16792,7 +16792,7 @@
     "timestamp": "00:14:13.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -16808,7 +16808,7 @@
     "timestamp": "00:14:35.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -16840,7 +16840,7 @@
     "timestamp": "00:14:36.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Carla Humphrey",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:14:40.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:15:45.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:17:07.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -17032,7 +17032,7 @@
     "timestamp": "00:17:12.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:17:19.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:17:21.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -17120,7 +17120,7 @@
     "timestamp": "00:17:26.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -17144,7 +17144,7 @@
     "timestamp": "00:17:29.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -17176,7 +17176,7 @@
     "timestamp": "00:17:35.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:17:38.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:17:42.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:17:45.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -17288,7 +17288,7 @@
     "timestamp": "00:17:49.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:17:52.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -17352,7 +17352,7 @@
     "timestamp": "00:17:55.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:17:56.260"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17416,7 +17416,7 @@
     "timestamp": "00:17:59.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:18:01.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -17464,7 +17464,7 @@
     "timestamp": "00:18:03.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:18:06.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -17552,7 +17552,7 @@
     "timestamp": "00:18:10.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:19:01.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -17600,7 +17600,7 @@
     "timestamp": "00:19:03.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:19:07.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17640,7 +17640,7 @@
     "timestamp": "00:19:42.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -17704,7 +17704,7 @@
     "timestamp": "00:19:49.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -17736,7 +17736,7 @@
     "timestamp": "00:19:51.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -17760,7 +17760,7 @@
     "timestamp": "00:19:52.750"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17800,7 +17800,7 @@
     "timestamp": "00:19:58.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -17824,7 +17824,7 @@
     "timestamp": "00:20:01.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -17848,7 +17848,7 @@
     "timestamp": "00:20:05.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:20:07.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -17880,7 +17880,7 @@
     "timestamp": "00:20:36.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julie Biesmans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:20:42.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:20:44.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:20:46.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -17976,7 +17976,7 @@
     "timestamp": "00:20:48.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -18008,7 +18008,7 @@
     "timestamp": "00:20:51.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -18024,7 +18024,7 @@
     "timestamp": "00:20:54.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -18040,7 +18040,7 @@
     "timestamp": "00:20:54.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:20:56.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Sophie Baggaley",
     "player1_team": "Bristol City WFC",
@@ -18096,7 +18096,7 @@
     "timestamp": "00:20:59.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:20:59.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -18136,7 +18136,7 @@
     "timestamp": "00:21:09.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -18152,7 +18152,7 @@
     "timestamp": "00:21:09.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -18176,7 +18176,7 @@
     "timestamp": "00:21:22.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:21:32.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:21:33.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -18248,7 +18248,7 @@
     "timestamp": "00:21:39.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Danique Kerkdijk",
     "player1_team": "Bristol City WFC",
@@ -18280,7 +18280,7 @@
     "timestamp": "00:21:42.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -18312,7 +18312,7 @@
     "timestamp": "00:21:43.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -18344,7 +18344,7 @@
     "timestamp": "00:21:47.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -18384,7 +18384,7 @@
     "timestamp": "00:21:53.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -18408,7 +18408,7 @@
     "timestamp": "00:21:55.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:21:57.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -18464,7 +18464,7 @@
     "timestamp": "00:22:03.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:22:08.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:22:12.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:22:15.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:22:22.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -18592,7 +18592,7 @@
     "timestamp": "00:22:24.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -18624,7 +18624,7 @@
     "timestamp": "00:22:34.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -18656,7 +18656,7 @@
     "timestamp": "00:22:37.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:22:41.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:23:34.033"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -18736,7 +18736,7 @@
     "timestamp": "00:24:10.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -18776,7 +18776,7 @@
     "timestamp": "00:24:15.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -18800,7 +18800,7 @@
     "timestamp": "00:24:18.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:24:20.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:24:22.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -18888,7 +18888,7 @@
     "timestamp": "00:24:24.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:24:28.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danique Kerkdijk",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -19008,7 +19008,7 @@
     "timestamp": "00:24:59.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -19032,7 +19032,7 @@
     "timestamp": "00:25:03.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -19056,7 +19056,7 @@
     "timestamp": "00:25:04.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -19112,7 +19112,7 @@
     "timestamp": "00:25:14.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -19144,7 +19144,7 @@
     "timestamp": "00:25:23.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19200,7 +19200,7 @@
     "timestamp": "00:25:29.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19256,7 +19256,7 @@
     "timestamp": "00:25:34.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:25:40.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -19344,7 +19344,7 @@
     "timestamp": "00:25:42.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -19352,7 +19352,7 @@
     "timestamp": "00:25:45.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:26:16.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -19384,7 +19384,7 @@
     "timestamp": "00:26:37.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -19424,7 +19424,7 @@
     "timestamp": "00:26:45.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:27:26.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19512,7 +19512,7 @@
     "timestamp": "00:27:56.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -19536,7 +19536,7 @@
     "timestamp": "00:27:59.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19576,7 +19576,7 @@
     "timestamp": "00:28:00.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -19608,7 +19608,7 @@
     "timestamp": "00:28:06.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:28:09.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -19688,7 +19688,7 @@
     "timestamp": "00:28:12.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -19704,7 +19704,7 @@
     "timestamp": "00:28:15.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Follis",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:28:22.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -19776,7 +19776,7 @@
     "timestamp": "00:28:28.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:28:51.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -19824,7 +19824,7 @@
     "timestamp": "00:28:54.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:28:57.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:29:04.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -19944,7 +19944,7 @@
     "timestamp": "00:29:09.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:29:14.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -20040,7 +20040,7 @@
     "timestamp": "00:29:23.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -20072,7 +20072,7 @@
     "timestamp": "00:29:26.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:29:33.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -20128,7 +20128,7 @@
     "timestamp": "00:29:34.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -20152,7 +20152,7 @@
     "timestamp": "00:29:36.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -20176,7 +20176,7 @@
     "timestamp": "00:29:39.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:29:42.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -20208,7 +20208,7 @@
     "timestamp": "00:30:14.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -20224,7 +20224,7 @@
     "timestamp": "00:30:17.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danique Kerkdijk",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -20264,7 +20264,7 @@
     "timestamp": "00:30:20.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ella Rutherford",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -20272,7 +20272,7 @@
     "timestamp": "00:30:20.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:30:36.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -20328,7 +20328,7 @@
     "timestamp": "00:30:41.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Emma Follis",
     "player1_team": "Birmingham City WFC",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:31:07.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -20384,7 +20384,7 @@
     "timestamp": "00:31:31.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:31:42.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:31:50.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -20448,7 +20448,7 @@
     "timestamp": "00:31:52.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -20472,7 +20472,7 @@
     "timestamp": "00:31:57.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:32:09.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -20576,7 +20576,7 @@
     "timestamp": "00:32:14.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -20608,7 +20608,7 @@
     "timestamp": "00:32:18.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -20632,7 +20632,7 @@
     "timestamp": "00:32:21.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -20656,7 +20656,7 @@
     "timestamp": "00:32:22.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -20680,7 +20680,7 @@
     "timestamp": "00:32:23.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20712,7 +20712,7 @@
     "timestamp": "00:32:28.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -20752,7 +20752,7 @@
     "timestamp": "00:32:34.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:32:41.126"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20800,7 +20800,7 @@
     "timestamp": "00:32:43.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:33:09.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -20824,7 +20824,7 @@
     "timestamp": "00:33:09.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Loren Dykes",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:33:32.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:33:34.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Chloe Arthur",
     "player1_team": "Birmingham City WFC",
@@ -20952,7 +20952,7 @@
     "timestamp": "00:33:39.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:33:50.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julie Biesmans",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -21048,7 +21048,7 @@
     "timestamp": "00:34:49.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -21072,7 +21072,7 @@
     "timestamp": "00:35:09.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -21088,7 +21088,7 @@
     "timestamp": "00:35:12.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:35:13.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -21144,7 +21144,7 @@
     "timestamp": "00:35:15.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:35:17.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:35:20.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:35:23.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -21344,7 +21344,7 @@
     "timestamp": "00:35:40.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -21376,7 +21376,7 @@
     "timestamp": "00:35:42.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -21408,7 +21408,7 @@
     "timestamp": "00:35:47.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:35:50.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connie Scofield",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -21448,7 +21448,7 @@
     "timestamp": "00:35:55.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -21472,7 +21472,7 @@
     "timestamp": "00:35:57.300"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -21488,7 +21488,7 @@
     "timestamp": "00:35:58.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -21512,7 +21512,7 @@
     "timestamp": "00:36:33.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -21536,7 +21536,7 @@
     "timestamp": "00:36:44.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -21560,7 +21560,7 @@
     "timestamp": "00:36:47.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:36:59.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:37:03.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connie Scofield",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -21640,7 +21640,7 @@
     "timestamp": "00:37:07.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -21656,7 +21656,7 @@
     "timestamp": "00:37:09.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -21688,7 +21688,7 @@
     "timestamp": "00:37:11.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connie Scofield",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -21712,7 +21712,7 @@
     "timestamp": "00:37:14.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -21728,7 +21728,7 @@
     "timestamp": "00:37:15.397"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Sarah Emma Mayling",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -21744,7 +21744,7 @@
     "timestamp": "00:37:17.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -21784,7 +21784,7 @@
     "timestamp": "00:37:52.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -21808,7 +21808,7 @@
     "timestamp": "00:37:53.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -21824,7 +21824,7 @@
     "timestamp": "00:37:55.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aoife Mannion",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:37:58.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:38:11.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -21888,7 +21888,7 @@
     "timestamp": "00:38:15.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -21920,7 +21920,7 @@
     "timestamp": "00:38:18.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -21936,7 +21936,7 @@
     "timestamp": "00:38:31.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:38:53.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -21984,7 +21984,7 @@
     "timestamp": "00:38:54.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -22008,7 +22008,7 @@
     "timestamp": "00:38:59.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connie Scofield",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -22032,7 +22032,7 @@
     "timestamp": "00:39:00.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -22064,7 +22064,7 @@
     "timestamp": "00:39:06.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -22096,7 +22096,7 @@
     "timestamp": "00:39:09.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:39:10.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -22192,7 +22192,7 @@
     "timestamp": "00:39:14.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Frankie Brown",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22216,7 +22216,7 @@
     "timestamp": "00:40:16.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -22232,7 +22232,7 @@
     "timestamp": "00:40:29.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:40:30.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Connie Scofield",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -22320,7 +22320,7 @@
     "timestamp": "00:40:38.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -22352,7 +22352,7 @@
     "timestamp": "00:40:40.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -22376,7 +22376,7 @@
     "timestamp": "00:40:43.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -22400,7 +22400,7 @@
     "timestamp": "00:40:51.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Staniforth",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -22432,7 +22432,7 @@
     "timestamp": "00:40:53.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -22496,7 +22496,7 @@
     "timestamp": "00:40:56.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Evans",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -22520,7 +22520,7 @@
     "timestamp": "00:40:59.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -22560,7 +22560,7 @@
     "timestamp": "00:41:05.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:41:08.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -22608,7 +22608,7 @@
     "timestamp": "00:41:10.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -22632,7 +22632,7 @@
     "timestamp": "00:41:12.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:41:18.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Lucy Staniforth",
     "player1_team": "Birmingham City WFC",
@@ -22712,7 +22712,7 @@
     "timestamp": "00:41:27.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -22744,7 +22744,7 @@
     "timestamp": "00:41:28.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Robinson",
     "player2": "Julie Biesmans",
     "player1_team": "Bristol City WFC",
@@ -22776,7 +22776,7 @@
     "timestamp": "00:41:30.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Julie Biesmans",
     "player2": "Katie Robinson",
     "player1_team": "Bristol City WFC",
@@ -22800,7 +22800,7 @@
     "timestamp": "00:41:54.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -22832,7 +22832,7 @@
     "timestamp": "00:42:08.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connie Scofield",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -22864,7 +22864,7 @@
     "timestamp": "00:42:10.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -22888,7 +22888,7 @@
     "timestamp": "00:42:12.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Paige Williams",
     "player1_team": "Birmingham City WFC",
@@ -22912,7 +22912,7 @@
     "timestamp": "00:42:16.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Paige Williams",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -22928,7 +22928,7 @@
     "timestamp": "00:42:20.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -22944,7 +22944,7 @@
     "timestamp": "00:42:48.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Hayley Ladd",
     "player1_team": "Birmingham City WFC",
@@ -22960,7 +22960,7 @@
     "timestamp": "00:42:54.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -22984,7 +22984,7 @@
     "timestamp": "00:42:57.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Meaghan Sargeant",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -23024,7 +23024,7 @@
     "timestamp": "00:43:18.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Katie Robinson",
     "player1_team": "Bristol City WFC",
@@ -23040,7 +23040,7 @@
     "timestamp": "00:43:24.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -23080,7 +23080,7 @@
     "timestamp": "00:43:26.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -23104,7 +23104,7 @@
     "timestamp": "00:43:43.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Poppy Pattinson",
     "player2": "Katie Robinson",
     "player1_team": "Bristol City WFC",
@@ -23128,7 +23128,7 @@
     "timestamp": "00:43:56.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Hope",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -23160,7 +23160,7 @@
     "timestamp": "00:43:59.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -23192,7 +23192,7 @@
     "timestamp": "00:44:02.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Poppy Pattinson",
     "player1_team": "Bristol City WFC",
@@ -23224,7 +23224,7 @@
     "timestamp": "00:44:05.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Poppy Pattinson",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -23320,7 +23320,7 @@
     "timestamp": "00:44:19.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hayley Ladd",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -23344,7 +23344,7 @@
     "timestamp": "00:44:24.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -23384,7 +23384,7 @@
     "timestamp": "00:44:25.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Baggaley",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -23440,7 +23440,7 @@
     "timestamp": "00:45:04.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Robinson",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -23480,7 +23480,7 @@
     "timestamp": "00:45:11.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rosella Ayane",
     "player2": "Katie Robinson",
     "player1_team": "Bristol City WFC",
@@ -23512,7 +23512,7 @@
     "timestamp": "00:45:18.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Katie Robinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -23536,7 +23536,7 @@
     "timestamp": "00:45:21.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "Rosella Ayane",
     "player1_team": "Bristol City WFC",
@@ -23576,7 +23576,7 @@
     "timestamp": "00:45:25.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -23608,7 +23608,7 @@
     "timestamp": "00:45:27.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connie Scofield",
     "player2": "Aoife Mannion",
     "player1_team": "Birmingham City WFC",
@@ -23704,7 +23704,7 @@
     "timestamp": "00:45:32.798"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Carla Humphrey",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23736,7 +23736,7 @@
     "timestamp": "00:46:16.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -23784,7 +23784,7 @@
     "timestamp": "00:46:33.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Julie Biesmans",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -23824,7 +23824,7 @@
     "timestamp": "00:47:14.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kerys Harrop",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -23832,7 +23832,7 @@
     "timestamp": "00:47:25.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Hope",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -23856,7 +23856,7 @@
     "timestamp": "00:47:29.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -23872,7 +23872,7 @@
     "timestamp": "00:47:35.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -23904,7 +23904,7 @@
     "timestamp": "00:47:37.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Kerys Harrop",
     "player1_team": "Birmingham City WFC",
@@ -23928,7 +23928,7 @@
     "timestamp": "00:47:40.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kerys Harrop",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -23960,7 +23960,7 @@
     "timestamp": "00:47:43.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Wellings",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",
@@ -24024,7 +24024,7 @@
     "timestamp": "00:47:53.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Carla Humphrey",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -24056,7 +24056,7 @@
     "timestamp": "00:47:57.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Paige Williams",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -24080,7 +24080,7 @@
     "timestamp": "00:48:00.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -24096,7 +24096,7 @@
     "timestamp": "00:48:06.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Loren Dykes",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -24120,7 +24120,7 @@
     "timestamp": "00:48:32.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Juliette Kemppi",
     "player2": "Katie Robinson",
     "player1_team": "Bristol City WFC",
@@ -24176,7 +24176,7 @@
     "timestamp": "00:48:36.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aoife Mannion",
     "player2": "Charlie Wellings",
     "player1_team": "Birmingham City WFC",
@@ -24208,7 +24208,7 @@
     "timestamp": "00:48:40.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Wellings",
     "player2": "Connie Scofield",
     "player1_team": "Birmingham City WFC",
@@ -24224,7 +24224,7 @@
     "timestamp": "00:48:41.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Frankie Brown",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -24296,7 +24296,7 @@
     "timestamp": "00:48:48.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Connie Scofield",
     "player2": "Meaghan Sargeant",
     "player1_team": "Birmingham City WFC",
@@ -24328,7 +24328,7 @@
     "timestamp": "00:48:52.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Meaghan Sargeant",
     "player2": "Lucy Quinn",
     "player1_team": "Birmingham City WFC",

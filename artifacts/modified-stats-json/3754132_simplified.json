@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:00.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -104,7 +104,7 @@
     "timestamp": "00:00:11.282"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -136,7 +136,7 @@
     "timestamp": "00:00:30.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -152,7 +152,7 @@
     "timestamp": "00:00:34.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:36.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:37.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -216,7 +216,7 @@
     "timestamp": "00:00:40.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -280,7 +280,7 @@
     "timestamp": "00:00:43.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -296,7 +296,7 @@
     "timestamp": "00:01:11.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "",
     "player1_team": "Stoke City",
@@ -304,7 +304,7 @@
     "timestamp": "00:01:11.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -376,7 +376,7 @@
     "timestamp": "00:01:34.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -400,7 +400,7 @@
     "timestamp": "00:01:35.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -416,7 +416,7 @@
     "timestamp": "00:01:37.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -456,7 +456,7 @@
     "timestamp": "00:01:53.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "",
     "player1_team": "Stoke City",
@@ -472,7 +472,7 @@
     "timestamp": "00:01:57.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -488,7 +488,7 @@
     "timestamp": "00:02:01.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -544,7 +544,7 @@
     "timestamp": "00:02:05.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -568,7 +568,7 @@
     "timestamp": "00:02:11.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -584,7 +584,7 @@
     "timestamp": "00:02:31.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -648,7 +648,7 @@
     "timestamp": "00:02:50.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -680,7 +680,7 @@
     "timestamp": "00:02:51.537"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -696,7 +696,7 @@
     "timestamp": "00:02:52.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -728,7 +728,7 @@
     "timestamp": "00:02:59.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -752,7 +752,7 @@
     "timestamp": "00:03:02.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -784,7 +784,7 @@
     "timestamp": "00:03:04.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -816,7 +816,7 @@
     "timestamp": "00:03:06.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -856,7 +856,7 @@
     "timestamp": "00:03:08.590"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -880,7 +880,7 @@
     "timestamp": "00:03:10.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -928,7 +928,7 @@
     "timestamp": "00:03:14.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -944,7 +944,7 @@
     "timestamp": "00:03:38.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -984,7 +984,7 @@
     "timestamp": "00:03:39.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -1016,7 +1016,7 @@
     "timestamp": "00:03:49.711"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:03:50.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -1040,7 +1040,7 @@
     "timestamp": "00:03:50.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:04:23.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:04:25.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -1176,7 +1176,7 @@
     "timestamp": "00:04:27.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:04:32.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:04:38.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:04:45.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:04:58.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -1312,7 +1312,7 @@
     "timestamp": "00:04:59.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -1336,7 +1336,7 @@
     "timestamp": "00:05:27.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -1344,7 +1344,7 @@
     "timestamp": "00:05:27.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -1368,7 +1368,7 @@
     "timestamp": "00:05:40.659"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -1384,7 +1384,7 @@
     "timestamp": "00:05:42.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:05:42.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -1424,7 +1424,7 @@
     "timestamp": "00:05:45.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -1440,7 +1440,7 @@
     "timestamp": "00:05:49.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -1456,7 +1456,7 @@
     "timestamp": "00:05:51.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -1528,7 +1528,7 @@
     "timestamp": "00:05:57.076"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -1560,7 +1560,7 @@
     "timestamp": "00:06:11.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:06:15.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:06:21.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -1632,7 +1632,7 @@
     "timestamp": "00:06:22.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -1656,7 +1656,7 @@
     "timestamp": "00:06:27.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Phil Bardsley",
     "player2": "",
     "player1_team": "Stoke City",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:06:31.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:06:58.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -1744,7 +1744,7 @@
     "timestamp": "00:07:01.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -1768,7 +1768,7 @@
     "timestamp": "00:07:04.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:07:08.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -1816,7 +1816,7 @@
     "timestamp": "00:07:13.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:07:15.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:07:21.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -1912,7 +1912,7 @@
     "timestamp": "00:07:36.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -1928,7 +1928,7 @@
     "timestamp": "00:07:40.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -1952,7 +1952,7 @@
     "timestamp": "00:07:42.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -1976,7 +1976,7 @@
     "timestamp": "00:07:44.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -2000,7 +2000,7 @@
     "timestamp": "00:07:45.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2032,7 +2032,7 @@
     "timestamp": "00:07:49.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -2048,7 +2048,7 @@
     "timestamp": "00:08:04.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:08:08.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -2096,7 +2096,7 @@
     "timestamp": "00:08:11.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2112,7 +2112,7 @@
     "timestamp": "00:08:15.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -2136,7 +2136,7 @@
     "timestamp": "00:08:16.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:08:20.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "",
     "player1_team": "Stoke City",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:08:26.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -2280,7 +2280,7 @@
     "timestamp": "00:08:32.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -2304,7 +2304,7 @@
     "timestamp": "00:08:35.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -2352,7 +2352,7 @@
     "timestamp": "00:08:40.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2384,7 +2384,7 @@
     "timestamp": "00:09:13.976"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2408,7 +2408,7 @@
     "timestamp": "00:09:15.831"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2424,7 +2424,7 @@
     "timestamp": "00:09:16.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -2440,7 +2440,7 @@
     "timestamp": "00:09:54.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:09:59.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -2480,7 +2480,7 @@
     "timestamp": "00:10:04.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -2496,7 +2496,7 @@
     "timestamp": "00:10:09.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -2536,7 +2536,7 @@
     "timestamp": "00:10:15.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:10:23.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -2592,7 +2592,7 @@
     "timestamp": "00:10:25.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -2616,7 +2616,7 @@
     "timestamp": "00:10:28.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -2656,7 +2656,7 @@
     "timestamp": "00:10:32.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2680,7 +2680,7 @@
     "timestamp": "00:10:35.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:10:41.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -2736,7 +2736,7 @@
     "timestamp": "00:10:47.266"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2752,7 +2752,7 @@
     "timestamp": "00:10:48.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:11:15.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:11:18.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -2840,7 +2840,7 @@
     "timestamp": "00:11:25.841"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -2856,7 +2856,7 @@
     "timestamp": "00:11:29.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -2888,7 +2888,7 @@
     "timestamp": "00:11:31.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -2912,7 +2912,7 @@
     "timestamp": "00:11:33.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -2936,7 +2936,7 @@
     "timestamp": "00:11:38.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -2960,7 +2960,7 @@
     "timestamp": "00:11:41.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -2984,7 +2984,7 @@
     "timestamp": "00:11:46.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -3000,7 +3000,7 @@
     "timestamp": "00:11:50.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:12:21.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -3064,7 +3064,7 @@
     "timestamp": "00:12:23.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:12:28.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:12:32.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:12:34.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:12:36.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:12:44.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -3240,7 +3240,7 @@
     "timestamp": "00:12:52.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -3264,7 +3264,7 @@
     "timestamp": "00:12:54.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:12:56.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -3312,7 +3312,7 @@
     "timestamp": "00:12:58.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:13:02.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -3352,7 +3352,7 @@
     "timestamp": "00:13:05.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -3440,7 +3440,7 @@
     "timestamp": "00:13:09.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:13:12.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -3512,7 +3512,7 @@
     "timestamp": "00:13:37.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -3544,7 +3544,7 @@
     "timestamp": "00:13:46.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:13:53.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:13:55.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:13:58.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:14:00.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "",
     "player1_team": "Stoke City",
@@ -3672,7 +3672,7 @@
     "timestamp": "00:14:03.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:14:09.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -3736,7 +3736,7 @@
     "timestamp": "00:14:14.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:14:15.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:14:18.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:14:20.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:14:26.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -3864,7 +3864,7 @@
     "timestamp": "00:14:31.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -3888,7 +3888,7 @@
     "timestamp": "00:14:49.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:14:50.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:14:59.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -3992,7 +3992,7 @@
     "timestamp": "00:15:18.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -4016,7 +4016,7 @@
     "timestamp": "00:15:20.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -4040,7 +4040,7 @@
     "timestamp": "00:15:21.746"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:15:22.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:15:26.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:15:37.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:16:32.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:16:36.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -4328,7 +4328,7 @@
     "timestamp": "00:16:38.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -4344,7 +4344,7 @@
     "timestamp": "00:16:42.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -4360,7 +4360,7 @@
     "timestamp": "00:16:52.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -4376,7 +4376,7 @@
     "timestamp": "00:16:58.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -4424,7 +4424,7 @@
     "timestamp": "00:17:02.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:17:12.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:17:14.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:17:18.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -4528,7 +4528,7 @@
     "timestamp": "00:17:22.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -4560,7 +4560,7 @@
     "timestamp": "00:17:27.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -4584,7 +4584,7 @@
     "timestamp": "00:17:31.083"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -4608,7 +4608,7 @@
     "timestamp": "00:17:36.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -4632,7 +4632,7 @@
     "timestamp": "00:17:38.698"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -4648,7 +4648,7 @@
     "timestamp": "00:17:39.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -4656,7 +4656,7 @@
     "timestamp": "00:18:04.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4680,7 +4680,7 @@
     "timestamp": "00:18:09.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4704,7 +4704,7 @@
     "timestamp": "00:18:15.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -4728,7 +4728,7 @@
     "timestamp": "00:18:17.718"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -4744,7 +4744,7 @@
     "timestamp": "00:18:21.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -4760,7 +4760,7 @@
     "timestamp": "00:18:46.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:19:04.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -4864,7 +4864,7 @@
     "timestamp": "00:19:15.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4888,7 +4888,7 @@
     "timestamp": "00:19:17.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4904,7 +4904,7 @@
     "timestamp": "00:19:19.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -4984,7 +4984,7 @@
     "timestamp": "00:19:25.596"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Yann Gérard M''Vila",
     "player2": "",
     "player1_team": "Sunderland",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:19:32.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:19:33.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5088,7 +5088,7 @@
     "timestamp": "00:19:35.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:20:21.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5128,7 +5128,7 @@
     "timestamp": "00:20:44.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5216,7 +5216,7 @@
     "timestamp": "00:20:56.484"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:20:57.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -5256,7 +5256,7 @@
     "timestamp": "00:21:25.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:21:25.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5280,7 +5280,7 @@
     "timestamp": "00:21:57.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:21:57.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5320,7 +5320,7 @@
     "timestamp": "00:22:00.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:22:01.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5352,7 +5352,7 @@
     "timestamp": "00:22:01.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:22:07.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -5392,7 +5392,7 @@
     "timestamp": "00:22:11.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5424,7 +5424,7 @@
     "timestamp": "00:22:13.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5448,7 +5448,7 @@
     "timestamp": "00:22:14.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -5472,7 +5472,7 @@
     "timestamp": "00:22:18.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -5496,7 +5496,7 @@
     "timestamp": "00:22:20.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -5520,7 +5520,7 @@
     "timestamp": "00:22:22.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:22:28.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:22:31.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:22:35.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:22:38.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -5640,7 +5640,7 @@
     "timestamp": "00:22:41.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:22:45.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -5744,7 +5744,7 @@
     "timestamp": "00:22:56.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5752,7 +5752,7 @@
     "timestamp": "00:22:57.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:23:27.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "",
     "player1_team": "Stoke City",
@@ -5784,7 +5784,7 @@
     "timestamp": "00:23:27.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -5848,7 +5848,7 @@
     "timestamp": "00:23:50.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -5872,7 +5872,7 @@
     "timestamp": "00:23:53.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:23:55.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:23:57.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -5976,7 +5976,7 @@
     "timestamp": "00:23:59.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -6000,7 +6000,7 @@
     "timestamp": "00:24:03.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -6024,7 +6024,7 @@
     "timestamp": "00:24:07.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -6048,7 +6048,7 @@
     "timestamp": "00:24:10.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:24:13.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -6104,7 +6104,7 @@
     "timestamp": "00:24:15.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -6128,7 +6128,7 @@
     "timestamp": "00:24:20.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -6160,7 +6160,7 @@
     "timestamp": "00:24:25.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -6184,7 +6184,7 @@
     "timestamp": "00:24:31.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6200,7 +6200,7 @@
     "timestamp": "00:24:34.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -6224,7 +6224,7 @@
     "timestamp": "00:24:35.615"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:24:40.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -6288,7 +6288,7 @@
     "timestamp": "00:24:42.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -6304,7 +6304,7 @@
     "timestamp": "00:24:47.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:24:49.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -6352,7 +6352,7 @@
     "timestamp": "00:24:53.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -6376,7 +6376,7 @@
     "timestamp": "00:24:56.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:24:59.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -6424,7 +6424,7 @@
     "timestamp": "00:25:03.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:25:05.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:25:06.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -6496,7 +6496,7 @@
     "timestamp": "00:25:11.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:25:13.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:25:17.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -6576,7 +6576,7 @@
     "timestamp": "00:25:19.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:25:22.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:25:25.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:25:29.764"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:25:31.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -6680,7 +6680,7 @@
     "timestamp": "00:26:00.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -6712,7 +6712,7 @@
     "timestamp": "00:26:04.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -6744,7 +6744,7 @@
     "timestamp": "00:26:07.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:26:10.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -6800,7 +6800,7 @@
     "timestamp": "00:26:27.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:26:28.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -6840,7 +6840,7 @@
     "timestamp": "00:26:31.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:26:32.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:26:33.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:26:34.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -6952,7 +6952,7 @@
     "timestamp": "00:26:35.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -6976,7 +6976,7 @@
     "timestamp": "00:26:37.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -7000,7 +7000,7 @@
     "timestamp": "00:26:39.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -7024,7 +7024,7 @@
     "timestamp": "00:26:41.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:26:50.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -7128,7 +7128,7 @@
     "timestamp": "00:27:12.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -7152,7 +7152,7 @@
     "timestamp": "00:27:14.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -7176,7 +7176,7 @@
     "timestamp": "00:27:18.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:27:23.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -7224,7 +7224,7 @@
     "timestamp": "00:27:29.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "",
     "player1_team": "Stoke City",
@@ -7240,7 +7240,7 @@
     "timestamp": "00:27:34.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:27:43.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -7296,7 +7296,7 @@
     "timestamp": "00:27:46.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -7320,7 +7320,7 @@
     "timestamp": "00:27:48.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -7344,7 +7344,7 @@
     "timestamp": "00:28:03.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:28:04.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:28:12.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -7448,7 +7448,7 @@
     "timestamp": "00:28:38.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -7456,7 +7456,7 @@
     "timestamp": "00:28:38.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:28:41.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -7528,7 +7528,7 @@
     "timestamp": "00:28:43.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -7560,7 +7560,7 @@
     "timestamp": "00:29:17.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -7584,7 +7584,7 @@
     "timestamp": "00:29:22.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:29:26.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -7632,7 +7632,7 @@
     "timestamp": "00:29:29.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:29:38.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -7720,7 +7720,7 @@
     "timestamp": "00:29:41.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -7744,7 +7744,7 @@
     "timestamp": "00:29:44.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:29:46.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:29:49.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:29:50.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "",
     "player1_team": "Sunderland",
@@ -7848,7 +7848,7 @@
     "timestamp": "00:29:54.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:29:58.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:30:02.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:30:26.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:30:29.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:30:33.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:30:38.836"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:31:31.033"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -8032,7 +8032,7 @@
     "timestamp": "00:31:32.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8088,7 +8088,7 @@
     "timestamp": "00:31:40.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:31:45.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -8160,7 +8160,7 @@
     "timestamp": "00:31:48.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -8192,7 +8192,7 @@
     "timestamp": "00:31:50.392"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -8224,7 +8224,7 @@
     "timestamp": "00:31:52.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -8264,7 +8264,7 @@
     "timestamp": "00:31:55.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -8296,7 +8296,7 @@
     "timestamp": "00:32:05.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8312,7 +8312,7 @@
     "timestamp": "00:32:06.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:32:27.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:32:28.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -8384,7 +8384,7 @@
     "timestamp": "00:32:55.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -8408,7 +8408,7 @@
     "timestamp": "00:32:57.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -8432,7 +8432,7 @@
     "timestamp": "00:32:59.995"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:33:01.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:33:38.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:33:40.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:33:45.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:33:48.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8552,7 +8552,7 @@
     "timestamp": "00:33:52.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:33:53.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:33:55.653"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8616,7 +8616,7 @@
     "timestamp": "00:33:57.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:34:10.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:35:00.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -8688,7 +8688,7 @@
     "timestamp": "00:35:00.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -8720,7 +8720,7 @@
     "timestamp": "00:35:03.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:35:06.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:35:08.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:35:13.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:35:17.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:35:21.644"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:35:23.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -8904,7 +8904,7 @@
     "timestamp": "00:35:35.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:35:43.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -8960,7 +8960,7 @@
     "timestamp": "00:35:46.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -8976,7 +8976,7 @@
     "timestamp": "00:35:50.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:35:52.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -9040,7 +9040,7 @@
     "timestamp": "00:35:55.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -9056,7 +9056,7 @@
     "timestamp": "00:36:00.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Phil Bardsley",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -9072,7 +9072,7 @@
     "timestamp": "00:36:02.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -9144,7 +9144,7 @@
     "timestamp": "00:37:17.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:37:19.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -9184,7 +9184,7 @@
     "timestamp": "00:37:40.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:37:50.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:37:51.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -9248,7 +9248,7 @@
     "timestamp": "00:37:52.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -9280,7 +9280,7 @@
     "timestamp": "00:37:54.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -9312,7 +9312,7 @@
     "timestamp": "00:37:55.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -9352,7 +9352,7 @@
     "timestamp": "00:38:21.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9368,7 +9368,7 @@
     "timestamp": "00:38:24.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:38:57.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -9432,7 +9432,7 @@
     "timestamp": "00:38:58.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -9472,7 +9472,7 @@
     "timestamp": "00:39:03.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:39:06.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:39:11.609"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -9544,7 +9544,7 @@
     "timestamp": "00:39:13.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -9568,7 +9568,7 @@
     "timestamp": "00:39:31.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:39:32.770"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -9648,7 +9648,7 @@
     "timestamp": "00:39:40.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -9688,7 +9688,7 @@
     "timestamp": "00:40:04.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -9704,7 +9704,7 @@
     "timestamp": "00:40:18.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "",
     "player1_team": "Stoke City",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:40:19.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -9728,7 +9728,7 @@
     "timestamp": "00:40:25.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -9792,7 +9792,7 @@
     "timestamp": "00:40:28.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -9832,7 +9832,7 @@
     "timestamp": "00:41:02.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -9864,7 +9864,7 @@
     "timestamp": "00:41:06.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -9888,7 +9888,7 @@
     "timestamp": "00:41:08.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -9928,7 +9928,7 @@
     "timestamp": "00:41:14.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:41:24.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -9968,7 +9968,7 @@
     "timestamp": "00:41:52.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -10016,7 +10016,7 @@
     "timestamp": "00:41:56.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:41:58.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:42:36.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -10128,7 +10128,7 @@
     "timestamp": "00:42:38.730"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -10160,7 +10160,7 @@
     "timestamp": "00:42:42.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:42:43.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -10208,7 +10208,7 @@
     "timestamp": "00:43:07.990"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Lamine Koné",
     "player2": "",
     "player1_team": "Sunderland",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:43:09.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:43:44.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -10264,7 +10264,7 @@
     "timestamp": "00:43:46.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:43:49.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marko Arnautović",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -10320,7 +10320,7 @@
     "timestamp": "00:43:54.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:43:57.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:43:58.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -10392,7 +10392,7 @@
     "timestamp": "00:44:01.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:44:04.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",
@@ -10440,7 +10440,7 @@
     "timestamp": "00:44:10.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -10472,7 +10472,7 @@
     "timestamp": "00:44:15.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -10488,7 +10488,7 @@
     "timestamp": "00:44:17.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -10520,7 +10520,7 @@
     "timestamp": "00:44:21.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -10544,7 +10544,7 @@
     "timestamp": "00:44:22.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:44:30.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "",
     "player1_team": "Stoke City",
@@ -10616,7 +10616,7 @@
     "timestamp": "00:44:31.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:45:09.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -10648,7 +10648,7 @@
     "timestamp": "00:45:11.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -10664,7 +10664,7 @@
     "timestamp": "00:45:12.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -10688,7 +10688,7 @@
     "timestamp": "00:45:13.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -10720,7 +10720,7 @@
     "timestamp": "00:45:17.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -10752,7 +10752,7 @@
     "timestamp": "00:45:19.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -10784,7 +10784,7 @@
     "timestamp": "00:45:26.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -10816,7 +10816,7 @@
     "timestamp": "00:45:29.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:45:32.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:45:36.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:46:04.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -10912,7 +10912,7 @@
     "timestamp": "00:00:00.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -10936,7 +10936,7 @@
     "timestamp": "00:00:01.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:00:05.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -10976,7 +10976,7 @@
     "timestamp": "00:00:08.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:00:10.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "",
     "player1_team": "Stoke City",
@@ -11000,7 +11000,7 @@
     "timestamp": "00:00:10.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:00:14.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -11048,7 +11048,7 @@
     "timestamp": "00:00:17.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:00:18.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11072,7 +11072,7 @@
     "timestamp": "00:00:23.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ryan Shawcross",
     "player2": "",
     "player1_team": "Stoke City",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:00:23.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -11096,7 +11096,7 @@
     "timestamp": "00:00:44.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -11112,7 +11112,7 @@
     "timestamp": "00:00:49.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:01:15.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11152,7 +11152,7 @@
     "timestamp": "00:01:21.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -11176,7 +11176,7 @@
     "timestamp": "00:01:52.058"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Younes Kaboul",
     "player2": "",
     "player1_team": "Sunderland",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:01:53.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:02:01.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:02:06.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:02:11.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -11344,7 +11344,7 @@
     "timestamp": "00:02:16.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:03:15.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -11432,7 +11432,7 @@
     "timestamp": "00:03:26.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -11464,7 +11464,7 @@
     "timestamp": "00:03:26.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:03:30.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:03:34.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -11576,7 +11576,7 @@
     "timestamp": "00:03:41.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -11592,7 +11592,7 @@
     "timestamp": "00:03:43.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:03:45.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:03:50.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -11656,7 +11656,7 @@
     "timestamp": "00:03:52.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:03:53.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:03:55.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:03:59.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:04:08.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:04:11.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:04:12.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:04:15.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:04:17.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:04:18.969"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Marko Arnautović",
     "player2": "",
     "player1_team": "Stoke City",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:04:21.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -11984,7 +11984,7 @@
     "timestamp": "00:05:17.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -12016,7 +12016,7 @@
     "timestamp": "00:05:22.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -12080,7 +12080,7 @@
     "timestamp": "00:05:26.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:05:54.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -12112,7 +12112,7 @@
     "timestamp": "00:06:28.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:06:29.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -12160,7 +12160,7 @@
     "timestamp": "00:06:30.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -12176,7 +12176,7 @@
     "timestamp": "00:06:35.668"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -12184,7 +12184,7 @@
     "timestamp": "00:06:50.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:06:56.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -12224,7 +12224,7 @@
     "timestamp": "00:07:14.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:07:18.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:07:19.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:07:23.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marko Arnautović",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:07:26.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -12376,7 +12376,7 @@
     "timestamp": "00:07:31.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -12408,7 +12408,7 @@
     "timestamp": "00:07:33.827"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -12432,7 +12432,7 @@
     "timestamp": "00:07:37.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",
@@ -12464,7 +12464,7 @@
     "timestamp": "00:07:43.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:07:45.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -12640,7 +12640,7 @@
     "timestamp": "00:08:00.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -12672,7 +12672,7 @@
     "timestamp": "00:08:10.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:08:12.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -12728,7 +12728,7 @@
     "timestamp": "00:08:13.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12760,7 +12760,7 @@
     "timestamp": "00:08:14.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -12784,7 +12784,7 @@
     "timestamp": "00:08:15.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12840,7 +12840,7 @@
     "timestamp": "00:08:23.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -12856,7 +12856,7 @@
     "timestamp": "00:08:28.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:08:30.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -12912,7 +12912,7 @@
     "timestamp": "00:08:31.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -12944,7 +12944,7 @@
     "timestamp": "00:08:35.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12976,7 +12976,7 @@
     "timestamp": "00:08:37.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -13000,7 +13000,7 @@
     "timestamp": "00:08:39.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -13024,7 +13024,7 @@
     "timestamp": "00:08:43.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:08:47.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -13080,7 +13080,7 @@
     "timestamp": "00:09:19.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fabio Borini",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -13104,7 +13104,7 @@
     "timestamp": "00:09:29.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13128,7 +13128,7 @@
     "timestamp": "00:10:35.060"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:10:51.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -13192,7 +13192,7 @@
     "timestamp": "00:10:58.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -13216,7 +13216,7 @@
     "timestamp": "00:11:01.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:11:02.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -13264,7 +13264,7 @@
     "timestamp": "00:11:04.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:11:08.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -13328,7 +13328,7 @@
     "timestamp": "00:11:33.238"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:11:36.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:11:40.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:11:45.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:11:45.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:11:48.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -13440,7 +13440,7 @@
     "timestamp": "00:11:49.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:11:52.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -13496,7 +13496,7 @@
     "timestamp": "00:12:06.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -13528,7 +13528,7 @@
     "timestamp": "00:12:08.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wahbi Khazri",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -13552,7 +13552,7 @@
     "timestamp": "00:12:11.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -13584,7 +13584,7 @@
     "timestamp": "00:12:14.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fabio Borini",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13624,7 +13624,7 @@
     "timestamp": "00:12:15.677"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -13640,7 +13640,7 @@
     "timestamp": "00:12:20.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -13656,7 +13656,7 @@
     "timestamp": "00:12:20.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -13680,7 +13680,7 @@
     "timestamp": "00:12:24.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -13704,7 +13704,7 @@
     "timestamp": "00:12:28.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:12:33.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -13768,7 +13768,7 @@
     "timestamp": "00:12:39.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:12:43.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13816,7 +13816,7 @@
     "timestamp": "00:12:44.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13840,7 +13840,7 @@
     "timestamp": "00:13:10.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:13:17.188"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13896,7 +13896,7 @@
     "timestamp": "00:14:09.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -13912,7 +13912,7 @@
     "timestamp": "00:14:25.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -13944,7 +13944,7 @@
     "timestamp": "00:14:26.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:14:30.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -14000,7 +14000,7 @@
     "timestamp": "00:14:31.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Duncan Watmore",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:14:35.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -14064,7 +14064,7 @@
     "timestamp": "00:14:36.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -14088,7 +14088,7 @@
     "timestamp": "00:14:39.341"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:14:50.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:14:56.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:15:01.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:15:04.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -14296,7 +14296,7 @@
     "timestamp": "00:15:08.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -14320,7 +14320,7 @@
     "timestamp": "00:15:10.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -14352,7 +14352,7 @@
     "timestamp": "00:15:14.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:15:48.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:15:50.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14432,7 +14432,7 @@
     "timestamp": "00:15:54.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -14464,7 +14464,7 @@
     "timestamp": "00:15:57.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:15:58.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -14496,7 +14496,7 @@
     "timestamp": "00:16:01.630"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14528,7 +14528,7 @@
     "timestamp": "00:16:08.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -14600,7 +14600,7 @@
     "timestamp": "00:16:34.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -14624,7 +14624,7 @@
     "timestamp": "00:16:36.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:16:36.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:16:41.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -14728,7 +14728,7 @@
     "timestamp": "00:16:47.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -14752,7 +14752,7 @@
     "timestamp": "00:16:51.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:16:55.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -14808,7 +14808,7 @@
     "timestamp": "00:17:03.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -14832,7 +14832,7 @@
     "timestamp": "00:17:05.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "",
     "player1_team": "Sunderland",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:17:08.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:17:09.961"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -14904,7 +14904,7 @@
     "timestamp": "00:17:12.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -14928,7 +14928,7 @@
     "timestamp": "00:17:15.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:17:21.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -14984,7 +14984,7 @@
     "timestamp": "00:17:26.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -15000,7 +15000,7 @@
     "timestamp": "00:17:28.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -15024,7 +15024,7 @@
     "timestamp": "00:17:28.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -15048,7 +15048,7 @@
     "timestamp": "00:17:34.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -15088,7 +15088,7 @@
     "timestamp": "00:17:39.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -15128,7 +15128,7 @@
     "timestamp": "00:17:48.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:17:52.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -15160,7 +15160,7 @@
     "timestamp": "00:17:56.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:17:58.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -15200,7 +15200,7 @@
     "timestamp": "00:18:01.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -15216,7 +15216,7 @@
     "timestamp": "00:18:07.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -15240,7 +15240,7 @@
     "timestamp": "00:18:09.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:18:15.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -15296,7 +15296,7 @@
     "timestamp": "00:18:17.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:18:30.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -15360,7 +15360,7 @@
     "timestamp": "00:18:58.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:19:01.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:19:22.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -15408,7 +15408,7 @@
     "timestamp": "00:19:22.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -15472,7 +15472,7 @@
     "timestamp": "00:19:29.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:19:31.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -15528,7 +15528,7 @@
     "timestamp": "00:19:33.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:19:33.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:19:52.515"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -15624,7 +15624,7 @@
     "timestamp": "00:19:55.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:19:58.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -15680,7 +15680,7 @@
     "timestamp": "00:20:02.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -15704,7 +15704,7 @@
     "timestamp": "00:20:06.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Glenn Whelan",
     "player2": "",
     "player1_team": "Stoke City",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:20:09.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "",
     "player1_team": "Stoke City",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:20:56.000"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:21:42.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -15896,7 +15896,7 @@
     "timestamp": "00:22:08.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:22:12.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:22:18.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -15968,7 +15968,7 @@
     "timestamp": "00:22:21.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -15992,7 +15992,7 @@
     "timestamp": "00:22:24.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jan Kirchhoff",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -16008,7 +16008,7 @@
     "timestamp": "00:22:25.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -16040,7 +16040,7 @@
     "timestamp": "00:22:26.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:22:31.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:22:32.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:22:36.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -16160,7 +16160,7 @@
     "timestamp": "00:22:42.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -16184,7 +16184,7 @@
     "timestamp": "00:22:45.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dame N''Doye",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16216,7 +16216,7 @@
     "timestamp": "00:22:50.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -16248,7 +16248,7 @@
     "timestamp": "00:23:11.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -16272,7 +16272,7 @@
     "timestamp": "00:23:14.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "",
     "player1_team": "Sunderland",
@@ -16296,7 +16296,7 @@
     "timestamp": "00:23:15.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -16320,7 +16320,7 @@
     "timestamp": "00:23:17.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:23:19.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -16376,7 +16376,7 @@
     "timestamp": "00:23:21.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:23:23.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:23:29.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:23:33.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:23:43.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:23:46.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:23:52.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:24:33.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:24:51.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -16768,7 +16768,7 @@
     "timestamp": "00:25:02.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -16784,7 +16784,7 @@
     "timestamp": "00:25:22.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -16824,7 +16824,7 @@
     "timestamp": "00:25:23.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -16896,7 +16896,7 @@
     "timestamp": "00:25:35.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "",
     "player1_team": "Stoke City",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:26:53.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Phil Bardsley",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -16944,7 +16944,7 @@
     "timestamp": "00:26:56.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -16952,7 +16952,7 @@
     "timestamp": "00:27:18.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:27:23.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -16992,7 +16992,7 @@
     "timestamp": "00:27:25.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:27:28.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:27:32.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -17080,7 +17080,7 @@
     "timestamp": "00:27:36.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -17120,7 +17120,7 @@
     "timestamp": "00:27:40.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:27:42.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:27:43.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:27:49.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -17216,7 +17216,7 @@
     "timestamp": "00:27:52.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -17272,7 +17272,7 @@
     "timestamp": "00:27:55.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -17288,7 +17288,7 @@
     "timestamp": "00:28:47.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jonathan Walters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -17304,7 +17304,7 @@
     "timestamp": "00:28:49.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -17376,7 +17376,7 @@
     "timestamp": "00:28:53.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:28:55.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:28:56.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Xherdan Shaqiri",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -17456,7 +17456,7 @@
     "timestamp": "00:28:59.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:29:01.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:29:04.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -17528,7 +17528,7 @@
     "timestamp": "00:29:06.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -17552,7 +17552,7 @@
     "timestamp": "00:29:07.545"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:29:10.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Geoff Cameron",
     "player2": "",
     "player1_team": "Stoke City",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:29:18.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -17640,7 +17640,7 @@
     "timestamp": "00:29:28.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:29:33.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -17688,7 +17688,7 @@
     "timestamp": "00:29:35.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -17760,7 +17760,7 @@
     "timestamp": "00:29:39.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -17784,7 +17784,7 @@
     "timestamp": "00:29:41.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:29:47.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Xherdan Shaqiri",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -17856,7 +17856,7 @@
     "timestamp": "00:29:50.969"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Glenn Whelan",
     "player2": "",
     "player1_team": "Stoke City",
@@ -17880,7 +17880,7 @@
     "timestamp": "00:29:53.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:30:00.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -17920,7 +17920,7 @@
     "timestamp": "00:30:02.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -17944,7 +17944,7 @@
     "timestamp": "00:30:05.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -17968,7 +17968,7 @@
     "timestamp": "00:30:08.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:30:11.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:30:14.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -18040,7 +18040,7 @@
     "timestamp": "00:30:16.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -18080,7 +18080,7 @@
     "timestamp": "00:30:25.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:30:28.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -18136,7 +18136,7 @@
     "timestamp": "00:30:32.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:30:36.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -18184,7 +18184,7 @@
     "timestamp": "00:30:40.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:30:43.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -18264,7 +18264,7 @@
     "timestamp": "00:30:51.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -18288,7 +18288,7 @@
     "timestamp": "00:30:53.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -18312,7 +18312,7 @@
     "timestamp": "00:30:57.349"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -18336,7 +18336,7 @@
     "timestamp": "00:31:03.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:31:09.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jan Kirchhoff",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -18400,7 +18400,7 @@
     "timestamp": "00:31:10.715"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:32:11.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -18464,7 +18464,7 @@
     "timestamp": "00:32:35.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -18480,7 +18480,7 @@
     "timestamp": "00:32:52.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Peter Crouch",
     "player2": "",
     "player1_team": "Stoke City",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:32:52.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:33:00.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -18536,7 +18536,7 @@
     "timestamp": "00:33:30.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -18560,7 +18560,7 @@
     "timestamp": "00:33:36.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sebastian Larsson",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:33:39.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:33:44.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:33:47.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:33:54.011"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:33:55.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:33:58.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:34:02.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -18744,7 +18744,7 @@
     "timestamp": "00:34:06.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -18776,7 +18776,7 @@
     "timestamp": "00:34:08.450"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:34:11.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:34:13.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -18880,7 +18880,7 @@
     "timestamp": "00:34:17.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -18904,7 +18904,7 @@
     "timestamp": "00:34:19.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:34:27.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -18992,7 +18992,7 @@
     "timestamp": "00:34:30.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -19016,7 +19016,7 @@
     "timestamp": "00:34:32.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sebastian Larsson",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -19040,7 +19040,7 @@
     "timestamp": "00:34:38.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -19128,7 +19128,7 @@
     "timestamp": "00:34:44.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:34:50.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -19176,7 +19176,7 @@
     "timestamp": "00:34:54.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -19192,7 +19192,7 @@
     "timestamp": "00:34:58.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -19216,7 +19216,7 @@
     "timestamp": "00:35:00.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -19240,7 +19240,7 @@
     "timestamp": "00:35:02.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -19264,7 +19264,7 @@
     "timestamp": "00:35:08.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -19288,7 +19288,7 @@
     "timestamp": "00:35:10.886"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -19320,7 +19320,7 @@
     "timestamp": "00:35:11.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:35:15.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19392,7 +19392,7 @@
     "timestamp": "00:35:46.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -19416,7 +19416,7 @@
     "timestamp": "00:35:47.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:35:49.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jermain Defoe",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:35:50.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -19520,7 +19520,7 @@
     "timestamp": "00:35:52.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19544,7 +19544,7 @@
     "timestamp": "00:35:53.976"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -19568,7 +19568,7 @@
     "timestamp": "00:35:56.331"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sebastian Larsson",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:36:22.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dame N''Doye",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -19608,7 +19608,7 @@
     "timestamp": "00:36:24.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mame Biram Diouf",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:36:27.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -19688,7 +19688,7 @@
     "timestamp": "00:36:34.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -19712,7 +19712,7 @@
     "timestamp": "00:36:36.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -19736,7 +19736,7 @@
     "timestamp": "00:36:38.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -19752,7 +19752,7 @@
     "timestamp": "00:36:41.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:36:43.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -19800,7 +19800,7 @@
     "timestamp": "00:36:44.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lee Cattermole",
     "player2": "",
     "player1_team": "Sunderland",
@@ -19808,7 +19808,7 @@
     "timestamp": "00:36:44.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -19832,7 +19832,7 @@
     "timestamp": "00:36:46.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -19872,7 +19872,7 @@
     "timestamp": "00:36:53.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:37:22.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -19936,7 +19936,7 @@
     "timestamp": "00:37:23.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jermain Defoe",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -19960,7 +19960,7 @@
     "timestamp": "00:37:26.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dame N''Doye",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -19992,7 +19992,7 @@
     "timestamp": "00:37:30.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Geoff Cameron",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:37:36.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -20088,7 +20088,7 @@
     "timestamp": "00:37:41.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -20112,7 +20112,7 @@
     "timestamp": "00:37:47.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20136,7 +20136,7 @@
     "timestamp": "00:37:50.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20160,7 +20160,7 @@
     "timestamp": "00:37:53.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20184,7 +20184,7 @@
     "timestamp": "00:37:56.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -20208,7 +20208,7 @@
     "timestamp": "00:37:59.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -20232,7 +20232,7 @@
     "timestamp": "00:38:03.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -20264,7 +20264,7 @@
     "timestamp": "00:38:06.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Patrick van Aanholt",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:38:08.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dame N''Doye",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -20312,7 +20312,7 @@
     "timestamp": "00:38:10.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20336,7 +20336,7 @@
     "timestamp": "00:38:13.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20360,7 +20360,7 @@
     "timestamp": "00:38:16.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20384,7 +20384,7 @@
     "timestamp": "00:38:19.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -20416,7 +20416,7 @@
     "timestamp": "00:38:26.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:39:03.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -20448,7 +20448,7 @@
     "timestamp": "00:39:06.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -20472,7 +20472,7 @@
     "timestamp": "00:39:07.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mame Biram Diouf",
     "player2": "Phil Bardsley",
     "player1_team": "Stoke City",
@@ -20496,7 +20496,7 @@
     "timestamp": "00:39:09.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Phil Bardsley",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -20520,7 +20520,7 @@
     "timestamp": "00:39:11.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Charlie Adam",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -20544,7 +20544,7 @@
     "timestamp": "00:39:12.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mame Biram Diouf",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -20576,7 +20576,7 @@
     "timestamp": "00:39:14.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Charlie Adam",
     "player1_team": "Stoke City",
@@ -20600,7 +20600,7 @@
     "timestamp": "00:39:15.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "",
     "player1_team": "Stoke City",
@@ -20608,7 +20608,7 @@
     "timestamp": "00:39:15.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20624,7 +20624,7 @@
     "timestamp": "00:39:19.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Charlie Adam",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:39:21.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -20672,7 +20672,7 @@
     "timestamp": "00:39:22.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sebastian Larsson",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -20696,7 +20696,7 @@
     "timestamp": "00:39:24.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:39:28.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20744,7 +20744,7 @@
     "timestamp": "00:39:31.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -20768,7 +20768,7 @@
     "timestamp": "00:39:38.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -20800,7 +20800,7 @@
     "timestamp": "00:39:42.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mame Biram Diouf",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:39:44.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Younes Kaboul",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:39:45.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:39:50.371"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Duncan Watmore",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -20896,7 +20896,7 @@
     "timestamp": "00:40:24.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:40:38.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -20936,7 +20936,7 @@
     "timestamp": "00:41:03.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lee Cattermole",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -20960,7 +20960,7 @@
     "timestamp": "00:41:09.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sebastian Larsson",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:41:13.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -21016,7 +21016,7 @@
     "timestamp": "00:41:14.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -21024,7 +21024,7 @@
     "timestamp": "00:41:16.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",
@@ -21040,7 +21040,7 @@
     "timestamp": "00:42:05.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -21064,7 +21064,7 @@
     "timestamp": "00:42:12.520"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -21080,7 +21080,7 @@
     "timestamp": "00:43:11.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jakob Haugaard",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -21144,7 +21144,7 @@
     "timestamp": "00:44:06.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -21168,7 +21168,7 @@
     "timestamp": "00:44:46.142"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Glenn Whelan",
     "player2": "",
     "player1_team": "Stoke City",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:44:47.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Vito Mannone",
     "player2": "",
     "player1_team": "Sunderland",
@@ -21192,7 +21192,7 @@
     "timestamp": "00:45:01.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -21208,7 +21208,7 @@
     "timestamp": "00:45:06.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -21232,7 +21232,7 @@
     "timestamp": "00:45:08.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mame Biram Diouf",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:45:09.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marc Muniesa Martínez",
     "player1_team": "Stoke City",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:45:11.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Muniesa Martínez",
     "player2": "Ryan Shawcross",
     "player1_team": "Stoke City",
@@ -21304,7 +21304,7 @@
     "timestamp": "00:45:13.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ryan Shawcross",
     "player2": "Marc Muniesa Martínez",
     "player1_team": "Stoke City",
@@ -21328,7 +21328,7 @@
     "timestamp": "00:45:13.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Muniesa Martínez",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:45:19.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -21416,7 +21416,7 @@
     "timestamp": "00:45:23.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -21440,7 +21440,7 @@
     "timestamp": "00:45:25.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Yann Gérard M''Vila",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -21464,7 +21464,7 @@
     "timestamp": "00:45:25.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -21488,7 +21488,7 @@
     "timestamp": "00:45:27.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sebastian Larsson",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -21536,7 +21536,7 @@
     "timestamp": "00:45:29.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Glenn Whelan",
     "player2": "Jakob Haugaard",
     "player1_team": "Stoke City",
@@ -21568,7 +21568,7 @@
     "timestamp": "00:45:34.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",
@@ -21576,7 +21576,7 @@
     "timestamp": "00:45:34.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -21600,7 +21600,7 @@
     "timestamp": "00:45:49.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lamine Koné",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -21624,7 +21624,7 @@
     "timestamp": "00:45:51.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Younes Kaboul",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -21688,7 +21688,7 @@
     "timestamp": "00:45:59.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dame N''Doye",
     "player2": "",
     "player1_team": "Sunderland",
@@ -21728,7 +21728,7 @@
     "timestamp": "00:46:01.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Erik Pieters",
     "player2": "Peter Crouch",
     "player1_team": "Stoke City",
@@ -21752,7 +21752,7 @@
     "timestamp": "00:46:04.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -21776,7 +21776,7 @@
     "timestamp": "00:46:06.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jonathan Walters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -21800,7 +21800,7 @@
     "timestamp": "00:46:09.485"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "",
     "player1_team": "Stoke City",
@@ -21816,7 +21816,7 @@
     "timestamp": "00:46:13.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Vito Mannone",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:46:41.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Duncan Watmore",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -21872,7 +21872,7 @@
     "timestamp": "00:46:43.164"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -21912,7 +21912,7 @@
     "timestamp": "00:46:44.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mame Biram Diouf",
     "player2": "",
     "player1_team": "Stoke City",
@@ -21936,7 +21936,7 @@
     "timestamp": "00:46:49.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lamine Koné",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -21984,7 +21984,7 @@
     "timestamp": "00:46:57.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Yann Gérard M''Vila",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -22032,7 +22032,7 @@
     "timestamp": "00:46:59.453"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Jermain Defoe",
     "player2": "",
     "player1_team": "Sunderland",
@@ -22048,7 +22048,7 @@
     "timestamp": "00:48:32.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Peter Crouch",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -22072,7 +22072,7 @@
     "timestamp": "00:49:18.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "DeAndre Yedlin",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -22096,7 +22096,7 @@
     "timestamp": "00:49:18.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jakob Haugaard",
     "player2": "",
     "player1_team": "Stoke City",

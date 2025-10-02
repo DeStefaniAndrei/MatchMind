@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:05.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:06.850"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -72,7 +72,7 @@
     "timestamp": "00:00:08.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -96,7 +96,7 @@
     "timestamp": "00:00:10.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -120,7 +120,7 @@
     "timestamp": "00:00:13.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -144,7 +144,7 @@
     "timestamp": "00:00:17.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -168,7 +168,7 @@
     "timestamp": "00:00:20.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -192,7 +192,7 @@
     "timestamp": "00:00:24.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -216,7 +216,7 @@
     "timestamp": "00:00:29.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Tarcisio Burgnich",
     "player1_team": "Inter Milan",
@@ -248,7 +248,7 @@
     "timestamp": "00:00:32.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -272,7 +272,7 @@
     "timestamp": "00:00:34.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -296,7 +296,7 @@
     "timestamp": "00:00:35.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -320,7 +320,7 @@
     "timestamp": "00:00:38.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Horst Blankenburg",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -336,7 +336,7 @@
     "timestamp": "00:00:41.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -368,7 +368,7 @@
     "timestamp": "00:00:53.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roberto Boninsegna",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -376,7 +376,7 @@
     "timestamp": "00:00:54.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -400,7 +400,7 @@
     "timestamp": "00:01:01.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -416,7 +416,7 @@
     "timestamp": "00:01:11.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -464,7 +464,7 @@
     "timestamp": "00:01:13.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -488,7 +488,7 @@
     "timestamp": "00:01:14.703"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Wim Suurbier",
     "player2": "",
     "player1_team": "Ajax",
@@ -504,7 +504,7 @@
     "timestamp": "00:01:20.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -520,7 +520,7 @@
     "timestamp": "00:01:35.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -544,7 +544,7 @@
     "timestamp": "00:01:37.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -648,7 +648,7 @@
     "timestamp": "00:01:48.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -672,7 +672,7 @@
     "timestamp": "00:01:54.401"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -696,7 +696,7 @@
     "timestamp": "00:01:56.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -728,7 +728,7 @@
     "timestamp": "00:02:00.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabriele Oriali",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -736,7 +736,7 @@
     "timestamp": "00:02:01.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -776,7 +776,7 @@
     "timestamp": "00:02:11.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -800,7 +800,7 @@
     "timestamp": "00:02:12.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -848,7 +848,7 @@
     "timestamp": "00:02:17.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -888,7 +888,7 @@
     "timestamp": "00:02:48.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -912,7 +912,7 @@
     "timestamp": "00:02:50.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -928,7 +928,7 @@
     "timestamp": "00:02:54.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -944,7 +944,7 @@
     "timestamp": "00:03:12.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Horst Blankenburg",
     "player2": "",
     "player1_team": "Ajax",
@@ -992,7 +992,7 @@
     "timestamp": "00:03:15.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -1040,7 +1040,7 @@
     "timestamp": "00:03:22.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -1072,7 +1072,7 @@
     "timestamp": "00:03:28.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -1096,7 +1096,7 @@
     "timestamp": "00:03:38.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:03:43.488"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Arie Haan",
     "player2": "",
     "player1_team": "Ajax",
@@ -1160,7 +1160,7 @@
     "timestamp": "00:03:46.350"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Arie Haan",
     "player2": "",
     "player1_team": "Ajax",
@@ -1176,7 +1176,7 @@
     "timestamp": "00:03:47.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:03:52.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:03:54.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giacinto Facchetti",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -1256,7 +1256,7 @@
     "timestamp": "00:03:56.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -1280,7 +1280,7 @@
     "timestamp": "00:03:58.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -1312,7 +1312,7 @@
     "timestamp": "00:04:00.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "",
     "player1_team": "Ajax",
@@ -1336,7 +1336,7 @@
     "timestamp": "00:04:05.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:04:23.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -1368,7 +1368,7 @@
     "timestamp": "00:04:42.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:04:58.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Giubertoni",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -1424,7 +1424,7 @@
     "timestamp": "00:05:07.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Ivano Bordon",
     "player1_team": "Inter Milan",
@@ -1448,7 +1448,7 @@
     "timestamp": "00:05:10.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ivano Bordon",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:05:20.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:05:23.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:05:27.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:05:34.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -1600,7 +1600,7 @@
     "timestamp": "00:05:40.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Tarcisio Burgnich",
     "player1_team": "Inter Milan",
@@ -1624,7 +1624,7 @@
     "timestamp": "00:05:49.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -1648,7 +1648,7 @@
     "timestamp": "00:05:52.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:05:55.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:06:00.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -1736,7 +1736,7 @@
     "timestamp": "00:06:04.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -1760,7 +1760,7 @@
     "timestamp": "00:06:05.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:06:08.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:06:12.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:06:23.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roberto Boninsegna",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:06:25.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -1928,7 +1928,7 @@
     "timestamp": "00:06:33.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:06:38.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -2016,7 +2016,7 @@
     "timestamp": "00:06:43.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -2048,7 +2048,7 @@
     "timestamp": "00:06:45.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:06:46.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -2088,7 +2088,7 @@
     "timestamp": "00:06:48.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -2104,7 +2104,7 @@
     "timestamp": "00:06:50.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:07:17.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:07:19.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Barry Hulshoff",
     "player2": "",
     "player1_team": "Ajax",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:07:21.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -2184,7 +2184,7 @@
     "timestamp": "00:07:30.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:07:33.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -2240,7 +2240,7 @@
     "timestamp": "00:07:36.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:07:40.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -2288,7 +2288,7 @@
     "timestamp": "00:07:42.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:07:47.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:07:52.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -2384,7 +2384,7 @@
     "timestamp": "00:07:56.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:07:59.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -2440,7 +2440,7 @@
     "timestamp": "00:08:02.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:08:07.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -2496,7 +2496,7 @@
     "timestamp": "00:08:11.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -2520,7 +2520,7 @@
     "timestamp": "00:08:16.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:08:21.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -2600,7 +2600,7 @@
     "timestamp": "00:08:23.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:08:25.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -2640,7 +2640,7 @@
     "timestamp": "00:08:30.962"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:08:32.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Heinz Stuy",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -2680,7 +2680,7 @@
     "timestamp": "00:08:45.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -2752,7 +2752,7 @@
     "timestamp": "00:09:00.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -2800,7 +2800,7 @@
     "timestamp": "00:09:07.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -2824,7 +2824,7 @@
     "timestamp": "00:09:17.079"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -2840,7 +2840,7 @@
     "timestamp": "00:09:18.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -2888,7 +2888,7 @@
     "timestamp": "00:09:22.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -2912,7 +2912,7 @@
     "timestamp": "00:09:36.611"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -2936,7 +2936,7 @@
     "timestamp": "00:09:42.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -2952,7 +2952,7 @@
     "timestamp": "00:09:45.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -2976,7 +2976,7 @@
     "timestamp": "00:09:46.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "",
     "player1_team": "Ajax",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:09:56.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mario Giubertoni",
     "player1_team": "Inter Milan",
@@ -3088,7 +3088,7 @@
     "timestamp": "00:10:03.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Giubertoni",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:10:05.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -3208,7 +3208,7 @@
     "timestamp": "00:10:18.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:10:22.088"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -3240,7 +3240,7 @@
     "timestamp": "00:10:23.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mario Giubertoni",
     "player1_team": "Inter Milan",
@@ -3256,7 +3256,7 @@
     "timestamp": "00:10:35.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Giubertoni",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:11:51.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -3312,7 +3312,7 @@
     "timestamp": "00:11:52.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:11:59.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -3384,7 +3384,7 @@
     "timestamp": "00:12:12.445"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:12:20.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:12:24.871"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:12:49.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -3544,7 +3544,7 @@
     "timestamp": "00:12:55.754"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:13:02.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -3624,7 +3624,7 @@
     "timestamp": "00:13:07.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -3704,7 +3704,7 @@
     "timestamp": "00:13:17.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:13:31.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -3752,7 +3752,7 @@
     "timestamp": "00:13:35.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -3776,7 +3776,7 @@
     "timestamp": "00:13:38.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -3904,7 +3904,7 @@
     "timestamp": "00:13:47.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -3960,7 +3960,7 @@
     "timestamp": "00:13:56.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -3984,7 +3984,7 @@
     "timestamp": "00:14:00.071"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:14:11.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:14:14.021"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -4104,7 +4104,7 @@
     "timestamp": "00:14:19.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:14:24.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:14:32.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Ivano Bordon",
     "player1_team": "Inter Milan",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:14:33.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ivano Bordon",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -4192,7 +4192,7 @@
     "timestamp": "00:14:38.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -4224,7 +4224,7 @@
     "timestamp": "00:14:40.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -4256,7 +4256,7 @@
     "timestamp": "00:14:42.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Tarcisio Burgnich",
     "player1_team": "Inter Milan",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:14:43.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:14:44.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -4336,7 +4336,7 @@
     "timestamp": "00:14:53.437"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jair da Costa",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -4360,7 +4360,7 @@
     "timestamp": "00:14:55.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:14:57.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -4408,7 +4408,7 @@
     "timestamp": "00:15:03.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -4432,7 +4432,7 @@
     "timestamp": "00:15:09.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:15:11.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -4488,7 +4488,7 @@
     "timestamp": "00:15:12.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:15:18.165"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -4552,7 +4552,7 @@
     "timestamp": "00:15:19.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -4576,7 +4576,7 @@
     "timestamp": "00:15:21.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -4600,7 +4600,7 @@
     "timestamp": "00:15:23.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jair da Costa",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:15:27.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:15:42.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:15:52.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -4680,7 +4680,7 @@
     "timestamp": "00:15:55.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:15:57.396"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -4728,7 +4728,7 @@
     "timestamp": "00:16:00.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -4776,7 +4776,7 @@
     "timestamp": "00:16:05.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:16:37.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:16:41.908"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -4888,7 +4888,7 @@
     "timestamp": "00:16:43.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -4920,7 +4920,7 @@
     "timestamp": "00:16:51.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:16:53.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:16:54.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:17:05.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jair da Costa",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:17:09.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:17:43.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:17:46.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:17:51.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -5168,7 +5168,7 @@
     "timestamp": "00:17:56.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -5192,7 +5192,7 @@
     "timestamp": "00:18:03.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -5224,7 +5224,7 @@
     "timestamp": "00:18:22.970"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -5248,7 +5248,7 @@
     "timestamp": "00:18:27.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roberto Boninsegna",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:18:27.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:18:32.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:18:36.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -5408,7 +5408,7 @@
     "timestamp": "00:18:40.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:18:44.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:18:47.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:18:52.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -5496,7 +5496,7 @@
     "timestamp": "00:18:56.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:18:58.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -5552,7 +5552,7 @@
     "timestamp": "00:19:03.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -5576,7 +5576,7 @@
     "timestamp": "00:19:04.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -5608,7 +5608,7 @@
     "timestamp": "00:19:09.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:19:10.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:19:34.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -5736,7 +5736,7 @@
     "timestamp": "00:19:38.503"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -5760,7 +5760,7 @@
     "timestamp": "00:19:41.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -5792,7 +5792,7 @@
     "timestamp": "00:19:51.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:19:54.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:19:55.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -5864,7 +5864,7 @@
     "timestamp": "00:19:57.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -5896,7 +5896,7 @@
     "timestamp": "00:20:04.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -5920,7 +5920,7 @@
     "timestamp": "00:20:07.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roberto Boninsegna",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:20:08.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -5968,7 +5968,7 @@
     "timestamp": "00:20:11.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -5992,7 +5992,7 @@
     "timestamp": "00:20:12.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:20:17.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -6024,7 +6024,7 @@
     "timestamp": "00:20:18.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -6056,7 +6056,7 @@
     "timestamp": "00:20:20.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -6072,7 +6072,7 @@
     "timestamp": "00:20:23.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -6096,7 +6096,7 @@
     "timestamp": "00:20:35.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:20:37.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:20:43.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Arie Haan",
     "player2": "",
     "player1_team": "Ajax",
@@ -6152,7 +6152,7 @@
     "timestamp": "00:20:44.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:20:48.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -6200,7 +6200,7 @@
     "timestamp": "00:20:50.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -6224,7 +6224,7 @@
     "timestamp": "00:20:55.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -6248,7 +6248,7 @@
     "timestamp": "00:20:56.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:21:01.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:21:02.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:21:04.799"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:21:05.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:21:26.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:21:36.065"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giacinto Facchetti",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -6408,7 +6408,7 @@
     "timestamp": "00:21:38.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -6440,7 +6440,7 @@
     "timestamp": "00:21:42.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -6464,7 +6464,7 @@
     "timestamp": "00:21:44.493"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -6520,7 +6520,7 @@
     "timestamp": "00:21:53.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -6544,7 +6544,7 @@
     "timestamp": "00:21:57.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:22:03.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:22:05.696"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:22:11.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:22:14.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:22:26.651"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -6720,7 +6720,7 @@
     "timestamp": "00:22:28.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:22:38.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:22:41.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:22:46.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -6840,7 +6840,7 @@
     "timestamp": "00:23:09.432"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Arie Haan",
     "player2": "",
     "player1_team": "Ajax",
@@ -6856,7 +6856,7 @@
     "timestamp": "00:23:13.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:23:31.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -6888,7 +6888,7 @@
     "timestamp": "00:23:35.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -6912,7 +6912,7 @@
     "timestamp": "00:23:37.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -6936,7 +6936,7 @@
     "timestamp": "00:23:46.424"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -6960,7 +6960,7 @@
     "timestamp": "00:23:53.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -6984,7 +6984,7 @@
     "timestamp": "00:23:55.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:23:58.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:23:59.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:24:01.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:24:08.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -7096,7 +7096,7 @@
     "timestamp": "00:24:10.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:24:12.535"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -7136,7 +7136,7 @@
     "timestamp": "00:24:16.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -7160,7 +7160,7 @@
     "timestamp": "00:24:18.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Bertini",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -7248,7 +7248,7 @@
     "timestamp": "00:24:35.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -7296,7 +7296,7 @@
     "timestamp": "00:24:40.228"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -7312,7 +7312,7 @@
     "timestamp": "00:25:09.834"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -7320,7 +7320,7 @@
     "timestamp": "00:25:25.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Barry Hulshoff",
     "player2": "",
     "player1_team": "Ajax",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:25:29.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -7392,7 +7392,7 @@
     "timestamp": "00:25:34.841"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:25:36.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -7448,7 +7448,7 @@
     "timestamp": "00:25:37.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -7472,7 +7472,7 @@
     "timestamp": "00:25:39.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Arie Haan",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -7488,7 +7488,7 @@
     "timestamp": "00:25:45.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:25:47.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -7544,7 +7544,7 @@
     "timestamp": "00:25:48.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -7592,7 +7592,7 @@
     "timestamp": "00:25:49.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:25:53.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:25:56.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -7672,7 +7672,7 @@
     "timestamp": "00:26:02.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:26:08.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Horst Blankenburg",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:26:13.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -7720,7 +7720,7 @@
     "timestamp": "00:26:13.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:26:15.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Horst Blankenburg",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:26:19.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -7824,7 +7824,7 @@
     "timestamp": "00:26:24.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -7848,7 +7848,7 @@
     "timestamp": "00:26:31.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:26:37.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -7896,7 +7896,7 @@
     "timestamp": "00:26:39.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -7920,7 +7920,7 @@
     "timestamp": "00:26:44.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:26:49.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -8032,7 +8032,7 @@
     "timestamp": "00:26:59.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:27:05.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -8112,7 +8112,7 @@
     "timestamp": "00:27:10.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Barry Hulshoff",
     "player2": "",
     "player1_team": "Ajax",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:27:33.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:27:38.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:27:42.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:27:44.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:27:46.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:27:53.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -8320,7 +8320,7 @@
     "timestamp": "00:28:31.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "",
     "player1_team": "Ajax",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:28:31.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:28:57.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -8384,7 +8384,7 @@
     "timestamp": "00:28:59.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Arie Haan",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -8416,7 +8416,7 @@
     "timestamp": "00:29:05.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -8440,7 +8440,7 @@
     "timestamp": "00:29:10.453"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -8456,7 +8456,7 @@
     "timestamp": "00:29:16.492"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:29:31.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:29:41.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -8536,7 +8536,7 @@
     "timestamp": "00:29:44.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:29:46.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:30:00.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:30:01.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -8616,7 +8616,7 @@
     "timestamp": "00:30:06.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -8640,7 +8640,7 @@
     "timestamp": "00:30:12.159"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:30:19.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -8696,7 +8696,7 @@
     "timestamp": "00:30:55.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -8712,7 +8712,7 @@
     "timestamp": "00:30:57.648"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -8736,7 +8736,7 @@
     "timestamp": "00:30:58.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -8760,7 +8760,7 @@
     "timestamp": "00:31:00.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:31:02.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -8824,7 +8824,7 @@
     "timestamp": "00:31:09.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Ivano Bordon",
     "player1_team": "Inter Milan",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:31:19.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -8888,7 +8888,7 @@
     "timestamp": "00:31:25.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "",
     "player1_team": "Ajax",
@@ -8920,7 +8920,7 @@
     "timestamp": "00:31:29.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:31:33.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -8968,7 +8968,7 @@
     "timestamp": "00:31:37.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -8984,7 +8984,7 @@
     "timestamp": "00:31:38.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roberto Boninsegna",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:31:38.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:31:41.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "",
     "player1_team": "Ajax",
@@ -9024,7 +9024,7 @@
     "timestamp": "00:31:41.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:31:46.875"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roberto Boninsegna",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -9072,7 +9072,7 @@
     "timestamp": "00:31:49.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:31:56.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:32:00.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:32:15.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -9184,7 +9184,7 @@
     "timestamp": "00:32:22.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -9200,7 +9200,7 @@
     "timestamp": "00:32:26.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -9224,7 +9224,7 @@
     "timestamp": "00:32:40.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -9304,7 +9304,7 @@
     "timestamp": "00:32:48.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -9328,7 +9328,7 @@
     "timestamp": "00:33:07.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -9376,7 +9376,7 @@
     "timestamp": "00:33:14.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -9456,7 +9456,7 @@
     "timestamp": "00:33:41.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -9480,7 +9480,7 @@
     "timestamp": "00:33:42.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:33:48.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -9560,7 +9560,7 @@
     "timestamp": "00:33:50.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -9624,7 +9624,7 @@
     "timestamp": "00:33:53.363"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -9648,7 +9648,7 @@
     "timestamp": "00:33:57.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:34:05.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -9688,7 +9688,7 @@
     "timestamp": "00:34:06.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:34:10.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -9720,7 +9720,7 @@
     "timestamp": "00:34:37.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -9744,7 +9744,7 @@
     "timestamp": "00:34:41.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:34:45.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:34:45.787"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -9800,7 +9800,7 @@
     "timestamp": "00:34:55.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:34:59.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -9888,7 +9888,7 @@
     "timestamp": "00:35:05.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -9904,7 +9904,7 @@
     "timestamp": "00:35:07.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -9928,7 +9928,7 @@
     "timestamp": "00:35:08.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:35:11.108"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:35:11.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:35:34.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Barry Hulshoff",
     "player2": "",
     "player1_team": "Ajax",
@@ -9992,7 +9992,7 @@
     "timestamp": "00:35:37.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -10016,7 +10016,7 @@
     "timestamp": "00:35:40.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -10064,7 +10064,7 @@
     "timestamp": "00:35:42.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -10088,7 +10088,7 @@
     "timestamp": "00:35:52.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:36:00.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -10152,7 +10152,7 @@
     "timestamp": "00:36:04.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:36:07.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -10200,7 +10200,7 @@
     "timestamp": "00:36:08.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:36:11.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:36:16.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -10272,7 +10272,7 @@
     "timestamp": "00:36:20.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -10288,7 +10288,7 @@
     "timestamp": "00:36:25.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -10312,7 +10312,7 @@
     "timestamp": "00:36:27.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:36:28.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:36:31.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:36:37.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:36:38.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:36:42.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -10496,7 +10496,7 @@
     "timestamp": "00:36:57.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -10528,7 +10528,7 @@
     "timestamp": "00:37:11.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -10560,7 +10560,7 @@
     "timestamp": "00:37:13.727"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:37:20.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:37:23.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -10640,7 +10640,7 @@
     "timestamp": "00:37:30.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -10656,7 +10656,7 @@
     "timestamp": "00:37:37.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -10680,7 +10680,7 @@
     "timestamp": "00:37:39.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:37:42.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -10728,7 +10728,7 @@
     "timestamp": "00:37:45.591"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Arie Haan",
     "player2": "",
     "player1_team": "Ajax",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:37:47.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -10784,7 +10784,7 @@
     "timestamp": "00:37:49.603"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Johan Neeskens",
     "player2": "",
     "player1_team": "Ajax",
@@ -10800,7 +10800,7 @@
     "timestamp": "00:37:50.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -10864,7 +10864,7 @@
     "timestamp": "00:38:55.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruud Krol",
     "player2": "",
     "player1_team": "Ajax",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:39:30.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -10960,7 +10960,7 @@
     "timestamp": "00:39:39.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -10984,7 +10984,7 @@
     "timestamp": "00:39:42.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -11008,7 +11008,7 @@
     "timestamp": "00:39:51.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -11032,7 +11032,7 @@
     "timestamp": "00:39:56.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -11064,7 +11064,7 @@
     "timestamp": "00:40:01.558"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -11112,7 +11112,7 @@
     "timestamp": "00:40:08.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:40:26.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -11184,7 +11184,7 @@
     "timestamp": "00:40:30.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giacinto Facchetti",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:40:31.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:40:37.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:40:40.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -11248,7 +11248,7 @@
     "timestamp": "00:40:42.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:40:49.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giacinto Facchetti",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -11288,7 +11288,7 @@
     "timestamp": "00:40:53.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:40:54.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:40:56.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -11392,7 +11392,7 @@
     "timestamp": "00:41:13.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giacinto Facchetti",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:41:14.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Horst Blankenburg",
     "player2": "",
     "player1_team": "Ajax",
@@ -11432,7 +11432,7 @@
     "timestamp": "00:41:20.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:41:24.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -11512,7 +11512,7 @@
     "timestamp": "00:41:40.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -11536,7 +11536,7 @@
     "timestamp": "00:41:43.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11560,7 +11560,7 @@
     "timestamp": "00:41:47.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11584,7 +11584,7 @@
     "timestamp": "00:41:50.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:41:56.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -11640,7 +11640,7 @@
     "timestamp": "00:42:01.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -11672,7 +11672,7 @@
     "timestamp": "00:42:10.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -11696,7 +11696,7 @@
     "timestamp": "00:42:13.839"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -11728,7 +11728,7 @@
     "timestamp": "00:42:18.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -11752,7 +11752,7 @@
     "timestamp": "00:42:20.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -11768,7 +11768,7 @@
     "timestamp": "00:42:21.983"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11792,7 +11792,7 @@
     "timestamp": "00:42:24.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:42:27.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:42:29.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Arie Haan",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:42:35.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11896,7 +11896,7 @@
     "timestamp": "00:42:36.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11920,7 +11920,7 @@
     "timestamp": "00:43:11.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -11944,7 +11944,7 @@
     "timestamp": "00:43:13.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -11976,7 +11976,7 @@
     "timestamp": "00:43:21.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -12000,7 +12000,7 @@
     "timestamp": "00:43:23.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -12024,7 +12024,7 @@
     "timestamp": "00:43:26.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:43:29.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -12072,7 +12072,7 @@
     "timestamp": "00:43:34.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Arie Haan",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:43:36.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -12120,7 +12120,7 @@
     "timestamp": "00:00:02.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -12240,7 +12240,7 @@
     "timestamp": "00:00:13.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:00:36.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Ivano Bordon",
     "player1_team": "Inter Milan",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:00:52.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ivano Bordon",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:00:58.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Horst Blankenburg",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:01:01.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -12416,7 +12416,7 @@
     "timestamp": "00:01:02.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:01:05.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -12472,7 +12472,7 @@
     "timestamp": "00:01:17.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -12504,7 +12504,7 @@
     "timestamp": "00:01:19.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:01:21.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -12544,7 +12544,7 @@
     "timestamp": "00:01:24.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -12568,7 +12568,7 @@
     "timestamp": "00:01:25.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -12600,7 +12600,7 @@
     "timestamp": "00:01:27.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:01:32.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "",
     "player1_team": "Ajax",
@@ -12656,7 +12656,7 @@
     "timestamp": "00:01:40.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -12680,7 +12680,7 @@
     "timestamp": "00:01:42.397"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:01:45.488"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:01:47.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -12744,7 +12744,7 @@
     "timestamp": "00:02:30.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -12760,7 +12760,7 @@
     "timestamp": "00:02:34.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jair da Costa",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:02:36.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "",
     "player1_team": "Ajax",
@@ -12800,7 +12800,7 @@
     "timestamp": "00:02:37.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:02:57.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -12880,7 +12880,7 @@
     "timestamp": "00:03:09.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -12904,7 +12904,7 @@
     "timestamp": "00:03:11.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roberto Boninsegna",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -12928,7 +12928,7 @@
     "timestamp": "00:03:14.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:03:34.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -12976,7 +12976,7 @@
     "timestamp": "00:03:39.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -13024,7 +13024,7 @@
     "timestamp": "00:03:45.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:04:33.875"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -13080,7 +13080,7 @@
     "timestamp": "00:04:35.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -13096,7 +13096,7 @@
     "timestamp": "00:04:40.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Bertini",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:05:01.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:05:02.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Neeskens",
     "player2": "",
     "player1_team": "Ajax",
@@ -13168,7 +13168,7 @@
     "timestamp": "00:05:03.914"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -13264,7 +13264,7 @@
     "timestamp": "00:05:12.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -13288,7 +13288,7 @@
     "timestamp": "00:05:14.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:05:15.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:05:18.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:05:22.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:05:26.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:05:28.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:05:35.510"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Johan Neeskens",
     "player2": "",
     "player1_team": "Ajax",
@@ -13448,7 +13448,7 @@
     "timestamp": "00:05:42.187"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:05:45.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Jair da Costa",
     "player1_team": "Inter Milan",
@@ -13512,7 +13512,7 @@
     "timestamp": "00:05:49.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:06:57.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giacinto Facchetti",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -13560,7 +13560,7 @@
     "timestamp": "00:07:00.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:07:15.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Barry Hulshoff",
     "player2": "",
     "player1_team": "Ajax",
@@ -13624,7 +13624,7 @@
     "timestamp": "00:07:16.829"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -13640,7 +13640,7 @@
     "timestamp": "00:07:18.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -13664,7 +13664,7 @@
     "timestamp": "00:07:35.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:07:42.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -13744,7 +13744,7 @@
     "timestamp": "00:08:03.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -13760,7 +13760,7 @@
     "timestamp": "00:08:32.303"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -13776,7 +13776,7 @@
     "timestamp": "00:08:33.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:08:42.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -13824,7 +13824,7 @@
     "timestamp": "00:08:43.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -13848,7 +13848,7 @@
     "timestamp": "00:08:46.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -13872,7 +13872,7 @@
     "timestamp": "00:08:52.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -13888,7 +13888,7 @@
     "timestamp": "00:08:55.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -13920,7 +13920,7 @@
     "timestamp": "00:09:09.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -13944,7 +13944,7 @@
     "timestamp": "00:09:13.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ivano Bordon",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -14016,7 +14016,7 @@
     "timestamp": "00:09:28.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giacinto Facchetti",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -14040,7 +14040,7 @@
     "timestamp": "00:09:33.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -14064,7 +14064,7 @@
     "timestamp": "00:09:35.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -14080,7 +14080,7 @@
     "timestamp": "00:09:44.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -14136,7 +14136,7 @@
     "timestamp": "00:09:56.932"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jair da Costa",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:09:58.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:10:01.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:10:05.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:10:09.890"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:10:12.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -14312,7 +14312,7 @@
     "timestamp": "00:10:15.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:10:18.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -14360,7 +14360,7 @@
     "timestamp": "00:10:24.047"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -14376,7 +14376,7 @@
     "timestamp": "00:10:26.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:10:28.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -14424,7 +14424,7 @@
     "timestamp": "00:10:29.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:10:34.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -14464,7 +14464,7 @@
     "timestamp": "00:10:38.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -14488,7 +14488,7 @@
     "timestamp": "00:10:38.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Giacinto Facchetti",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -14512,7 +14512,7 @@
     "timestamp": "00:10:57.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -14536,7 +14536,7 @@
     "timestamp": "00:11:24.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -14576,7 +14576,7 @@
     "timestamp": "00:11:31.009"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -14592,7 +14592,7 @@
     "timestamp": "00:11:32.736"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -14624,7 +14624,7 @@
     "timestamp": "00:11:38.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Bertini",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -14656,7 +14656,7 @@
     "timestamp": "00:11:41.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:11:46.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -14696,7 +14696,7 @@
     "timestamp": "00:11:48.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -14776,7 +14776,7 @@
     "timestamp": "00:11:53.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -14800,7 +14800,7 @@
     "timestamp": "00:11:54.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -14824,7 +14824,7 @@
     "timestamp": "00:12:01.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Horst Blankenburg",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:12:09.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:12:11.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:12:13.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:12:16.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -14976,7 +14976,7 @@
     "timestamp": "00:12:20.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -15136,7 +15136,7 @@
     "timestamp": "00:12:39.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -15160,7 +15160,7 @@
     "timestamp": "00:12:43.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -15224,7 +15224,7 @@
     "timestamp": "00:12:56.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:13:07.966"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -15272,7 +15272,7 @@
     "timestamp": "00:13:09.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -15304,7 +15304,7 @@
     "timestamp": "00:13:10.887"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:13:12.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:13:15.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:13:19.037"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:13:21.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -15448,7 +15448,7 @@
     "timestamp": "00:13:30.130"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Arie Haan",
     "player2": "",
     "player1_team": "Ajax",
@@ -15464,7 +15464,7 @@
     "timestamp": "00:14:08.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -15488,7 +15488,7 @@
     "timestamp": "00:14:13.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:14:23.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -15624,7 +15624,7 @@
     "timestamp": "00:14:28.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:14:30.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:14:34.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -15688,7 +15688,7 @@
     "timestamp": "00:14:36.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:14:38.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Roberto Boninsegna",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -15752,7 +15752,7 @@
     "timestamp": "00:14:39.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -15776,7 +15776,7 @@
     "timestamp": "00:14:42.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:14:50.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:14:54.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -15880,7 +15880,7 @@
     "timestamp": "00:15:00.769"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -15896,7 +15896,7 @@
     "timestamp": "00:15:02.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:15:27.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:15:40.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:15:41.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -16048,7 +16048,7 @@
     "timestamp": "00:15:46.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:15:49.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -16096,7 +16096,7 @@
     "timestamp": "00:15:56.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:15:57.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sergio Pellizzaro",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:16:00.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -16152,7 +16152,7 @@
     "timestamp": "00:16:02.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:16:04.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Tarcisio Burgnich",
     "player1_team": "Inter Milan",
@@ -16192,7 +16192,7 @@
     "timestamp": "00:16:06.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -16216,7 +16216,7 @@
     "timestamp": "00:16:09.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -16248,7 +16248,7 @@
     "timestamp": "00:16:15.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -16280,7 +16280,7 @@
     "timestamp": "00:16:19.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -16304,7 +16304,7 @@
     "timestamp": "00:16:21.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:16:23.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:16:25.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -16376,7 +16376,7 @@
     "timestamp": "00:16:29.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:16:36.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:16:39.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:16:43.088"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:16:46.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:17:05.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Ivano Bordon",
     "player1_team": "Inter Milan",
@@ -16520,7 +16520,7 @@
     "timestamp": "00:17:06.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:17:14.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:17:15.211"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:17:16.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:17:17.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -16648,7 +16648,7 @@
     "timestamp": "00:17:22.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -16672,7 +16672,7 @@
     "timestamp": "00:17:23.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -16696,7 +16696,7 @@
     "timestamp": "00:17:25.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:17:31.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -16736,7 +16736,7 @@
     "timestamp": "00:17:32.872"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:17:35.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sergio Pellizzaro",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -16784,7 +16784,7 @@
     "timestamp": "00:17:38.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -16808,7 +16808,7 @@
     "timestamp": "00:17:47.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:17:52.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:17:56.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -16872,7 +16872,7 @@
     "timestamp": "00:17:59.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -16904,7 +16904,7 @@
     "timestamp": "00:18:06.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -16920,7 +16920,7 @@
     "timestamp": "00:18:09.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -16944,7 +16944,7 @@
     "timestamp": "00:18:12.762"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:18:15.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -16984,7 +16984,7 @@
     "timestamp": "00:18:20.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -17000,7 +17000,7 @@
     "timestamp": "00:18:21.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -17024,7 +17024,7 @@
     "timestamp": "00:18:23.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -17048,7 +17048,7 @@
     "timestamp": "00:18:27.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -17072,7 +17072,7 @@
     "timestamp": "00:18:30.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:18:33.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:18:34.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:18:37.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:18:46.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -17184,7 +17184,7 @@
     "timestamp": "00:18:56.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -17208,7 +17208,7 @@
     "timestamp": "00:19:00.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:19:03.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:19:09.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -17280,7 +17280,7 @@
     "timestamp": "00:19:12.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -17304,7 +17304,7 @@
     "timestamp": "00:19:16.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -17328,7 +17328,7 @@
     "timestamp": "00:19:20.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:19:29.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -17368,7 +17368,7 @@
     "timestamp": "00:19:31.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:19:35.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:19:36.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:19:39.055"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:19:40.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -17472,7 +17472,7 @@
     "timestamp": "00:19:43.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:19:46.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -17520,7 +17520,7 @@
     "timestamp": "00:19:49.865"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -17536,7 +17536,7 @@
     "timestamp": "00:19:53.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:20:06.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -17584,7 +17584,7 @@
     "timestamp": "00:20:11.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -17632,7 +17632,7 @@
     "timestamp": "00:20:22.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -17744,7 +17744,7 @@
     "timestamp": "00:20:55.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -17760,7 +17760,7 @@
     "timestamp": "00:20:59.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:21:14.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "",
     "player1_team": "Ajax",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:21:28.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -17888,7 +17888,7 @@
     "timestamp": "00:21:39.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:21:43.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -17952,7 +17952,7 @@
     "timestamp": "00:21:48.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -17968,7 +17968,7 @@
     "timestamp": "00:21:52.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:21:58.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:22:02.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -18040,7 +18040,7 @@
     "timestamp": "00:22:06.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -18064,7 +18064,7 @@
     "timestamp": "00:22:09.406"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -18088,7 +18088,7 @@
     "timestamp": "00:22:10.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -18112,7 +18112,7 @@
     "timestamp": "00:22:16.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:22:22.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -18168,7 +18168,7 @@
     "timestamp": "00:22:28.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -18192,7 +18192,7 @@
     "timestamp": "00:22:32.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:22:35.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -18224,7 +18224,7 @@
     "timestamp": "00:22:35.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -18256,7 +18256,7 @@
     "timestamp": "00:22:50.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -18304,7 +18304,7 @@
     "timestamp": "00:22:54.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -18328,7 +18328,7 @@
     "timestamp": "00:23:15.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Bertini",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:23:33.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -18384,7 +18384,7 @@
     "timestamp": "00:23:35.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -18408,7 +18408,7 @@
     "timestamp": "00:23:38.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -18456,7 +18456,7 @@
     "timestamp": "00:23:42.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -18480,7 +18480,7 @@
     "timestamp": "00:24:17.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -18496,7 +18496,7 @@
     "timestamp": "00:24:17.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:24:35.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -18536,7 +18536,7 @@
     "timestamp": "00:24:40.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -18552,7 +18552,7 @@
     "timestamp": "00:24:41.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:24:46.223"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:24:58.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -18648,7 +18648,7 @@
     "timestamp": "00:25:02.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -18672,7 +18672,7 @@
     "timestamp": "00:25:03.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:25:09.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:25:20.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -18760,7 +18760,7 @@
     "timestamp": "00:25:23.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -18784,7 +18784,7 @@
     "timestamp": "00:25:25.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:25:27.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -18872,7 +18872,7 @@
     "timestamp": "00:25:29.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:25:34.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -18912,7 +18912,7 @@
     "timestamp": "00:25:36.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:25:38.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -18984,7 +18984,7 @@
     "timestamp": "00:25:43.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -19000,7 +19000,7 @@
     "timestamp": "00:25:45.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -19024,7 +19024,7 @@
     "timestamp": "00:25:47.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -19048,7 +19048,7 @@
     "timestamp": "00:25:50.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -19056,7 +19056,7 @@
     "timestamp": "00:25:51.035"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -19072,7 +19072,7 @@
     "timestamp": "00:25:59.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:26:00.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -19104,7 +19104,7 @@
     "timestamp": "00:26:03.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -19128,7 +19128,7 @@
     "timestamp": "00:26:06.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -19192,7 +19192,7 @@
     "timestamp": "00:26:10.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:26:13.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -19240,7 +19240,7 @@
     "timestamp": "00:26:16.364"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabriele Oriali",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -19280,7 +19280,7 @@
     "timestamp": "00:26:20.375"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:26:24.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -19336,7 +19336,7 @@
     "timestamp": "00:26:44.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:26:48.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -19392,7 +19392,7 @@
     "timestamp": "00:26:49.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -19408,7 +19408,7 @@
     "timestamp": "00:26:54.228"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:27:00.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:27:03.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:27:08.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -19528,7 +19528,7 @@
     "timestamp": "00:27:09.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -19560,7 +19560,7 @@
     "timestamp": "00:27:14.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:27:17.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -19600,7 +19600,7 @@
     "timestamp": "00:27:24.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -19624,7 +19624,7 @@
     "timestamp": "00:27:25.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -19648,7 +19648,7 @@
     "timestamp": "00:27:28.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:27:31.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -19696,7 +19696,7 @@
     "timestamp": "00:27:35.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -19720,7 +19720,7 @@
     "timestamp": "00:27:38.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -19744,7 +19744,7 @@
     "timestamp": "00:27:42.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gabriele Oriali",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:27:44.446"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -19792,7 +19792,7 @@
     "timestamp": "00:27:53.204"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:27:54.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -19856,7 +19856,7 @@
     "timestamp": "00:28:00.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:28:02.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:28:05.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -19928,7 +19928,7 @@
     "timestamp": "00:28:08.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -19952,7 +19952,7 @@
     "timestamp": "00:28:11.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:28:14.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:28:18.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -20032,7 +20032,7 @@
     "timestamp": "00:28:25.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Piet Keizer",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:28:34.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:28:44.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mauro Bellugi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:28:48.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -20176,7 +20176,7 @@
     "timestamp": "00:28:52.763"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -20200,7 +20200,7 @@
     "timestamp": "00:28:54.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -20248,7 +20248,7 @@
     "timestamp": "00:29:01.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:29:34.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -20320,7 +20320,7 @@
     "timestamp": "00:29:40.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -20344,7 +20344,7 @@
     "timestamp": "00:29:44.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -20368,7 +20368,7 @@
     "timestamp": "00:29:47.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -20392,7 +20392,7 @@
     "timestamp": "00:29:51.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:29:59.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -20456,7 +20456,7 @@
     "timestamp": "00:30:02.448"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -20480,7 +20480,7 @@
     "timestamp": "00:30:05.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:30:06.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:30:10.812"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -20576,7 +20576,7 @@
     "timestamp": "00:30:20.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -20600,7 +20600,7 @@
     "timestamp": "00:30:22.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:30:32.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -20696,7 +20696,7 @@
     "timestamp": "00:30:47.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:31:11.512"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -20736,7 +20736,7 @@
     "timestamp": "00:31:12.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:32:59.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:33:01.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -20800,7 +20800,7 @@
     "timestamp": "00:33:08.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Tarcisio Burgnich",
     "player1_team": "Inter Milan",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:33:10.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Tarcisio Burgnich",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:33:11.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:33:20.625"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Arie Haan",
     "player2": "",
     "player1_team": "Ajax",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:34:03.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -20968,7 +20968,7 @@
     "timestamp": "00:34:05.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Arie Haan",
     "player2": "",
     "player1_team": "Ajax",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:34:11.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:34:12.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -21048,7 +21048,7 @@
     "timestamp": "00:34:14.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -21072,7 +21072,7 @@
     "timestamp": "00:34:15.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -21096,7 +21096,7 @@
     "timestamp": "00:34:19.524"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:34:25.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -21144,7 +21144,7 @@
     "timestamp": "00:34:26.908"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -21168,7 +21168,7 @@
     "timestamp": "00:34:29.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -21192,7 +21192,7 @@
     "timestamp": "00:34:33.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -21200,7 +21200,7 @@
     "timestamp": "00:34:35.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -21232,7 +21232,7 @@
     "timestamp": "00:35:04.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:35:10.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Giacinto Facchetti",
     "player2": "Ivano Bordon",
     "player1_team": "Inter Milan",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:35:13.200"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ivano Bordon",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -21304,7 +21304,7 @@
     "timestamp": "00:35:19.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -21328,7 +21328,7 @@
     "timestamp": "00:35:25.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Roberto Boninsegna",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -21344,7 +21344,7 @@
     "timestamp": "00:35:27.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -21368,7 +21368,7 @@
     "timestamp": "00:35:28.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -21392,7 +21392,7 @@
     "timestamp": "00:35:36.747"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:35:39.712"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Johan Cruyff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -21488,7 +21488,7 @@
     "timestamp": "00:35:42.632"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Mario Bertini",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -21512,7 +21512,7 @@
     "timestamp": "00:35:43.429"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -21544,7 +21544,7 @@
     "timestamp": "00:35:45.640"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -21568,7 +21568,7 @@
     "timestamp": "00:35:56.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -21600,7 +21600,7 @@
     "timestamp": "00:36:03.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Bertini",
     "player2": "Gabriele Oriali",
     "player1_team": "Inter Milan",
@@ -21624,7 +21624,7 @@
     "timestamp": "00:36:14.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -21648,7 +21648,7 @@
     "timestamp": "00:36:28.694"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -21672,7 +21672,7 @@
     "timestamp": "00:36:32.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -21696,7 +21696,7 @@
     "timestamp": "00:36:37.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -21720,7 +21720,7 @@
     "timestamp": "00:36:41.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -21776,7 +21776,7 @@
     "timestamp": "00:36:46.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -21800,7 +21800,7 @@
     "timestamp": "00:36:48.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -21824,7 +21824,7 @@
     "timestamp": "00:36:52.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruud Krol",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -21856,7 +21856,7 @@
     "timestamp": "00:36:56.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -21880,7 +21880,7 @@
     "timestamp": "00:37:16.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:37:18.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:37:22.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -21976,7 +21976,7 @@
     "timestamp": "00:38:23.735"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Sjaak Swart",
     "player2": "",
     "player1_team": "Ajax",
@@ -21992,7 +21992,7 @@
     "timestamp": "00:38:24.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Giacinto Facchetti",
     "player1_team": "Inter Milan",
@@ -22048,7 +22048,7 @@
     "timestamp": "00:38:35.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -22064,7 +22064,7 @@
     "timestamp": "00:38:37.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -22096,7 +22096,7 @@
     "timestamp": "00:38:41.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:38:46.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sergio Pellizzaro",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -22152,7 +22152,7 @@
     "timestamp": "00:38:53.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Frustalupi",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -22200,7 +22200,7 @@
     "timestamp": "00:39:06.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Mario Frustalupi",
     "player1_team": "Inter Milan",
@@ -22224,7 +22224,7 @@
     "timestamp": "00:39:13.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mario Frustalupi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -22288,7 +22288,7 @@
     "timestamp": "00:39:25.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Piet Keizer",
     "player1_team": "Ajax",
@@ -22344,7 +22344,7 @@
     "timestamp": "00:39:33.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -22368,7 +22368,7 @@
     "timestamp": "00:39:39.068"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:39:42.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -22416,7 +22416,7 @@
     "timestamp": "00:39:46.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -22496,7 +22496,7 @@
     "timestamp": "00:39:51.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -22520,7 +22520,7 @@
     "timestamp": "00:40:20.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -22536,7 +22536,7 @@
     "timestamp": "00:40:21.976"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -22560,7 +22560,7 @@
     "timestamp": "00:40:23.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:40:28.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -22608,7 +22608,7 @@
     "timestamp": "00:40:32.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -22632,7 +22632,7 @@
     "timestamp": "00:40:34.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -22648,7 +22648,7 @@
     "timestamp": "00:40:37.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -22672,7 +22672,7 @@
     "timestamp": "00:40:40.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Johan Neeskens",
     "player1_team": "Ajax",
@@ -22696,7 +22696,7 @@
     "timestamp": "00:40:44.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Neeskens",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -22720,7 +22720,7 @@
     "timestamp": "00:40:46.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -22768,7 +22768,7 @@
     "timestamp": "00:40:49.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -22792,7 +22792,7 @@
     "timestamp": "00:40:57.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -22824,7 +22824,7 @@
     "timestamp": "00:41:01.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gabriele Oriali",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:41:02.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -22872,7 +22872,7 @@
     "timestamp": "00:41:04.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Mauro Bellugi",
     "player1_team": "Inter Milan",
@@ -22888,7 +22888,7 @@
     "timestamp": "00:41:06.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mauro Bellugi",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -22896,7 +22896,7 @@
     "timestamp": "00:41:06.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -22920,7 +22920,7 @@
     "timestamp": "00:41:10.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -22944,7 +22944,7 @@
     "timestamp": "00:41:14.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Horst Blankenburg",
     "player2": "Heinz Stuy",
     "player1_team": "Ajax",
@@ -22968,7 +22968,7 @@
     "timestamp": "00:41:17.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -22992,7 +22992,7 @@
     "timestamp": "00:41:21.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -23016,7 +23016,7 @@
     "timestamp": "00:41:25.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -23032,7 +23032,7 @@
     "timestamp": "00:41:30.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "",
     "player1_team": "Ajax",
@@ -23048,7 +23048,7 @@
     "timestamp": "00:41:32.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -23064,7 +23064,7 @@
     "timestamp": "00:41:35.232"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gerrie Mühren",
     "player2": "",
     "player1_team": "Ajax",
@@ -23088,7 +23088,7 @@
     "timestamp": "00:41:38.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -23128,7 +23128,7 @@
     "timestamp": "00:41:54.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gianfranco Bedin",
     "player2": "Roberto Boninsegna",
     "player1_team": "Inter Milan",
@@ -23184,7 +23184,7 @@
     "timestamp": "00:42:24.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Ruud Krol",
     "player1_team": "Ajax",
@@ -23208,7 +23208,7 @@
     "timestamp": "00:42:31.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruud Krol",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -23232,7 +23232,7 @@
     "timestamp": "00:42:43.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -23256,7 +23256,7 @@
     "timestamp": "00:42:47.480"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -23280,7 +23280,7 @@
     "timestamp": "00:42:48.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -23304,7 +23304,7 @@
     "timestamp": "00:42:50.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -23344,7 +23344,7 @@
     "timestamp": "00:42:54.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sergio Pellizzaro",
     "player2": "Sandro Mazzola",
     "player1_team": "Inter Milan",
@@ -23392,7 +23392,7 @@
     "timestamp": "00:42:58.154"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Roberto Boninsegna",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -23432,7 +23432,7 @@
     "timestamp": "00:43:00.161"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -23448,7 +23448,7 @@
     "timestamp": "00:43:50.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Heinz Stuy",
     "player2": "",
     "player1_team": "Ajax",
@@ -23456,7 +23456,7 @@
     "timestamp": "00:44:05.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -23496,7 +23496,7 @@
     "timestamp": "00:44:18.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sandro Mazzola",
     "player2": "Gianfranco Bedin",
     "player1_team": "Inter Milan",
@@ -23520,7 +23520,7 @@
     "timestamp": "00:44:33.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gianfranco Bedin",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -23560,7 +23560,7 @@
     "timestamp": "00:44:39.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Heinz Stuy",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -23584,7 +23584,7 @@
     "timestamp": "00:44:48.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "Horst Blankenburg",
     "player1_team": "Ajax",
@@ -23600,7 +23600,7 @@
     "timestamp": "00:44:52.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sandro Mazzola",
     "player2": "",
     "player1_team": "Inter Milan",
@@ -23624,7 +23624,7 @@
     "timestamp": "00:44:55.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Gerrie Mühren",
     "player1_team": "Ajax",
@@ -23648,7 +23648,7 @@
     "timestamp": "00:45:00.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gerrie Mühren",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -23672,7 +23672,7 @@
     "timestamp": "00:45:02.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -23696,7 +23696,7 @@
     "timestamp": "00:45:05.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -23720,7 +23720,7 @@
     "timestamp": "00:45:07.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -23744,7 +23744,7 @@
     "timestamp": "00:45:11.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wim Suurbier",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -23768,7 +23768,7 @@
     "timestamp": "00:45:14.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Wim Suurbier",
     "player1_team": "Ajax",
@@ -23784,7 +23784,7 @@
     "timestamp": "00:45:19.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wim Suurbier",
     "player2": "",
     "player1_team": "Ajax",
@@ -23840,7 +23840,7 @@
     "timestamp": "00:45:21.927"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Johan Cruyff",
     "player2": "",
     "player1_team": "Ajax",
@@ -23864,7 +23864,7 @@
     "timestamp": "00:45:23.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Piet Keizer",
     "player2": "Johan Cruyff",
     "player1_team": "Ajax",
@@ -23888,7 +23888,7 @@
     "timestamp": "00:45:59.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Johan Cruyff",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -23912,7 +23912,7 @@
     "timestamp": "00:46:05.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Arie Haan",
     "player2": "Barry Hulshoff",
     "player1_team": "Ajax",
@@ -23928,7 +23928,7 @@
     "timestamp": "00:46:08.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Barry Hulshoff",
     "player2": "Sjaak Swart",
     "player1_team": "Ajax",
@@ -23952,7 +23952,7 @@
     "timestamp": "00:46:10.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sjaak Swart",
     "player2": "Arie Haan",
     "player1_team": "Ajax",
@@ -23992,7 +23992,7 @@
     "timestamp": "00:46:18.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sergio Pellizzaro",
     "player2": "Tarcisio Burgnich",
     "player1_team": "Inter Milan",
@@ -24024,7 +24024,7 @@
     "timestamp": "00:46:25.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Tarcisio Burgnich",
     "player2": "Sergio Pellizzaro",
     "player1_team": "Inter Milan",
@@ -24048,7 +24048,7 @@
     "timestamp": "00:46:27.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sergio Pellizzaro",
     "player2": "Tarcisio Burgnich",
     "player1_team": "Inter Milan",
@@ -24072,7 +24072,7 @@
     "timestamp": "00:46:27.865"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ivano Bordon",
     "player2": "Mario Bertini",
     "player1_team": "Inter Milan",
@@ -24088,7 +24088,7 @@
     "timestamp": "00:46:37.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mario Bertini",
     "player2": "Ivano Bordon",
     "player1_team": "Inter Milan",
@@ -24112,7 +24112,7 @@
     "timestamp": "00:46:38.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ivano Bordon",
     "player2": "",
     "player1_team": "Inter Milan",

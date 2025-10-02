@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -24,7 +24,7 @@
     "timestamp": "00:00:00.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:02.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:04.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -184,7 +184,7 @@
     "timestamp": "00:00:10.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -200,7 +200,7 @@
     "timestamp": "00:00:13.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -216,7 +216,7 @@
     "timestamp": "00:00:17.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -232,7 +232,7 @@
     "timestamp": "00:00:19.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -248,7 +248,7 @@
     "timestamp": "00:00:21.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -272,7 +272,7 @@
     "timestamp": "00:00:22.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -296,7 +296,7 @@
     "timestamp": "00:00:24.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -320,7 +320,7 @@
     "timestamp": "00:00:26.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -368,7 +368,7 @@
     "timestamp": "00:00:27.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -384,7 +384,7 @@
     "timestamp": "00:01:10.604"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Cheikhou Kouyaté",
     "player2": "",
     "player1_team": "West Ham United",
@@ -416,7 +416,7 @@
     "timestamp": "00:01:13.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -440,7 +440,7 @@
     "timestamp": "00:01:21.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -456,7 +456,7 @@
     "timestamp": "00:01:40.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Morgan",
     "player2": "",
     "player1_team": "Leicester City",
@@ -472,7 +472,7 @@
     "timestamp": "00:01:42.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -496,7 +496,7 @@
     "timestamp": "00:01:44.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -528,7 +528,7 @@
     "timestamp": "00:01:47.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Morgan",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -544,7 +544,7 @@
     "timestamp": "00:01:51.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -608,7 +608,7 @@
     "timestamp": "00:01:56.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -632,7 +632,7 @@
     "timestamp": "00:01:57.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:00.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -736,7 +736,7 @@
     "timestamp": "00:02:08.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -800,7 +800,7 @@
     "timestamp": "00:02:13.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -816,7 +816,7 @@
     "timestamp": "00:02:15.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -840,7 +840,7 @@
     "timestamp": "00:02:16.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -864,7 +864,7 @@
     "timestamp": "00:02:22.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -1000,7 +1000,7 @@
     "timestamp": "00:02:28.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -1024,7 +1024,7 @@
     "timestamp": "00:02:33.000"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Dimitri Payet",
     "player2": "",
     "player1_team": "West Ham United",
@@ -1040,7 +1040,7 @@
     "timestamp": "00:02:33.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -1056,7 +1056,7 @@
     "timestamp": "00:03:13.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Moses",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -1072,7 +1072,7 @@
     "timestamp": "00:03:16.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -1088,7 +1088,7 @@
     "timestamp": "00:03:18.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marc Albrighton",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:03:19.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Winston Reid",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:03:24.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1192,7 +1192,7 @@
     "timestamp": "00:03:52.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:04:10.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:04:13.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:04:16.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marc Albrighton",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:04:20.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -1312,7 +1312,7 @@
     "timestamp": "00:04:37.876"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -1336,7 +1336,7 @@
     "timestamp": "00:04:40.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -1360,7 +1360,7 @@
     "timestamp": "00:04:47.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:04:57.469"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -1432,7 +1432,7 @@
     "timestamp": "00:05:00.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:05:08.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:05:09.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -1560,7 +1560,7 @@
     "timestamp": "00:05:14.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1576,7 +1576,7 @@
     "timestamp": "00:05:17.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jamie Vardy",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:05:18.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:05:21.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -1656,7 +1656,7 @@
     "timestamp": "00:05:24.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:05:32.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:05:34.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Riyad Mahrez",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1752,7 +1752,7 @@
     "timestamp": "00:05:37.877"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -1784,7 +1784,7 @@
     "timestamp": "00:05:38.520"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -1800,7 +1800,7 @@
     "timestamp": "00:06:36.144"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -1816,7 +1816,7 @@
     "timestamp": "00:06:36.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -1864,7 +1864,7 @@
     "timestamp": "00:07:08.324"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -1880,7 +1880,7 @@
     "timestamp": "00:07:13.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:07:15.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:07:18.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -1944,7 +1944,7 @@
     "timestamp": "00:07:24.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1968,7 +1968,7 @@
     "timestamp": "00:07:52.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "",
     "player1_team": "West Ham United",
@@ -2008,7 +2008,7 @@
     "timestamp": "00:08:07.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -2032,7 +2032,7 @@
     "timestamp": "00:09:21.492"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Robert Huth",
     "player2": "",
     "player1_team": "Leicester City",
@@ -2048,7 +2048,7 @@
     "timestamp": "00:09:22.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:09:55.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -2096,7 +2096,7 @@
     "timestamp": "00:09:57.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -2128,7 +2128,7 @@
     "timestamp": "00:09:58.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:10:01.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -2176,7 +2176,7 @@
     "timestamp": "00:10:05.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -2200,7 +2200,7 @@
     "timestamp": "00:10:07.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:10:13.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -2312,7 +2312,7 @@
     "timestamp": "00:10:22.361"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -2328,7 +2328,7 @@
     "timestamp": "00:10:25.163"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Danny Drinkwater",
     "player2": "",
     "player1_team": "Leicester City",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:10:26.253"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:10:58.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:11:00.275"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -2392,7 +2392,7 @@
     "timestamp": "00:11:07.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:11:09.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -2440,7 +2440,7 @@
     "timestamp": "00:11:12.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -2472,7 +2472,7 @@
     "timestamp": "00:11:13.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -2520,7 +2520,7 @@
     "timestamp": "00:11:16.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -2544,7 +2544,7 @@
     "timestamp": "00:11:22.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:11:34.942"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:11:36.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -2640,7 +2640,7 @@
     "timestamp": "00:11:51.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -2656,7 +2656,7 @@
     "timestamp": "00:11:53.651"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -2672,7 +2672,7 @@
     "timestamp": "00:11:55.119"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:11:56.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:11:57.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -2752,7 +2752,7 @@
     "timestamp": "00:11:58.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -2784,7 +2784,7 @@
     "timestamp": "00:12:03.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -2824,7 +2824,7 @@
     "timestamp": "00:12:06.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -2864,7 +2864,7 @@
     "timestamp": "00:12:10.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -2928,7 +2928,7 @@
     "timestamp": "00:12:23.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -2952,7 +2952,7 @@
     "timestamp": "00:12:24.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -2976,7 +2976,7 @@
     "timestamp": "00:12:26.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie Vardy",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -3000,7 +3000,7 @@
     "timestamp": "00:12:28.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -3016,7 +3016,7 @@
     "timestamp": "00:12:34.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:12:56.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -3080,7 +3080,7 @@
     "timestamp": "00:13:10.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie Vardy",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -3168,7 +3168,7 @@
     "timestamp": "00:13:14.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -3184,7 +3184,7 @@
     "timestamp": "00:13:16.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:13:16.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -3232,7 +3232,7 @@
     "timestamp": "00:13:17.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -3256,7 +3256,7 @@
     "timestamp": "00:13:23.427"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -3280,7 +3280,7 @@
     "timestamp": "00:13:27.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:13:28.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:13:30.656"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:13:31.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -3368,7 +3368,7 @@
     "timestamp": "00:13:34.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shinji Okazaki",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -3400,7 +3400,7 @@
     "timestamp": "00:13:37.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -3416,7 +3416,7 @@
     "timestamp": "00:13:39.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "",
     "player1_team": "West Ham United",
@@ -3448,7 +3448,7 @@
     "timestamp": "00:13:43.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:13:45.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -3528,7 +3528,7 @@
     "timestamp": "00:13:49.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -3560,7 +3560,7 @@
     "timestamp": "00:14:29.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:15:02.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:15:03.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -3696,7 +3696,7 @@
     "timestamp": "00:15:04.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:15:06.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -3776,7 +3776,7 @@
     "timestamp": "00:15:10.160"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:15:37.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -3856,7 +3856,7 @@
     "timestamp": "00:15:43.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Moses",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -3872,7 +3872,7 @@
     "timestamp": "00:15:44.077"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:15:46.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -3928,7 +3928,7 @@
     "timestamp": "00:15:48.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shinji Okazaki",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:15:51.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:15:52.348"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -4000,7 +4000,7 @@
     "timestamp": "00:15:53.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:15:56.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -4040,7 +4040,7 @@
     "timestamp": "00:15:59.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:16:03.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:16:04.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:16:08.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -4160,7 +4160,7 @@
     "timestamp": "00:16:09.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:16:10.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:16:13.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -4232,7 +4232,7 @@
     "timestamp": "00:16:15.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -4256,7 +4256,7 @@
     "timestamp": "00:16:18.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:16:21.440"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:16:24.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -4328,7 +4328,7 @@
     "timestamp": "00:16:26.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -4352,7 +4352,7 @@
     "timestamp": "00:16:27.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -4376,7 +4376,7 @@
     "timestamp": "00:16:29.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -4400,7 +4400,7 @@
     "timestamp": "00:16:34.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -4432,7 +4432,7 @@
     "timestamp": "00:16:38.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:16:54.486"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -4496,7 +4496,7 @@
     "timestamp": "00:17:01.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:17:38.948"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -4552,7 +4552,7 @@
     "timestamp": "00:17:41.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -4576,7 +4576,7 @@
     "timestamp": "00:17:47.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -4608,7 +4608,7 @@
     "timestamp": "00:17:52.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:17:56.088"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Jamie Vardy",
     "player2": "",
     "player1_team": "Leicester City",
@@ -4656,7 +4656,7 @@
     "timestamp": "00:17:57.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -4672,7 +4672,7 @@
     "timestamp": "00:19:02.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -4688,7 +4688,7 @@
     "timestamp": "00:19:07.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -4704,7 +4704,7 @@
     "timestamp": "00:19:13.215"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -4720,7 +4720,7 @@
     "timestamp": "00:19:15.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -4744,7 +4744,7 @@
     "timestamp": "00:19:16.634"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -4768,7 +4768,7 @@
     "timestamp": "00:19:20.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -4800,7 +4800,7 @@
     "timestamp": "00:19:25.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -4824,7 +4824,7 @@
     "timestamp": "00:19:26.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -4856,7 +4856,7 @@
     "timestamp": "00:19:31.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -4936,7 +4936,7 @@
     "timestamp": "00:19:37.348"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -4952,7 +4952,7 @@
     "timestamp": "00:19:39.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:19:40.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:19:42.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:20:01.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -5024,7 +5024,7 @@
     "timestamp": "00:20:04.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:20:05.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:20:06.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:20:11.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -5128,7 +5128,7 @@
     "timestamp": "00:20:15.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -5144,7 +5144,7 @@
     "timestamp": "00:20:31.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -5192,7 +5192,7 @@
     "timestamp": "00:20:37.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -5208,7 +5208,7 @@
     "timestamp": "00:20:40.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -5224,7 +5224,7 @@
     "timestamp": "00:20:44.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:20:45.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:20:47.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:20:50.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -5312,7 +5312,7 @@
     "timestamp": "00:20:52.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -5328,7 +5328,7 @@
     "timestamp": "00:20:53.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -5360,7 +5360,7 @@
     "timestamp": "00:20:58.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:21:01.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -5424,7 +5424,7 @@
     "timestamp": "00:21:05.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -5440,7 +5440,7 @@
     "timestamp": "00:21:20.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:21:21.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -5488,7 +5488,7 @@
     "timestamp": "00:21:24.554"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:21:27.298"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:21:30.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -5560,7 +5560,7 @@
     "timestamp": "00:21:33.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -5592,7 +5592,7 @@
     "timestamp": "00:21:40.785"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "",
     "player1_team": "West Ham United",
@@ -5640,7 +5640,7 @@
     "timestamp": "00:21:45.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:21:49.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -5688,7 +5688,7 @@
     "timestamp": "00:21:54.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -5712,7 +5712,7 @@
     "timestamp": "00:21:58.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -5728,7 +5728,7 @@
     "timestamp": "00:21:58.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -5744,7 +5744,7 @@
     "timestamp": "00:21:59.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -5768,7 +5768,7 @@
     "timestamp": "00:22:01.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:22:06.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -5848,7 +5848,7 @@
     "timestamp": "00:22:07.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:22:09.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -5992,7 +5992,7 @@
     "timestamp": "00:23:35.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:23:54.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -6040,7 +6040,7 @@
     "timestamp": "00:23:59.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -6064,7 +6064,7 @@
     "timestamp": "00:24:04.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Riyad Mahrez",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:24:10.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:24:12.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:24:21.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6200,7 +6200,7 @@
     "timestamp": "00:24:25.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -6216,7 +6216,7 @@
     "timestamp": "00:24:45.920"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:24:54.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -6264,7 +6264,7 @@
     "timestamp": "00:25:07.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -6296,7 +6296,7 @@
     "timestamp": "00:25:09.284"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6320,7 +6320,7 @@
     "timestamp": "00:25:13.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:25:16.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -6384,7 +6384,7 @@
     "timestamp": "00:25:21.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Riyad Mahrez",
     "player2": "",
     "player1_team": "Leicester City",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:25:23.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -6424,7 +6424,7 @@
     "timestamp": "00:25:32.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:25:33.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:25:36.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -6496,7 +6496,7 @@
     "timestamp": "00:25:40.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6520,7 +6520,7 @@
     "timestamp": "00:25:42.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -6544,7 +6544,7 @@
     "timestamp": "00:25:44.103"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:25:45.351"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:25:46.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie Vardy",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:25:50.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -6632,7 +6632,7 @@
     "timestamp": "00:25:54.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -6656,7 +6656,7 @@
     "timestamp": "00:26:16.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -6680,7 +6680,7 @@
     "timestamp": "00:26:19.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:26:23.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -6728,7 +6728,7 @@
     "timestamp": "00:26:25.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:26:26.684"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:26:33.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -6800,7 +6800,7 @@
     "timestamp": "00:26:39.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:26:41.054"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:26:45.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -6864,7 +6864,7 @@
     "timestamp": "00:27:08.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -6912,7 +6912,7 @@
     "timestamp": "00:27:11.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -6944,7 +6944,7 @@
     "timestamp": "00:27:34.735"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -6992,7 +6992,7 @@
     "timestamp": "00:27:38.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:28:16.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -7128,7 +7128,7 @@
     "timestamp": "00:28:19.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "",
     "player1_team": "Leicester City",
@@ -7160,7 +7160,7 @@
     "timestamp": "00:28:39.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -7168,7 +7168,7 @@
     "timestamp": "00:29:05.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -7216,7 +7216,7 @@
     "timestamp": "00:29:13.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -7240,7 +7240,7 @@
     "timestamp": "00:29:16.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -7272,7 +7272,7 @@
     "timestamp": "00:29:19.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -7296,7 +7296,7 @@
     "timestamp": "00:30:01.495"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -7344,7 +7344,7 @@
     "timestamp": "00:30:06.074"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:30:07.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:30:09.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -7456,7 +7456,7 @@
     "timestamp": "00:30:19.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "",
     "player1_team": "West Ham United",
@@ -7464,7 +7464,7 @@
     "timestamp": "00:30:20.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -7488,7 +7488,7 @@
     "timestamp": "00:30:42.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Riyad Mahrez",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:30:43.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -7536,7 +7536,7 @@
     "timestamp": "00:30:48.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Riyad Mahrez",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -7568,7 +7568,7 @@
     "timestamp": "00:30:53.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -7584,7 +7584,7 @@
     "timestamp": "00:30:55.209"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -7600,7 +7600,7 @@
     "timestamp": "00:30:56.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -7616,7 +7616,7 @@
     "timestamp": "00:30:57.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -7640,7 +7640,7 @@
     "timestamp": "00:31:00.899"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:31:07.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -7704,7 +7704,7 @@
     "timestamp": "00:31:09.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:31:10.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:31:25.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Winston Reid",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:31:29.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:31:52.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:31:55.560"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:32:07.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -7896,7 +7896,7 @@
     "timestamp": "00:32:11.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:32:14.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jamie Vardy",
     "player2": "",
     "player1_team": "Leicester City",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:32:15.795"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -7968,7 +7968,7 @@
     "timestamp": "00:32:19.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:32:24.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:32:27.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:32:30.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:32:32.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -8104,7 +8104,7 @@
     "timestamp": "00:32:38.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:32:45.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -8168,7 +8168,7 @@
     "timestamp": "00:33:15.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shinji Okazaki",
     "player2": "",
     "player1_team": "Leicester City",
@@ -8176,7 +8176,7 @@
     "timestamp": "00:33:15.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:33:19.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Huth",
     "player2": "",
     "player1_team": "Leicester City",
@@ -8216,7 +8216,7 @@
     "timestamp": "00:33:20.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:33:44.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -8288,7 +8288,7 @@
     "timestamp": "00:33:50.229"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:33:52.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -8312,7 +8312,7 @@
     "timestamp": "00:34:19.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -8336,7 +8336,7 @@
     "timestamp": "00:34:48.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:34:53.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -8384,7 +8384,7 @@
     "timestamp": "00:34:59.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -8408,7 +8408,7 @@
     "timestamp": "00:34:59.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -8440,7 +8440,7 @@
     "timestamp": "00:35:01.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:35:06.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:35:10.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -8536,7 +8536,7 @@
     "timestamp": "00:35:12.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -8552,7 +8552,7 @@
     "timestamp": "00:35:14.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Morgan",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -8568,7 +8568,7 @@
     "timestamp": "00:35:15.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "",
     "player1_team": "West Ham United",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:35:15.543"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -8592,7 +8592,7 @@
     "timestamp": "00:35:35.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shinji Okazaki",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:35:36.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -8648,7 +8648,7 @@
     "timestamp": "00:35:37.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:35:45.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "",
     "player1_team": "West Ham United",
@@ -8712,7 +8712,7 @@
     "timestamp": "00:35:46.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Riyad Mahrez",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:36:07.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "",
     "player1_team": "West Ham United",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:36:09.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:36:54.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Morgan",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -8824,7 +8824,7 @@
     "timestamp": "00:36:54.794"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -8840,7 +8840,7 @@
     "timestamp": "00:36:57.363"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Moses",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:36:59.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:37:01.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -8904,7 +8904,7 @@
     "timestamp": "00:37:03.155"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shinji Okazaki",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -8952,7 +8952,7 @@
     "timestamp": "00:37:08.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -8976,7 +8976,7 @@
     "timestamp": "00:37:13.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -9000,7 +9000,7 @@
     "timestamp": "00:37:18.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -9024,7 +9024,7 @@
     "timestamp": "00:37:21.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -9056,7 +9056,7 @@
     "timestamp": "00:37:25.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:37:28.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:37:33.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -9120,7 +9120,7 @@
     "timestamp": "00:37:38.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:37:40.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -9184,7 +9184,7 @@
     "timestamp": "00:37:44.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -9200,7 +9200,7 @@
     "timestamp": "00:37:49.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jamie Vardy",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -9216,7 +9216,7 @@
     "timestamp": "00:37:50.858"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -9248,7 +9248,7 @@
     "timestamp": "00:37:55.692"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -9280,7 +9280,7 @@
     "timestamp": "00:38:02.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -9312,7 +9312,7 @@
     "timestamp": "00:38:05.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -9352,7 +9352,7 @@
     "timestamp": "00:38:11.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -9376,7 +9376,7 @@
     "timestamp": "00:38:15.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:38:18.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:38:22.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:38:24.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -9464,7 +9464,7 @@
     "timestamp": "00:38:26.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:38:28.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:38:32.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:38:34.305"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -9552,7 +9552,7 @@
     "timestamp": "00:38:36.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -9576,7 +9576,7 @@
     "timestamp": "00:38:39.830"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -9672,7 +9672,7 @@
     "timestamp": "00:38:52.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -9704,7 +9704,7 @@
     "timestamp": "00:38:55.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shinji Okazaki",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -9720,7 +9720,7 @@
     "timestamp": "00:38:57.409"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -9768,7 +9768,7 @@
     "timestamp": "00:39:00.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:39:29.788"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -9800,7 +9800,7 @@
     "timestamp": "00:39:38.473"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -9848,7 +9848,7 @@
     "timestamp": "00:39:41.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -9920,7 +9920,7 @@
     "timestamp": "00:39:46.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:39:47.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -9968,7 +9968,7 @@
     "timestamp": "00:39:51.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:39:53.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -10016,7 +10016,7 @@
     "timestamp": "00:40:21.256"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -10040,7 +10040,7 @@
     "timestamp": "00:40:23.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -10064,7 +10064,7 @@
     "timestamp": "00:40:28.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:40:33.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -10136,7 +10136,7 @@
     "timestamp": "00:40:55.189"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "",
     "player1_team": "Leicester City",
@@ -10152,7 +10152,7 @@
     "timestamp": "00:40:55.522"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:40:57.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -10200,7 +10200,7 @@
     "timestamp": "00:41:00.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -10232,7 +10232,7 @@
     "timestamp": "00:41:02.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -10264,7 +10264,7 @@
     "timestamp": "00:41:06.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -10288,7 +10288,7 @@
     "timestamp": "00:41:13.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -10328,7 +10328,7 @@
     "timestamp": "00:41:25.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -10360,7 +10360,7 @@
     "timestamp": "00:41:29.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -10376,7 +10376,7 @@
     "timestamp": "00:41:34.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:41:34.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -10424,7 +10424,7 @@
     "timestamp": "00:41:35.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:41:38.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -10488,7 +10488,7 @@
     "timestamp": "00:41:42.325"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -10544,7 +10544,7 @@
     "timestamp": "00:41:45.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -10576,7 +10576,7 @@
     "timestamp": "00:41:46.911"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:41:47.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -10680,7 +10680,7 @@
     "timestamp": "00:41:53.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -10696,7 +10696,7 @@
     "timestamp": "00:42:36.724"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -10720,7 +10720,7 @@
     "timestamp": "00:42:37.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -10736,7 +10736,7 @@
     "timestamp": "00:42:41.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -10752,7 +10752,7 @@
     "timestamp": "00:42:56.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Moses",
     "player2": "",
     "player1_team": "West Ham United",
@@ -10776,7 +10776,7 @@
     "timestamp": "00:42:57.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -10792,7 +10792,7 @@
     "timestamp": "00:43:18.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:43:20.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -10824,7 +10824,7 @@
     "timestamp": "00:43:24.014"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Cheikhou Kouyaté",
     "player2": "",
     "player1_team": "West Ham United",
@@ -10856,7 +10856,7 @@
     "timestamp": "00:43:27.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:43:30.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -10920,7 +10920,7 @@
     "timestamp": "00:43:34.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -10944,7 +10944,7 @@
     "timestamp": "00:43:36.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -11024,7 +11024,7 @@
     "timestamp": "00:43:38.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:43:42.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:43:48.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:43:51.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:43:53.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:44:01.537"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:44:07.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:44:45.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:44:48.991"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Michail Antonio",
     "player2": "",
     "player1_team": "West Ham United",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:44:52.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:45:28.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -11392,7 +11392,7 @@
     "timestamp": "00:45:30.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11408,7 +11408,7 @@
     "timestamp": "00:45:32.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:45:34.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -11472,7 +11472,7 @@
     "timestamp": "00:45:35.620"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:45:37.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:45:40.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:45:45.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11576,7 +11576,7 @@
     "timestamp": "00:45:48.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:45:53.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:45:57.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -11664,7 +11664,7 @@
     "timestamp": "00:00:00.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shinji Okazaki",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -11680,7 +11680,7 @@
     "timestamp": "00:00:01.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -11696,7 +11696,7 @@
     "timestamp": "00:00:02.581"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -11712,7 +11712,7 @@
     "timestamp": "00:00:06.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -11728,7 +11728,7 @@
     "timestamp": "00:00:27.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "",
     "player1_team": "Leicester City",
@@ -11744,7 +11744,7 @@
     "timestamp": "00:00:27.951"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -11768,7 +11768,7 @@
     "timestamp": "00:00:46.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -11792,7 +11792,7 @@
     "timestamp": "00:00:50.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -11848,7 +11848,7 @@
     "timestamp": "00:00:53.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:00:57.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:00:58.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -11896,7 +11896,7 @@
     "timestamp": "00:01:00.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -11920,7 +11920,7 @@
     "timestamp": "00:01:02.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:01:04.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:01:06.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -11992,7 +11992,7 @@
     "timestamp": "00:01:07.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -12016,7 +12016,7 @@
     "timestamp": "00:01:12.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -12040,7 +12040,7 @@
     "timestamp": "00:01:12.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -12064,7 +12064,7 @@
     "timestamp": "00:02:04.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shinji Okazaki",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -12080,7 +12080,7 @@
     "timestamp": "00:02:06.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:02:17.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:02:19.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -12208,7 +12208,7 @@
     "timestamp": "00:02:23.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:02:31.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:02:33.442"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -12288,7 +12288,7 @@
     "timestamp": "00:02:34.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:02:36.249"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shinji Okazaki",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -12336,7 +12336,7 @@
     "timestamp": "00:02:38.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie Vardy",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:02:39.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shinji Okazaki",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -12376,7 +12376,7 @@
     "timestamp": "00:02:41.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -12408,7 +12408,7 @@
     "timestamp": "00:02:51.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12424,7 +12424,7 @@
     "timestamp": "00:02:54.846"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -12456,7 +12456,7 @@
     "timestamp": "00:02:56.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:03:00.009"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Victor Moses",
     "player2": "",
     "player1_team": "West Ham United",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:03:02.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12536,7 +12536,7 @@
     "timestamp": "00:03:06.853"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:03:08.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12592,7 +12592,7 @@
     "timestamp": "00:03:12.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12608,7 +12608,7 @@
     "timestamp": "00:04:13.732"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:04:14.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -12632,7 +12632,7 @@
     "timestamp": "00:04:41.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:04:57.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -12672,7 +12672,7 @@
     "timestamp": "00:04:59.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:05:00.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -12728,7 +12728,7 @@
     "timestamp": "00:05:07.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -12752,7 +12752,7 @@
     "timestamp": "00:05:08.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -12776,7 +12776,7 @@
     "timestamp": "00:05:09.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -12800,7 +12800,7 @@
     "timestamp": "00:05:13.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -12832,7 +12832,7 @@
     "timestamp": "00:05:17.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -12856,7 +12856,7 @@
     "timestamp": "00:05:19.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:05:22.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -12912,7 +12912,7 @@
     "timestamp": "00:05:23.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -12976,7 +12976,7 @@
     "timestamp": "00:05:25.435"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emmanuel Emenike",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -13016,7 +13016,7 @@
     "timestamp": "00:05:27.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:05:30.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -13072,7 +13072,7 @@
     "timestamp": "00:05:32.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -13096,7 +13096,7 @@
     "timestamp": "00:05:35.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -13128,7 +13128,7 @@
     "timestamp": "00:05:37.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -13152,7 +13152,7 @@
     "timestamp": "00:05:39.380"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Moses",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:05:44.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:06:07.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -13224,7 +13224,7 @@
     "timestamp": "00:06:08.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:06:09.950"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Cheikhou Kouyaté",
     "player2": "",
     "player1_team": "West Ham United",
@@ -13264,7 +13264,7 @@
     "timestamp": "00:06:11.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -13280,7 +13280,7 @@
     "timestamp": "00:06:27.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -13296,7 +13296,7 @@
     "timestamp": "00:06:28.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -13320,7 +13320,7 @@
     "timestamp": "00:06:30.075"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marc Albrighton",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:06:33.790"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:06:36.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:06:44.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:06:50.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie Vardy",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -13512,7 +13512,7 @@
     "timestamp": "00:06:53.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:06:53.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -13568,7 +13568,7 @@
     "timestamp": "00:07:27.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shinji Okazaki",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -13592,7 +13592,7 @@
     "timestamp": "00:07:30.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -13608,7 +13608,7 @@
     "timestamp": "00:07:33.153"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Robert Huth",
     "player2": "",
     "player1_team": "Leicester City",
@@ -13632,7 +13632,7 @@
     "timestamp": "00:08:08.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -13648,7 +13648,7 @@
     "timestamp": "00:08:27.177"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jeffrey Schlupp",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -13664,7 +13664,7 @@
     "timestamp": "00:08:29.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -13688,7 +13688,7 @@
     "timestamp": "00:08:32.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:08:33.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:08:35.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jeffrey Schlupp",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -13760,7 +13760,7 @@
     "timestamp": "00:08:37.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -13784,7 +13784,7 @@
     "timestamp": "00:08:37.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -13808,7 +13808,7 @@
     "timestamp": "00:08:40.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -13824,7 +13824,7 @@
     "timestamp": "00:08:43.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -13840,7 +13840,7 @@
     "timestamp": "00:08:44.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:08:45.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -13888,7 +13888,7 @@
     "timestamp": "00:08:51.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -13912,7 +13912,7 @@
     "timestamp": "00:08:53.059"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -13928,7 +13928,7 @@
     "timestamp": "00:08:56.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -13952,7 +13952,7 @@
     "timestamp": "00:08:58.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -13976,7 +13976,7 @@
     "timestamp": "00:09:01.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -14000,7 +14000,7 @@
     "timestamp": "00:09:03.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -14032,7 +14032,7 @@
     "timestamp": "00:09:21.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shinji Okazaki",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -14048,7 +14048,7 @@
     "timestamp": "00:09:22.756"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -14072,7 +14072,7 @@
     "timestamp": "00:09:23.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shinji Okazaki",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:09:28.387"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -14192,7 +14192,7 @@
     "timestamp": "00:09:31.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -14216,7 +14216,7 @@
     "timestamp": "00:09:32.348"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:09:36.793"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mark Noble",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -14288,7 +14288,7 @@
     "timestamp": "00:09:38.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -14320,7 +14320,7 @@
     "timestamp": "00:09:43.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shinji Okazaki",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:09:45.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -14352,7 +14352,7 @@
     "timestamp": "00:10:05.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:10:05.977"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:10:08.070"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -14416,7 +14416,7 @@
     "timestamp": "00:10:12.493"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:10:16.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:10:19.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -14496,7 +14496,7 @@
     "timestamp": "00:10:23.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -14520,7 +14520,7 @@
     "timestamp": "00:10:27.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -14536,7 +14536,7 @@
     "timestamp": "00:10:28.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:10:30.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:10:36.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -14656,7 +14656,7 @@
     "timestamp": "00:10:43.338"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:12:07.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -14696,7 +14696,7 @@
     "timestamp": "00:12:10.082"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -14720,7 +14720,7 @@
     "timestamp": "00:12:14.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -14736,7 +14736,7 @@
     "timestamp": "00:12:18.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:12:19.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:12:21.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -14864,7 +14864,7 @@
     "timestamp": "00:12:31.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:12:34.185"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -14912,7 +14912,7 @@
     "timestamp": "00:12:37.334"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -14928,7 +14928,7 @@
     "timestamp": "00:12:42.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:12:44.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -14976,7 +14976,7 @@
     "timestamp": "00:12:45.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -15000,7 +15000,7 @@
     "timestamp": "00:12:50.133"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -15032,7 +15032,7 @@
     "timestamp": "00:13:01.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -15048,7 +15048,7 @@
     "timestamp": "00:13:03.691"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:13:05.300"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -15152,7 +15152,7 @@
     "timestamp": "00:13:28.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -15168,7 +15168,7 @@
     "timestamp": "00:14:14.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Leonardo Ulloa",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:14:18.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -15240,7 +15240,7 @@
     "timestamp": "00:14:23.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:14:25.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -15272,7 +15272,7 @@
     "timestamp": "00:14:28.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jeffrey Schlupp",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -15304,7 +15304,7 @@
     "timestamp": "00:14:33.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:14:35.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:14:58.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:15:02.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:15:04.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -15400,7 +15400,7 @@
     "timestamp": "00:15:07.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -15424,7 +15424,7 @@
     "timestamp": "00:15:11.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -15448,7 +15448,7 @@
     "timestamp": "00:15:13.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -15472,7 +15472,7 @@
     "timestamp": "00:15:16.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -15496,7 +15496,7 @@
     "timestamp": "00:15:20.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:15:27.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -15528,7 +15528,7 @@
     "timestamp": "00:15:52.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Leonardo Ulloa",
     "player2": "",
     "player1_team": "Leicester City",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:15:55.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mark Noble",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -15584,7 +15584,7 @@
     "timestamp": "00:16:01.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -15616,7 +15616,7 @@
     "timestamp": "00:16:04.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -15656,7 +15656,7 @@
     "timestamp": "00:16:38.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -15680,7 +15680,7 @@
     "timestamp": "00:16:41.379"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -15696,7 +15696,7 @@
     "timestamp": "00:16:44.039"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Winston Reid",
     "player2": "",
     "player1_team": "West Ham United",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:17:32.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -15744,7 +15744,7 @@
     "timestamp": "00:17:38.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -15784,7 +15784,7 @@
     "timestamp": "00:17:40.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -15808,7 +15808,7 @@
     "timestamp": "00:17:56.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:17:57.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:17:59.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -15856,7 +15856,7 @@
     "timestamp": "00:18:00.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -15872,7 +15872,7 @@
     "timestamp": "00:18:01.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -15904,7 +15904,7 @@
     "timestamp": "00:18:03.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -15928,7 +15928,7 @@
     "timestamp": "00:18:06.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jeffrey Schlupp",
     "player2": "",
     "player1_team": "Leicester City",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:18:10.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -15984,7 +15984,7 @@
     "timestamp": "00:18:14.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Huth",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:18:17.451"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:18:38.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -16048,7 +16048,7 @@
     "timestamp": "00:18:40.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:18:46.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -16112,7 +16112,7 @@
     "timestamp": "00:18:50.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:18:52.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -16184,7 +16184,7 @@
     "timestamp": "00:18:58.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -16216,7 +16216,7 @@
     "timestamp": "00:19:15.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -16240,7 +16240,7 @@
     "timestamp": "00:19:16.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -16264,7 +16264,7 @@
     "timestamp": "00:19:22.370"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:19:24.792"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -16312,7 +16312,7 @@
     "timestamp": "00:19:27.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -16336,7 +16336,7 @@
     "timestamp": "00:19:33.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:19:37.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -16368,7 +16368,7 @@
     "timestamp": "00:19:39.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -16392,7 +16392,7 @@
     "timestamp": "00:19:41.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:19:44.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -16464,7 +16464,7 @@
     "timestamp": "00:20:03.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -16488,7 +16488,7 @@
     "timestamp": "00:20:07.142"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -16512,7 +16512,7 @@
     "timestamp": "00:20:09.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -16536,7 +16536,7 @@
     "timestamp": "00:20:11.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:20:13.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:20:15.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:20:16.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:20:18.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:20:20.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:20:21.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:20:22.132"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -16704,7 +16704,7 @@
     "timestamp": "00:20:23.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -16728,7 +16728,7 @@
     "timestamp": "00:20:26.818"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:20:28.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:20:31.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -16824,7 +16824,7 @@
     "timestamp": "00:20:48.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -16856,7 +16856,7 @@
     "timestamp": "00:20:55.405"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -16888,7 +16888,7 @@
     "timestamp": "00:20:58.095"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -16912,7 +16912,7 @@
     "timestamp": "00:20:59.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "N''Golo Kanté",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:21:09.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -17032,7 +17032,7 @@
     "timestamp": "00:21:27.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17056,7 +17056,7 @@
     "timestamp": "00:21:30.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -17080,7 +17080,7 @@
     "timestamp": "00:21:34.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -17104,7 +17104,7 @@
     "timestamp": "00:21:37.310"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:21:42.305"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Manuel Lanzini",
     "player2": "",
     "player1_team": "West Ham United",
@@ -17144,7 +17144,7 @@
     "timestamp": "00:21:45.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:22:24.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Leonardo Ulloa",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:22:27.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -17216,7 +17216,7 @@
     "timestamp": "00:22:49.553"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:22:50.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -17304,7 +17304,7 @@
     "timestamp": "00:22:52.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:22:54.152"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:22:54.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Moses",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -17360,7 +17360,7 @@
     "timestamp": "00:22:57.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:22:58.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -17416,7 +17416,7 @@
     "timestamp": "00:23:02.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:23:05.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -17472,7 +17472,7 @@
     "timestamp": "00:23:10.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Victor Moses",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:23:13.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Victor Moses",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17520,7 +17520,7 @@
     "timestamp": "00:23:21.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:23:23.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -17568,7 +17568,7 @@
     "timestamp": "00:23:27.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17592,7 +17592,7 @@
     "timestamp": "00:23:32.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:23:35.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emmanuel Emenike",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:23:35.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:23:37.992"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:24:11.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -17744,7 +17744,7 @@
     "timestamp": "00:24:44.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:24:50.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17792,7 +17792,7 @@
     "timestamp": "00:24:53.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -17816,7 +17816,7 @@
     "timestamp": "00:24:55.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:24:57.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -17864,7 +17864,7 @@
     "timestamp": "00:25:01.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -17904,7 +17904,7 @@
     "timestamp": "00:25:08.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:25:11.251"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:25:14.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -17984,7 +17984,7 @@
     "timestamp": "00:25:16.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -18008,7 +18008,7 @@
     "timestamp": "00:25:20.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:25:29.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -18096,7 +18096,7 @@
     "timestamp": "00:25:32.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -18112,7 +18112,7 @@
     "timestamp": "00:25:36.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -18144,7 +18144,7 @@
     "timestamp": "00:25:37.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Leonardo Ulloa",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:25:40.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -18184,7 +18184,7 @@
     "timestamp": "00:25:43.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:25:47.106"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:25:51.295"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -18256,7 +18256,7 @@
     "timestamp": "00:25:53.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -18280,7 +18280,7 @@
     "timestamp": "00:25:55.317"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -18304,7 +18304,7 @@
     "timestamp": "00:25:57.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -18328,7 +18328,7 @@
     "timestamp": "00:26:02.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Victor Moses",
     "player1_team": "West Ham United",
@@ -18352,7 +18352,7 @@
     "timestamp": "00:26:03.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -18376,7 +18376,7 @@
     "timestamp": "00:26:07.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -18400,7 +18400,7 @@
     "timestamp": "00:26:08.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Leonardo Ulloa",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:26:33.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:27:01.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:27:10.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:27:19.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -18512,7 +18512,7 @@
     "timestamp": "00:27:20.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -18600,7 +18600,7 @@
     "timestamp": "00:27:26.652"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emmanuel Emenike",
     "player2": "",
     "player1_team": "West Ham United",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:27:29.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:28:04.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Cheikhou Kouyaté",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -18656,7 +18656,7 @@
     "timestamp": "00:28:04.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -18680,7 +18680,7 @@
     "timestamp": "00:28:06.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -18696,7 +18696,7 @@
     "timestamp": "00:28:06.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -18712,7 +18712,7 @@
     "timestamp": "00:28:08.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -18744,7 +18744,7 @@
     "timestamp": "00:28:09.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -18776,7 +18776,7 @@
     "timestamp": "00:28:12.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:28:15.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:28:19.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -18880,7 +18880,7 @@
     "timestamp": "00:28:43.681"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:28:50.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -18984,7 +18984,7 @@
     "timestamp": "00:28:56.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -19040,7 +19040,7 @@
     "timestamp": "00:29:08.365"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -19056,7 +19056,7 @@
     "timestamp": "00:29:15.360"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -19080,7 +19080,7 @@
     "timestamp": "00:29:49.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -19104,7 +19104,7 @@
     "timestamp": "00:29:52.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -19128,7 +19128,7 @@
     "timestamp": "00:29:55.003"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -19144,7 +19144,7 @@
     "timestamp": "00:29:59.353"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -19168,7 +19168,7 @@
     "timestamp": "00:30:01.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19192,7 +19192,7 @@
     "timestamp": "00:30:04.281"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -19264,7 +19264,7 @@
     "timestamp": "00:30:11.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -19288,7 +19288,7 @@
     "timestamp": "00:30:13.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -19320,7 +19320,7 @@
     "timestamp": "00:30:18.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -19344,7 +19344,7 @@
     "timestamp": "00:30:21.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -19360,7 +19360,7 @@
     "timestamp": "00:30:23.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -19408,7 +19408,7 @@
     "timestamp": "00:30:24.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:30:34.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -19456,7 +19456,7 @@
     "timestamp": "00:30:37.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:30:38.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -19512,7 +19512,7 @@
     "timestamp": "00:30:42.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -19536,7 +19536,7 @@
     "timestamp": "00:30:44.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -19560,7 +19560,7 @@
     "timestamp": "00:30:46.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19592,7 +19592,7 @@
     "timestamp": "00:30:52.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -19624,7 +19624,7 @@
     "timestamp": "00:30:55.627"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -19648,7 +19648,7 @@
     "timestamp": "00:31:04.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:31:08.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -19696,7 +19696,7 @@
     "timestamp": "00:31:11.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "",
     "player1_team": "West Ham United",
@@ -19736,7 +19736,7 @@
     "timestamp": "00:32:44.846"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Dimitri Payet",
     "player2": "",
     "player1_team": "West Ham United",
@@ -19752,7 +19752,7 @@
     "timestamp": "00:33:05.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -19784,7 +19784,7 @@
     "timestamp": "00:33:35.878"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19808,7 +19808,7 @@
     "timestamp": "00:33:40.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -19832,7 +19832,7 @@
     "timestamp": "00:33:45.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -19856,7 +19856,7 @@
     "timestamp": "00:33:49.548"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:33:54.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:33:58.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -19928,7 +19928,7 @@
     "timestamp": "00:34:01.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:34:06.394"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -19992,7 +19992,7 @@
     "timestamp": "00:34:23.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Daniel Amartey",
     "player1_team": "Leicester City",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:34:24.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daniel Amartey",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -20040,7 +20040,7 @@
     "timestamp": "00:34:28.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jeffrey Schlupp",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -20072,7 +20072,7 @@
     "timestamp": "00:34:29.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:34:30.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:34:33.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:34:43.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20216,7 +20216,7 @@
     "timestamp": "00:34:45.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -20240,7 +20240,7 @@
     "timestamp": "00:34:47.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -20264,7 +20264,7 @@
     "timestamp": "00:34:50.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jeffrey Schlupp",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:34:52.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:34:55.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20328,7 +20328,7 @@
     "timestamp": "00:34:55.975"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Leonardo Ulloa",
     "player2": "Daniel Amartey",
     "player1_team": "Leicester City",
@@ -20344,7 +20344,7 @@
     "timestamp": "00:35:03.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -20368,7 +20368,7 @@
     "timestamp": "00:35:05.466"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:35:14.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -20440,7 +20440,7 @@
     "timestamp": "00:35:16.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -20488,7 +20488,7 @@
     "timestamp": "00:35:18.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -20504,7 +20504,7 @@
     "timestamp": "00:35:24.613"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -20528,7 +20528,7 @@
     "timestamp": "00:35:26.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -20544,7 +20544,7 @@
     "timestamp": "00:35:33.308"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -20568,7 +20568,7 @@
     "timestamp": "00:35:35.192"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:35:38.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:35:42.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:35:45.257"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:35:48.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -20688,7 +20688,7 @@
     "timestamp": "00:35:49.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:35:54.339"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -20744,7 +20744,7 @@
     "timestamp": "00:35:56.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -20768,7 +20768,7 @@
     "timestamp": "00:35:58.388"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Cheikhou Kouyaté",
     "player2": "",
     "player1_team": "West Ham United",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:35:59.874"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "",
     "player1_team": "West Ham United",
@@ -20824,7 +20824,7 @@
     "timestamp": "00:36:01.870"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20848,7 +20848,7 @@
     "timestamp": "00:36:20.541"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Daniel Amartey",
     "player1_team": "Leicester City",
@@ -20896,7 +20896,7 @@
     "timestamp": "00:36:21.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daniel Amartey",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:36:23.772"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "",
     "player1_team": "Leicester City",
@@ -20928,7 +20928,7 @@
     "timestamp": "00:36:25.157"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -20952,7 +20952,7 @@
     "timestamp": "00:36:26.016"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -20976,7 +20976,7 @@
     "timestamp": "00:36:30.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -21000,7 +21000,7 @@
     "timestamp": "00:36:33.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Manuel Lanzini",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -21040,7 +21040,7 @@
     "timestamp": "00:36:38.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -21064,7 +21064,7 @@
     "timestamp": "00:36:41.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21088,7 +21088,7 @@
     "timestamp": "00:37:28.510"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Andy Carroll",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21104,7 +21104,7 @@
     "timestamp": "00:38:31.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "José Leonardo Ulloa",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:39:04.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -21136,7 +21136,7 @@
     "timestamp": "00:39:07.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Robert Huth",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -21152,7 +21152,7 @@
     "timestamp": "00:39:11.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -21176,7 +21176,7 @@
     "timestamp": "00:39:16.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -21200,7 +21200,7 @@
     "timestamp": "00:39:20.494"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:39:25.903"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -21248,7 +21248,7 @@
     "timestamp": "00:39:28.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -21272,7 +21272,7 @@
     "timestamp": "00:39:33.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -21296,7 +21296,7 @@
     "timestamp": "00:39:36.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -21320,7 +21320,7 @@
     "timestamp": "00:39:41.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -21352,7 +21352,7 @@
     "timestamp": "00:39:45.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -21376,7 +21376,7 @@
     "timestamp": "00:39:47.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -21400,7 +21400,7 @@
     "timestamp": "00:39:50.425"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Michail Antonio",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -21440,7 +21440,7 @@
     "timestamp": "00:39:54.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -21472,7 +21472,7 @@
     "timestamp": "00:39:58.190"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -21528,7 +21528,7 @@
     "timestamp": "00:40:05.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -21568,7 +21568,7 @@
     "timestamp": "00:40:09.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:40:13.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:40:16.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Dimitri Payet",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -21672,7 +21672,7 @@
     "timestamp": "00:40:24.217"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -21752,7 +21752,7 @@
     "timestamp": "00:40:37.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -21792,7 +21792,7 @@
     "timestamp": "00:40:42.535"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -21808,7 +21808,7 @@
     "timestamp": "00:40:44.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Daniel Amartey",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -21832,7 +21832,7 @@
     "timestamp": "00:41:41.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -21872,7 +21872,7 @@
     "timestamp": "00:41:45.985"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -21896,7 +21896,7 @@
     "timestamp": "00:41:49.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -21920,7 +21920,7 @@
     "timestamp": "00:41:50.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -21944,7 +21944,7 @@
     "timestamp": "00:41:53.038"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -21992,7 +21992,7 @@
     "timestamp": "00:41:56.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Drinkwater",
     "player2": "",
     "player1_team": "Leicester City",
@@ -22096,7 +22096,7 @@
     "timestamp": "00:42:35.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:42:40.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -22144,7 +22144,7 @@
     "timestamp": "00:42:44.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -22168,7 +22168,7 @@
     "timestamp": "00:42:48.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -22184,7 +22184,7 @@
     "timestamp": "00:43:20.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -22216,7 +22216,7 @@
     "timestamp": "00:43:41.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -22272,7 +22272,7 @@
     "timestamp": "00:43:46.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -22296,7 +22296,7 @@
     "timestamp": "00:43:49.477"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Robert Huth",
     "player2": "",
     "player1_team": "Leicester City",
@@ -22312,7 +22312,7 @@
     "timestamp": "00:43:50.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -22344,7 +22344,7 @@
     "timestamp": "00:44:25.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Wes Morgan",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -22376,7 +22376,7 @@
     "timestamp": "00:44:31.518"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:44:54.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -22424,7 +22424,7 @@
     "timestamp": "00:45:26.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -22440,7 +22440,7 @@
     "timestamp": "00:45:31.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -22480,7 +22480,7 @@
     "timestamp": "00:45:34.185"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emmanuel Emenike",
     "player2": "",
     "player1_team": "West Ham United",
@@ -22496,7 +22496,7 @@
     "timestamp": "00:45:37.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kasper Schmeichel",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -22520,7 +22520,7 @@
     "timestamp": "00:45:49.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:46:00.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Andy Carroll",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -22632,7 +22632,7 @@
     "timestamp": "00:46:03.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Winston Reid",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -22656,7 +22656,7 @@
     "timestamp": "00:46:27.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:46:32.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Dimitri Payet",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -22720,7 +22720,7 @@
     "timestamp": "00:46:33.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -22752,7 +22752,7 @@
     "timestamp": "00:46:36.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -22768,7 +22768,7 @@
     "timestamp": "00:46:41.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Andy Carroll",
     "player1_team": "West Ham United",
@@ -22784,7 +22784,7 @@
     "timestamp": "00:47:15.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Andy Carroll",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -22808,7 +22808,7 @@
     "timestamp": "00:47:16.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Robert Huth",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:47:17.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -22864,7 +22864,7 @@
     "timestamp": "00:47:19.147"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Wes Morgan",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -22888,7 +22888,7 @@
     "timestamp": "00:47:22.153"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "José Leonardo Ulloa",
     "player2": "Daniel Amartey",
     "player1_team": "Leicester City",
@@ -22912,7 +22912,7 @@
     "timestamp": "00:47:25.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Aaron Cresswell",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -22936,7 +22936,7 @@
     "timestamp": "00:47:43.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "",
     "player1_team": "West Ham United",
@@ -22952,7 +22952,7 @@
     "timestamp": "00:47:50.804"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -22976,7 +22976,7 @@
     "timestamp": "00:47:52.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jeffrey Schlupp",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -23008,7 +23008,7 @@
     "timestamp": "00:47:58.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -23024,7 +23024,7 @@
     "timestamp": "00:47:59.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -23064,7 +23064,7 @@
     "timestamp": "00:48:03.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Michail Antonio",
     "player2": "Emmanuel Emenike",
     "player1_team": "West Ham United",
@@ -23080,7 +23080,7 @@
     "timestamp": "00:48:25.917"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -23112,7 +23112,7 @@
     "timestamp": "00:48:27.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jeffrey Schlupp",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -23184,7 +23184,7 @@
     "timestamp": "00:48:30.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christian Fuchs",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -23200,7 +23200,7 @@
     "timestamp": "00:48:36.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -23232,7 +23232,7 @@
     "timestamp": "00:48:38.750"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Enner Remberto Valencia Lastra",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -23272,7 +23272,7 @@
     "timestamp": "00:48:40.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christian Fuchs",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -23304,7 +23304,7 @@
     "timestamp": "00:48:41.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Danny Drinkwater",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -23336,7 +23336,7 @@
     "timestamp": "00:48:44.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "N''Golo Kanté",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -23384,7 +23384,7 @@
     "timestamp": "00:48:48.546"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "José Leonardo Ulloa",
     "player2": "",
     "player1_team": "Leicester City",
@@ -23400,7 +23400,7 @@
     "timestamp": "00:49:45.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emmanuel Emenike",
     "player2": "Manuel Lanzini",
     "player1_team": "West Ham United",
@@ -23416,7 +23416,7 @@
     "timestamp": "00:50:41.657"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Manuel Lanzini",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -23440,7 +23440,7 @@
     "timestamp": "00:50:43.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Cheikhou Kouyaté",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",

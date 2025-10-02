@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -16,7 +16,7 @@
     "timestamp": "00:00:02.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:07.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -64,7 +64,7 @@
     "timestamp": "00:00:18.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -96,7 +96,7 @@
     "timestamp": "00:00:21.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -120,7 +120,7 @@
     "timestamp": "00:00:23.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -152,7 +152,7 @@
     "timestamp": "00:00:24.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:26.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -232,7 +232,7 @@
     "timestamp": "00:00:29.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -264,7 +264,7 @@
     "timestamp": "00:00:33.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -280,7 +280,7 @@
     "timestamp": "00:00:36.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -336,7 +336,7 @@
     "timestamp": "00:00:39.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Brougham",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -432,7 +432,7 @@
     "timestamp": "00:00:42.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -504,7 +504,7 @@
     "timestamp": "00:00:50.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -552,7 +552,7 @@
     "timestamp": "00:01:27.921"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -568,7 +568,7 @@
     "timestamp": "00:01:28.529"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -728,7 +728,7 @@
     "timestamp": "00:02:03.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -752,7 +752,7 @@
     "timestamp": "00:02:06.290"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -776,7 +776,7 @@
     "timestamp": "00:02:08.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -800,7 +800,7 @@
     "timestamp": "00:02:11.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -808,7 +808,7 @@
     "timestamp": "00:02:15.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -840,7 +840,7 @@
     "timestamp": "00:02:17.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie-Lee Napier",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -864,7 +864,7 @@
     "timestamp": "00:02:19.946"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -912,7 +912,7 @@
     "timestamp": "00:02:23.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -928,7 +928,7 @@
     "timestamp": "00:02:45.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -952,7 +952,7 @@
     "timestamp": "00:02:46.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -976,7 +976,7 @@
     "timestamp": "00:02:48.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -1008,7 +1008,7 @@
     "timestamp": "00:02:51.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -1040,7 +1040,7 @@
     "timestamp": "00:02:57.470"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -1072,7 +1072,7 @@
     "timestamp": "00:03:00.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -1144,7 +1144,7 @@
     "timestamp": "00:03:11.116"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:03:14.631"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -1184,7 +1184,7 @@
     "timestamp": "00:03:20.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:03:22.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:03:26.511"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -1320,7 +1320,7 @@
     "timestamp": "00:03:29.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:03:34.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -1408,7 +1408,7 @@
     "timestamp": "00:03:39.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Ruesha Littlejohn",
     "player1_team": "Birmingham City WFC",
@@ -1432,7 +1432,7 @@
     "timestamp": "00:03:41.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruesha Littlejohn",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -1504,7 +1504,7 @@
     "timestamp": "00:03:43.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -1520,7 +1520,7 @@
     "timestamp": "00:04:57.626"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:05:05.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -1640,7 +1640,7 @@
     "timestamp": "00:05:06.815"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -1664,7 +1664,7 @@
     "timestamp": "00:05:10.138"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:05:11.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:05:30.294"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -1736,7 +1736,7 @@
     "timestamp": "00:05:34.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -1760,7 +1760,7 @@
     "timestamp": "00:05:37.576"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:05:39.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -1864,7 +1864,7 @@
     "timestamp": "00:05:45.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -1896,7 +1896,7 @@
     "timestamp": "00:05:48.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -1928,7 +1928,7 @@
     "timestamp": "00:05:50.347"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -2040,7 +2040,7 @@
     "timestamp": "00:05:53.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:06:29.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:06:31.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -2104,7 +2104,7 @@
     "timestamp": "00:06:35.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Rose Kelly",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:06:38.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -2200,7 +2200,7 @@
     "timestamp": "00:06:42.438"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -2232,7 +2232,7 @@
     "timestamp": "00:07:13.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:07:33.350"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Christie Murray",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2280,7 +2280,7 @@
     "timestamp": "00:07:35.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:07:44.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:07:48.728"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2368,7 +2368,7 @@
     "timestamp": "00:07:51.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -2392,7 +2392,7 @@
     "timestamp": "00:08:17.823"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2400,7 +2400,7 @@
     "timestamp": "00:08:19.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -2440,7 +2440,7 @@
     "timestamp": "00:08:52.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:08:58.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:09:03.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -2512,7 +2512,7 @@
     "timestamp": "00:09:05.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -2544,7 +2544,7 @@
     "timestamp": "00:09:08.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:09:10.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -2592,7 +2592,7 @@
     "timestamp": "00:09:26.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -2632,7 +2632,7 @@
     "timestamp": "00:09:36.708"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -2656,7 +2656,7 @@
     "timestamp": "00:09:38.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2688,7 +2688,7 @@
     "timestamp": "00:09:42.996"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:09:46.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:10:29.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2736,7 +2736,7 @@
     "timestamp": "00:10:29.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:10:33.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2776,7 +2776,7 @@
     "timestamp": "00:10:35.682"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:10:59.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -2880,7 +2880,7 @@
     "timestamp": "00:11:02.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3008,7 +3008,7 @@
     "timestamp": "00:11:29.045"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:11:30.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3080,7 +3080,7 @@
     "timestamp": "00:11:51.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:11:53.885"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -3136,7 +3136,7 @@
     "timestamp": "00:11:58.058"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:12:00.197"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:12:01.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:12:02.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3256,7 +3256,7 @@
     "timestamp": "00:12:05.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -3304,7 +3304,7 @@
     "timestamp": "00:12:09.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -3328,7 +3328,7 @@
     "timestamp": "00:12:46.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:12:49.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:12:52.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Ruesha Littlejohn",
     "player1_team": "Birmingham City WFC",
@@ -3416,7 +3416,7 @@
     "timestamp": "00:14:05.388"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:14:08.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -3448,7 +3448,7 @@
     "timestamp": "00:14:09.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:14:10.879"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -3512,7 +3512,7 @@
     "timestamp": "00:14:14.219"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -3536,7 +3536,7 @@
     "timestamp": "00:14:17.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:14:22.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -3584,7 +3584,7 @@
     "timestamp": "00:14:25.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -3608,7 +3608,7 @@
     "timestamp": "00:14:28.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3624,7 +3624,7 @@
     "timestamp": "00:14:34.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:15:30.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -3704,7 +3704,7 @@
     "timestamp": "00:15:47.680"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -3760,7 +3760,7 @@
     "timestamp": "00:16:25.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:16:38.723"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:16:42.913"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -3848,7 +3848,7 @@
     "timestamp": "00:17:16.897"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Shania Hayles",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -3880,7 +3880,7 @@
     "timestamp": "00:17:19.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:17:23.390"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:17:26.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -3976,7 +3976,7 @@
     "timestamp": "00:17:30.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -3992,7 +3992,7 @@
     "timestamp": "00:17:36.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -4008,7 +4008,7 @@
     "timestamp": "00:17:37.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:17:43.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:17:45.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:17:47.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -4160,7 +4160,7 @@
     "timestamp": "00:17:48.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:17:56.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -4240,7 +4240,7 @@
     "timestamp": "00:18:01.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Ruesha Littlejohn",
     "player1_team": "Birmingham City WFC",
@@ -4264,7 +4264,7 @@
     "timestamp": "00:18:21.629"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruesha Littlejohn",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -4288,7 +4288,7 @@
     "timestamp": "00:18:22.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -4328,7 +4328,7 @@
     "timestamp": "00:18:24.998"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -4360,7 +4360,7 @@
     "timestamp": "00:18:38.997"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -4400,7 +4400,7 @@
     "timestamp": "00:18:40.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -4448,7 +4448,7 @@
     "timestamp": "00:18:44.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Ruesha Littlejohn",
     "player1_team": "Birmingham City WFC",
@@ -4464,7 +4464,7 @@
     "timestamp": "00:18:58.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -4480,7 +4480,7 @@
     "timestamp": "00:19:00.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruesha Littlejohn",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -4608,7 +4608,7 @@
     "timestamp": "00:19:06.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -4624,7 +4624,7 @@
     "timestamp": "00:19:10.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -4656,7 +4656,7 @@
     "timestamp": "00:19:11.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -4712,7 +4712,7 @@
     "timestamp": "00:19:16.653"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -4728,7 +4728,7 @@
     "timestamp": "00:19:19.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:19:24.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -4824,7 +4824,7 @@
     "timestamp": "00:20:13.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruesha Littlejohn",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:20:16.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Ruesha Littlejohn",
     "player1_team": "Birmingham City WFC",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:20:32.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruesha Littlejohn",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -4928,7 +4928,7 @@
     "timestamp": "00:20:35.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -4952,7 +4952,7 @@
     "timestamp": "00:20:36.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -4976,7 +4976,7 @@
     "timestamp": "00:20:37.235"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Ruesha Littlejohn",
     "player1_team": "Birmingham City WFC",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:20:38.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:20:40.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:20:41.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:20:43.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:20:56.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:20:57.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -5168,7 +5168,7 @@
     "timestamp": "00:20:58.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -5248,7 +5248,7 @@
     "timestamp": "00:21:08.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Ruesha Littlejohn",
     "player1_team": "Birmingham City WFC",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:21:10.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruesha Littlejohn",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:21:14.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -5320,7 +5320,7 @@
     "timestamp": "00:21:17.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:21:19.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -5432,7 +5432,7 @@
     "timestamp": "00:21:24.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -5448,7 +5448,7 @@
     "timestamp": "00:21:29.706"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:21:31.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -5520,7 +5520,7 @@
     "timestamp": "00:21:37.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:21:38.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:21:41.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -5600,7 +5600,7 @@
     "timestamp": "00:21:44.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -5632,7 +5632,7 @@
     "timestamp": "00:21:49.161"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:21:51.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -5688,7 +5688,7 @@
     "timestamp": "00:21:53.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:22:03.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jamie-Lee Napier",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -5792,7 +5792,7 @@
     "timestamp": "00:24:16.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -5800,7 +5800,7 @@
     "timestamp": "00:24:34.001"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -5824,7 +5824,7 @@
     "timestamp": "00:25:06.488"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -5848,7 +5848,7 @@
     "timestamp": "00:25:07.351"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:25:12.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -5936,7 +5936,7 @@
     "timestamp": "00:25:15.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -5960,7 +5960,7 @@
     "timestamp": "00:25:18.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -5984,7 +5984,7 @@
     "timestamp": "00:25:23.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie-Lee Napier",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -6048,7 +6048,7 @@
     "timestamp": "00:25:28.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -6072,7 +6072,7 @@
     "timestamp": "00:25:32.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -6152,7 +6152,7 @@
     "timestamp": "00:25:41.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:25:43.314"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -6248,7 +6248,7 @@
     "timestamp": "00:25:48.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:26:28.738"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:27:02.030"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -6352,7 +6352,7 @@
     "timestamp": "00:27:05.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Shania Hayles",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -6368,7 +6368,7 @@
     "timestamp": "00:27:09.719"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:27:12.302"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6408,7 +6408,7 @@
     "timestamp": "00:27:13.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:28:00.979"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -6464,7 +6464,7 @@
     "timestamp": "00:28:03.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -6488,7 +6488,7 @@
     "timestamp": "00:28:04.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:28:06.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:28:11.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:28:13.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:28:18.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -6640,7 +6640,7 @@
     "timestamp": "00:28:19.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:28:25.023"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -6720,7 +6720,7 @@
     "timestamp": "00:28:31.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:29:17.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:29:19.234"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:29:20.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:29:28.009"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:29:46.244"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -6936,7 +6936,7 @@
     "timestamp": "00:29:52.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -6992,7 +6992,7 @@
     "timestamp": "00:29:55.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:30:10.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -7016,7 +7016,7 @@
     "timestamp": "00:30:10.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:30:15.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -7088,7 +7088,7 @@
     "timestamp": "00:30:17.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:30:20.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:30:29.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:30:30.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:30:36.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Rose Kelly",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -7312,7 +7312,7 @@
     "timestamp": "00:30:41.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Rose Kelly",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:31:01.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:31:14.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:31:19.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -7456,7 +7456,7 @@
     "timestamp": "00:31:59.044"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:32:07.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -7544,7 +7544,7 @@
     "timestamp": "00:32:12.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie-Lee Napier",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -7592,7 +7592,7 @@
     "timestamp": "00:32:17.465"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -7680,7 +7680,7 @@
     "timestamp": "00:32:31.186"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -7728,7 +7728,7 @@
     "timestamp": "00:33:16.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -7752,7 +7752,7 @@
     "timestamp": "00:33:23.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -7824,7 +7824,7 @@
     "timestamp": "00:33:34.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:33:38.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:33:41.402"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:33:45.222"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:34:09.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:34:15.287"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:34:21.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:34:38.426"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Rose Kelly",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -8056,7 +8056,7 @@
     "timestamp": "00:34:44.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -8128,7 +8128,7 @@
     "timestamp": "00:35:48.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8176,7 +8176,7 @@
     "timestamp": "00:35:55.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -8232,7 +8232,7 @@
     "timestamp": "00:36:01.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -8264,7 +8264,7 @@
     "timestamp": "00:36:03.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:36:55.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -8336,7 +8336,7 @@
     "timestamp": "00:37:00.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:37:02.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8416,7 +8416,7 @@
     "timestamp": "00:37:04.407"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:37:08.500"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:37:10.699"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:37:13.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8504,7 +8504,7 @@
     "timestamp": "00:37:27.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:37:28.463"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:37:29.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:37:33.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -8608,7 +8608,7 @@
     "timestamp": "00:37:35.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:37:39.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:38:12.049"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:38:14.686"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -8688,7 +8688,7 @@
     "timestamp": "00:38:15.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:38:21.667"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:38:39.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -8800,7 +8800,7 @@
     "timestamp": "00:38:42.719"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -8904,7 +8904,7 @@
     "timestamp": "00:39:33.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:40:26.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -8968,7 +8968,7 @@
     "timestamp": "00:40:28.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Rose Kelly",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:40:31.567"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -9040,7 +9040,7 @@
     "timestamp": "00:40:46.745"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -9096,7 +9096,7 @@
     "timestamp": "00:40:48.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:41:43.048"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -9192,7 +9192,7 @@
     "timestamp": "00:41:48.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -9224,7 +9224,7 @@
     "timestamp": "00:41:49.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -9240,7 +9240,7 @@
     "timestamp": "00:41:52.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -9296,7 +9296,7 @@
     "timestamp": "00:42:17.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie-Lee Napier",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:42:20.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -9384,7 +9384,7 @@
     "timestamp": "00:42:22.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:42:25.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -9432,7 +9432,7 @@
     "timestamp": "00:42:27.042"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -9512,7 +9512,7 @@
     "timestamp": "00:42:34.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -9560,7 +9560,7 @@
     "timestamp": "00:42:37.151"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -9584,7 +9584,7 @@
     "timestamp": "00:42:38.814"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -9600,7 +9600,7 @@
     "timestamp": "00:42:41.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:42:45.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -9632,7 +9632,7 @@
     "timestamp": "00:42:56.333"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jamie-Lee Napier",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:42:58.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -9688,7 +9688,7 @@
     "timestamp": "00:43:02.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -9712,7 +9712,7 @@
     "timestamp": "00:43:10.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -9736,7 +9736,7 @@
     "timestamp": "00:43:14.933"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:43:19.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -9808,7 +9808,7 @@
     "timestamp": "00:43:23.791"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -9840,7 +9840,7 @@
     "timestamp": "00:43:52.526"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -9936,7 +9936,7 @@
     "timestamp": "00:43:59.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:44:01.704"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -9992,7 +9992,7 @@
     "timestamp": "00:44:14.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:44:15.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -10048,7 +10048,7 @@
     "timestamp": "00:44:16.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -10064,7 +10064,7 @@
     "timestamp": "00:44:18.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:44:48.730"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:44:52.549"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -10144,7 +10144,7 @@
     "timestamp": "00:44:56.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -10160,7 +10160,7 @@
     "timestamp": "00:44:58.918"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:45:01.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -10208,7 +10208,7 @@
     "timestamp": "00:45:02.752"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:45:04.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:45:10.400"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -10312,7 +10312,7 @@
     "timestamp": "00:45:12.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -10336,7 +10336,7 @@
     "timestamp": "00:45:14.854"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:45:18.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -10384,7 +10384,7 @@
     "timestamp": "00:45:22.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:45:22.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -10584,7 +10584,7 @@
     "timestamp": "00:45:32.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:45:35.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -10616,7 +10616,7 @@
     "timestamp": "00:45:37.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -10656,7 +10656,7 @@
     "timestamp": "00:45:40.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -10688,7 +10688,7 @@
     "timestamp": "00:45:42.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -10712,7 +10712,7 @@
     "timestamp": "00:45:45.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:45:49.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -10776,7 +10776,7 @@
     "timestamp": "00:45:51.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -10800,7 +10800,7 @@
     "timestamp": "00:45:57.778"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -10832,7 +10832,7 @@
     "timestamp": "00:46:02.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -10848,7 +10848,7 @@
     "timestamp": "00:46:07.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -10864,7 +10864,7 @@
     "timestamp": "00:46:07.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:46:11.990"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -10904,7 +10904,7 @@
     "timestamp": "00:46:13.917"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jamie-Lee Napier",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -10928,7 +10928,7 @@
     "timestamp": "00:46:17.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -10960,7 +10960,7 @@
     "timestamp": "00:46:19.729"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -11000,7 +11000,7 @@
     "timestamp": "00:46:24.239"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -11032,7 +11032,7 @@
     "timestamp": "00:46:26.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:46:29.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Rose Kelly",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -11096,7 +11096,7 @@
     "timestamp": "00:46:36.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -11104,7 +11104,7 @@
     "timestamp": "00:46:37.504"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -11128,7 +11128,7 @@
     "timestamp": "00:46:44.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:46:45.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:46:51.208"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -11224,7 +11224,7 @@
     "timestamp": "00:46:55.150"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie-Lee Napier",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -11248,7 +11248,7 @@
     "timestamp": "00:46:56.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:46:57.272"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -11328,7 +11328,7 @@
     "timestamp": "00:47:02.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:47:09.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -11392,7 +11392,7 @@
     "timestamp": "00:47:12.002"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -11416,7 +11416,7 @@
     "timestamp": "00:47:12.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:47:23.525"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -11488,7 +11488,7 @@
     "timestamp": "00:47:27.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -11512,7 +11512,7 @@
     "timestamp": "00:47:29.092"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Jamie-Lee Napier",
     "player1_team": "Birmingham City WFC",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:47:35.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jamie-Lee Napier",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -11576,7 +11576,7 @@
     "timestamp": "00:47:38.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:47:39.968"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -11632,7 +11632,7 @@
     "timestamp": "00:47:46.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -11656,7 +11656,7 @@
     "timestamp": "00:47:49.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emma Rose Kelly",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11672,7 +11672,7 @@
     "timestamp": "00:00:00.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -11696,7 +11696,7 @@
     "timestamp": "00:00:01.732"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -11720,7 +11720,7 @@
     "timestamp": "00:00:05.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -11792,7 +11792,7 @@
     "timestamp": "00:00:20.431"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -11808,7 +11808,7 @@
     "timestamp": "00:00:22.158"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:00:38.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Brougham",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:00:41.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -11856,7 +11856,7 @@
     "timestamp": "00:00:41.487"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:00:58.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Murphy",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -11920,7 +11920,7 @@
     "timestamp": "00:01:03.614"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -11992,7 +11992,7 @@
     "timestamp": "00:01:07.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:03:29.707"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12056,7 +12056,7 @@
     "timestamp": "00:03:48.739"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -12128,7 +12128,7 @@
     "timestamp": "00:03:55.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -12152,7 +12152,7 @@
     "timestamp": "00:03:58.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -12176,7 +12176,7 @@
     "timestamp": "00:04:00.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -12208,7 +12208,7 @@
     "timestamp": "00:04:02.783"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:04:08.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:04:11.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emma Rose Kelly",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:04:16.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:04:18.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:04:18.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -12408,7 +12408,7 @@
     "timestamp": "00:04:26.737"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:04:27.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -12456,7 +12456,7 @@
     "timestamp": "00:04:28.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12568,7 +12568,7 @@
     "timestamp": "00:05:16.821"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -12592,7 +12592,7 @@
     "timestamp": "00:05:20.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12624,7 +12624,7 @@
     "timestamp": "00:05:29.574"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12672,7 +12672,7 @@
     "timestamp": "00:05:32.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -12736,7 +12736,7 @@
     "timestamp": "00:05:49.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -12776,7 +12776,7 @@
     "timestamp": "00:05:55.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:05:57.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:05:59.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:06:06.344"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:06:11.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Murphy",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -12920,7 +12920,7 @@
     "timestamp": "00:06:14.029"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -12944,7 +12944,7 @@
     "timestamp": "00:06:48.486"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -12960,7 +12960,7 @@
     "timestamp": "00:06:51.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:07:21.935"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -13008,7 +13008,7 @@
     "timestamp": "00:07:23.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -13048,7 +13048,7 @@
     "timestamp": "00:07:28.111"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -13080,7 +13080,7 @@
     "timestamp": "00:07:33.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -13096,7 +13096,7 @@
     "timestamp": "00:07:36.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:07:39.517"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -13152,7 +13152,7 @@
     "timestamp": "00:07:41.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -13192,7 +13192,7 @@
     "timestamp": "00:07:47.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Natalie Haigh",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -13208,7 +13208,7 @@
     "timestamp": "00:07:49.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -13248,7 +13248,7 @@
     "timestamp": "00:07:51.452"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -13296,7 +13296,7 @@
     "timestamp": "00:07:54.764"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:07:56.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:07:57.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:08:02.713"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -13392,7 +13392,7 @@
     "timestamp": "00:08:06.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -13416,7 +13416,7 @@
     "timestamp": "00:08:09.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -13440,7 +13440,7 @@
     "timestamp": "00:08:13.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -13464,7 +13464,7 @@
     "timestamp": "00:08:15.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -13480,7 +13480,7 @@
     "timestamp": "00:08:18.041"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -13496,7 +13496,7 @@
     "timestamp": "00:08:20.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Emma Rose Kelly",
     "player1_team": "Birmingham City WFC",
@@ -13528,7 +13528,7 @@
     "timestamp": "00:08:22.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:08:27.417"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -13632,7 +13632,7 @@
     "timestamp": "00:08:32.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -13712,7 +13712,7 @@
     "timestamp": "00:10:36.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -13736,7 +13736,7 @@
     "timestamp": "00:11:09.321"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -13768,7 +13768,7 @@
     "timestamp": "00:11:37.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -13824,7 +13824,7 @@
     "timestamp": "00:11:40.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -13856,7 +13856,7 @@
     "timestamp": "00:11:42.476"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -13888,7 +13888,7 @@
     "timestamp": "00:11:45.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -13928,7 +13928,7 @@
     "timestamp": "00:11:50.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -13944,7 +13944,7 @@
     "timestamp": "00:11:54.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -14024,7 +14024,7 @@
     "timestamp": "00:11:57.675"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Emily Murphy",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -14048,7 +14048,7 @@
     "timestamp": "00:12:22.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -14072,7 +14072,7 @@
     "timestamp": "00:12:43.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -14088,7 +14088,7 @@
     "timestamp": "00:12:46.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -14104,7 +14104,7 @@
     "timestamp": "00:12:47.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:12:47.915"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:12:50.119"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:12:52.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:12:57.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:13:10.967"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -14264,7 +14264,7 @@
     "timestamp": "00:13:12.874"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Veatriki Sarri",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -14288,7 +14288,7 @@
     "timestamp": "00:13:14.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -14320,7 +14320,7 @@
     "timestamp": "00:13:16.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Veatriki Sarri",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:13:19.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -14344,7 +14344,7 @@
     "timestamp": "00:13:45.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Brougham",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -14360,7 +14360,7 @@
     "timestamp": "00:13:49.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:13:51.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -14408,7 +14408,7 @@
     "timestamp": "00:13:55.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -14440,7 +14440,7 @@
     "timestamp": "00:13:57.263"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -14520,7 +14520,7 @@
     "timestamp": "00:14:03.716"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:14:06.226"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -14568,7 +14568,7 @@
     "timestamp": "00:14:07.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:14:15.806"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -14736,7 +14736,7 @@
     "timestamp": "00:14:17.893"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Murphy",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:14:19.496"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -14792,7 +14792,7 @@
     "timestamp": "00:14:29.984"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -14816,7 +14816,7 @@
     "timestamp": "00:14:31.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -14840,7 +14840,7 @@
     "timestamp": "00:14:32.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:14:45.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Murphy",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:14:51.252"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -14928,7 +14928,7 @@
     "timestamp": "00:14:56.811"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:14:58.198"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -14992,7 +14992,7 @@
     "timestamp": "00:15:00.264"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:15:04.888"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -15104,7 +15104,7 @@
     "timestamp": "00:15:06.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Emily Murphy",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -15128,7 +15128,7 @@
     "timestamp": "00:15:07.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -15152,7 +15152,7 @@
     "timestamp": "00:15:09.099"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Murphy",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -15168,7 +15168,7 @@
     "timestamp": "00:15:11.315"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:15:36.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -15248,7 +15248,7 @@
     "timestamp": "00:15:44.562"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:15:51.919"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:15:53.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -15360,7 +15360,7 @@
     "timestamp": "00:15:56.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -15392,7 +15392,7 @@
     "timestamp": "00:15:59.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:16:07.269"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -15456,7 +15456,7 @@
     "timestamp": "00:16:24.027"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -15488,7 +15488,7 @@
     "timestamp": "00:16:25.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:16:28.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:16:30.017"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -15568,7 +15568,7 @@
     "timestamp": "00:16:33.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -15584,7 +15584,7 @@
     "timestamp": "00:16:38.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:17:11.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -15656,7 +15656,7 @@
     "timestamp": "00:17:16.583"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -15688,7 +15688,7 @@
     "timestamp": "00:17:19.178"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:17:23.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -15744,7 +15744,7 @@
     "timestamp": "00:17:35.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:17:42.835"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Freya Gregory",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:18:06.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:18:15.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -15992,7 +15992,7 @@
     "timestamp": "00:18:36.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:19:00.610"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:19:28.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Brougham",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16064,7 +16064,7 @@
     "timestamp": "00:19:28.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:20:20.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -16120,7 +16120,7 @@
     "timestamp": "00:20:38.907"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -16144,7 +16144,7 @@
     "timestamp": "00:20:42.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Rebecca Holloway",
     "player1_team": "Birmingham City WFC",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:20:45.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:20:54.194"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -16232,7 +16232,7 @@
     "timestamp": "00:20:59.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -16272,7 +16272,7 @@
     "timestamp": "00:21:19.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -16296,7 +16296,7 @@
     "timestamp": "00:21:27.617"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16320,7 +16320,7 @@
     "timestamp": "00:21:29.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -16336,7 +16336,7 @@
     "timestamp": "00:21:34.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:21:35.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:21:37.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:21:40.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:21:41.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -16440,7 +16440,7 @@
     "timestamp": "00:21:47.368"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:21:49.474"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:21:52.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -16520,7 +16520,7 @@
     "timestamp": "00:21:59.844"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:22:09.105"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:22:10.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:22:15.891"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Veatriki Sarri",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16616,7 +16616,7 @@
     "timestamp": "00:22:19.478"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Veatriki Sarri",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -16648,7 +16648,7 @@
     "timestamp": "00:22:46.079"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Georgia Brougham",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:22:47.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -16696,7 +16696,7 @@
     "timestamp": "00:23:16.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:23:18.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:23:24.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -16784,7 +16784,7 @@
     "timestamp": "00:23:39.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:24:06.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:24:09.091"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -16856,7 +16856,7 @@
     "timestamp": "00:24:23.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -16864,7 +16864,7 @@
     "timestamp": "00:24:23.443"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -16896,7 +16896,7 @@
     "timestamp": "00:24:27.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -16920,7 +16920,7 @@
     "timestamp": "00:24:30.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -16984,7 +16984,7 @@
     "timestamp": "00:24:35.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17000,7 +17000,7 @@
     "timestamp": "00:24:36.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17016,7 +17016,7 @@
     "timestamp": "00:24:38.896"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -17048,7 +17048,7 @@
     "timestamp": "00:25:44.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Brougham",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17056,7 +17056,7 @@
     "timestamp": "00:25:45.087"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:25:48.170"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:25:49.447"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:26:12.868"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:26:33.415"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ruby Mace",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -17216,7 +17216,7 @@
     "timestamp": "00:27:08.166"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:27:10.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Murphy",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -17272,7 +17272,7 @@
     "timestamp": "00:27:12.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17280,7 +17280,7 @@
     "timestamp": "00:27:14.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17304,7 +17304,7 @@
     "timestamp": "00:27:16.744"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -17336,7 +17336,7 @@
     "timestamp": "00:27:18.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -17352,7 +17352,7 @@
     "timestamp": "00:27:25.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -17376,7 +17376,7 @@
     "timestamp": "00:27:28.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -17408,7 +17408,7 @@
     "timestamp": "00:27:48.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:28:12.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:28:12.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -17464,7 +17464,7 @@
     "timestamp": "00:28:22.674"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:28:23.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -17560,7 +17560,7 @@
     "timestamp": "00:28:26.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:28:43.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -17616,7 +17616,7 @@
     "timestamp": "00:28:47.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:28:51.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -17680,7 +17680,7 @@
     "timestamp": "00:28:54.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:28:59.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -17752,7 +17752,7 @@
     "timestamp": "00:29:02.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Olivia McLoughlin",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17808,7 +17808,7 @@
     "timestamp": "00:29:09.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -17848,7 +17848,7 @@
     "timestamp": "00:29:14.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -17888,7 +17888,7 @@
     "timestamp": "00:29:20.799"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -17904,7 +17904,7 @@
     "timestamp": "00:29:53.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:30:03.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:30:06.100"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17984,7 +17984,7 @@
     "timestamp": "00:30:07.882"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:30:08.925"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:30:13.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ruby Mace",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -18096,7 +18096,7 @@
     "timestamp": "00:30:17.289"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Veatriki Sarri",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18128,7 +18128,7 @@
     "timestamp": "00:30:20.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -18160,7 +18160,7 @@
     "timestamp": "00:30:25.330"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -18192,7 +18192,7 @@
     "timestamp": "00:30:28.377"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -18256,7 +18256,7 @@
     "timestamp": "00:30:33.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -18280,7 +18280,7 @@
     "timestamp": "00:30:37.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -18328,7 +18328,7 @@
     "timestamp": "00:30:43.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:30:49.889"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18440,7 +18440,7 @@
     "timestamp": "00:31:21.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Emily Murphy",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -18456,7 +18456,7 @@
     "timestamp": "00:31:22.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:31:37.898"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:31:39.697"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18536,7 +18536,7 @@
     "timestamp": "00:31:43.384"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Georgia Brougham",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -18560,7 +18560,7 @@
     "timestamp": "00:31:46.663"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:32:04.607"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -18640,7 +18640,7 @@
     "timestamp": "00:32:09.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -18712,7 +18712,7 @@
     "timestamp": "00:32:26.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:32:29.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Lisa Weiß",
     "player1_team": "Aston Villa",
@@ -18768,7 +18768,7 @@
     "timestamp": "00:32:33.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -18776,7 +18776,7 @@
     "timestamp": "00:32:33.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:32:46.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -18864,7 +18864,7 @@
     "timestamp": "00:32:56.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:32:59.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -18912,7 +18912,7 @@
     "timestamp": "00:33:01.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -18992,7 +18992,7 @@
     "timestamp": "00:33:07.247"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:33:56.126"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -19120,7 +19120,7 @@
     "timestamp": "00:34:00.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Natalie Haigh",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -19152,7 +19152,7 @@
     "timestamp": "00:34:04.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:34:11.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:34:12.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Veatriki Sarri",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -19240,7 +19240,7 @@
     "timestamp": "00:34:36.322"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lisa Weiß",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -19256,7 +19256,7 @@
     "timestamp": "00:35:06.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -19296,7 +19296,7 @@
     "timestamp": "00:35:10.624"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -19352,7 +19352,7 @@
     "timestamp": "00:35:17.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -19392,7 +19392,7 @@
     "timestamp": "00:35:23.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Emily Murphy",
     "player1_team": "Birmingham City WFC",
@@ -19424,7 +19424,7 @@
     "timestamp": "00:35:27.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Arthur",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:35:31.948"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:35:34.196"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -19512,7 +19512,7 @@
     "timestamp": "00:35:37.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -19544,7 +19544,7 @@
     "timestamp": "00:35:39.137"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -19568,7 +19568,7 @@
     "timestamp": "00:35:41.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:35:47.900"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Veatriki Sarri",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -19664,7 +19664,7 @@
     "timestamp": "00:35:54.292"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -19688,7 +19688,7 @@
     "timestamp": "00:35:58.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Whipp",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -19760,7 +19760,7 @@
     "timestamp": "00:36:04.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -19784,7 +19784,7 @@
     "timestamp": "00:36:07.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -19808,7 +19808,7 @@
     "timestamp": "00:36:09.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -19832,7 +19832,7 @@
     "timestamp": "00:36:13.618"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:36:15.822"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:36:40.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:36:45.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -19936,7 +19936,7 @@
     "timestamp": "00:37:00.350"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:37:03.670"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -19992,7 +19992,7 @@
     "timestamp": "00:37:04.672"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -20008,7 +20008,7 @@
     "timestamp": "00:37:07.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:37:30.176"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -20080,7 +20080,7 @@
     "timestamp": "00:37:33.367"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -20104,7 +20104,7 @@
     "timestamp": "00:37:36.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:37:38.297"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20184,7 +20184,7 @@
     "timestamp": "00:37:58.926"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20232,7 +20232,7 @@
     "timestamp": "00:38:23.845"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mana Iwabuchi",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -20256,7 +20256,7 @@
     "timestamp": "00:39:29.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mana Iwabuchi",
     "player2": "Anita Amma Ankyewah Asante",
     "player1_team": "Aston Villa",
@@ -20280,7 +20280,7 @@
     "timestamp": "00:39:34.146"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:39:37.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Stine Larsen",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:39:37.491"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20336,7 +20336,7 @@
     "timestamp": "00:39:42.544"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:39:45.698"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Arthur",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -20384,7 +20384,7 @@
     "timestamp": "00:39:47.810"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20416,7 +20416,7 @@
     "timestamp": "00:39:52.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -20448,7 +20448,7 @@
     "timestamp": "00:39:56.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20560,7 +20560,7 @@
     "timestamp": "00:41:02.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:41:03.849"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:41:25.278"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:41:36.052"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy West",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:41:37.034"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:41:40.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Claudia Walker",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20696,7 +20696,7 @@
     "timestamp": "00:41:42.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:41:42.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -20736,7 +20736,7 @@
     "timestamp": "00:41:56.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:41:57.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:41:59.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Claudia Walker",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:42:03.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:42:12.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:42:16.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Marisa Ewers",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -20968,7 +20968,7 @@
     "timestamp": "00:42:23.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:42:43.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21088,7 +21088,7 @@
     "timestamp": "00:43:24.381"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -21128,7 +21128,7 @@
     "timestamp": "00:43:44.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amy West",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -21160,7 +21160,7 @@
     "timestamp": "00:43:45.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:43:50.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Holloway",
     "player2": "Lucy Whipp",
     "player1_team": "Birmingham City WFC",
@@ -21256,7 +21256,7 @@
     "timestamp": "00:44:37.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:44:40.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:44:55.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21384,7 +21384,7 @@
     "timestamp": "00:45:08.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21464,7 +21464,7 @@
     "timestamp": "00:45:57.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Whipp",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -21528,7 +21528,7 @@
     "timestamp": "00:46:04.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Holloway",
     "player2": "Hannah Hampton",
     "player1_team": "Birmingham City WFC",
@@ -21560,7 +21560,7 @@
     "timestamp": "00:46:19.020"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -21600,7 +21600,7 @@
     "timestamp": "00:46:25.097"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21624,7 +21624,7 @@
     "timestamp": "00:46:44.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -21656,7 +21656,7 @@
     "timestamp": "00:46:47.006"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -21696,7 +21696,7 @@
     "timestamp": "00:46:49.203"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21744,7 +21744,7 @@
     "timestamp": "00:47:22.260"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sarah Emma Mayling",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -21776,7 +21776,7 @@
     "timestamp": "00:47:31.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -21808,7 +21808,7 @@
     "timestamp": "00:47:45.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -21832,7 +21832,7 @@
     "timestamp": "00:47:55.536"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -21856,7 +21856,7 @@
     "timestamp": "00:48:03.232"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Harriet Scott",
     "player1_team": "Birmingham City WFC",
@@ -21880,7 +21880,7 @@
     "timestamp": "00:48:06.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -21928,7 +21928,7 @@
     "timestamp": "00:48:09.461"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:48:13.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22016,7 +22016,7 @@
     "timestamp": "00:48:21.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Harriet Scott",
     "player2": "Ruby Mace",
     "player1_team": "Birmingham City WFC",
@@ -22144,7 +22144,7 @@
     "timestamp": "00:48:40.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Harriet Scott",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -22184,7 +22184,7 @@
     "timestamp": "00:48:49.816"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Hampton",
     "player2": "Christie Murray",
     "player1_team": "Birmingham City WFC",
@@ -22208,7 +22208,7 @@
     "timestamp": "00:49:25.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -22248,7 +22248,7 @@
     "timestamp": "00:49:28.709"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Georgia Brougham",
     "player1_team": "Birmingham City WFC",
@@ -22272,7 +22272,7 @@
     "timestamp": "00:49:37.598"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Georgia Brougham",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -22336,7 +22336,7 @@
     "timestamp": "00:49:41.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sarah Emma Mayling",
     "player2": "Veatriki Sarri",
     "player1_team": "Birmingham City WFC",
@@ -22368,7 +22368,7 @@
     "timestamp": "00:49:43.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Veatriki Sarri",
     "player2": "Sarah Emma Mayling",
     "player1_team": "Birmingham City WFC",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:49:45.538"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Veatriki Sarri",
     "player2": "",
     "player1_team": "Birmingham City WFC",
@@ -22424,7 +22424,7 @@
     "timestamp": "00:50:09.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Olivia McLoughlin",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -22440,7 +22440,7 @@
     "timestamp": "00:51:21.881"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jodie Hutton",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22520,7 +22520,7 @@
     "timestamp": "00:51:27.139"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amy West",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:51:30.635"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -22608,7 +22608,7 @@
     "timestamp": "00:51:40.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -22640,7 +22640,7 @@
     "timestamp": "00:51:42.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Stine Larsen",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -22672,7 +22672,7 @@
     "timestamp": "00:51:44.240"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Diana Micaela Abreu de Sousa e Silva",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -22704,7 +22704,7 @@
     "timestamp": "00:51:45.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Asmita Ale",
     "player2": "Diana Micaela Abreu de Sousa e Silva",
     "player1_team": "Aston Villa",
@@ -22736,7 +22736,7 @@
     "timestamp": "00:51:50.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Hampton",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",
@@ -22760,7 +22760,7 @@
     "timestamp": "00:52:29.980"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Christie Murray",
     "player2": "Claudia Walker",
     "player1_team": "Birmingham City WFC",

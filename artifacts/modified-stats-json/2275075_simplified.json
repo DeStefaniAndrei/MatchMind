@@ -1,6 +1,6 @@
 [
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -32,7 +32,7 @@
     "timestamp": "00:00:03.422"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -48,7 +48,7 @@
     "timestamp": "00:00:06.123"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -64,7 +64,7 @@
     "timestamp": "00:00:07.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -80,7 +80,7 @@
     "timestamp": "00:00:07.960"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -104,7 +104,7 @@
     "timestamp": "00:00:11.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -120,7 +120,7 @@
     "timestamp": "00:00:43.512"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -152,7 +152,7 @@
     "timestamp": "00:00:44.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -176,7 +176,7 @@
     "timestamp": "00:01:01.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -208,7 +208,7 @@
     "timestamp": "00:01:12.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -232,7 +232,7 @@
     "timestamp": "00:01:14.084"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -256,7 +256,7 @@
     "timestamp": "00:01:47.807"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -272,7 +272,7 @@
     "timestamp": "00:01:56.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -320,7 +320,7 @@
     "timestamp": "00:02:13.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -352,7 +352,7 @@
     "timestamp": "00:02:19.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -384,7 +384,7 @@
     "timestamp": "00:02:25.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -408,7 +408,7 @@
     "timestamp": "00:02:29.472"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -464,7 +464,7 @@
     "timestamp": "00:02:36.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -488,7 +488,7 @@
     "timestamp": "00:02:44.959"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -504,7 +504,7 @@
     "timestamp": "00:02:47.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -520,7 +520,7 @@
     "timestamp": "00:02:49.873"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -544,7 +544,7 @@
     "timestamp": "00:02:50.773"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -568,7 +568,7 @@
     "timestamp": "00:02:53.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -592,7 +592,7 @@
     "timestamp": "00:02:57.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -616,7 +616,7 @@
     "timestamp": "00:02:58.591"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -640,7 +640,7 @@
     "timestamp": "00:03:00.038"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -680,7 +680,7 @@
     "timestamp": "00:03:02.869"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -728,7 +728,7 @@
     "timestamp": "00:03:06.802"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -768,7 +768,7 @@
     "timestamp": "00:03:32.751"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -792,7 +792,7 @@
     "timestamp": "00:03:35.104"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -816,7 +816,7 @@
     "timestamp": "00:03:37.722"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -848,7 +848,7 @@
     "timestamp": "00:03:40.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -880,7 +880,7 @@
     "timestamp": "00:03:42.499"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -904,7 +904,7 @@
     "timestamp": "00:03:45.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -928,7 +928,7 @@
     "timestamp": "00:03:46.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -984,7 +984,7 @@
     "timestamp": "00:03:51.391"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -1016,7 +1016,7 @@
     "timestamp": "00:03:54.008"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:03:56.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -1088,7 +1088,7 @@
     "timestamp": "00:04:01.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Howard",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1104,7 +1104,7 @@
     "timestamp": "00:04:02.464"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:04:24.078"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -1144,7 +1144,7 @@
     "timestamp": "00:04:26.279"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1160,7 +1160,7 @@
     "timestamp": "00:04:26.395"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -1184,7 +1184,7 @@
     "timestamp": "00:04:27.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:04:29.233"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -1240,7 +1240,7 @@
     "timestamp": "00:04:31.675"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:04:38.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -1288,7 +1288,7 @@
     "timestamp": "00:04:57.519"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -1312,7 +1312,7 @@
     "timestamp": "00:05:13.645"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -1344,7 +1344,7 @@
     "timestamp": "00:05:14.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -1376,7 +1376,7 @@
     "timestamp": "00:05:17.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -1432,7 +1432,7 @@
     "timestamp": "00:05:18.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -1448,7 +1448,7 @@
     "timestamp": "00:05:21.221"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Josie Green",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -1464,7 +1464,7 @@
     "timestamp": "00:05:24.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -1480,7 +1480,7 @@
     "timestamp": "00:05:59.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -1504,7 +1504,7 @@
     "timestamp": "00:06:01.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1520,7 +1520,7 @@
     "timestamp": "00:06:04.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:06:06.163"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1568,7 +1568,7 @@
     "timestamp": "00:06:07.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:06:10.768"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1632,7 +1632,7 @@
     "timestamp": "00:06:42.874"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1696,7 +1696,7 @@
     "timestamp": "00:06:50.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:06:53.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Howard",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -1784,7 +1784,7 @@
     "timestamp": "00:06:58.701"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:07:00.257"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -1856,7 +1856,7 @@
     "timestamp": "00:07:02.776"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:07:39.336"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:07:42.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1904,7 +1904,7 @@
     "timestamp": "00:07:43.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:07:45.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -1960,7 +1960,7 @@
     "timestamp": "00:07:49.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:07:57.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -2008,7 +2008,7 @@
     "timestamp": "00:08:00.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -2032,7 +2032,7 @@
     "timestamp": "00:08:00.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:08:29.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:08:29.612"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -2088,7 +2088,7 @@
     "timestamp": "00:08:31.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Howard",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -2152,7 +2152,7 @@
     "timestamp": "00:08:33.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -2176,7 +2176,7 @@
     "timestamp": "00:08:36.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:08:44.070"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -2240,7 +2240,7 @@
     "timestamp": "00:08:44.780"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:09:26.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:09:26.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:09:29.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -2320,7 +2320,7 @@
     "timestamp": "00:09:31.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:09:35.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:09:40.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:09:41.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2392,7 +2392,7 @@
     "timestamp": "00:09:43.717"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -2456,7 +2456,7 @@
     "timestamp": "00:09:47.061"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -2488,7 +2488,7 @@
     "timestamp": "00:09:50.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -2560,7 +2560,7 @@
     "timestamp": "00:09:58.538"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:09:59.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -2616,7 +2616,7 @@
     "timestamp": "00:10:18.813"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:10:53.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:11:22.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -2672,7 +2672,7 @@
     "timestamp": "00:11:25.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -2680,7 +2680,7 @@
     "timestamp": "00:11:25.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -2696,7 +2696,7 @@
     "timestamp": "00:11:28.271"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:11:31.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -2760,7 +2760,7 @@
     "timestamp": "00:11:32.867"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -2776,7 +2776,7 @@
     "timestamp": "00:11:37.318"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -2792,7 +2792,7 @@
     "timestamp": "00:11:38.851"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -2816,7 +2816,7 @@
     "timestamp": "00:11:41.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -2840,7 +2840,7 @@
     "timestamp": "00:11:43.824"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2864,7 +2864,7 @@
     "timestamp": "00:11:44.796"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -2896,7 +2896,7 @@
     "timestamp": "00:11:46.221"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -2912,7 +2912,7 @@
     "timestamp": "00:11:48.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -2944,7 +2944,7 @@
     "timestamp": "00:11:50.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -2960,7 +2960,7 @@
     "timestamp": "00:11:51.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3008,7 +3008,7 @@
     "timestamp": "00:12:03.453"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -3032,7 +3032,7 @@
     "timestamp": "00:12:04.991"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3056,7 +3056,7 @@
     "timestamp": "00:12:09.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3112,7 +3112,7 @@
     "timestamp": "00:12:15.423"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -3192,7 +3192,7 @@
     "timestamp": "00:12:21.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -3216,7 +3216,7 @@
     "timestamp": "00:12:23.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:12:24.633"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:12:28.214"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:12:28.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:12:30.852"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3352,7 +3352,7 @@
     "timestamp": "00:12:37.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -3368,7 +3368,7 @@
     "timestamp": "00:12:39.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -3408,7 +3408,7 @@
     "timestamp": "00:12:42.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -3440,7 +3440,7 @@
     "timestamp": "00:12:47.934"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -3448,7 +3448,7 @@
     "timestamp": "00:12:49.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:13:24.376"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -3536,7 +3536,7 @@
     "timestamp": "00:13:27.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -3576,7 +3576,7 @@
     "timestamp": "00:13:30.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -3600,7 +3600,7 @@
     "timestamp": "00:13:31.837"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -3632,7 +3632,7 @@
     "timestamp": "00:13:33.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:13:36.444"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -3680,7 +3680,7 @@
     "timestamp": "00:13:37.766"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:13:39.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -3736,7 +3736,7 @@
     "timestamp": "00:13:42.568"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:13:53.432"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -3792,7 +3792,7 @@
     "timestamp": "00:14:20.509"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:14:59.320"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -3824,7 +3824,7 @@
     "timestamp": "00:15:00.679"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -3840,7 +3840,7 @@
     "timestamp": "00:15:01.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -3872,7 +3872,7 @@
     "timestamp": "00:15:07.266"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:15:10.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:15:11.944"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:15:12.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -4016,7 +4016,7 @@
     "timestamp": "00:15:16.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -4040,7 +4040,7 @@
     "timestamp": "00:15:51.129"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -4072,7 +4072,7 @@
     "timestamp": "00:15:54.596"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4088,7 +4088,7 @@
     "timestamp": "00:15:57.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4224,7 +4224,7 @@
     "timestamp": "00:16:42.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -4240,7 +4240,7 @@
     "timestamp": "00:16:50.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -4256,7 +4256,7 @@
     "timestamp": "00:16:53.753"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:17:29.312"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:17:38.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -4328,7 +4328,7 @@
     "timestamp": "00:17:43.094"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4360,7 +4360,7 @@
     "timestamp": "00:17:48.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -4384,7 +4384,7 @@
     "timestamp": "00:18:02.594"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -4432,7 +4432,7 @@
     "timestamp": "00:18:05.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -4448,7 +4448,7 @@
     "timestamp": "00:18:18.945"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -4464,7 +4464,7 @@
     "timestamp": "00:18:19.848"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -4496,7 +4496,7 @@
     "timestamp": "00:18:36.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:18:38.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -4536,7 +4536,7 @@
     "timestamp": "00:18:42.043"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4560,7 +4560,7 @@
     "timestamp": "00:18:42.482"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -4600,7 +4600,7 @@
     "timestamp": "00:19:17.833"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4624,7 +4624,7 @@
     "timestamp": "00:19:18.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -4648,7 +4648,7 @@
     "timestamp": "00:19:22.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -4672,7 +4672,7 @@
     "timestamp": "00:19:34.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:19:39.789"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -4728,7 +4728,7 @@
     "timestamp": "00:19:41.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:19:45.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -4776,7 +4776,7 @@
     "timestamp": "00:19:48.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -4800,7 +4800,7 @@
     "timestamp": "00:19:51.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -4824,7 +4824,7 @@
     "timestamp": "00:19:54.855"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:19:57.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -4880,7 +4880,7 @@
     "timestamp": "00:19:59.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:20:00.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -4912,7 +4912,7 @@
     "timestamp": "00:20:04.410"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:20:05.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:20:09.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:20:12.761"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -5024,7 +5024,7 @@
     "timestamp": "00:20:15.563"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -5048,7 +5048,7 @@
     "timestamp": "00:20:22.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:20:24.304"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -5128,7 +5128,7 @@
     "timestamp": "00:20:26.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -5152,7 +5152,7 @@
     "timestamp": "00:20:29.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -5168,7 +5168,7 @@
     "timestamp": "00:20:33.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -5216,7 +5216,7 @@
     "timestamp": "00:20:37.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -5232,7 +5232,7 @@
     "timestamp": "00:20:39.579"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:20:41.130"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -5296,7 +5296,7 @@
     "timestamp": "00:20:44.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -5320,7 +5320,7 @@
     "timestamp": "00:20:47.569"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:20:50.434"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ria Percival",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -5360,7 +5360,7 @@
     "timestamp": "00:20:52.117"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:21:09.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -5400,7 +5400,7 @@
     "timestamp": "00:21:12.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -5424,7 +5424,7 @@
     "timestamp": "00:21:16.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:21:19.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -5488,7 +5488,7 @@
     "timestamp": "00:21:25.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:21:31.436"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -5536,7 +5536,7 @@
     "timestamp": "00:21:32.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -5600,7 +5600,7 @@
     "timestamp": "00:21:40.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -5624,7 +5624,7 @@
     "timestamp": "00:21:42.747"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -5648,7 +5648,7 @@
     "timestamp": "00:21:46.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -5680,7 +5680,7 @@
     "timestamp": "00:21:49.665"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -5752,7 +5752,7 @@
     "timestamp": "00:21:57.883"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -5784,7 +5784,7 @@
     "timestamp": "00:21:59.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -5808,7 +5808,7 @@
     "timestamp": "00:22:01.546"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:22:02.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -5896,7 +5896,7 @@
     "timestamp": "00:22:11.012"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -5912,7 +5912,7 @@
     "timestamp": "00:22:14.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -5936,7 +5936,7 @@
     "timestamp": "00:22:16.498"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -5952,7 +5952,7 @@
     "timestamp": "00:22:23.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -5984,7 +5984,7 @@
     "timestamp": "00:22:28.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:22:29.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -6040,7 +6040,7 @@
     "timestamp": "00:22:31.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -6056,7 +6056,7 @@
     "timestamp": "00:22:34.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:22:36.237"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:22:40.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -6160,7 +6160,7 @@
     "timestamp": "00:22:45.246"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -6184,7 +6184,7 @@
     "timestamp": "00:22:55.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -6272,7 +6272,7 @@
     "timestamp": "00:23:02.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6280,7 +6280,7 @@
     "timestamp": "00:23:43.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:24:10.456"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -6344,7 +6344,7 @@
     "timestamp": "00:24:13.326"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -6376,7 +6376,7 @@
     "timestamp": "00:24:19.667"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:24:23.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:25:22.801"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rianna Dean",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -6504,7 +6504,7 @@
     "timestamp": "00:25:25.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:25:29.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -6552,7 +6552,7 @@
     "timestamp": "00:25:31.688"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -6584,7 +6584,7 @@
     "timestamp": "00:25:33.188"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -6608,7 +6608,7 @@
     "timestamp": "00:25:35.113"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -6632,7 +6632,7 @@
     "timestamp": "00:25:37.089"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Anna Filbey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:25:39.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:26:07.570"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:26:10.864"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -6744,7 +6744,7 @@
     "timestamp": "00:26:16.154"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:26:23.413"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -6832,7 +6832,7 @@
     "timestamp": "00:27:01.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -6856,7 +6856,7 @@
     "timestamp": "00:27:06.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:27:17.733"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Peplow",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -6888,7 +6888,7 @@
     "timestamp": "00:27:18.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:27:31.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -6936,7 +6936,7 @@
     "timestamp": "00:27:32.227"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:27:34.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -6976,7 +6976,7 @@
     "timestamp": "00:27:34.121"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -7000,7 +7000,7 @@
     "timestamp": "00:27:42.352"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:27:52.505"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -7128,7 +7128,7 @@
     "timestamp": "00:28:17.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -7160,7 +7160,7 @@
     "timestamp": "00:28:23.063"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:28:30.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -7216,7 +7216,7 @@
     "timestamp": "00:28:34.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -7224,7 +7224,7 @@
     "timestamp": "00:28:34.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -7248,7 +7248,7 @@
     "timestamp": "00:28:39.039"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -7288,7 +7288,7 @@
     "timestamp": "00:28:42.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -7312,7 +7312,7 @@
     "timestamp": "00:29:03.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -7328,7 +7328,7 @@
     "timestamp": "00:29:06.005"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -7352,7 +7352,7 @@
     "timestamp": "00:29:07.831"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:29:09.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -7392,7 +7392,7 @@
     "timestamp": "00:29:12.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:29:14.928"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -7456,7 +7456,7 @@
     "timestamp": "00:29:18.673"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -7504,7 +7504,7 @@
     "timestamp": "00:29:20.769"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -7528,7 +7528,7 @@
     "timestamp": "00:29:26.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -7560,7 +7560,7 @@
     "timestamp": "00:29:28.051"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -7576,7 +7576,7 @@
     "timestamp": "00:29:30.140"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -7600,7 +7600,7 @@
     "timestamp": "00:29:31.062"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -7624,7 +7624,7 @@
     "timestamp": "00:29:34.283"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -7656,7 +7656,7 @@
     "timestamp": "00:29:38.191"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:29:42.385"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -7752,7 +7752,7 @@
     "timestamp": "00:29:45.615"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Ria Percival",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:29:47.884"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -7784,7 +7784,7 @@
     "timestamp": "00:30:03.683"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -7808,7 +7808,7 @@
     "timestamp": "00:30:05.593"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:30:09.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -7880,7 +7880,7 @@
     "timestamp": "00:30:26.922"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:30:33.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -7960,7 +7960,7 @@
     "timestamp": "00:30:47.571"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:30:51.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -8024,7 +8024,7 @@
     "timestamp": "00:30:55.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -8048,7 +8048,7 @@
     "timestamp": "00:31:01.953"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:31:03.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:31:06.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -8112,7 +8112,7 @@
     "timestamp": "00:31:11.636"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -8128,7 +8128,7 @@
     "timestamp": "00:31:12.989"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:31:13.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -8176,7 +8176,7 @@
     "timestamp": "00:31:15.261"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -8208,7 +8208,7 @@
     "timestamp": "00:31:17.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -8224,7 +8224,7 @@
     "timestamp": "00:31:18.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -8248,7 +8248,7 @@
     "timestamp": "00:31:21.250"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -8288,7 +8288,7 @@
     "timestamp": "00:31:24.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:31:26.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:31:28.033"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8336,7 +8336,7 @@
     "timestamp": "00:31:28.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -8360,7 +8360,7 @@
     "timestamp": "00:31:51.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -8392,7 +8392,7 @@
     "timestamp": "00:31:53.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -8416,7 +8416,7 @@
     "timestamp": "00:31:54.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Peplow",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:31:57.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:32:00.293"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:32:06.485"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -8552,7 +8552,7 @@
     "timestamp": "00:32:44.817"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -8576,7 +8576,7 @@
     "timestamp": "00:32:49.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:32:54.362"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:32:54.471"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:33:01.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:33:04.847"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -8688,7 +8688,7 @@
     "timestamp": "00:33:05.026"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:33:29.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -8720,7 +8720,7 @@
     "timestamp": "00:33:31.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:33:31.462"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:33:39.225"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:33:40.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -8800,7 +8800,7 @@
     "timestamp": "00:33:42.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -8840,7 +8840,7 @@
     "timestamp": "00:33:46.460"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:33:48.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:33:48.454"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:33:52.588"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:33:54.309"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Howard",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -8920,7 +8920,7 @@
     "timestamp": "00:33:56.909"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -8952,7 +8952,7 @@
     "timestamp": "00:33:58.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -8968,7 +8968,7 @@
     "timestamp": "00:33:59.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:34:01.676"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -9040,7 +9040,7 @@
     "timestamp": "00:34:37.539"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -9064,7 +9064,7 @@
     "timestamp": "00:34:40.863"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -9112,7 +9112,7 @@
     "timestamp": "00:34:47.302"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:34:49.231"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -9168,7 +9168,7 @@
     "timestamp": "00:34:56.513"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -9192,7 +9192,7 @@
     "timestamp": "00:35:01.125"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -9216,7 +9216,7 @@
     "timestamp": "00:35:05.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -9240,7 +9240,7 @@
     "timestamp": "00:35:06.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9256,7 +9256,7 @@
     "timestamp": "00:35:10.255"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -9288,7 +9288,7 @@
     "timestamp": "00:35:11.986"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -9312,7 +9312,7 @@
     "timestamp": "00:35:13.245"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -9328,7 +9328,7 @@
     "timestamp": "00:35:14.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -9376,7 +9376,7 @@
     "timestamp": "00:35:15.386"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:35:17.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9424,7 +9424,7 @@
     "timestamp": "00:35:20.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -9472,7 +9472,7 @@
     "timestamp": "00:35:25.372"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -9496,7 +9496,7 @@
     "timestamp": "00:35:34.616"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9520,7 +9520,7 @@
     "timestamp": "00:35:37.274"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -9544,7 +9544,7 @@
     "timestamp": "00:35:41.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Howard",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -9560,7 +9560,7 @@
     "timestamp": "00:35:47.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -9576,7 +9576,7 @@
     "timestamp": "00:36:06.404"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:36:08.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:36:09.212"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -9640,7 +9640,7 @@
     "timestamp": "00:36:10.534"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:36:12.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -9696,7 +9696,7 @@
     "timestamp": "00:36:16.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -9728,7 +9728,7 @@
     "timestamp": "00:36:19.161"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -9744,7 +9744,7 @@
     "timestamp": "00:36:20.671"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -9776,7 +9776,7 @@
     "timestamp": "00:36:54.201"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -9808,7 +9808,7 @@
     "timestamp": "00:36:56.921"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -9832,7 +9832,7 @@
     "timestamp": "00:36:58.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:37:00.270"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -9880,7 +9880,7 @@
     "timestamp": "00:37:02.007"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -9912,7 +9912,7 @@
     "timestamp": "00:37:03.949"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -9936,7 +9936,7 @@
     "timestamp": "00:37:06.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -9960,7 +9960,7 @@
     "timestamp": "00:37:08.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -9984,7 +9984,7 @@
     "timestamp": "00:37:11.930"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -10000,7 +10000,7 @@
     "timestamp": "00:37:43.832"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:37:44.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -10040,7 +10040,7 @@
     "timestamp": "00:37:46.356"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -10056,7 +10056,7 @@
     "timestamp": "00:37:51.566"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:37:58.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -10128,7 +10128,7 @@
     "timestamp": "00:38:18.981"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -10152,7 +10152,7 @@
     "timestamp": "00:38:21.556"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:38:28.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -10216,7 +10216,7 @@
     "timestamp": "00:38:32.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:38:33.798"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:38:38.303"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -10304,7 +10304,7 @@
     "timestamp": "00:38:41.758"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10328,7 +10328,7 @@
     "timestamp": "00:38:45.866"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:38:49.262"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10384,7 +10384,7 @@
     "timestamp": "00:38:56.637"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -10408,7 +10408,7 @@
     "timestamp": "00:39:01.127"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -10440,7 +10440,7 @@
     "timestamp": "00:39:04.952"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:39:06.678"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10488,7 +10488,7 @@
     "timestamp": "00:39:08.291"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -10512,7 +10512,7 @@
     "timestamp": "00:39:11.955"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -10528,7 +10528,7 @@
     "timestamp": "00:39:18.066"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -10552,7 +10552,7 @@
     "timestamp": "00:39:19.172"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -10576,7 +10576,7 @@
     "timestamp": "00:39:23.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:39:26.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:39:29.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -10680,7 +10680,7 @@
     "timestamp": "00:39:51.580"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -10712,7 +10712,7 @@
     "timestamp": "00:39:53.301"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10736,7 +10736,7 @@
     "timestamp": "00:39:54.608"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10760,7 +10760,7 @@
     "timestamp": "00:39:55.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -10784,7 +10784,7 @@
     "timestamp": "00:40:16.605"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:40:27.847"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -10824,7 +10824,7 @@
     "timestamp": "00:40:30.306"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -10872,7 +10872,7 @@
     "timestamp": "00:40:36.512"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:41:11.531"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -10904,7 +10904,7 @@
     "timestamp": "00:41:31.638"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10936,7 +10936,7 @@
     "timestamp": "00:41:37.507"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -10960,7 +10960,7 @@
     "timestamp": "00:41:40.412"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -10984,7 +10984,7 @@
     "timestamp": "00:41:42.742"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -11008,7 +11008,7 @@
     "timestamp": "00:41:42.924"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -11032,7 +11032,7 @@
     "timestamp": "00:41:45.552"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:41:51.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:41:56.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -11128,7 +11128,7 @@
     "timestamp": "00:41:59.112"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11152,7 +11152,7 @@
     "timestamp": "00:42:02.685"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -11184,7 +11184,7 @@
     "timestamp": "00:42:27.416"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:42:46.740"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:42:54.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -11304,7 +11304,7 @@
     "timestamp": "00:43:03.149"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:43:07.316"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:44:05.619"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:44:07.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:44:10.683"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:44:12.755"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:44:31.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -11472,7 +11472,7 @@
     "timestamp": "00:44:35.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:44:37.162"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:45:03.731"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:45:05.781"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:45:09.332"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:45:30.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -11640,7 +11640,7 @@
     "timestamp": "00:45:32.115"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -11664,7 +11664,7 @@
     "timestamp": "00:45:34.658"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:45:41.345"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -11712,7 +11712,7 @@
     "timestamp": "00:45:42.647"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -11728,7 +11728,7 @@
     "timestamp": "00:45:49.786"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:45:52.528"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:45:56.817"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:45:58.652"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:46:31.073"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:00:02.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -11936,7 +11936,7 @@
     "timestamp": "00:00:08.591"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:00:14.218"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -11984,7 +11984,7 @@
     "timestamp": "00:00:18.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -12000,7 +12000,7 @@
     "timestamp": "00:00:20.595"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:00:25.901"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -12088,7 +12088,7 @@
     "timestamp": "00:00:29.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -12144,7 +12144,7 @@
     "timestamp": "00:00:37.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:01:10.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -12240,7 +12240,7 @@
     "timestamp": "00:01:13.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:01:19.510"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -12296,7 +12296,7 @@
     "timestamp": "00:01:24.784"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:01:26.327"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -12360,7 +12360,7 @@
     "timestamp": "00:01:28.493"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:01:30.138"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Peplow",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -12424,7 +12424,7 @@
     "timestamp": "00:01:34.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:01:36.710"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -12456,7 +12456,7 @@
     "timestamp": "00:01:38.118"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -12504,7 +12504,7 @@
     "timestamp": "00:01:43.489"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:02:02.527"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -12552,7 +12552,7 @@
     "timestamp": "00:02:04.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12568,7 +12568,7 @@
     "timestamp": "00:02:06.803"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -12600,7 +12600,7 @@
     "timestamp": "00:02:08.820"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -12632,7 +12632,7 @@
     "timestamp": "00:02:11.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:02:13.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -12688,7 +12688,7 @@
     "timestamp": "00:02:17.958"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -12752,7 +12752,7 @@
     "timestamp": "00:02:50.096"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -12776,7 +12776,7 @@
     "timestamp": "00:02:53.000"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Sophie Howard",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -12800,7 +12800,7 @@
     "timestamp": "00:02:54.484"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:03:12.927"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:03:25.720"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -12888,7 +12888,7 @@
     "timestamp": "00:03:28.415"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -12920,7 +12920,7 @@
     "timestamp": "00:03:30.379"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -13000,7 +13000,7 @@
     "timestamp": "00:03:41.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -13024,7 +13024,7 @@
     "timestamp": "00:04:37.072"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:04:38.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -13072,7 +13072,7 @@
     "timestamp": "00:04:39.542"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -13096,7 +13096,7 @@
     "timestamp": "00:04:42.654"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -13112,7 +13112,7 @@
     "timestamp": "00:04:46.829"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -13144,7 +13144,7 @@
     "timestamp": "00:04:58.800"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:04:59.714"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:05:01.057"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -13232,7 +13232,7 @@
     "timestamp": "00:05:03.019"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -13280,7 +13280,7 @@
     "timestamp": "00:05:07.705"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -13328,7 +13328,7 @@
     "timestamp": "00:05:18.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:05:20.195"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:05:22.490"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:05:24.173"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -13440,7 +13440,7 @@
     "timestamp": "00:05:27.622"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:05:32.689"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13512,7 +13512,7 @@
     "timestamp": "00:05:38.639"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -13544,7 +13544,7 @@
     "timestamp": "00:05:40.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -13576,7 +13576,7 @@
     "timestamp": "00:05:41.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:05:43.267"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -13616,7 +13616,7 @@
     "timestamp": "00:05:47.728"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -13640,7 +13640,7 @@
     "timestamp": "00:06:10.434"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -13656,7 +13656,7 @@
     "timestamp": "00:06:13.210"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:06:59.700"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -13696,7 +13696,7 @@
     "timestamp": "00:07:02.141"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -13720,7 +13720,7 @@
     "timestamp": "00:07:04.775"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -13752,7 +13752,7 @@
     "timestamp": "00:07:09.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -13776,7 +13776,7 @@
     "timestamp": "00:07:14.259"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13792,7 +13792,7 @@
     "timestamp": "00:07:19.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -13840,7 +13840,7 @@
     "timestamp": "00:07:24.433"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:07:28.024"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -13880,7 +13880,7 @@
     "timestamp": "00:07:30.994"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -13904,7 +13904,7 @@
     "timestamp": "00:07:33.216"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -13920,7 +13920,7 @@
     "timestamp": "00:07:34.506"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -13936,7 +13936,7 @@
     "timestamp": "00:07:38.340"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -14008,7 +14008,7 @@
     "timestamp": "00:07:42.010"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -14024,7 +14024,7 @@
     "timestamp": "00:08:12.481"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -14072,7 +14072,7 @@
     "timestamp": "00:08:17.963"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -14120,7 +14120,7 @@
     "timestamp": "00:08:23.022"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -14168,7 +14168,7 @@
     "timestamp": "00:08:25.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:09:02.307"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -14224,7 +14224,7 @@
     "timestamp": "00:09:38.359"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:09:41.335"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -14280,7 +14280,7 @@
     "timestamp": "00:09:44.856"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:09:53.809"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:09:56.957"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -14400,7 +14400,7 @@
     "timestamp": "00:10:00.206"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -14424,7 +14424,7 @@
     "timestamp": "00:10:01.860"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:10:09.346"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14480,7 +14480,7 @@
     "timestamp": "00:10:45.437"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -14512,7 +14512,7 @@
     "timestamp": "00:11:12.589"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:11:15.050"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:11:21.053"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -14640,7 +14640,7 @@
     "timestamp": "00:11:52.718"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -14656,7 +14656,7 @@
     "timestamp": "00:12:05.599"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:12:06.748"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -14696,7 +14696,7 @@
     "timestamp": "00:12:09.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:12:12.929"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -14728,7 +14728,7 @@
     "timestamp": "00:12:13.603"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -14752,7 +14752,7 @@
     "timestamp": "00:12:15.323"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -14792,7 +14792,7 @@
     "timestamp": "00:12:21.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Sophie Howard",
     "player1_team": "Reading WFC",
@@ -14816,7 +14816,7 @@
     "timestamp": "00:12:23.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Sophie Howard",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -14840,7 +14840,7 @@
     "timestamp": "00:12:26.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -14864,7 +14864,7 @@
     "timestamp": "00:12:31.164"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -14888,7 +14888,7 @@
     "timestamp": "00:12:34.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -14912,7 +14912,7 @@
     "timestamp": "00:12:37.648"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -14952,7 +14952,7 @@
     "timestamp": "00:12:42.369"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -14976,7 +14976,7 @@
     "timestamp": "00:12:45.357"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -15000,7 +15000,7 @@
     "timestamp": "00:12:48.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15048,7 +15048,7 @@
     "timestamp": "00:12:51.393"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:13:05.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -15128,7 +15128,7 @@
     "timestamp": "00:13:09.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:13:10.604"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:14:42.468"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -15192,7 +15192,7 @@
     "timestamp": "00:14:48.046"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -15272,7 +15272,7 @@
     "timestamp": "00:17:08.193"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -15344,7 +15344,7 @@
     "timestamp": "00:17:12.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -15368,7 +15368,7 @@
     "timestamp": "00:17:13.905"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -15408,7 +15408,7 @@
     "timestamp": "00:17:20.175"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:17:44.479"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:17:51.521"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -15512,7 +15512,7 @@
     "timestamp": "00:17:53.018"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:17:55.982"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:17:59.128"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:18:06.383"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -15624,7 +15624,7 @@
     "timestamp": "00:18:09.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15640,7 +15640,7 @@
     "timestamp": "00:18:44.093"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -15664,7 +15664,7 @@
     "timestamp": "00:19:04.184"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -15688,7 +15688,7 @@
     "timestamp": "00:19:07.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:19:10.561"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -15736,7 +15736,7 @@
     "timestamp": "00:19:13.550"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -15768,7 +15768,7 @@
     "timestamp": "00:19:15.741"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -15808,7 +15808,7 @@
     "timestamp": "00:19:18.584"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:19:22.759"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:19:25.458"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -15880,7 +15880,7 @@
     "timestamp": "00:19:37.343"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -15904,7 +15904,7 @@
     "timestamp": "00:19:39.043"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -15936,7 +15936,7 @@
     "timestamp": "00:19:40.995"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:19:43.614"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:19:45.220"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -16040,7 +16040,7 @@
     "timestamp": "00:19:48.941"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:19:52.819"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -16072,7 +16072,7 @@
     "timestamp": "00:19:53.912"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:19:55.248"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rebecca Leigh Spencer",
     "player1_team": "Tottenham Hotspur Women",
@@ -16120,7 +16120,7 @@
     "timestamp": "00:19:57.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16128,7 +16128,7 @@
     "timestamp": "00:19:57.587"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:20:32.355"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16176,7 +16176,7 @@
     "timestamp": "00:20:35.025"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -16200,7 +16200,7 @@
     "timestamp": "00:20:38.449"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:20:43.859"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:20:46.826"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:20:48.621"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16416,7 +16416,7 @@
     "timestamp": "00:20:53.540"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:20:57.159"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -16504,7 +16504,7 @@
     "timestamp": "00:21:01.906"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -16528,7 +16528,7 @@
     "timestamp": "00:21:04.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:21:11.086"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:21:12.971"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:21:15.965"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16632,7 +16632,7 @@
     "timestamp": "00:21:17.828"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -16656,7 +16656,7 @@
     "timestamp": "00:21:19.973"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:21:23.956"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -16696,7 +16696,7 @@
     "timestamp": "00:21:24.749"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -16712,7 +16712,7 @@
     "timestamp": "00:21:26.120"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rebecca Leigh Spencer",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16784,7 +16784,7 @@
     "timestamp": "00:22:07.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -16808,7 +16808,7 @@
     "timestamp": "00:22:09.389"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:22:13.070"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:22:14.207"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -16872,7 +16872,7 @@
     "timestamp": "00:22:40.987"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -16904,7 +16904,7 @@
     "timestamp": "00:22:46.459"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rianna Dean",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -16920,7 +16920,7 @@
     "timestamp": "00:22:47.734"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:23:12.642"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -16992,7 +16992,7 @@
     "timestamp": "00:23:16.085"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:23:19.601"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Peplow",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:23:20.771"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:23:24.808"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17080,7 +17080,7 @@
     "timestamp": "00:23:27.871"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -17104,7 +17104,7 @@
     "timestamp": "00:23:28.972"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:23:36.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -17152,7 +17152,7 @@
     "timestamp": "00:23:38.555"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -17176,7 +17176,7 @@
     "timestamp": "00:23:39.205"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:23:46.202"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -17224,7 +17224,7 @@
     "timestamp": "00:23:52.978"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -17248,7 +17248,7 @@
     "timestamp": "00:23:56.299"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17312,7 +17312,7 @@
     "timestamp": "00:24:01.721"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:24:06.937"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -17392,7 +17392,7 @@
     "timestamp": "00:24:08.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:24:14.126"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17480,7 +17480,7 @@
     "timestamp": "00:24:18.842"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Brooke Chaplen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17536,7 +17536,7 @@
     "timestamp": "00:24:27.582"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -17560,7 +17560,7 @@
     "timestamp": "00:24:32.242"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:24:35.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -17592,7 +17592,7 @@
     "timestamp": "00:24:41.467"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:24:49.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:24:52.523"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -17672,7 +17672,7 @@
     "timestamp": "00:24:59.004"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -17696,7 +17696,7 @@
     "timestamp": "00:25:02.089"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17712,7 +17712,7 @@
     "timestamp": "00:25:07.258"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -17728,7 +17728,7 @@
     "timestamp": "00:25:09.578"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -17752,7 +17752,7 @@
     "timestamp": "00:25:11.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17776,7 +17776,7 @@
     "timestamp": "00:25:12.181"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -17832,7 +17832,7 @@
     "timestamp": "00:25:14.931"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -17856,7 +17856,7 @@
     "timestamp": "00:25:15.760"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -17888,7 +17888,7 @@
     "timestamp": "00:25:17.641"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:25:20.179"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -17944,7 +17944,7 @@
     "timestamp": "00:25:22.690"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:25:23.724"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -17976,7 +17976,7 @@
     "timestamp": "00:25:24.430"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rebecca Leigh Spencer",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -18032,7 +18032,7 @@
     "timestamp": "00:27:12.660"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josie Green",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -18056,7 +18056,7 @@
     "timestamp": "00:27:14.895"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -18088,7 +18088,7 @@
     "timestamp": "00:27:16.329"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:27:19.311"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18136,7 +18136,7 @@
     "timestamp": "00:27:20.081"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -18168,7 +18168,7 @@
     "timestamp": "00:27:27.224"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18192,7 +18192,7 @@
     "timestamp": "00:27:30.497"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18272,7 +18272,7 @@
     "timestamp": "00:27:41.894"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:27:46.145"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18320,7 +18320,7 @@
     "timestamp": "00:27:46.661"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -18344,7 +18344,7 @@
     "timestamp": "00:27:48.411"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -18384,7 +18384,7 @@
     "timestamp": "00:27:57.265"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -18424,7 +18424,7 @@
     "timestamp": "00:28:26.938"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:28:29.597"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -18480,7 +18480,7 @@
     "timestamp": "00:28:34.296"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -18504,7 +18504,7 @@
     "timestamp": "00:28:52.280"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:29:07.838"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:29:11.277"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -18560,7 +18560,7 @@
     "timestamp": "00:29:13.585"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -18576,7 +18576,7 @@
     "timestamp": "00:29:16.502"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:29:19.414"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -18656,7 +18656,7 @@
     "timestamp": "00:30:30.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -18680,7 +18680,7 @@
     "timestamp": "00:30:36.725"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18712,7 +18712,7 @@
     "timestamp": "00:30:43.109"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:30:46.457"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:31:24.651"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_on_target",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18776,7 +18776,7 @@
     "timestamp": "00:31:24.797"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:31:46.308"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Josanne Potter",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -18824,7 +18824,7 @@
     "timestamp": "00:31:46.693"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -18840,7 +18840,7 @@
     "timestamp": "00:32:26.358"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -18872,7 +18872,7 @@
     "timestamp": "00:32:29.996"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -18912,7 +18912,7 @@
     "timestamp": "00:32:44.649"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -18928,7 +18928,7 @@
     "timestamp": "00:32:47.374"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Siri Worm",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:32:48.319"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -19008,7 +19008,7 @@
     "timestamp": "00:32:55.861"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -19072,7 +19072,7 @@
     "timestamp": "00:33:09.666"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:33:13.101"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -19120,7 +19120,7 @@
     "timestamp": "00:33:14.328"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -19136,7 +19136,7 @@
     "timestamp": "00:33:17.337"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19152,7 +19152,7 @@
     "timestamp": "00:33:17.664"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -19168,7 +19168,7 @@
     "timestamp": "00:33:19.991"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -19208,7 +19208,7 @@
     "timestamp": "00:37:16.606"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -19248,7 +19248,7 @@
     "timestamp": "00:37:59.514"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -19288,7 +19288,7 @@
     "timestamp": "00:38:20.609"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -19320,7 +19320,7 @@
     "timestamp": "00:38:25.144"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:38:29.646"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -19400,7 +19400,7 @@
     "timestamp": "00:39:08.759"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -19416,7 +19416,7 @@
     "timestamp": "00:39:11.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:39:13.036"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -19464,7 +19464,7 @@
     "timestamp": "00:39:13.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -19512,7 +19512,7 @@
     "timestamp": "00:39:14.241"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -19544,7 +19544,7 @@
     "timestamp": "00:39:19.420"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -19592,7 +19592,7 @@
     "timestamp": "00:39:23.564"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19616,7 +19616,7 @@
     "timestamp": "00:39:25.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:39:27.782"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -19656,7 +19656,7 @@
     "timestamp": "00:39:29.501"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Chloe Morgan",
     "player1_team": "Tottenham Hotspur Women",
@@ -19680,7 +19680,7 @@
     "timestamp": "00:39:31.805"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -19712,7 +19712,7 @@
     "timestamp": "00:39:35.801"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -19776,7 +19776,7 @@
     "timestamp": "00:39:44.916"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Hannah Godfrey",
     "player1_team": "Tottenham Hotspur Women",
@@ -19800,7 +19800,7 @@
     "timestamp": "00:39:47.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -19840,7 +19840,7 @@
     "timestamp": "00:39:51.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -19864,7 +19864,7 @@
     "timestamp": "00:39:55.399"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -19896,7 +19896,7 @@
     "timestamp": "00:39:58.862"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:40:01.530"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -19952,7 +19952,7 @@
     "timestamp": "00:40:09.167"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:40:12.943"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:40:15.974"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20056,7 +20056,7 @@
     "timestamp": "00:40:18.715"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -20136,7 +20136,7 @@
     "timestamp": "00:40:32.156"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -20168,7 +20168,7 @@
     "timestamp": "00:40:33.950"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:40:36.632"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Peplow",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -20264,7 +20264,7 @@
     "timestamp": "00:40:42.136"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:40:46.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -20328,7 +20328,7 @@
     "timestamp": "00:40:49.134"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20392,7 +20392,7 @@
     "timestamp": "00:41:22.243"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -20432,7 +20432,7 @@
     "timestamp": "00:41:27.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -20456,7 +20456,7 @@
     "timestamp": "00:41:29.067"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20464,7 +20464,7 @@
     "timestamp": "00:41:29.107"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -20488,7 +20488,7 @@
     "timestamp": "00:41:56.572"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -20512,7 +20512,7 @@
     "timestamp": "00:42:00.455"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -20536,7 +20536,7 @@
     "timestamp": "00:42:02.382"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -20568,7 +20568,7 @@
     "timestamp": "00:42:06.408"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:42:37.765"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -20608,7 +20608,7 @@
     "timestamp": "00:42:38.759"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -20624,7 +20624,7 @@
     "timestamp": "00:42:39.124"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Siri Worm",
     "player1_team": "Tottenham Hotspur Women",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:43:46.069"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Anna Filbey",
     "player1_team": "Tottenham Hotspur Women",
@@ -20672,7 +20672,7 @@
     "timestamp": "00:43:48.999"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Anna Filbey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:43:54.586"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -20744,7 +20744,7 @@
     "timestamp": "00:43:58.182"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:44:03.286"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Siri Worm",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:44:13.110"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:44:15.602"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -20880,7 +20880,7 @@
     "timestamp": "00:44:20.669"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -20936,7 +20936,7 @@
     "timestamp": "00:44:42.533"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -20952,7 +20952,7 @@
     "timestamp": "00:44:48.557"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -20976,7 +20976,7 @@
     "timestamp": "00:44:50.592"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:44:53.988"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:44:57.573"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -21024,7 +21024,7 @@
     "timestamp": "00:44:58.313"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -21040,7 +21040,7 @@
     "timestamp": "00:45:00.577"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Hannah Godfrey",
     "player2": "Chloe Peplow",
     "player1_team": "Tottenham Hotspur Women",
@@ -21056,7 +21056,7 @@
     "timestamp": "00:45:02.551"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -21072,7 +21072,7 @@
     "timestamp": "00:45:04.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:45:10.288"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -21160,7 +21160,7 @@
     "timestamp": "00:45:24.947"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -21192,7 +21192,7 @@
     "timestamp": "00:45:28.169"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21208,7 +21208,7 @@
     "timestamp": "00:45:29.516"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21240,7 +21240,7 @@
     "timestamp": "00:45:54.285"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -21312,7 +21312,7 @@
     "timestamp": "00:46:28.910"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:46:50.441"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21376,7 +21376,7 @@
     "timestamp": "00:47:16.378"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -21400,7 +21400,7 @@
     "timestamp": "00:47:17.559"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21416,7 +21416,7 @@
     "timestamp": "00:47:18.236"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -21448,7 +21448,7 @@
     "timestamp": "00:47:19.628"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -21480,7 +21480,7 @@
     "timestamp": "00:47:21.428"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -21504,7 +21504,7 @@
     "timestamp": "00:47:23.409"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:47:24.600"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Chloe Morgan",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -21536,7 +21536,7 @@
     "timestamp": "00:47:33.940"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ashleigh Neville",
     "player2": "Angela Addison",
     "player1_team": "Tottenham Hotspur Women",
@@ -21552,7 +21552,7 @@
     "timestamp": "00:47:38.532"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21576,7 +21576,7 @@
     "timestamp": "00:47:57.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Remi Allen",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:47:57.213"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:48:13.102"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21664,7 +21664,7 @@
     "timestamp": "00:48:25.880"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -21680,7 +21680,7 @@
     "timestamp": "00:48:27.547"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -21720,7 +21720,7 @@
     "timestamp": "00:48:28.746"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_miss",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -21736,7 +21736,7 @@
     "timestamp": "00:48:30.148"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -21760,7 +21760,7 @@
     "timestamp": "00:48:54.892"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21776,7 +21776,7 @@
     "timestamp": "00:48:56.655"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -21808,7 +21808,7 @@
     "timestamp": "00:48:59.695"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:49:17.028"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:49:18.777"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -21896,7 +21896,7 @@
     "timestamp": "00:49:20.040"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Angharad James",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -21944,7 +21944,7 @@
     "timestamp": "00:49:24.475"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:49:28.183"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Rachel Rowe",
     "player1_team": "Reading WFC",
@@ -21976,7 +21976,7 @@
     "timestamp": "00:49:28.964"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -22016,7 +22016,7 @@
     "timestamp": "00:49:35.726"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Jade Moore",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -22040,7 +22040,7 @@
     "timestamp": "00:49:37.135"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Mayumi Pacheco",
     "player1_team": "Reading WFC",
@@ -22056,7 +22056,7 @@
     "timestamp": "00:49:39.419"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Mayumi Pacheco",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22088,7 +22088,7 @@
     "timestamp": "00:49:41.902"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -22136,7 +22136,7 @@
     "timestamp": "00:49:51.421"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -22176,7 +22176,7 @@
     "timestamp": "00:49:54.366"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -22200,7 +22200,7 @@
     "timestamp": "00:49:58.032"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -22224,7 +22224,7 @@
     "timestamp": "00:50:01.434"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -22248,7 +22248,7 @@
     "timestamp": "00:50:03.080"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -22280,7 +22280,7 @@
     "timestamp": "00:50:12.254"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Angharad James",
     "player1_team": "Reading WFC",
@@ -22304,7 +22304,7 @@
     "timestamp": "00:50:14.354"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Angharad James",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -22360,7 +22360,7 @@
     "timestamp": "00:50:23.199"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Jade Moore",
     "player1_team": "Reading WFC",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:50:24.098"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Jade Moore",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -22416,7 +22416,7 @@
     "timestamp": "00:50:25.439"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -22440,7 +22440,7 @@
     "timestamp": "00:50:28.168"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Lucy Quinn",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -22464,7 +22464,7 @@
     "timestamp": "00:50:33.650"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -22488,7 +22488,7 @@
     "timestamp": "00:50:35.483"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Grace Moloney",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -22512,7 +22512,7 @@
     "timestamp": "00:50:37.993"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Josanne Potter",
     "player1_team": "Reading WFC",
@@ -22536,7 +22536,7 @@
     "timestamp": "00:50:40.273"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Kristine Leine",
     "player1_team": "Reading WFC",
@@ -22552,7 +22552,7 @@
     "timestamp": "00:50:43.105"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kristine Leine",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -22568,7 +22568,7 @@
     "timestamp": "00:50:45.268"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -22600,7 +22600,7 @@
     "timestamp": "00:50:46.702"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Josanne Potter",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -22632,7 +22632,7 @@
     "timestamp": "00:51:18.131"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -22640,7 +22640,7 @@
     "timestamp": "00:51:32.143"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kristine Leine",
     "player2": "Grace Moloney",
     "player1_team": "Reading WFC",
@@ -22656,7 +22656,7 @@
     "timestamp": "00:51:37.643"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Grace Moloney",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -22672,7 +22672,7 @@
     "timestamp": "00:51:39.687"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ria Percival",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -22704,7 +22704,7 @@
     "timestamp": "00:51:44.743"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -22728,7 +22728,7 @@
     "timestamp": "00:51:53.180"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Ria Percival",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -22752,7 +22752,7 @@
     "timestamp": "00:51:55.403"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Kit Graham",
     "player2": "Lucy Quinn",
     "player1_team": "Tottenham Hotspur Women",
@@ -22776,7 +22776,7 @@
     "timestamp": "00:52:18.565"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Lucy Quinn",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -22800,7 +22800,7 @@
     "timestamp": "00:52:19.625"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Kit Graham",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -22848,7 +22848,7 @@
     "timestamp": "00:52:25.013"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -22880,7 +22880,7 @@
     "timestamp": "00:52:40.014"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -22912,7 +22912,7 @@
     "timestamp": "00:52:47.230"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -22936,7 +22936,7 @@
     "timestamp": "00:52:48.841"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -22944,7 +22944,7 @@
     "timestamp": "00:52:49.398"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -22968,7 +22968,7 @@
     "timestamp": "00:53:09.939"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -23000,7 +23000,7 @@
     "timestamp": "00:53:12.954"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -23048,7 +23048,7 @@
     "timestamp": "00:53:27.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Josie Green",
     "player1_team": "Tottenham Hotspur Women",
@@ -23064,7 +23064,7 @@
     "timestamp": "00:53:28.373"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Josie Green",
     "player2": "Rianna Dean",
     "player1_team": "Tottenham Hotspur Women",
@@ -23080,7 +23080,7 @@
     "timestamp": "00:53:29.923"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rachel Rowe",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -23104,7 +23104,7 @@
     "timestamp": "00:53:31.825"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Brooke Chaplen",
     "player2": "Remi Allen",
     "player1_team": "Reading WFC",
@@ -23128,7 +23128,7 @@
     "timestamp": "00:53:33.703"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Remi Allen",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -23168,7 +23168,7 @@
     "timestamp": "00:53:34.575"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Hannah Godfrey",
     "player2": "Kit Graham",
     "player1_team": "Tottenham Hotspur Women",
@@ -23216,7 +23216,7 @@
     "timestamp": "00:53:37.779"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -23256,7 +23256,7 @@
     "timestamp": "00:54:10.969"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Fara Williams",
     "player2": "Amalie Vevle Eikeland",
     "player1_team": "Reading WFC",
@@ -23288,7 +23288,7 @@
     "timestamp": "00:54:15.133"
   },
   {
-    "event_type": "Shot",
+    "event_type": "shot_goal",
     "player1": "Amalie Vevle Eikeland",
     "player2": "",
     "player1_team": "Reading WFC",
@@ -23304,7 +23304,7 @@
     "timestamp": "00:54:19.418"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Rianna Dean",
     "player2": "Ashleigh Neville",
     "player1_team": "Tottenham Hotspur Women",
@@ -23328,7 +23328,7 @@
     "timestamp": "00:55:24.840"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Ashleigh Neville",
     "player2": "Gemma Suzanne Davison",
     "player1_team": "Tottenham Hotspur Women",
@@ -23352,7 +23352,7 @@
     "timestamp": "00:55:26.857"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "Ria Percival",
     "player1_team": "Tottenham Hotspur Women",
@@ -23384,7 +23384,7 @@
     "timestamp": "00:55:31.031"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Gemma Suzanne Davison",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -23472,7 +23472,7 @@
     "timestamp": "00:56:01.833"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Anna Filbey",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
@@ -23504,7 +23504,7 @@
     "timestamp": "00:56:08.171"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_success",
     "player1": "Amalie Vevle Eikeland",
     "player2": "Fara Williams",
     "player1_team": "Reading WFC",
@@ -23528,7 +23528,7 @@
     "timestamp": "00:56:11.774"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Fara Williams",
     "player2": "Brooke Chaplen",
     "player1_team": "Reading WFC",
@@ -23552,7 +23552,7 @@
     "timestamp": "00:56:19.114"
   },
   {
-    "event_type": "Pass",
+    "event_type": "pass_failure",
     "player1": "Chloe Morgan",
     "player2": "",
     "player1_team": "Tottenham Hotspur Women",
