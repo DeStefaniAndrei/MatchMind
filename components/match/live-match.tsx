@@ -6,47 +6,60 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Progress } from "@/components/ui/progress"
 import { useToast } from "@/hooks/use-toast"
-import { Clock, Users, Trophy, Target, Zap } from "lucide-react"
-import { mockQuestions, mockLiveEvents } from "@/lib/mock-data"
-
-interface Question {
-  id: string
-  text: string
-  options: string[]
-  timeLeft: number
-  answered: boolean
-}
+import { Clock, Users, Trophy, Target, Zap, Brain } from "lucide-react"
+import { mockLiveEvents } from "@/lib/mock-data"
+import { realtimeQuestionService, type LiveQuestion } from "@/lib/realtime-question-service"
 
 interface LiveMatchProps {
   matchId: string
 }
 
 export function LiveMatch({ matchId }: LiveMatchProps) {
-  const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null)
-  const [timeLeft, setTimeLeft] = useState(60)
+  const [currentQuestion, setCurrentQuestion] = useState<LiveQuestion | null>(null)
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
   const [score, setScore] = useState(780)
   const [matchMinute, setMatchMinute] = useState(67)
   const [events, setEvents] = useState(mockLiveEvents)
+  const [isQuestionServiceActive, setIsQuestionServiceActive] = useState(false)
   const { toast } = useToast()
 
   useEffect(() => {
-    // Simulate new question every 30 seconds for demo
-    const questionInterval = setInterval(() => {
-      const randomQuestion = mockQuestions[Math.floor(Math.random() * mockQuestions.length)]
-      setCurrentQuestion({ ...randomQuestion, answered: false })
-      setTimeLeft(30) // Shorter time for demo
-      setSelectedAnswer(null)
-    }, 30000)
+    // Initialize the real-time question service for this match
+    const initializeQuestionService = async () => {
+      try {
+        await realtimeQuestionService.initializeMatch(matchId, {
+          questionInterval: 30, // 30 seconds between questions
+          answerTimeLimit: 30, // 30 seconds to answer
+          pointsPerCorrect: 10, // 10 points per correct answer
+          maxQuestionsPerMatch: 180 // 90 minutes * 2 questions per minute
+        })
+        
+        realtimeQuestionService.startMatch(matchId)
+        setIsQuestionServiceActive(true)
+        console.log(`Question service started for match ${matchId}`)
+      } catch (error) {
+        console.error('Failed to initialize question service:', error)
+        toast({
+          title: "Error",
+          description: "Failed to start question service. Using demo mode.",
+          variant: "destructive"
+        })
+      }
+    }
 
-    // Initialize with first question
-    setCurrentQuestion({ ...mockQuestions[0], answered: false })
+    initializeQuestionService()
 
     // Simulate match progression
     const matchInterval = setInterval(() => {
       setMatchMinute(prev => {
-        if (prev >= 90) return 90
-        return prev + 1
+        const newMinute = prev + 1
+        if (newMinute >= 90) {
+          realtimeQuestionService.stopMatch(matchId)
+          return 90
+        }
+        // Update the question service with new minute
+        realtimeQuestionService.updateMatchMinute(matchId, newMinute)
+        return newMinute
       })
     }, 5000) // Every 5 seconds for demo
 
@@ -64,44 +77,62 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
     }, 15000) // Every 15 seconds for demo
 
     return () => {
-      clearInterval(questionInterval)
       clearInterval(matchInterval)
       clearInterval(eventInterval)
+      realtimeQuestionService.stopMatch(matchId)
     }
-  }, [matchMinute])
+  }, [matchId, toast])
 
+  // Poll for current question updates
   useEffect(() => {
-    // Countdown timer
-    if (timeLeft > 0 && currentQuestion && !currentQuestion.answered) {
-      const timer = setTimeout(() => setTimeLeft(timeLeft - 1), 1000)
-      return () => clearTimeout(timer)
-    }
-  }, [timeLeft, currentQuestion])
+    if (!isQuestionServiceActive) return
+
+    const pollInterval = setInterval(() => {
+      const question = realtimeQuestionService.getCurrentQuestion(matchId)
+      if (question && question.id !== currentQuestion?.id) {
+        setCurrentQuestion(question)
+        setSelectedAnswer(null)
+      }
+    }, 1000) // Poll every second
+
+    return () => clearInterval(pollInterval)
+  }, [matchId, isQuestionServiceActive, currentQuestion?.id])
 
   const handleAnswerSubmit = () => {
     if (!selectedAnswer || !currentQuestion) return
 
-    setCurrentQuestion({ ...currentQuestion, answered: true })
+    // Submit answer to the question service
+    const result = realtimeQuestionService.submitAnswer(matchId, currentQuestion.id, selectedAnswer)
     
-    // Show immediate submission feedback
-    toast({
-      title: "Answer Submitted!",
-      description: `You selected: ${selectedAnswer}. Calculating points...`,
-    })
-
-    // Add 10-second delay before awarding points
-    setTimeout(() => {
-      const points = Math.floor(Math.random() * 20) + 10 // 10-30 points
-      setScore(score + points)
+    if (result.success) {
+      setCurrentQuestion({ ...currentQuestion, answered: true })
+      setScore(score + result.pointsAwarded)
       
+      // Show immediate submission feedback
       toast({
-        title: "Points Awarded!",
-        description: `You earned ${points} points for your prediction!`,
+        title: "Answer Submitted!",
+        description: `You selected: ${selectedAnswer}. ${result.pointsAwarded > 0 ? `+${result.pointsAwarded} points!` : 'Calculating...'}`,
       })
-    }, 10000) // 10 seconds delay
+
+      // If points were awarded immediately, show success
+      if (result.pointsAwarded > 0) {
+        setTimeout(() => {
+          toast({
+            title: "Correct!",
+            description: `You earned ${result.pointsAwarded} points for your prediction!`,
+          })
+        }, 2000)
+      }
+    } else {
+      toast({
+        title: "Error",
+        description: "Failed to submit answer. Please try again.",
+        variant: "destructive"
+      })
+    }
   }
 
-  const isTimeUp = timeLeft === 0
+  const isTimeUp = currentQuestion ? currentQuestion.timeLeft <= 0 : false
   const canAnswer = currentQuestion && !currentQuestion.answered && !isTimeUp && selectedAnswer
 
   return (
@@ -141,19 +172,19 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
       </Card>
 
       {/* Current Question */}
-      {currentQuestion && (
+      {currentQuestion ? (
         <Card>
           <CardHeader>
             <div className="flex items-center justify-between">
               <CardTitle className="flex items-center gap-2">
-                <Zap className="h-5 w-5 text-yellow-500" />
-                Live Question
+                <Brain className="h-5 w-5 text-blue-500" />
+                AI Prediction Question
               </CardTitle>
               <Badge variant={isTimeUp ? "destructive" : "secondary"}>
-                {timeLeft}s left
+                {currentQuestion?.timeLeft || 0}s left
               </Badge>
             </div>
-            <Progress value={(timeLeft / 30) * 100} className="w-full" />
+            <Progress value={currentQuestion ? (currentQuestion.timeLeft / 30) * 100 : 0} className="w-full" />
           </CardHeader>
           <CardContent className="space-y-4">
             <p className="text-lg font-medium">{currentQuestion.text}</p>
@@ -177,6 +208,29 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
             >
               Submit Answer
             </Button>
+          </CardContent>
+        </Card>
+      ) : (
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2">
+              <Brain className="h-5 w-5 text-gray-400" />
+              AI Prediction Question
+            </CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="text-center py-8">
+              <p className="text-muted-foreground">
+                {isQuestionServiceActive 
+                  ? "Waiting for next AI prediction question..." 
+                  : "Question service is starting up..."
+                }
+              </p>
+              <div className="mt-4">
+                <div className="animate-pulse bg-muted h-4 rounded w-3/4 mx-auto mb-2"></div>
+                <div className="animate-pulse bg-muted h-4 rounded w-1/2 mx-auto"></div>
+              </div>
+            </div>
           </CardContent>
         </Card>
       )}

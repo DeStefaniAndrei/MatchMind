@@ -1,3 +1,7 @@
+-------Changes------
+When making new models or chaning event types 
+
+
 ------Training Data-----
 
   --Events
@@ -7,17 +11,23 @@
 -------MODELS--------------
   --General
 
-    Linera regresion Model
+    Linera regresion Models (LSTM not worth it for Improvments)
+    All on T+1 right now but WILL change this later
 
     ---Improvments
       More lag data 
       Output of player?
-      get info for mathcups without lag data?
       Context (Time left, scrore)
       The ~2000 more files
       Dead Ball input for training
       Dead bal output model
       More sub-event types (split miss, shot on taget and goal to also include close, medium and long using distance)
+      Use carry event (would requrie structual change (unless also made sub event??))
+
+        ------Solution to pre match incacuracy (bad at guesing without lag data) (Would have to query something things)
+          --Prev records?
+          --Teams Ueafa co-ofecient? 
+      
 
     ------
 
