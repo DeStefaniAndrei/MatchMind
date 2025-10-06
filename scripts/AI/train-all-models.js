@@ -1,6 +1,6 @@
 // Train individual models for each event type to predict T+1 delta
 // Each model predicts the change in count for that specific event type from T to T+1
-// Usage: node scripts/AI/train-all-models.js --input "artifacts/modified-stats-json" --output "artifacts/models"
+// Usage: node scripts/AI/train-all-models.js --input "artifacts/modified-stats-json" --output "public/artifacts/models"
 
 const fs = require('fs');
 const path = require('path');

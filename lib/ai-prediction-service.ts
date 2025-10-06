@@ -1,8 +1,6 @@
-// AI Prediction Service for real-time match questions
-// Loads trained models and makes predictions for event counts
+// Loads the models from Artifacts and makes predictions
 
-import fs from 'fs'
-import path from 'path'
+// Note: This service is now browser-compatible and uses static model loading
 
 export interface MatchStats {
   minute: number
@@ -46,15 +44,31 @@ class AIPredictionService {
     if (this.modelsLoaded) return
 
     try {
-      const modelFiles = fs.readdirSync(this.modelsPath)
-        .filter(file => file.endsWith('-tplus1.json'))
+      // Load models from static JSON files in the public directory
+      const modelFiles = [
+        'ball_recovery-tplus1.json',
+        'block-tplus1.json', 
+        'duel-tplus1.json',
+        'foul_committed-tplus1.json',
+        'interception-tplus1.json',
+        'miscontrol-tplus1.json',
+        'pass-tplus1.json',
+        'possession_change-tplus1.json',
+        'pressure-tplus1.json',
+        'shot-tplus1.json'
+      ]
 
       for (const file of modelFiles) {
-        const modelPath = path.join(this.modelsPath, file)
-        const modelData = JSON.parse(fs.readFileSync(modelPath, 'utf8'))
-        
-        if (modelData.coefficients && modelData.eventType) {
-          this.models.set(modelData.eventType, modelData)
+        try {
+          const response = await fetch(`/artifacts/models/${file}`)
+          if (response.ok) {
+            const modelData = await response.json()
+            if (modelData.coefficients && modelData.eventType) {
+              this.models.set(modelData.eventType, modelData)
+            }
+          }
+        } catch (fileError) {
+          console.warn(`Failed to load model file ${file}:`, fileError)
         }
       }
 
@@ -62,7 +76,8 @@ class AIPredictionService {
       console.log(`Loaded ${this.models.size} AI models`)
     } catch (error) {
       console.error('Failed to load AI models:', error)
-      throw error
+      // Don't throw error - allow service to work with fallback predictions
+      this.modelsLoaded = true
     }
   }
 

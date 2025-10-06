@@ -1,29 +1,32 @@
 import type { Match } from "./types"
+import { realTrainingMatches, mockLiveEvents as realMockLiveEvents } from "./real-training-data"
 
 export const mockMatches: Match[] = [
+  // Use real training data for the first match
   {
     id: "1",
-    homeTeam: "Manchester United",
-    awayTeam: "Liverpool",
+    homeTeam: realTrainingMatches[0]?.homeTeam || "Manchester United",
+    awayTeam: realTrainingMatches[0]?.awayTeam || "Liverpool", 
     startTime: "2024-01-15T15:00:00Z",
     status: "live",
     participants: 2847,
     totalStake: 45230,
-    homeScore: 2,
-    awayScore: 1,
+    homeScore: realTrainingMatches[0]?.homeScore || 2,
+    awayScore: realTrainingMatches[0]?.awayScore || 1,
     contract_address: "0x1234567890123456789012345678901234567890",
-    minute: 67,
-    events: [
+    minute: realTrainingMatches[0]?.minute || 67,
+    events: realTrainingMatches[0]?.events?.slice(0, 10) || [
       { id: "1", type: "goal", minute: 23, player: "Marcus Rashford", team: "home", description: "Goal scored by Marcus Rashford" },
       { id: "2", type: "goal", minute: 34, player: "Mohamed Salah", team: "away", description: "Goal scored by Mohamed Salah" },
       { id: "3", type: "goal", minute: 56, player: "Bruno Fernandes", team: "home", description: "Goal scored by Bruno Fernandes" },
       { id: "4", type: "yellow_card", minute: 45, player: "Virgil van Dijk", team: "away", description: "Yellow card for Virgil van Dijk" },
     ]
   },
+  // Add second match using real training data
   {
     id: "2",
-    homeTeam: "Barcelona",
-    awayTeam: "Real Madrid",
+    homeTeam: realTrainingMatches[1]?.homeTeam || "Barcelona",
+    awayTeam: realTrainingMatches[1]?.awayTeam || "Real Madrid",
     startTime: "2024-01-15T20:00:00Z",
     status: "upcoming",
     participants: 1892,
@@ -311,41 +314,8 @@ export const mockWalletData = {
   isChilizTestnet: true
 }
 
-// Mock live match events
-export const mockLiveEvents = [
-  {
-    id: "1",
-    type: "goal",
-    minute: 23,
-    player: "Marcus Rashford",
-    team: "home",
-    description: "Goal scored by Marcus Rashford"
-  },
-  {
-    id: "2", 
-    type: "goal",
-    minute: 34,
-    player: "Mohamed Salah", 
-    team: "away",
-    description: "Goal scored by Mohamed Salah"
-  },
-  {
-    id: "3",
-    type: "goal",
-    minute: 56,
-    player: "Bruno Fernandes",
-    team: "home", 
-    description: "Goal scored by Bruno Fernandes"
-  },
-  {
-    id: "4",
-    type: "yellow_card",
-    minute: 45,
-    player: "Virgil van Dijk",
-    team: "away",
-    description: "Yellow card for Virgil van Dijk"
-  }
-]
+// Mock live match events - now using real training data
+export const mockLiveEvents = realMockLiveEvents
 
 // Mock user rewards
 export const mockUserRewards = {
