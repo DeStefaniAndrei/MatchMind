@@ -25,6 +25,10 @@
       "T_interception_a",
       "T_possession_change_h",
       "T_possession_change_a",
+      "T_goal_h",
+      "T_goal_a",
+      "T_goalkeeper_h",
+      "T_goalkeeper_a",
       "T5_pass_h",
       "T5_pass_a",
       "T5_shot_h",
@@ -45,6 +49,10 @@
       "T5_interception_a",
       "T5_possession_change_h",
       "T5_possession_change_a",
+      "T5_goal_h",
+      "T5_goal_a",
+      "T5_goalkeeper_h",
+      "T5_goalkeeper_a",
       "T20_pass_h",
       "T20_pass_a",
       "T20_shot_h",
@@ -64,7 +72,11 @@
       "T20_interception_h",
       "T20_interception_a",
       "T20_possession_change_h",
-      "T20_possession_change_a"
+      "T20_possession_change_a",
+      "T20_goal_h",
+      "T20_goal_a",
+      "T20_goalkeeper_h",
+      "T20_goalkeeper_a"
     ]
   },
   "output": {
@@ -93,6 +105,10 @@
     0.033280606047715565,
     0.003375232047716351,
     0.00361894242718019,
+    0,
+    0,
+    0,
+    0,
     -0.0004471169602777478,
     0.00038994033742600085,
     0.00764788303500109,
@@ -113,6 +129,10 @@
     -0.014218257123909657,
     0.0006522574962623086,
     0.0011894506191889812,
+    0,
+    0,
+    0,
+    0,
     0.0004801800691984516,
     0.00047306484282273086,
     -0.0021404439237710147,
@@ -132,6 +152,10 @@
     -0.012945221969918864,
     -0.012110933422504811,
     -0.0022072773941241466,
-    -0.0031666327914565053
+    -0.0031666327914565053,
+    0,
+    0,
+    0,
+    0
   ]
 }
