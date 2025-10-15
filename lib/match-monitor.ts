@@ -6,6 +6,7 @@ import { GameFactory } from '../contracts/GameFactory.sol/GameFactory.json'
 import { GamePool } from '../contracts/GamePool.sol/GamePool.json'
 import { createPublicClient, http, createWalletClient, parseEther } from 'viem'
 import { chiliz } from './wagmi'
+import { questionLifecycle } from './question-lifecycle'
 
 // Database-like structure to track matches
 interface MatchRecord {
@@ -130,6 +131,13 @@ class MatchMonitor {
    */
   private async checkMatches(): Promise<void> {
     console.log(`Checking ${this.matches.size} registered matches...`)
+
+    // Process question lifecycle first
+    try {
+      await questionLifecycle.processScheduledQuestions()
+    } catch (error) {
+      console.error('Error processing question lifecycle:', error)
+    }
 
     for (const [sportMonksId, matchRecord] of this.matches) {
       try {

@@ -6,6 +6,7 @@ import { useAccount, useBalance, useDisconnect, useConnect } from "wagmi"
 import { useToast } from "@/hooks/use-toast"
 import { chilizChain, chilizTestnet } from "@/lib/wagmi"
 import { detectSociosWallet, connectSociosWallet } from "@/lib/socios-wallet"
+import { useUser } from "@/contexts/user-context"
 
 interface WalletContextType {
   isConnected: boolean
@@ -27,6 +28,7 @@ export function WalletProvider({ children }: { children: React.ReactNode }) {
   const [isClient, setIsClient] = useState(false)
   const [sociosWalletAvailable, setSociosWalletAvailable] = useState(false)
   const { toast } = useToast()
+  const { setUserFromWallet, setAnonymousUser } = useUser()
   
   // Wagmi hooks
   const { address, isConnected, chainId } = useAccount()
@@ -42,6 +44,19 @@ export function WalletProvider({ children }: { children: React.ReactNode }) {
     },
   })
   
+  // Handle wallet connection changes - update user context
+  useEffect(() => {
+    console.log('Wallet context effect triggered:', { isConnected, address })
+    
+    if (isConnected && address) {
+      console.log('Wallet connected, setting user from wallet:', address)
+      setUserFromWallet(address)
+    } else if (!isConnected) {
+      console.log('Wallet disconnected, setting anonymous user')
+      setAnonymousUser()
+    }
+  }, [isConnected, address, setUserFromWallet, setAnonymousUser])
+
   // Debug logging
   useEffect(() => {
     if (isConnected && address) {

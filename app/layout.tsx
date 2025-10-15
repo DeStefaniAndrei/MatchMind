@@ -4,6 +4,7 @@ import { Inter } from "next/font/google"
 import "./globals.css"
 import { Toaster } from "@/components/ui/toaster"
 import { WalletProvider } from "@/contexts/wallet-context"
+import { UserProvider } from "@/contexts/user-context"
 import { ThemeProvider } from "@/components/theme-provider"
 import { WagmiProvider } from './wagmi-provider'
 
@@ -25,10 +26,12 @@ export default function RootLayout({
       <body className={inter.className}>
         <WagmiProvider>
           <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
-            <WalletProvider>
-              {children}
-              <Toaster />
-            </WalletProvider>
+            <UserProvider>
+              <WalletProvider>
+                {children}
+                <Toaster />
+              </WalletProvider>
+            </UserProvider>
           </ThemeProvider>
         </WagmiProvider>
       </body>

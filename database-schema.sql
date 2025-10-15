@@ -62,13 +62,38 @@ CREATE TABLE IF NOT EXISTS questions (
     correct_answer VARCHAR(255),
     question_type VARCHAR(50) DEFAULT 'prediction',
     points INTEGER DEFAULT 10,
-    time_limit INTEGER DEFAULT 60, -- seconds
-    is_active BOOLEAN DEFAULT true,
+    start_at TIMESTAMP WITH TIME ZONE NOT NULL, -- When question becomes active
+    end_at TIMESTAMP WITH TIME ZONE NOT NULL, -- When question closes for answers
+    grace_seconds INTEGER DEFAULT 30, -- Grace period before evaluation
+    state VARCHAR(20) DEFAULT 'draft' CHECK (state IN ('draft', 'scheduled', 'active', 'closed', 'evaluated', 'settled')),
+    evaluation_rule JSONB, -- Rule configuration for evaluation
+    metadata JSONB, -- Additional question metadata
     created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
 );
 
--- Predictions table
+-- User answers table (renamed from predictions for clarity)
+CREATE TABLE IF NOT EXISTS user_answers (
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    user_id UUID NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    question_id UUID NOT NULL REFERENCES questions(id) ON DELETE CASCADE,
+    answer_payload JSONB NOT NULL, -- Flexible answer format
+    submitted_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+    UNIQUE(user_id, question_id) -- One answer per user per question
+);
+
+-- Question results table (stores evaluation results)
+CREATE TABLE IF NOT EXISTS question_results (
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    question_id UUID NOT NULL REFERENCES questions(id) ON DELETE CASCADE,
+    correct_answer JSONB NOT NULL, -- The correct answer
+    evaluation_source VARCHAR(100), -- Source of the correct answer (api, manual, etc.)
+    evaluated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+);
+
+-- Keep predictions table for backward compatibility (can be removed later)
 CREATE TABLE IF NOT EXISTS predictions (
     id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     user_id UUID NOT NULL REFERENCES users(id) ON DELETE CASCADE,
@@ -133,6 +158,15 @@ CREATE INDEX IF NOT EXISTS idx_leaderboard_user_id ON leaderboard(user_id);
 CREATE INDEX IF NOT EXISTS idx_contract_events_contract_address ON contract_events(contract_address);
 CREATE INDEX IF NOT EXISTS idx_contract_events_processed ON contract_events(processed);
 
+-- New indexes for question system
+CREATE INDEX IF NOT EXISTS idx_questions_match_id ON questions(match_id);
+CREATE INDEX IF NOT EXISTS idx_questions_state ON questions(state);
+CREATE INDEX IF NOT EXISTS idx_questions_start_at ON questions(start_at);
+CREATE INDEX IF NOT EXISTS idx_questions_end_at ON questions(end_at);
+CREATE INDEX IF NOT EXISTS idx_user_answers_user_id ON user_answers(user_id);
+CREATE INDEX IF NOT EXISTS idx_user_answers_question_id ON user_answers(question_id);
+CREATE INDEX IF NOT EXISTS idx_question_results_question_id ON question_results(question_id);
+
 -- Create updated_at trigger function
 CREATE OR REPLACE FUNCTION update_updated_at_column()
 RETURNS TRIGGER AS $$
@@ -154,6 +188,8 @@ ALTER TABLE users ENABLE ROW LEVEL SECURITY;
 ALTER TABLE matches ENABLE ROW LEVEL SECURITY;
 ALTER TABLE stakes ENABLE ROW LEVEL SECURITY;
 ALTER TABLE questions ENABLE ROW LEVEL SECURITY;
+ALTER TABLE user_answers ENABLE ROW LEVEL SECURITY;
+ALTER TABLE question_results ENABLE ROW LEVEL SECURITY;
 ALTER TABLE predictions ENABLE ROW LEVEL SECURITY;
 ALTER TABLE leaderboard ENABLE ROW LEVEL SECURITY;
 ALTER TABLE contract_events ENABLE ROW LEVEL SECURITY;
@@ -183,6 +219,24 @@ CREATE POLICY "Users can view own predictions" ON predictions FOR SELECT USING (
     user_id IN (SELECT id FROM users WHERE wallet_address = auth.uid()::text)
 );
 
+-- Users can view their own answers
+CREATE POLICY "Users can view own answers" ON user_answers FOR SELECT USING (
+    user_id IN (SELECT id FROM users WHERE wallet_address = auth.uid()::text)
+);
+
+-- Users can insert their own answers
+CREATE POLICY "Users can insert own answers" ON user_answers FOR INSERT WITH CHECK (
+    user_id IN (SELECT id FROM users WHERE wallet_address = auth.uid()::text)
+);
+
+-- Users can update their own answers (if not yet closed)
+CREATE POLICY "Users can update own answers" ON user_answers FOR UPDATE USING (
+    user_id IN (SELECT id FROM users WHERE wallet_address = auth.uid()::text)
+);
+
+-- Anyone can read question results
+CREATE POLICY "Anyone can view question results" ON question_results FOR SELECT USING (true);
+
 -- Users can insert their own predictions
 CREATE POLICY "Users can insert own predictions" ON predictions FOR INSERT WITH CHECK (
     user_id IN (SELECT id FROM users WHERE wallet_address = auth.uid()::text)
@@ -196,6 +250,8 @@ CREATE POLICY "Admin can manage all data" ON users FOR ALL USING (auth.jwt() ->>
 CREATE POLICY "Admin can manage all data" ON matches FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON stakes FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON questions FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
+CREATE POLICY "Admin can manage all data" ON user_answers FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
+CREATE POLICY "Admin can manage all data" ON question_results FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON predictions FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON leaderboard FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON contract_events FOR ALL USING (auth.jwt() ->> 'role' = 'admin');

@@ -291,7 +291,7 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
             {events
               //ony type of events that are displated sorted by time max 15
               .filter((e) => isDisplayableEvent(String(e.type)))
-              .sort((a, b) => (a.minute ?? 0) - (b.minute ?? 0))
+              .sort((a, b) => (b.minute ?? 0) - (a.minute ?? 0))
               .slice(-10)
               .map((event) => (
               <div key={event.id} className="flex items-center gap-3 p-3 bg-muted rounded-lg">

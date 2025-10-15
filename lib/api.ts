@@ -52,6 +52,12 @@ export async function fetchMatchById(matchId: string) {
 // Add a stake
 export async function addStake(userId: string, matchId: string, amount: number) {
   try {
+    // Skip database insert for anonymous users
+    if (userId.startsWith('anon_')) {
+      console.log('Anonymous user stake - using mock data')
+      return { id: Date.now().toString(), user_id: userId, match_id: matchId, amount }
+    }
+    
     const { data, error } = await supabase.from('stakes').insert([{ user_id: userId, match_id: matchId, amount }])
     if (error) throw error
     return data
@@ -64,6 +70,12 @@ export async function addStake(userId: string, matchId: string, amount: number) 
 // Add a prediction
 export async function addPrediction(userId: string, matchId: string, questionId: string, answer: string) {
   try {
+    // Skip database insert for anonymous users
+    if (userId.startsWith('anon_')) {
+      console.log('Anonymous user prediction - using mock data')
+      return { id: Date.now().toString(), user_id: userId, match_id: matchId, question_id: questionId, answer }
+    }
+    
     const { data, error } = await supabase.from('predictions').insert([{ user_id: userId, match_id: matchId, question_id: questionId, answer }])
     if (error) throw error
     return data
@@ -76,6 +88,12 @@ export async function addPrediction(userId: string, matchId: string, questionId:
 // Fetch predictions for a user and match
 export async function fetchPredictions(userId: string, matchId: string) {
   try {
+    // Return empty array for anonymous users
+    if (userId.startsWith('anon_')) {
+      console.log('Anonymous user predictions - returning empty array')
+      return []
+    }
+    
     const { data, error } = await supabase.from('predictions').select('*').eq('user_id', userId).eq('match_id', matchId)
     if (error) throw error
     return data
@@ -88,6 +106,12 @@ export async function fetchPredictions(userId: string, matchId: string) {
 // Fetch stakes for a user
 export async function fetchStakes(userId: string) {
   try {
+    // Return empty array for anonymous users
+    if (userId.startsWith('anon_')) {
+      console.log('Anonymous user stakes - returning empty array')
+      return []
+    }
+    
     const { data, error } = await supabase.from('stakes').select('*').eq('user_id', userId)
     if (error) throw error
     return data
