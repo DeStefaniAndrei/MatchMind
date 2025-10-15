@@ -256,7 +256,7 @@
     "timestamp": "00:00:33.445"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Ritchie",
     "player2": "Adam Smith",
     "player1_team": "AFC Bournemouth",
@@ -512,7 +512,7 @@
     "timestamp": "00:00:58.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -744,7 +744,7 @@
     "timestamp": "00:01:46.543"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Max-Alain Gradel",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -928,7 +928,7 @@
     "timestamp": "00:02:35.047"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -1136,7 +1136,7 @@
     "timestamp": "00:03:24.252"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "James Ward-Prowse",
     "player1_team": "Southampton",
@@ -1496,7 +1496,7 @@
     "timestamp": "00:04:25.372"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bertrand",
     "player2": "Oriol Romeu Vidal",
     "player1_team": "Southampton",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:05:41.546"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -2288,7 +2288,7 @@
     "timestamp": "00:06:32.614"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -2464,7 +2464,7 @@
     "timestamp": "00:07:16.121"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Max-Alain Gradel",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -2672,7 +2672,7 @@
     "timestamp": "00:08:05.599"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bertrand",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -2824,7 +2824,7 @@
     "timestamp": "00:08:43.419"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -2912,7 +2912,7 @@
     "timestamp": "00:09:03.350"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Max-Alain Gradel",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -3104,7 +3104,7 @@
     "timestamp": "00:09:51.653"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:10:32.032"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -3272,7 +3272,7 @@
     "timestamp": "00:10:48.670"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:11:09.272"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:12:50.361"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -4824,7 +4824,7 @@
     "timestamp": "00:14:23.443"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -5160,7 +5160,7 @@
     "timestamp": "00:15:09.894"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Maya Yoshida",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -5448,7 +5448,7 @@
     "timestamp": "00:16:17.119"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -5736,7 +5736,7 @@
     "timestamp": "00:17:24.178"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bertrand",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:19:46.926"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -6896,7 +6896,7 @@
     "timestamp": "00:20:38.859"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:21:11.269"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -7544,7 +7544,7 @@
     "timestamp": "00:22:20.120"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:24:00.777"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:25:20.148"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:26:13.409"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:27:11.321"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "James Ward-Prowse",
     "player2": "",
     "player1_team": "Southampton",
@@ -8704,7 +8704,7 @@
     "timestamp": "00:28:13.067"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joshua King",
     "player2": "Charlie Daniels",
     "player1_team": "AFC Bournemouth",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:28:22.077"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -10312,7 +10312,7 @@
     "timestamp": "00:34:27.715"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -10344,7 +10344,7 @@
     "timestamp": "00:34:41.464"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -10520,7 +10520,7 @@
     "timestamp": "00:35:15.507"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Max-Alain Gradel",
     "player1_team": "AFC Bournemouth",
@@ -10560,7 +10560,7 @@
     "timestamp": "00:35:48.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -11152,7 +11152,7 @@
     "timestamp": "00:37:15.466"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:37:56.691"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:38:44.179"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Charlie Daniels",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:39:24.372"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -12040,7 +12040,7 @@
     "timestamp": "00:41:12.891"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -12424,7 +12424,7 @@
     "timestamp": "00:42:09.075"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:42:44.808"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -12784,7 +12784,7 @@
     "timestamp": "00:43:40.935"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -12840,7 +12840,7 @@
     "timestamp": "00:44:12.264"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:00:26.112"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Max-Alain Gradel",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -13416,7 +13416,7 @@
     "timestamp": "00:01:44.927"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -13552,7 +13552,7 @@
     "timestamp": "00:02:20.248"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -13872,7 +13872,7 @@
     "timestamp": "00:03:03.711"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -14032,7 +14032,7 @@
     "timestamp": "00:03:44.825"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:03:59.555"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -14216,7 +14216,7 @@
     "timestamp": "00:04:15.262"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:05:09.736"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Charlie Daniels",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:05:48.266"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:07:39.440"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ryan Bertrand",
     "player2": "",
     "player1_team": "Southampton",
@@ -15592,7 +15592,7 @@
     "timestamp": "00:08:43.388"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -15608,7 +15608,7 @@
     "timestamp": "00:08:56.848"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -15880,7 +15880,7 @@
     "timestamp": "00:09:42.965"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -15952,7 +15952,7 @@
     "timestamp": "00:10:09.473"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -16144,7 +16144,7 @@
     "timestamp": "00:10:31.567"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:12:33.959"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -17024,7 +17024,7 @@
     "timestamp": "00:13:11.601"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -17208,7 +17208,7 @@
     "timestamp": "00:14:54.054"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -17408,7 +17408,7 @@
     "timestamp": "00:15:39.737"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:17:53.079"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -17552,7 +17552,7 @@
     "timestamp": "00:18:13.298"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -17632,7 +17632,7 @@
     "timestamp": "00:18:36.837"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:20:32.396"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:22:21.594"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:22:34.894"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:23:06.182"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Virgil van Dijk",
     "player2": "James Ward-Prowse",
     "player1_team": "Southampton",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:24:54.817"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Lewis Grabban",
     "player1_team": "AFC Bournemouth",
@@ -19104,7 +19104,7 @@
     "timestamp": "00:25:34.176"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Dušan Tadić",
     "player2": "Ryan Bertrand",
     "player1_team": "Southampton",
@@ -19400,7 +19400,7 @@
     "timestamp": "00:26:10.221"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:26:26.412"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -19800,7 +19800,7 @@
     "timestamp": "00:27:41.855"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Steven Davis",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -20680,7 +20680,7 @@
     "timestamp": "00:29:45.659"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:30:22.434"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Charlie Daniels",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -20984,7 +20984,7 @@
     "timestamp": "00:31:06.069"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -21328,7 +21328,7 @@
     "timestamp": "00:31:49.814"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -21512,7 +21512,7 @@
     "timestamp": "00:32:23.847"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -21632,7 +21632,7 @@
     "timestamp": "00:33:08.195"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -21680,7 +21680,7 @@
     "timestamp": "00:33:27.670"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Matt Ritchie",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -21832,7 +21832,7 @@
     "timestamp": "00:35:12.642"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:35:47.758"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -22224,7 +22224,7 @@
     "timestamp": "00:36:42.386"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -22312,7 +22312,7 @@
     "timestamp": "00:37:21.601"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -22592,7 +22592,7 @@
     "timestamp": "00:38:01.345"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Dušan Tadić",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -22744,7 +22744,7 @@
     "timestamp": "00:39:15.764"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -22888,7 +22888,7 @@
     "timestamp": "00:39:53.687"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -22960,7 +22960,7 @@
     "timestamp": "00:40:12.138"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Charlie Daniels",
     "player2": "Marc Pugh",
     "player1_team": "AFC Bournemouth",
@@ -23056,7 +23056,7 @@
     "timestamp": "00:40:55.821"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -23088,7 +23088,7 @@
     "timestamp": "00:41:10.443"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -23456,7 +23456,7 @@
     "timestamp": "00:42:36.623"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Steven Davis",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -23544,7 +23544,7 @@
     "timestamp": "00:42:52.744"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -23616,7 +23616,7 @@
     "timestamp": "00:43:41.230"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -24144,7 +24144,7 @@
     "timestamp": "00:45:21.002"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -24496,7 +24496,7 @@
     "timestamp": "00:46:13.151"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Matt Ritchie",
     "player2": "Adam Smith",
     "player1_team": "AFC Bournemouth",
@@ -24720,7 +24720,7 @@
     "timestamp": "00:47:11.089"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -25024,7 +25024,7 @@
     "timestamp": "00:48:01.317"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "",
     "player1_team": "Southampton",

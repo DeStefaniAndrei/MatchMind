@@ -584,7 +584,7 @@
     "timestamp": "00:01:03.024"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -1320,7 +1320,7 @@
     "timestamp": "00:02:51.473"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:03:44.959"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "Ibrahim Afellay",
     "player1_team": "Stoke City",
@@ -1888,7 +1888,7 @@
     "timestamp": "00:04:33.740"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Abdul Rahman Baba",
     "player1_team": "Chelsea",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:05:23.446"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -2400,7 +2400,7 @@
     "timestamp": "00:05:57.457"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Michael Nchekwube Obinna",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:08:37.754"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Gary Cahill",
     "player1_team": "Chelsea",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:11:42.237"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -6096,7 +6096,7 @@
     "timestamp": "00:15:45.806"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gary Cahill",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:16:27.082"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -6376,7 +6376,7 @@
     "timestamp": "00:16:35.429"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:16:53.982"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "César Azpilicueta Tanco",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:18:19.545"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:18:45.324"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "",
     "player1_team": "Stoke City",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:20:07.194"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -7808,7 +7808,7 @@
     "timestamp": "00:23:03.223"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Abdul Rahman Baba",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -8008,7 +8008,7 @@
     "timestamp": "00:23:29.188"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Xherdan Shaqiri",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -8024,7 +8024,7 @@
     "timestamp": "00:23:38.695"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Branislav Ivanović",
     "player2": "Gary Cahill",
     "player1_team": "Chelsea",
@@ -8240,7 +8240,7 @@
     "timestamp": "00:24:53.790"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xherdan Shaqiri",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:25:57.305"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Abdul Rahman Baba",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:29:15.338"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -9120,7 +9120,7 @@
     "timestamp": "00:29:44.319"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eden Hazard",
     "player2": "Abdul Rahman Baba",
     "player1_team": "Chelsea",
@@ -9480,7 +9480,7 @@
     "timestamp": "00:30:35.691"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jack Butland",
     "player2": "",
     "player1_team": "Stoke City",
@@ -10216,7 +10216,7 @@
     "timestamp": "00:32:29.045"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -10624,7 +10624,7 @@
     "timestamp": "00:34:14.954"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Marc Muniesa Martínez",
     "player1_team": "Stoke City",
@@ -10816,7 +10816,7 @@
     "timestamp": "00:35:06.482"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glenn Whelan",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -11104,7 +11104,7 @@
     "timestamp": "00:36:26.130"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:37:45.610"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -12008,7 +12008,7 @@
     "timestamp": "00:40:08.304"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Bertrand Isidore Traoré",
     "player1_team": "Chelsea",
@@ -12032,7 +12032,7 @@
     "timestamp": "00:40:21.694"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:42:03.897"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -12960,7 +12960,7 @@
     "timestamp": "00:42:56.582"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:44:50.652"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -13464,7 +13464,7 @@
     "timestamp": "00:45:34.941"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Ibrahim Afellay",
     "player1_team": "Stoke City",
@@ -14064,7 +14064,7 @@
     "timestamp": "00:00:27.788"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:00:56.841"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -14312,7 +14312,7 @@
     "timestamp": "00:01:12.644"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -14352,7 +14352,7 @@
     "timestamp": "00:01:22.350"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -14992,7 +14992,7 @@
     "timestamp": "00:03:16.167"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Ibrahim Afellay",
     "player1_team": "Stoke City",
@@ -15208,7 +15208,7 @@
     "timestamp": "00:03:57.949"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:05:26.510"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Erik Pieters",
     "player2": "Mame Biram Diouf",
     "player1_team": "Stoke City",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:06:01.838"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:07:31.620"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "Branislav Ivanović",
     "player1_team": "Chelsea",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:08:28.059"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Bertrand Isidore Traoré",
     "player1_team": "Chelsea",
@@ -16528,7 +16528,7 @@
     "timestamp": "00:08:47.498"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -16768,7 +16768,7 @@
     "timestamp": "00:09:18.053"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marc Muniesa Martínez",
     "player1_team": "Stoke City",
@@ -16936,7 +16936,7 @@
     "timestamp": "00:09:44.014"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eden Hazard",
     "player2": "Bertrand Isidore Traoré",
     "player1_team": "Chelsea",
@@ -17184,7 +17184,7 @@
     "timestamp": "00:10:23.984"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Xherdan Shaqiri",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:11:28.185"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:11:40.837"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Abdul Rahman Baba",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -18224,7 +18224,7 @@
     "timestamp": "00:13:09.536"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -18376,7 +18376,7 @@
     "timestamp": "00:14:05.820"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "César Azpilicueta Tanco",
     "player1_team": "Chelsea",
@@ -18512,7 +18512,7 @@
     "timestamp": "00:15:06.388"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:15:40.328"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:18:46.268"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "Gary Cahill",
     "player1_team": "Chelsea",
@@ -19696,7 +19696,7 @@
     "timestamp": "00:20:00.054"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "César Azpilicueta Tanco",
     "player2": "Bertrand Isidore Traoré",
     "player1_team": "Chelsea",
@@ -19824,7 +19824,7 @@
     "timestamp": "00:20:38.865"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nemanja Matić",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -20008,7 +20008,7 @@
     "timestamp": "00:21:22.236"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:22:22.040"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:22:50.112"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:24:26.246"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -22328,7 +22328,7 @@
     "timestamp": "00:29:41.085"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ibrahim Afellay",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -22592,7 +22592,7 @@
     "timestamp": "00:30:12.998"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Loïc Rémy",
     "player1_team": "Chelsea",
@@ -22896,7 +22896,7 @@
     "timestamp": "00:31:17.047"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Ruben Loftus-Cheek",
     "player1_team": "Chelsea",
@@ -22992,7 +22992,7 @@
     "timestamp": "00:31:48.760"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Abdul Rahman Baba",
     "player2": "Loïc Rémy",
     "player1_team": "Chelsea",
@@ -23304,7 +23304,7 @@
     "timestamp": "00:32:37.244"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc Muniesa Martínez",
     "player2": "Ibrahim Afellay",
     "player1_team": "Stoke City",
@@ -24024,7 +24024,7 @@
     "timestamp": "00:34:09.067"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "",
     "player1_team": "Chelsea",
@@ -24544,7 +24544,7 @@
     "timestamp": "00:36:23.135"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ibrahim Afellay",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -24904,7 +24904,7 @@
     "timestamp": "00:36:55.464"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "",
     "player1_team": "Chelsea",
@@ -25472,7 +25472,7 @@
     "timestamp": "00:38:44.357"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Ibrahim Afellay",
     "player1_team": "Stoke City",
@@ -25872,7 +25872,7 @@
     "timestamp": "00:40:50.771"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Ruben Loftus-Cheek",
     "player1_team": "Chelsea",
@@ -25920,7 +25920,7 @@
     "timestamp": "00:41:07.403"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -26032,7 +26032,7 @@
     "timestamp": "00:41:20.700"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -26896,7 +26896,7 @@
     "timestamp": "00:43:07.398"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -27000,7 +27000,7 @@
     "timestamp": "00:43:28.673"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -27224,7 +27224,7 @@
     "timestamp": "00:44:56.768"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -27376,7 +27376,7 @@
     "timestamp": "00:45:31.722"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Geoff Cameron",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -27800,7 +27800,7 @@
     "timestamp": "00:46:40.699"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "César Azpilicueta Tanco",
     "player1_team": "Chelsea",
@@ -28016,7 +28016,7 @@
     "timestamp": "00:47:32.161"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Loïc Rémy",
     "player1_team": "Chelsea",
@@ -28352,7 +28352,7 @@
     "timestamp": "00:48:21.383"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "Gary Cahill",
     "player1_team": "Chelsea",

@@ -216,7 +216,7 @@
     "timestamp": "00:00:19.128"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -584,7 +584,7 @@
     "timestamp": "00:01:04.414"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Tiago Manuel Dias Correia",
     "player1_team": "Rayo Vallecano",
@@ -632,7 +632,7 @@
     "timestamp": "00:01:13.559"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Tiago Manuel Dias Correia",
     "player1_team": "Rayo Vallecano",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:02:11.487"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Alberto Mateus Contreiras Gonçalves",
     "player1_team": "Rayo Vallecano",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:02:36.116"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Francisco Medina Luna",
     "player1_team": "Rayo Vallecano",
@@ -1368,7 +1368,7 @@
     "timestamp": "00:03:20.340"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Tiago Manuel Dias Correia",
     "player1_team": "Rayo Vallecano",
@@ -1456,7 +1456,7 @@
     "timestamp": "00:03:47.311"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Roberto Trashorras Gayoso",
     "player2": "Francisco Medina Luna",
     "player1_team": "Rayo Vallecano",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:04:42.258"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -2040,7 +2040,7 @@
     "timestamp": "00:05:38.892"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -2288,7 +2288,7 @@
     "timestamp": "00:06:39.115"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Claudio Andrés Bravo Muñoz",
     "player1_team": "Barcelona",
@@ -2584,7 +2584,7 @@
     "timestamp": "00:07:29.518"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -2760,7 +2760,7 @@
     "timestamp": "00:08:16.527"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -2856,7 +2856,7 @@
     "timestamp": "00:08:37.320"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Carlos Martín Corral",
     "player2": "Tiago Manuel Dias Correia",
     "player1_team": "Rayo Vallecano",
@@ -3136,7 +3136,7 @@
     "timestamp": "00:09:43.733"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Tiago Manuel Dias Correia",
     "player1_team": "Rayo Vallecano",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:10:38.269"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Manuel Rolando Iturra Urrutia",
     "player2": "Francisco Medina Luna",
     "player1_team": "Rayo Vallecano",
@@ -3352,7 +3352,7 @@
     "timestamp": "00:10:51.317"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -3560,7 +3560,7 @@
     "timestamp": "00:11:35.500"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:13:12.080"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -4952,7 +4952,7 @@
     "timestamp": "00:15:16.970"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:16:02.282"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Francisco Medina Luna",
     "player1_team": "Rayo Vallecano",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:16:27.674"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Alberto Mateus Contreiras Gonçalves",
     "player1_team": "Rayo Vallecano",
@@ -5176,7 +5176,7 @@
     "timestamp": "00:17:30.355"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Diego Javier Llorente Ríos",
     "player2": "Tiago Manuel Dias Correia",
     "player1_team": "Rayo Vallecano",
@@ -5256,7 +5256,7 @@
     "timestamp": "00:18:10.459"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:19:38.371"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -6152,7 +6152,7 @@
     "timestamp": "00:20:30.862"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:24:16.689"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Manuel Rolando Iturra Urrutia",
     "player2": "Diego Javier Llorente Ríos",
     "player1_team": "Rayo Vallecano",
@@ -6976,7 +6976,7 @@
     "timestamp": "00:24:44.363"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Francisco Medina Luna",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -7344,7 +7344,7 @@
     "timestamp": "00:25:54.443"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:26:41.802"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -7896,7 +7896,7 @@
     "timestamp": "00:28:19.099"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:28:35.122"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Alberto Mateus Contreiras Gonçalves",
     "player1_team": "Rayo Vallecano",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:28:57.734"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -8056,7 +8056,7 @@
     "timestamp": "00:29:24.217"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -8584,7 +8584,7 @@
     "timestamp": "00:30:56.984"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -9264,7 +9264,7 @@
     "timestamp": "00:32:29.424"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -9328,7 +9328,7 @@
     "timestamp": "00:32:41.937"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:33:02.107"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Diego Javier Llorente Ríos",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -9536,7 +9536,7 @@
     "timestamp": "00:33:33.372"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Roberto Román Triguero",
     "player2": "Alberto Mateus Contreiras Gonçalves",
     "player1_team": "Rayo Vallecano",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:35:05.684"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:36:14.720"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -10736,7 +10736,7 @@
     "timestamp": "00:36:55.143"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Roberto Román Triguero",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:37:23.967"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:37:43.477"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -11664,7 +11664,7 @@
     "timestamp": "00:38:50.205"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -11736,7 +11736,7 @@
     "timestamp": "00:39:20.215"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Carlos Martín Corral",
     "player2": "Diego Javier Llorente Ríos",
     "player1_team": "Rayo Vallecano",
@@ -12240,7 +12240,7 @@
     "timestamp": "00:43:34.721"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -12480,7 +12480,7 @@
     "timestamp": "00:44:26.607"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:44:49.732"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -12600,7 +12600,7 @@
     "timestamp": "00:45:12.161"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Alberto Mateus Contreiras Gonçalves",
     "player1_team": "Rayo Vallecano",
@@ -12800,7 +12800,7 @@
     "timestamp": "00:45:52.666"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Roberto Trashorras Gayoso",
     "player2": "José Ángel Crespo Rincón",
     "player1_team": "Rayo Vallecano",
@@ -13264,7 +13264,7 @@
     "timestamp": "00:00:41.605"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:01:58.929"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Roberto Román Triguero",
     "player2": "Tiago Manuel Dias Correia",
     "player1_team": "Rayo Vallecano",
@@ -13960,7 +13960,7 @@
     "timestamp": "00:02:22.204"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Roberto Román Triguero",
     "player2": "Alberto Mateus Contreiras Gonçalves",
     "player1_team": "Rayo Vallecano",
@@ -14824,7 +14824,7 @@
     "timestamp": "00:04:22.952"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -14856,7 +14856,7 @@
     "timestamp": "00:04:48.117"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:05:22.739"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:06:16.023"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -15736,7 +15736,7 @@
     "timestamp": "00:07:06.077"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Roberto Trashorras Gayoso",
     "player2": "Adrián Embarba Blázquez",
     "player1_team": "Rayo Vallecano",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:13:34.794"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -17848,7 +17848,7 @@
     "timestamp": "00:14:45.996"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:15:17.460"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -18256,7 +18256,7 @@
     "timestamp": "00:15:51.254"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:17:08.438"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -18864,7 +18864,7 @@
     "timestamp": "00:17:36.793"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -19456,7 +19456,7 @@
     "timestamp": "00:19:13.014"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -19816,7 +19816,7 @@
     "timestamp": "00:23:13.753"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Juan Carlos Martín Corral",
     "player2": "",
     "player1_team": "Rayo Vallecano",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:23:48.133"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Carlos Martín Corral",
     "player2": "Alberto Mateus Contreiras Gonçalves",
     "player1_team": "Rayo Vallecano",
@@ -19936,7 +19936,7 @@
     "timestamp": "00:24:53.664"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Antonio Amaya Carazo",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -21176,7 +21176,7 @@
     "timestamp": "00:29:18.031"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -21952,7 +21952,7 @@
     "timestamp": "00:31:45.966"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:32:05.715"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Roberto Trashorras Gayoso",
     "player2": "Jonhatan Montiel Caballero",
     "player1_team": "Rayo Vallecano",
@@ -22136,7 +22136,7 @@
     "timestamp": "00:32:51.760"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -22968,7 +22968,7 @@
     "timestamp": "00:35:34.998"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Javier Guerra Rodríguez",
     "player1_team": "Rayo Vallecano",
@@ -23008,7 +23008,7 @@
     "timestamp": "00:35:51.967"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Javier Guerra Rodríguez",
     "player1_team": "Rayo Vallecano",
@@ -23040,7 +23040,7 @@
     "timestamp": "00:36:11.422"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Thomas Vermaelen",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -23320,7 +23320,7 @@
     "timestamp": "00:36:52.476"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Roberto Román Triguero",
     "player2": "Javier Guerra Rodríguez",
     "player1_team": "Rayo Vallecano",
@@ -23352,7 +23352,7 @@
     "timestamp": "00:37:14.683"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Roberto Trashorras Gayoso",
     "player2": "Adrián Embarba Blázquez",
     "player1_team": "Rayo Vallecano",
@@ -23560,7 +23560,7 @@
     "timestamp": "00:37:38.976"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joaquín José Marín Ruiz",
     "player2": "Antonio Amaya Carazo",
     "player1_team": "Rayo Vallecano",
@@ -24320,7 +24320,7 @@
     "timestamp": "00:39:52.839"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Arda Turan",
     "player1_team": "Barcelona",
@@ -24536,7 +24536,7 @@
     "timestamp": "00:41:29.661"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Carlos Martín Corral",
     "player2": "Antonio Amaya Carazo",
     "player1_team": "Rayo Vallecano",
@@ -24768,7 +24768,7 @@
     "timestamp": "00:42:34.308"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adrián Embarba Blázquez",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -24840,7 +24840,7 @@
     "timestamp": "00:42:42.331"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adrián Embarba Blázquez",
     "player2": "Roberto Trashorras Gayoso",
     "player1_team": "Rayo Vallecano",
@@ -24912,7 +24912,7 @@
     "timestamp": "00:43:01.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Arda Turan",
     "player1_team": "Barcelona",
@@ -25160,7 +25160,7 @@
     "timestamp": "00:43:45.371"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Antonio Amaya Carazo",
     "player2": "Joaquín José Marín Ruiz",
     "player1_team": "Rayo Vallecano",

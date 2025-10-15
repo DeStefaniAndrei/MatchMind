@@ -56,7 +56,7 @@
     "timestamp": "00:00:08.076"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -88,7 +88,7 @@
     "timestamp": "00:00:21.247"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -640,7 +640,7 @@
     "timestamp": "00:01:15.862"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Danielle Turner",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -768,7 +768,7 @@
     "timestamp": "00:02:39.703"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Megan Finnigan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -912,7 +912,7 @@
     "timestamp": "00:03:06.029"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:05:20.115"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Katie Zelem",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -2016,7 +2016,7 @@
     "timestamp": "00:06:59.268"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -2160,7 +2160,7 @@
     "timestamp": "00:07:18.438"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:08:07.116"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leah Galton",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -2496,7 +2496,7 @@
     "timestamp": "00:08:19.887"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -2888,7 +2888,7 @@
     "timestamp": "00:09:34.631"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:12:04.559"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -4416,7 +4416,7 @@
     "timestamp": "00:16:49.350"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Inessa Kaagman",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -4912,7 +4912,7 @@
     "timestamp": "00:18:17.197"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Inessa Kaagman",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:18:55.345"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -5320,7 +5320,7 @@
     "timestamp": "00:19:56.563"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:21:16.938"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -6464,7 +6464,7 @@
     "timestamp": "00:22:52.190"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:25:05.844"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -7048,7 +7048,7 @@
     "timestamp": "00:25:38.056"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:26:16.788"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -7136,7 +7136,7 @@
     "timestamp": "00:26:47.194"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -7192,7 +7192,7 @@
     "timestamp": "00:27:09.955"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Tinja-Riikka Tellervo Korpela",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -7240,7 +7240,7 @@
     "timestamp": "00:27:36.437"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gabrielle George",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:28:09.907"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:28:26.709"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -7784,7 +7784,7 @@
     "timestamp": "00:29:43.368"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -7920,7 +7920,7 @@
     "timestamp": "00:30:06.589"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:31:54.372"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -8688,7 +8688,7 @@
     "timestamp": "00:32:18.339"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Megan Finnigan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:33:17.796"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -8928,7 +8928,7 @@
     "timestamp": "00:33:39.699"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:34:16.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Katie Zelem",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:35:18.397"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -10128,7 +10128,7 @@
     "timestamp": "00:37:04.540"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -11024,7 +11024,7 @@
     "timestamp": "00:40:24.004"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Molly Pike",
     "player1_team": "Everton LFC",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:40:46.766"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -11200,7 +11200,7 @@
     "timestamp": "00:41:08.007"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:41:37.752"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Katie Zelem",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -11528,7 +11528,7 @@
     "timestamp": "00:42:15.110"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Megan Finnigan",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:44:07.919"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -12000,7 +12000,7 @@
     "timestamp": "00:44:26.165"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Maéva Clemaron",
     "player1_team": "Everton LFC",
@@ -12408,7 +12408,7 @@
     "timestamp": "00:46:00.503"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -12488,7 +12488,7 @@
     "timestamp": "00:46:14.009"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:46:28.361"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -12648,7 +12648,7 @@
     "timestamp": "00:46:54.467"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -13224,7 +13224,7 @@
     "timestamp": "00:00:52.791"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -13320,7 +13320,7 @@
     "timestamp": "00:01:06.722"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Katie Zelem",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -14592,7 +14592,7 @@
     "timestamp": "00:04:38.235"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mary Alexandra Earps",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -14904,7 +14904,7 @@
     "timestamp": "00:05:36.733"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -15488,7 +15488,7 @@
     "timestamp": "00:06:39.747"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:07:01.368"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -16048,7 +16048,7 @@
     "timestamp": "00:08:07.417"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gabrielle George",
     "player2": "Tinja-Riikka Tellervo Korpela",
     "player1_team": "Everton LFC",
@@ -16264,7 +16264,7 @@
     "timestamp": "00:09:13.738"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -16344,7 +16344,7 @@
     "timestamp": "00:11:26.899"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gabrielle George",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:12:21.640"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:12:44.830"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -16888,7 +16888,7 @@
     "timestamp": "00:12:52.014"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -17736,7 +17736,7 @@
     "timestamp": "00:14:55.564"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Lucy Hope",
     "player1_team": "Everton LFC",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:15:28.649"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:19:58.546"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Abbie McManus",
     "player1_team": "Manchester United",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:21:35.747"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -20240,7 +20240,7 @@
     "timestamp": "00:22:34.106"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Katie Zelem",
     "player2": "",
     "player1_team": "Manchester United",
@@ -20280,7 +20280,7 @@
     "timestamp": "00:23:29.811"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -20400,7 +20400,7 @@
     "timestamp": "00:23:55.847"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Katie Zelem",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:25:39.747"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:29:59.071"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Leah Galton",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -22000,7 +22000,7 @@
     "timestamp": "00:30:22.325"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:31:46.057"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -22440,7 +22440,7 @@
     "timestamp": "00:32:15.210"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:32:43.435"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Abbey-Leigh Stringer",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -22704,7 +22704,7 @@
     "timestamp": "00:32:57.574"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Abbie McManus",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",
@@ -23288,7 +23288,7 @@
     "timestamp": "00:34:49.663"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -23472,7 +23472,7 @@
     "timestamp": "00:35:20.976"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -23712,7 +23712,7 @@
     "timestamp": "00:36:02.523"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Katie Zelem",
     "player2": "Lauren James",
     "player1_team": "Manchester United",
@@ -24072,7 +24072,7 @@
     "timestamp": "00:37:18.117"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Tinja-Riikka Tellervo Korpela",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -24104,7 +24104,7 @@
     "timestamp": "00:37:40.323"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -24264,7 +24264,7 @@
     "timestamp": "00:37:58.599"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Kirsty Hanson",
     "player1_team": "Manchester United",
@@ -24352,7 +24352,7 @@
     "timestamp": "00:38:08.667"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Chloe Kelly",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -24760,7 +24760,7 @@
     "timestamp": "00:40:07.218"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -24840,7 +24840,7 @@
     "timestamp": "00:40:21.417"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Esme Beth Morgan",
     "player2": "Hannah Cain",
     "player1_team": "Everton LFC",
@@ -25056,7 +25056,7 @@
     "timestamp": "00:41:01.804"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chloe Kelly",
     "player2": "Abbey-Leigh Stringer",
     "player1_team": "Everton LFC",
@@ -25960,7 +25960,7 @@
     "timestamp": "00:43:41.769"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Katie Zelem",
     "player2": "Leah Galton",
     "player1_team": "Manchester United",
@@ -26344,7 +26344,7 @@
     "timestamp": "00:45:20.265"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danielle Turner",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -27136,7 +27136,7 @@
     "timestamp": "00:47:57.043"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Amy Turner",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -27424,7 +27424,7 @@
     "timestamp": "00:48:42.453"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Smith",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",

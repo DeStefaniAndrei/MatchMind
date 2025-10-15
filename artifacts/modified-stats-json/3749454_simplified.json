@@ -376,7 +376,7 @@
     "timestamp": "00:00:32.038"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -536,7 +536,7 @@
     "timestamp": "00:01:09.654"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Nicolas Anelka",
     "player1_team": "Manchester City",
@@ -592,7 +592,7 @@
     "timestamp": "00:01:26.630"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Sylvain Distin",
     "player1_team": "Manchester City",
@@ -712,7 +712,7 @@
     "timestamp": "00:01:41.688"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gilberto Aparecido da Silva",
     "player2": "Ashley Cole",
     "player1_team": "Arsenal",
@@ -848,7 +848,7 @@
     "timestamp": "00:02:11.727"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Michael Tarnat",
     "player2": "",
     "player1_team": "Manchester City",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:03:19.440"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Paul Bosvelt",
     "player1_team": "Manchester City",
@@ -1424,7 +1424,7 @@
     "timestamp": "00:03:52.475"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Seaman",
     "player2": "",
     "player1_team": "Manchester City",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:05:24.140"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:05:51.164"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:07:07.495"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Michael Tarnat",
     "player2": "Sylvain Distin",
     "player1_team": "Manchester City",
@@ -2992,7 +2992,7 @@
     "timestamp": "00:09:03.161"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Cole",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:09:17.800"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Joey Barton",
     "player1_team": "Manchester City",
@@ -3512,7 +3512,7 @@
     "timestamp": "00:11:50.775"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Sylvain Wiltord",
     "player1_team": "Arsenal",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:12:12.559"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Keown",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -4176,7 +4176,7 @@
     "timestamp": "00:13:27.878"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Seaman",
     "player2": "",
     "player1_team": "Manchester City",
@@ -4320,7 +4320,7 @@
     "timestamp": "00:14:11.221"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Sylvain Distin",
     "player1_team": "Manchester City",
@@ -4472,7 +4472,7 @@
     "timestamp": "00:14:44.068"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Cole",
     "player2": "Kolo Habib Touré",
     "player1_team": "Arsenal",
@@ -4584,7 +4584,7 @@
     "timestamp": "00:15:20.732"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Antoine Sibierski",
     "player1_team": "Manchester City",
@@ -4632,7 +4632,7 @@
     "timestamp": "00:15:37.782"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Nicolas Anelka",
     "player1_team": "Manchester City",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:16:58.376"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Laureano Bisan-Etame Mayer",
     "player1_team": "Arsenal",
@@ -5096,7 +5096,7 @@
     "timestamp": "00:17:19.668"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -5160,7 +5160,7 @@
     "timestamp": "00:18:21.239"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:18:43.902"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -5496,7 +5496,7 @@
     "timestamp": "00:19:47.092"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Antoine Sibierski",
     "player1_team": "Manchester City",
@@ -5976,7 +5976,7 @@
     "timestamp": "00:21:03.498"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick Vieira",
     "player2": "Sylvain Wiltord",
     "player1_team": "Arsenal",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:21:46.076"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Seaman",
     "player2": "Antoine Sibierski",
     "player1_team": "Manchester City",
@@ -6240,7 +6240,7 @@
     "timestamp": "00:22:24.575"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Keown",
     "player2": "Kolo Habib Touré",
     "player1_team": "Arsenal",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:23:07.235"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Michael Tarnat",
     "player2": "",
     "player1_team": "Manchester City",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:23:51.221"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "David Sommeil",
     "player1_team": "Manchester City",
@@ -6792,7 +6792,7 @@
     "timestamp": "00:24:52.117"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:25:31.903"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Seaman",
     "player2": "Antoine Sibierski",
     "player1_team": "Manchester City",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:26:55.523"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Shaun Wright-Phillips",
     "player1_team": "Manchester City",
@@ -7392,7 +7392,7 @@
     "timestamp": "00:27:14.778"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Paul Bosvelt",
     "player1_team": "Manchester City",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:27:57.630"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -8288,7 +8288,7 @@
     "timestamp": "00:29:32.036"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Pirès",
     "player2": "Ashley Cole",
     "player1_team": "Arsenal",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:30:09.774"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -8840,7 +8840,7 @@
     "timestamp": "00:31:26.278"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -8928,7 +8928,7 @@
     "timestamp": "00:31:43.108"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick Vieira",
     "player2": "Laureano Bisan-Etame Mayer",
     "player1_team": "Arsenal",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:32:40.571"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Shaun Wright-Phillips",
     "player1_team": "Manchester City",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:34:44.013"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David Seaman",
     "player2": "Nicolas Anelka",
     "player1_team": "Manchester City",
@@ -10288,7 +10288,7 @@
     "timestamp": "00:36:33.836"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Shaun Wright-Phillips",
     "player1_team": "Manchester City",
@@ -10408,7 +10408,7 @@
     "timestamp": "00:37:00.393"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Keown",
     "player2": "Kolo Habib Touré",
     "player1_team": "Arsenal",
@@ -10616,7 +10616,7 @@
     "timestamp": "00:37:32.419"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Michael Tarnat",
     "player2": "Paul Bosvelt",
     "player1_team": "Manchester City",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:39:44.071"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "Sylvain Wiltord",
     "player1_team": "Arsenal",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:41:21.602"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -12544,7 +12544,7 @@
     "timestamp": "00:43:43.784"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Trevor Sinclair",
     "player1_team": "Manchester City",
@@ -12832,7 +12832,7 @@
     "timestamp": "00:44:39.404"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Joey Barton",
     "player1_team": "Manchester City",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:45:46.847"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Antoine Sibierski",
     "player1_team": "Manchester City",
@@ -13928,7 +13928,7 @@
     "timestamp": "00:00:45.096"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "",
     "player1_team": "Manchester City",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:01:41.829"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -14504,7 +14504,7 @@
     "timestamp": "00:02:12.916"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Pirès",
     "player2": "Ashley Cole",
     "player1_team": "Arsenal",
@@ -14904,7 +14904,7 @@
     "timestamp": "00:03:49.910"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -14936,7 +14936,7 @@
     "timestamp": "00:04:24.267"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David Seaman",
     "player2": "Antoine Sibierski",
     "player1_team": "Manchester City",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:06:30.792"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Cole",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:06:49.035"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Ashley Cole",
     "player1_team": "Arsenal",
@@ -15888,7 +15888,7 @@
     "timestamp": "00:07:59.379"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Martin Keown",
     "player1_team": "Arsenal",
@@ -16152,7 +16152,7 @@
     "timestamp": "00:08:52.478"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Sommeil",
     "player2": "",
     "player1_team": "Manchester City",
@@ -16264,7 +16264,7 @@
     "timestamp": "00:09:56.319"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Ashley Cole",
     "player1_team": "Arsenal",
@@ -16440,7 +16440,7 @@
     "timestamp": "00:10:44.507"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Fredrik Ljungberg",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:11:01.276"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Trevor Sinclair",
     "player1_team": "Manchester City",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:13:03.818"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -17240,7 +17240,7 @@
     "timestamp": "00:13:29.928"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Michael Tarnat",
     "player2": "Shaun Wright-Phillips",
     "player1_team": "Manchester City",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:14:34.213"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Michael Tarnat",
     "player2": "Antoine Sibierski",
     "player1_team": "Manchester City",
@@ -17536,7 +17536,7 @@
     "timestamp": "00:15:02.549"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Michael Tarnat",
     "player2": "",
     "player1_team": "Manchester City",
@@ -17672,7 +17672,7 @@
     "timestamp": "00:15:57.092"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -17936,7 +17936,7 @@
     "timestamp": "00:16:34.842"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Fredrik Ljungberg",
     "player2": "Sylvain Wiltord",
     "player1_team": "Arsenal",
@@ -18112,7 +18112,7 @@
     "timestamp": "00:17:04.068"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Sylvain Wiltord",
     "player1_team": "Arsenal",
@@ -19248,7 +19248,7 @@
     "timestamp": "00:19:56.939"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Paul Bosvelt",
     "player1_team": "Manchester City",
@@ -20256,7 +20256,7 @@
     "timestamp": "00:23:32.320"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Cole",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -21016,7 +21016,7 @@
     "timestamp": "00:25:28.304"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jihai Sun",
     "player2": "",
     "player1_team": "Manchester City",
@@ -21536,7 +21536,7 @@
     "timestamp": "00:27:48.700"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "",
     "player1_team": "Manchester City",
@@ -21672,7 +21672,7 @@
     "timestamp": "00:28:08.547"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Nicolas Anelka",
     "player1_team": "Manchester City",
@@ -21800,7 +21800,7 @@
     "timestamp": "00:29:01.941"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Keown",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -21888,7 +21888,7 @@
     "timestamp": "00:29:18.983"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -22160,7 +22160,7 @@
     "timestamp": "00:30:57.580"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Keown",
     "player2": "Ray Parlour",
     "player1_team": "Arsenal",
@@ -22416,7 +22416,7 @@
     "timestamp": "00:31:49.083"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Shaun Wright-Phillips",
     "player1_team": "Manchester City",
@@ -22664,7 +22664,7 @@
     "timestamp": "00:32:25.628"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Joey Barton",
     "player2": "",
     "player1_team": "Manchester City",
@@ -22904,7 +22904,7 @@
     "timestamp": "00:34:09.987"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick Vieira",
     "player2": "Robert Pirès",
     "player1_team": "Arsenal",
@@ -23216,7 +23216,7 @@
     "timestamp": "00:35:02.549"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -23400,7 +23400,7 @@
     "timestamp": "00:35:57.867"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Eyal Berkovic",
     "player2": "Nicolas Anelka",
     "player1_team": "Manchester City",
@@ -23696,7 +23696,7 @@
     "timestamp": "00:37:03.276"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "David Sommeil",
     "player1_team": "Manchester City",
@@ -23784,7 +23784,7 @@
     "timestamp": "00:37:18.740"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "Eyal Berkovic",
     "player1_team": "Manchester City",
@@ -23848,7 +23848,7 @@
     "timestamp": "00:38:18.972"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -24040,7 +24040,7 @@
     "timestamp": "00:38:45.023"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduardo César Daude Gaspar",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -24120,7 +24120,7 @@
     "timestamp": "00:39:12.975"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Sylvain Distin",
     "player1_team": "Manchester City",
@@ -24240,7 +24240,7 @@
     "timestamp": "00:39:33.225"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michael Tarnat",
     "player2": "Sylvain Distin",
     "player1_team": "Manchester City",
@@ -24368,7 +24368,7 @@
     "timestamp": "00:40:02.014"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Cole",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -24624,7 +24624,7 @@
     "timestamp": "00:40:44.943"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Joey Barton",
     "player2": "",
     "player1_team": "Manchester City",
@@ -25336,7 +25336,7 @@
     "timestamp": "00:42:46.078"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -25352,7 +25352,7 @@
     "timestamp": "00:43:31.441"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "David Sommeil",
     "player1_team": "Manchester City",
@@ -25520,7 +25520,7 @@
     "timestamp": "00:44:10.415"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -25544,7 +25544,7 @@
     "timestamp": "00:44:36.184"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jihai Sun",
     "player2": "David Sommeil",
     "player1_team": "Manchester City",
@@ -25824,7 +25824,7 @@
     "timestamp": "00:45:38.975"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David Seaman",
     "player2": "David Sommeil",
     "player1_team": "Manchester City",
@@ -25896,7 +25896,7 @@
     "timestamp": "00:45:55.716"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Trevor Sinclair",
     "player2": "Eyal Berkovic",
     "player1_team": "Manchester City",
@@ -26112,7 +26112,7 @@
     "timestamp": "00:46:38.811"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sylvain Distin",
     "player2": "Joey Barton",
     "player1_team": "Manchester City",
@@ -26568,7 +26568,7 @@
     "timestamp": "00:47:59.274"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Michael Tarnat",
     "player2": "Robbie Fowler",
     "player1_team": "Manchester City",

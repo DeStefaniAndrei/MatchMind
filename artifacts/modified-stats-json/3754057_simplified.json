@@ -40,7 +40,7 @@
     "timestamp": "00:00:06.551"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eric Dier",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -384,7 +384,7 @@
     "timestamp": "00:01:07.810"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -632,7 +632,7 @@
     "timestamp": "00:01:53.628"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Declan Rudd",
     "player2": "",
     "player1_team": "Norwich City",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:24.985"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -712,7 +712,7 @@
     "timestamp": "00:02:47.597"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -808,7 +808,7 @@
     "timestamp": "00:03:18.079"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -848,7 +848,7 @@
     "timestamp": "00:03:37.015"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Cameron Jerome",
     "player2": "",
     "player1_team": "Norwich City",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:04:15.951"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:05:50.139"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:06:53.307"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:07:10.279"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:07:54.762"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -2000,7 +2000,7 @@
     "timestamp": "00:08:25.626"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:10:08.302"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -2800,7 +2800,7 @@
     "timestamp": "00:10:34.555"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Lamela",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -2960,7 +2960,7 @@
     "timestamp": "00:11:06.987"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -3080,7 +3080,7 @@
     "timestamp": "00:11:45.396"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -3352,7 +3352,7 @@
     "timestamp": "00:12:29.368"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:12:56.496"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -3576,7 +3576,7 @@
     "timestamp": "00:13:12.741"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:13:40.672"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -4024,7 +4024,7 @@
     "timestamp": "00:14:54.676"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:15:20.578"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:16:39.600"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jan Vertonghen",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -4312,7 +4312,7 @@
     "timestamp": "00:17:06.251"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -4880,7 +4880,7 @@
     "timestamp": "00:18:23.144"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "",
     "player1_team": "Norwich City",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:18:47.663"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Russell Martin",
     "player2": "",
     "player1_team": "Norwich City",
@@ -5016,7 +5016,7 @@
     "timestamp": "00:19:03.546"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -5072,7 +5072,7 @@
     "timestamp": "00:19:22.244"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -5328,7 +5328,7 @@
     "timestamp": "00:20:28.168"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:21:00.664"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -5824,7 +5824,7 @@
     "timestamp": "00:23:04.424"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -5928,7 +5928,7 @@
     "timestamp": "00:23:15.587"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:26:41.454"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:26:49.370"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:27:05.822"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -6656,7 +6656,7 @@
     "timestamp": "00:27:22.473"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -7000,7 +7000,7 @@
     "timestamp": "00:28:06.913"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jan Vertonghen",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:28:34.714"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:28:48.555"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -7552,7 +7552,7 @@
     "timestamp": "00:30:12.123"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:30:41.378"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ben Davies",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:31:18.906"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -7792,7 +7792,7 @@
     "timestamp": "00:31:43.292"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:32:07.771"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:32:32.591"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mousa Sidi Yaya Dembélé",
     "player2": "Ben Davies",
     "player1_team": "Tottenham Hotspur",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:32:51.951"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -8328,7 +8328,7 @@
     "timestamp": "00:33:46.337"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ben Davies",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -8384,7 +8384,7 @@
     "timestamp": "00:34:15.376"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ben Davies",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -8400,7 +8400,7 @@
     "timestamp": "00:34:41.964"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -8648,7 +8648,7 @@
     "timestamp": "00:35:51.019"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:36:54.554"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:37:26.053"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -10112,7 +10112,7 @@
     "timestamp": "00:39:33.412"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Youssouf Chafiq Mulumbu Ngangu",
     "player2": "Russell Martin",
     "player1_team": "Norwich City",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:40:03.981"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bennett",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -11328,7 +11328,7 @@
     "timestamp": "00:43:37.887"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mousa Sidi Yaya Dembélé",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -11536,7 +11536,7 @@
     "timestamp": "00:44:29.625"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -11976,7 +11976,7 @@
     "timestamp": "00:45:41.126"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ben Davies",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -12536,7 +12536,7 @@
     "timestamp": "00:01:46.649"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mousa Sidi Yaya Dembélé",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -12824,7 +12824,7 @@
     "timestamp": "00:02:20.830"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -13000,7 +13000,7 @@
     "timestamp": "00:02:49.834"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -13056,7 +13056,7 @@
     "timestamp": "00:02:56.934"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -13328,7 +13328,7 @@
     "timestamp": "00:03:38.794"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:03:59.162"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -13400,7 +13400,7 @@
     "timestamp": "00:04:18.752"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:05:01.717"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -14744,7 +14744,7 @@
     "timestamp": "00:07:53.349"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:08:27.456"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:09:24.955"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:10:30.892"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Ben Davies",
     "player1_team": "Tottenham Hotspur",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:12:48.427"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:13:05.721"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -16392,7 +16392,7 @@
     "timestamp": "00:14:03.581"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:14:32.268"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Russell Martin",
     "player2": "",
     "player1_team": "Norwich City",
@@ -16704,7 +16704,7 @@
     "timestamp": "00:15:12.170"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:15:50.492"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -17328,7 +17328,7 @@
     "timestamp": "00:17:02.498"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Erik Lamela",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -17520,7 +17520,7 @@
     "timestamp": "00:17:29.251"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -17536,7 +17536,7 @@
     "timestamp": "00:18:02.076"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:18:33.938"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:18:55.472"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -18944,7 +18944,7 @@
     "timestamp": "00:22:05.844"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -19520,7 +19520,7 @@
     "timestamp": "00:23:52.060"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Youssouf Chafiq Mulumbu Ngangu",
     "player1_team": "Norwich City",
@@ -20008,7 +20008,7 @@
     "timestamp": "00:25:00.863"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -20056,7 +20056,7 @@
     "timestamp": "00:25:26.614"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:28:03.017"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Russell Martin",
     "player1_team": "Norwich City",
@@ -20952,7 +20952,7 @@
     "timestamp": "00:29:14.082"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -21000,7 +21000,7 @@
     "timestamp": "00:29:46.118"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:30:32.097"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:31:10.685"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -21592,7 +21592,7 @@
     "timestamp": "00:31:23.762"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jan Vertonghen",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -21792,7 +21792,7 @@
     "timestamp": "00:33:12.601"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Declan Rudd",
     "player1_team": "Norwich City",
@@ -22640,7 +22640,7 @@
     "timestamp": "00:35:40.528"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Declan Rudd",
     "player1_team": "Norwich City",
@@ -22856,7 +22856,7 @@
     "timestamp": "00:37:27.996"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -23256,7 +23256,7 @@
     "timestamp": "00:38:06.406"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -23752,7 +23752,7 @@
     "timestamp": "00:40:08.510"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -24216,7 +24216,7 @@
     "timestamp": "00:41:17.582"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -24408,7 +24408,7 @@
     "timestamp": "00:41:46.609"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bennett",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -24552,7 +24552,7 @@
     "timestamp": "00:42:49.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Alexander Banor Tettey",
     "player1_team": "Norwich City",
@@ -24896,7 +24896,7 @@
     "timestamp": "00:43:36.366"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sébastien Aymar Bassong Nguena",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -26192,7 +26192,7 @@
     "timestamp": "00:46:32.834"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",

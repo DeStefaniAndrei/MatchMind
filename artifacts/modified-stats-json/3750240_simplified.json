@@ -32,7 +32,7 @@
     "timestamp": "00:02:00.663"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Angelo Di Livio",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -600,7 +600,7 @@
     "timestamp": "00:03:31.216"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Tomáš Řepka",
     "player2": "Alessandro Pierini",
     "player1_team": "Fiorentina",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:05:36.027"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:09:01.825"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Moreno Torricelli",
     "player2": "Sandro Cois",
     "player1_team": "Fiorentina",
@@ -2848,7 +2848,7 @@
     "timestamp": "00:09:39.634"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Bosnich",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -3448,7 +3448,7 @@
     "timestamp": "00:11:42.430"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:12:25.149"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "David Beckham",
     "player1_team": "Manchester United",
@@ -3968,7 +3968,7 @@
     "timestamp": "00:13:21.445"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Sandro Cois",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -5064,7 +5064,7 @@
     "timestamp": "00:16:28.572"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "David Beckham",
     "player1_team": "Manchester United",
@@ -5184,7 +5184,7 @@
     "timestamp": "00:16:46.447"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesco Toldo",
     "player2": "Abel Eduardo Balbo",
     "player1_team": "Fiorentina",
@@ -5456,7 +5456,7 @@
     "timestamp": "00:17:48.811"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alessandro Pierini",
     "player2": "Aldo Firicano",
     "player1_team": "Fiorentina",
@@ -5624,7 +5624,7 @@
     "timestamp": "00:18:12.727"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alessandro Pierini",
     "player2": "Aldo Firicano",
     "player1_team": "Fiorentina",
@@ -5648,7 +5648,7 @@
     "timestamp": "00:18:22.886"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Paul Scholes",
     "player2": "Dwight Yorke",
     "player1_team": "Manchester United",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:18:45.421"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -6136,7 +6136,7 @@
     "timestamp": "00:19:31.820"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Tomáš Řepka",
     "player2": "Gabriel Omar Batistuta",
     "player1_team": "Fiorentina",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:20:43.772"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Aldo Firicano",
     "player2": "Alessandro Pierini",
     "player1_team": "Fiorentina",
@@ -6608,7 +6608,7 @@
     "timestamp": "00:21:29.860"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David Beckham",
     "player2": "Denis Irwin",
     "player1_team": "Manchester United",
@@ -7040,7 +7040,7 @@
     "timestamp": "00:22:34.589"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Moreno Torricelli",
     "player2": "Sandro Cois",
     "player1_team": "Fiorentina",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:26:49.474"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:27:44.777"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesco Toldo",
     "player2": "Gabriel Omar Batistuta",
     "player1_team": "Fiorentina",
@@ -9744,7 +9744,7 @@
     "timestamp": "00:31:11.560"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Rui Manuel César Costa",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -10976,7 +10976,7 @@
     "timestamp": "00:34:32.582"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jörg Heinrich",
     "player2": "Angelo Di Livio",
     "player1_team": "Fiorentina",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:35:26.128"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Dwight Yorke",
     "player1_team": "Manchester United",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:36:41.116"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Aldo Firicano",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:37:40.517"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Giggs",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -11936,7 +11936,7 @@
     "timestamp": "00:38:17.083"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Beckham",
     "player2": "",
     "player1_team": "Manchester United",
@@ -12104,7 +12104,7 @@
     "timestamp": "00:38:54.891"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Sandro Cois",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -12568,7 +12568,7 @@
     "timestamp": "00:40:53.304"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Beckham",
     "player2": "",
     "player1_team": "Manchester United",
@@ -12592,7 +12592,7 @@
     "timestamp": "00:41:47.876"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "David Beckham",
     "player2": "",
     "player1_team": "Manchester United",
@@ -12608,7 +12608,7 @@
     "timestamp": "00:42:11.190"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Jaap Stam",
     "player1_team": "Manchester United",
@@ -12952,7 +12952,7 @@
     "timestamp": "00:43:06.910"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Abel Eduardo Balbo",
     "player2": "Rui Manuel César Costa",
     "player1_team": "Fiorentina",
@@ -13088,7 +13088,7 @@
     "timestamp": "00:43:22.142"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Moreno Torricelli",
     "player2": "Angelo Di Livio",
     "player1_team": "Fiorentina",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:00:01.894"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Moreno Torricelli",
     "player2": "Angelo Di Livio",
     "player1_team": "Fiorentina",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:02:38.141"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "David Beckham",
     "player1_team": "Manchester United",
@@ -15696,7 +15696,7 @@
     "timestamp": "00:04:53.827"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Angelo Di Livio",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:07:29.352"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Jaap Stam",
     "player1_team": "Manchester United",
@@ -16936,7 +16936,7 @@
     "timestamp": "00:09:36.578"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Moreno Torricelli",
     "player2": "Sandro Cois",
     "player1_team": "Fiorentina",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:09:52.519"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Bosnich",
     "player2": "David Beckham",
     "player1_team": "Manchester United",
@@ -16992,7 +16992,7 @@
     "timestamp": "00:10:08.891"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jörg Heinrich",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -17584,7 +17584,7 @@
     "timestamp": "00:11:40.201"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Henning Berg",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -18288,7 +18288,7 @@
     "timestamp": "00:14:04.927"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesco Toldo",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:15:56.281"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sandro Cois",
     "player2": "Moreno Torricelli",
     "player1_team": "Fiorentina",
@@ -18536,7 +18536,7 @@
     "timestamp": "00:17:47.724"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Alessandro Pierini",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -18656,7 +18656,7 @@
     "timestamp": "00:18:18.348"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -19176,7 +19176,7 @@
     "timestamp": "00:19:30.861"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -19592,7 +19592,7 @@
     "timestamp": "00:21:17.353"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Bosnich",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -19664,7 +19664,7 @@
     "timestamp": "00:21:41.514"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Teddy Sheringham",
     "player1_team": "Manchester United",
@@ -19712,7 +19712,7 @@
     "timestamp": "00:22:07.020"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Beckham",
     "player2": "",
     "player1_team": "Manchester United",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:22:34.457"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paul Scholes",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:23:44.611"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Aldo Firicano",
     "player2": "Jörg Heinrich",
     "player1_team": "Fiorentina",
@@ -20672,7 +20672,7 @@
     "timestamp": "00:24:44.596"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "David Beckham",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -21216,7 +21216,7 @@
     "timestamp": "00:26:21.387"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Rui Manuel César Costa",
     "player2": "",
     "player1_team": "Fiorentina",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:26:48.436"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -22304,7 +22304,7 @@
     "timestamp": "00:29:40.869"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Teddy Sheringham",
     "player2": "Denis Irwin",
     "player1_team": "Manchester United",
@@ -22776,7 +22776,7 @@
     "timestamp": "00:31:02.693"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "David Beckham",
     "player2": "Phil Neville",
     "player1_team": "Manchester United",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:31:12.091"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Beckham",
     "player2": "",
     "player1_team": "Manchester United",
@@ -22960,7 +22960,7 @@
     "timestamp": "00:31:40.551"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Beckham",
     "player2": "",
     "player1_team": "Manchester United",
@@ -22976,7 +22976,7 @@
     "timestamp": "00:32:41.921"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "David Beckham",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -23040,7 +23040,7 @@
     "timestamp": "00:33:19.035"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mauro Bressan",
     "player2": "Jörg Heinrich",
     "player1_team": "Fiorentina",
@@ -23288,7 +23288,7 @@
     "timestamp": "00:34:49.118"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ryan Giggs",
     "player2": "",
     "player1_team": "Manchester United",
@@ -23328,7 +23328,7 @@
     "timestamp": "00:35:39.627"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jörg Heinrich",
     "player2": "Fabio Rossitto",
     "player1_team": "Fiorentina",
@@ -23344,7 +23344,7 @@
     "timestamp": "00:36:04.605"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Bosnich",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -23688,7 +23688,7 @@
     "timestamp": "00:36:49.280"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Beckham",
     "player2": "Ole Gunnar Solskjær",
     "player1_team": "Manchester United",
@@ -23952,7 +23952,7 @@
     "timestamp": "00:38:11.933"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesco Toldo",
     "player2": "Gabriel Omar Batistuta",
     "player1_team": "Fiorentina",
@@ -24112,7 +24112,7 @@
     "timestamp": "00:38:44.953"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -24496,7 +24496,7 @@
     "timestamp": "00:39:58.130"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "David Beckham",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -24952,7 +24952,7 @@
     "timestamp": "00:41:13.350"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Phil Neville",
     "player2": "David Beckham",
     "player1_team": "Manchester United",
@@ -25200,7 +25200,7 @@
     "timestamp": "00:41:56.997"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Moreno Torricelli",
     "player2": "Fabio Rossitto",
     "player1_team": "Fiorentina",
@@ -25504,7 +25504,7 @@
     "timestamp": "00:42:35.683"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Moreno Torricelli",
     "player2": "Fabio Rossitto",
     "player1_team": "Fiorentina",
@@ -25528,7 +25528,7 @@
     "timestamp": "00:42:51.138"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -26360,7 +26360,7 @@
     "timestamp": "00:45:04.111"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Roy Keane",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -26520,7 +26520,7 @@
     "timestamp": "00:45:48.739"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Beckham",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -26656,7 +26656,7 @@
     "timestamp": "00:46:14.702"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesco Toldo",
     "player2": "Gabriel Omar Batistuta",
     "player1_team": "Fiorentina",
@@ -26728,7 +26728,7 @@
     "timestamp": "00:47:06.976"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Denis Irwin",
     "player2": "Jaap Stam",
     "player1_team": "Manchester United",

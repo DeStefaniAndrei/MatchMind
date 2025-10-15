@@ -84,10 +84,15 @@ function simplifyEvent(event, eventsData, eventsById) {
     const skipTypes = new Set(['Starting XI', 'Half Start', 'Half End', 'Injury Stoppage', 'Referee Ball-Drop']);
     if (skipTypes.has(eventType)) return null;
 
-    // normalize event type for Pass and Shot, leave others as-is
+    // normalize event type for Pass and Shot, and extract set-pieces
     function normalizeEventType(et, ev) {
       try {
         if (et === 'Pass') {
+          const sp = ev?.pass?.type?.name || ''
+          // Explicit set-piece mapping
+          if (sp === 'Corner') return 'corner'
+          if (sp === 'Free Kick') return 'free_kick'
+          if (sp === 'Throw-in' || sp === 'Throw-In' || sp === 'Throw In') return 'throw_in'
           const hasFailureOutcome = !!(ev?.pass?.outcome?.name);
           return hasFailureOutcome ? 'pass_failure' : 'pass_success';
         }
@@ -182,9 +187,9 @@ function main() {
     if (result.outFile) {
       written += 1;
       totalEvents += result.total;
-      console.log(`✔ Wrote ${result.total.toString().padStart(4, ' ')} events → ${result.outFile}`);
+      console.log(`Wrote ${result.total.toString().padStart(4, ' ')} events → ${result.outFile}`);
     } else {
-      console.log(`⚠ Skipped (no events) → ${f}`);
+      console.log(`Skipped (no events) → ${f}`);
     }
   }
 

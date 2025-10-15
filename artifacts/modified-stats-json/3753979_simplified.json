@@ -80,7 +80,7 @@
     "timestamp": "00:00:04.582"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -272,7 +272,7 @@
     "timestamp": "00:00:47.559"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -304,7 +304,7 @@
     "timestamp": "00:01:21.243"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -672,7 +672,7 @@
     "timestamp": "00:02:44.838"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jason Puncheon",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -760,7 +760,7 @@
     "timestamp": "00:03:31.565"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jason Puncheon",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -848,7 +848,7 @@
     "timestamp": "00:04:08.674"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -1304,7 +1304,7 @@
     "timestamp": "00:04:54.815"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jason Puncheon",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -1360,7 +1360,7 @@
     "timestamp": "00:05:58.158"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -1792,7 +1792,7 @@
     "timestamp": "00:06:51.824"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wilfried Zaha",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -2400,7 +2400,7 @@
     "timestamp": "00:07:57.517"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "James McArthur",
     "player1_team": "Crystal Palace",
@@ -2536,7 +2536,7 @@
     "timestamp": "00:08:14.292"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sebastián Coates Nión",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -2736,7 +2736,7 @@
     "timestamp": "00:09:17.825"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:10:25.323"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:12:28.064"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John O''Shea",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -4552,7 +4552,7 @@
     "timestamp": "00:15:00.338"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -4800,7 +4800,7 @@
     "timestamp": "00:17:33.479"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -5304,7 +5304,7 @@
     "timestamp": "00:18:59.123"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:19:25.444"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Sebastián Coates Nión",
     "player1_team": "Sunderland",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:20:16.306"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -5880,7 +5880,7 @@
     "timestamp": "00:20:37.388"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -5952,7 +5952,7 @@
     "timestamp": "00:21:00.484"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sebastian Larsson",
     "player2": "John O''Shea",
     "player1_team": "Sunderland",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:22:07.222"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:22:35.319"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6320,7 +6320,7 @@
     "timestamp": "00:22:59.211"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sebastian Larsson",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:24:27.790"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -7744,7 +7744,7 @@
     "timestamp": "00:27:11.456"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:27:44.596"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:28:07.696"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -8288,7 +8288,7 @@
     "timestamp": "00:29:11.629"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -8608,7 +8608,7 @@
     "timestamp": "00:30:19.527"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:30:40.366"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -9304,7 +9304,7 @@
     "timestamp": "00:32:04.417"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:32:40.342"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:33:07.524"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -9536,7 +9536,7 @@
     "timestamp": "00:33:24.787"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wilfried Zaha",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -9992,7 +9992,7 @@
     "timestamp": "00:34:35.802"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -10768,7 +10768,7 @@
     "timestamp": "00:36:54.826"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -10840,7 +10840,7 @@
     "timestamp": "00:37:27.957"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:38:19.220"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John O''Shea",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:39:26.649"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John O''Shea",
     "player2": "Sebastián Coates Nión",
     "player1_team": "Sunderland",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:40:24.493"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -11656,7 +11656,7 @@
     "timestamp": "00:41:08.065"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sebastián Coates Nión",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -11728,7 +11728,7 @@
     "timestamp": "00:41:57.129"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -12008,7 +12008,7 @@
     "timestamp": "00:43:31.662"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -12080,7 +12080,7 @@
     "timestamp": "00:44:00.557"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:45:44.240"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Sebastian Larsson",
     "player2": "John O''Shea",
     "player1_team": "Sunderland",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:46:44.162"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -13280,7 +13280,7 @@
     "timestamp": "00:00:12.384"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -13768,7 +13768,7 @@
     "timestamp": "00:02:46.033"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "Joel Ward",
     "player1_team": "Crystal Palace",
@@ -13976,7 +13976,7 @@
     "timestamp": "00:03:26.243"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Sebastian Larsson",
     "player1_team": "Sunderland",
@@ -14112,7 +14112,7 @@
     "timestamp": "00:03:53.934"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Sebastian Larsson",
     "player2": "Sebastián Coates Nión",
     "player1_team": "Sunderland",
@@ -14152,7 +14152,7 @@
     "timestamp": "00:04:31.630"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -14288,7 +14288,7 @@
     "timestamp": "00:05:11.494"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Scott Dann",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -14656,7 +14656,7 @@
     "timestamp": "00:06:19.801"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:07:25.136"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bakary Sako",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -15264,7 +15264,7 @@
     "timestamp": "00:08:36.064"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "",
     "player1_team": "Sunderland",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:09:18.969"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -15528,7 +15528,7 @@
     "timestamp": "00:09:57.998"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -15608,7 +15608,7 @@
     "timestamp": "00:10:18.120"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:11:20.355"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:12:27.426"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Damien Delaney",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:15:01.855"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Yann Gérard M''Vila",
     "player2": "Sebastián Coates Nión",
     "player1_team": "Sunderland",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:16:11.947"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:18:04.365"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:19:49.969"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -18200,7 +18200,7 @@
     "timestamp": "00:21:51.411"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bakary Sako",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:23:19.658"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -18288,7 +18288,7 @@
     "timestamp": "00:23:50.473"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:24:13.054"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -18480,7 +18480,7 @@
     "timestamp": "00:24:56.161"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:26:26.796"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "James McArthur",
     "player1_team": "Crystal Palace",
@@ -19336,7 +19336,7 @@
     "timestamp": "00:27:42.068"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:29:20.610"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:32:06.209"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -21104,7 +21104,7 @@
     "timestamp": "00:33:21.173"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -21320,7 +21320,7 @@
     "timestamp": "00:34:02.445"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "James McArthur",
     "player1_team": "Crystal Palace",
@@ -21744,7 +21744,7 @@
     "timestamp": "00:36:09.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -22288,7 +22288,7 @@
     "timestamp": "00:40:31.806"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Younes Kaboul",
     "player2": "Danny Graham",
     "player1_team": "Sunderland",
@@ -22520,7 +22520,7 @@
     "timestamp": "00:41:35.867"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -22600,7 +22600,7 @@
     "timestamp": "00:42:19.841"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -23216,7 +23216,7 @@
     "timestamp": "00:44:25.816"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Jeremain Lens",
     "player1_team": "Sunderland",
@@ -23280,7 +23280,7 @@
     "timestamp": "00:44:51.488"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Damien Delaney",
     "player2": "James McArthur",
     "player1_team": "Crystal Palace",
@@ -23320,7 +23320,7 @@
     "timestamp": "00:45:08.525"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -23392,7 +23392,7 @@
     "timestamp": "00:45:37.611"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Marouane Chamakh",
     "player1_team": "Crystal Palace",
@@ -23424,7 +23424,7 @@
     "timestamp": "00:45:56.096"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "Danny Graham",
     "player1_team": "Sunderland",
@@ -23584,7 +23584,7 @@
     "timestamp": "00:46:44.054"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jeremain Lens",
     "player2": "Danny Graham",
     "player1_team": "Sunderland",
@@ -24080,7 +24080,7 @@
     "timestamp": "00:47:57.355"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Graham",
     "player2": "Jeremain Lens",
     "player1_team": "Sunderland",
@@ -24128,7 +24128,7 @@
     "timestamp": "00:48:39.374"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Graham",
     "player2": "Jeremain Lens",
     "player1_team": "Sunderland",
@@ -24240,7 +24240,7 @@
     "timestamp": "00:49:10.741"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",

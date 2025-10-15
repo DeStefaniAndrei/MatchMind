@@ -112,7 +112,7 @@
     "timestamp": "00:00:08.423"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Gylfi Þór Sigurðsson",
     "player1_team": "Swansea City",
@@ -528,7 +528,7 @@
     "timestamp": "00:01:07.964"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Modou Barrow",
     "player1_team": "Swansea City",
@@ -752,7 +752,7 @@
     "timestamp": "00:01:47.518"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Dan Gosling",
     "player1_team": "AFC Bournemouth",
@@ -1240,7 +1240,7 @@
     "timestamp": "00:03:11.864"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Łukasz Fabiański",
     "player2": "Àngel Rangel Zaragoza",
     "player1_team": "Swansea City",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:03:43.644"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -1496,7 +1496,7 @@
     "timestamp": "00:04:09.473"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gylfi Þór Sigurðsson",
     "player2": "",
     "player1_team": "Swansea City",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:05:24.152"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Alberto Paloschi",
     "player1_team": "Swansea City",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:06:29.855"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Alberto Paloschi",
     "player1_team": "Swansea City",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:07:11.019"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -3064,7 +3064,7 @@
     "timestamp": "00:09:02.110"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Charlie Daniels",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -3488,7 +3488,7 @@
     "timestamp": "00:10:39.510"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:11:03.621"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -4096,7 +4096,7 @@
     "timestamp": "00:12:19.765"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:13:27.062"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:14:30.413"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:15:02.040"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gylfi Þór Sigurðsson",
     "player2": "Federico Fernández",
     "player1_team": "Swansea City",
@@ -4632,7 +4632,7 @@
     "timestamp": "00:16:14.018"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Leroy Fer",
     "player1_team": "Swansea City",
@@ -4776,7 +4776,7 @@
     "timestamp": "00:16:41.247"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Gylfi Þór Sigurðsson",
     "player2": "",
     "player1_team": "Swansea City",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:17:19.994"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Gylfi Þór Sigurðsson",
     "player1_team": "Swansea City",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:18:12.102"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -5480,7 +5480,7 @@
     "timestamp": "00:19:14.616"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -5856,7 +5856,7 @@
     "timestamp": "00:20:31.277"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Alberto Paloschi",
     "player1_team": "Swansea City",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:21:54.030"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:22:49.838"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Wayne Routledge",
     "player1_team": "Swansea City",
@@ -7104,7 +7104,7 @@
     "timestamp": "00:23:32.515"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Wayne Routledge",
     "player1_team": "Swansea City",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:24:06.432"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Gylfi Þór Sigurðsson",
     "player1_team": "Swansea City",
@@ -7368,7 +7368,7 @@
     "timestamp": "00:24:28.309"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -7472,7 +7472,7 @@
     "timestamp": "00:25:14.416"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Max-Alain Gradel",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:26:34.267"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -8168,7 +8168,7 @@
     "timestamp": "00:28:34.868"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Max-Alain Gradel",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:29:27.767"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Charlie Daniels",
     "player2": "Adam Smith",
     "player1_team": "AFC Bournemouth",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:30:58.197"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Alberto Paloschi",
     "player1_team": "Swansea City",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:31:28.335"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Dan Gosling",
     "player1_team": "AFC Bournemouth",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:31:56.446"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -9016,7 +9016,7 @@
     "timestamp": "00:32:25.785"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jack Frank Porteous Cork",
     "player2": "",
     "player1_team": "Swansea City",
@@ -9024,7 +9024,7 @@
     "timestamp": "00:32:41.518"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Dan Gosling",
     "player1_team": "AFC Bournemouth",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:33:43.207"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gylfi Þór Sigurðsson",
     "player2": "Leroy Fer",
     "player1_team": "Swansea City",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:34:49.877"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:40:02.820"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Max-Alain Gradel",
     "player1_team": "AFC Bournemouth",
@@ -11520,7 +11520,7 @@
     "timestamp": "00:40:20.329"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Łukasz Fabiański",
     "player2": "Leroy Fer",
     "player1_team": "Swansea City",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:41:00.887"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -12056,7 +12056,7 @@
     "timestamp": "00:41:55.350"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Williams",
     "player2": "Àngel Rangel Zaragoza",
     "player1_team": "Swansea City",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:42:34.690"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Gylfi Þór Sigurðsson",
     "player2": "Àngel Rangel Zaragoza",
     "player1_team": "Swansea City",
@@ -12504,7 +12504,7 @@
     "timestamp": "00:43:39.315"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -13256,7 +13256,7 @@
     "timestamp": "00:44:56.614"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Jack Frank Porteous Cork",
     "player1_team": "Swansea City",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:45:24.686"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gylfi Þór Sigurðsson",
     "player2": "",
     "player1_team": "Swansea City",
@@ -14296,7 +14296,7 @@
     "timestamp": "00:03:02.242"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -14600,7 +14600,7 @@
     "timestamp": "00:03:43.271"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Wayne Routledge",
     "player1_team": "Swansea City",
@@ -14872,7 +14872,7 @@
     "timestamp": "00:05:24.944"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Gylfi Þór Sigurðsson",
     "player1_team": "Swansea City",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:06:14.764"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -15192,7 +15192,7 @@
     "timestamp": "00:06:31.663"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Alberto Paloschi",
     "player1_team": "Swansea City",
@@ -15648,7 +15648,7 @@
     "timestamp": "00:07:34.044"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Leroy Fer",
     "player1_team": "Swansea City",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:08:47.885"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Leroy Fer",
     "player2": "Àngel Rangel Zaragoza",
     "player1_team": "Swansea City",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:09:49.531"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Łukasz Fabiański",
     "player2": "Federico Fernández",
     "player1_team": "Swansea City",
@@ -16656,7 +16656,7 @@
     "timestamp": "00:10:18.701"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Gylfi Þór Sigurðsson",
     "player1_team": "Swansea City",
@@ -16864,7 +16864,7 @@
     "timestamp": "00:10:58.175"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -16992,7 +16992,7 @@
     "timestamp": "00:11:22.179"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Charlie Daniels",
     "player2": "Eunan O''Kane",
     "player1_team": "AFC Bournemouth",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:13:33.820"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -17704,7 +17704,7 @@
     "timestamp": "00:14:57.255"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -18000,7 +18000,7 @@
     "timestamp": "00:15:34.045"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Leroy Fer",
     "player1_team": "Swansea City",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:17:55.399"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Eunan O''Kane",
     "player1_team": "AFC Bournemouth",
@@ -19152,7 +19152,7 @@
     "timestamp": "00:18:52.087"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Gylfi Þór Sigurðsson",
     "player2": "Leroy Fer",
     "player1_team": "Swansea City",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:21:48.599"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Bafétimbi Gomis",
     "player1_team": "Swansea City",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:22:42.170"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -20384,7 +20384,7 @@
     "timestamp": "00:23:06.737"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Jack Frank Porteous Cork",
     "player1_team": "Swansea City",
@@ -20480,7 +20480,7 @@
     "timestamp": "00:23:27.490"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -20632,7 +20632,7 @@
     "timestamp": "00:23:48.888"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Bafétimbi Gomis",
     "player1_team": "Swansea City",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:25:02.263"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Federico Fernández",
     "player2": "",
     "player1_team": "Swansea City",
@@ -21200,7 +21200,7 @@
     "timestamp": "00:25:20.302"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Bafétimbi Gomis",
     "player1_team": "Swansea City",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:25:50.300"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Bafétimbi Gomis",
     "player1_team": "Swansea City",
@@ -22296,7 +22296,7 @@
     "timestamp": "00:28:02.942"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "",
     "player1_team": "Swansea City",
@@ -22368,7 +22368,7 @@
     "timestamp": "00:28:31.662"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Bafétimbi Gomis",
     "player1_team": "Swansea City",
@@ -22568,7 +22568,7 @@
     "timestamp": "00:28:56.202"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Ritchie",
     "player2": "Charlie Daniels",
     "player1_team": "AFC Bournemouth",
@@ -22976,7 +22976,7 @@
     "timestamp": "00:30:40.798"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Alberto Paloschi",
     "player1_team": "Swansea City",
@@ -23160,7 +23160,7 @@
     "timestamp": "00:31:31.566"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -23392,7 +23392,7 @@
     "timestamp": "00:32:09.406"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Marc Pugh",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -23800,7 +23800,7 @@
     "timestamp": "00:34:29.358"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -23848,7 +23848,7 @@
     "timestamp": "00:34:46.913"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Federico Fernández",
     "player1_team": "Swansea City",
@@ -24248,7 +24248,7 @@
     "timestamp": "00:35:40.778"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -24312,7 +24312,7 @@
     "timestamp": "00:36:30.327"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Lewis Grabban",
     "player1_team": "AFC Bournemouth",
@@ -24464,7 +24464,7 @@
     "timestamp": "00:36:50.810"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -25024,7 +25024,7 @@
     "timestamp": "00:37:57.991"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Marc Pugh",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -25104,7 +25104,7 @@
     "timestamp": "00:38:42.624"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -25376,7 +25376,7 @@
     "timestamp": "00:39:28.767"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Federico Fernández",
     "player2": "Ashley Williams",
     "player1_team": "Swansea City",
@@ -25672,7 +25672,7 @@
     "timestamp": "00:40:07.830"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Jack Frank Porteous Cork",
     "player1_team": "Swansea City",
@@ -26336,7 +26336,7 @@
     "timestamp": "00:41:20.863"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -26704,7 +26704,7 @@
     "timestamp": "00:42:53.898"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Williams",
     "player2": "Sung-Yeung Ki",
     "player1_team": "Swansea City",
@@ -26832,7 +26832,7 @@
     "timestamp": "00:43:13.022"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neil Taylor",
     "player2": "Bafétimbi Gomis",
     "player1_team": "Swansea City",
@@ -26984,7 +26984,7 @@
     "timestamp": "00:43:44.113"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Sung-Yeung Ki",
     "player1_team": "Swansea City",
@@ -27264,7 +27264,7 @@
     "timestamp": "00:44:12.223"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Jack Frank Porteous Cork",
     "player1_team": "Swansea City",
@@ -27432,7 +27432,7 @@
     "timestamp": "00:45:27.634"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Àngel Rangel Zaragoza",
     "player2": "Alberto Paloschi",
     "player1_team": "Swansea City",
@@ -27776,7 +27776,7 @@
     "timestamp": "00:46:19.361"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -28336,7 +28336,7 @@
     "timestamp": "00:48:07.374"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Lewis Grabban",
     "player1_team": "AFC Bournemouth",
@@ -28376,7 +28376,7 @@
     "timestamp": "00:48:37.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",

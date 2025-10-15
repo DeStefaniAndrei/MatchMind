@@ -120,7 +120,7 @@
     "timestamp": "00:00:26.611"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -592,7 +592,7 @@
     "timestamp": "00:01:33.250"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -648,7 +648,7 @@
     "timestamp": "00:01:50.916"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cecilie Redisch Kvamme",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -808,7 +808,7 @@
     "timestamp": "00:02:08.223"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Grace Fisk",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -832,7 +832,7 @@
     "timestamp": "00:02:20.563"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Grace Fisk",
     "player2": "Emily Louise van Egmond",
     "player1_team": "West Ham United LFC",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:03:18.814"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -1096,7 +1096,7 @@
     "timestamp": "00:03:24.758"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:04:12.806"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -1240,7 +1240,7 @@
     "timestamp": "00:05:24.499"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -1344,7 +1344,7 @@
     "timestamp": "00:06:11.272"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:06:36.389"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "Dagný Brynjarsdóttir",
     "player1_team": "West Ham United LFC",
@@ -1784,7 +1784,7 @@
     "timestamp": "00:09:11.016"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jodie Hutton",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:11:14.914"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Natalie Haigh",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -2864,7 +2864,7 @@
     "timestamp": "00:13:12.263"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -2888,7 +2888,7 @@
     "timestamp": "00:13:30.171"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -2936,7 +2936,7 @@
     "timestamp": "00:13:44.998"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Dagný Brynjarsdóttir",
     "player1_team": "West Ham United LFC",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:14:49.553"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Elisha N''Dow",
     "player2": "Natalie Haigh",
     "player1_team": "Aston Villa",
@@ -4344,7 +4344,7 @@
     "timestamp": "00:17:47.205"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:20:34.613"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -5128,7 +5128,7 @@
     "timestamp": "00:21:19.287"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:22:08.999"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -5848,7 +5848,7 @@
     "timestamp": "00:23:04.163"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:23:28.976"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -6040,7 +6040,7 @@
     "timestamp": "00:23:50.113"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:24:09.003"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:24:31.950"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:25:20.300"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hawa Cissoko",
     "player2": "Emily Louise van Egmond",
     "player1_team": "West Ham United LFC",
@@ -6960,7 +6960,7 @@
     "timestamp": "00:26:16.376"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mana Iwabuchi",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -7824,7 +7824,7 @@
     "timestamp": "00:28:04.756"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Anita Amma Ankyewah Asante",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -8128,7 +8128,7 @@
     "timestamp": "00:29:40.382"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -8248,7 +8248,7 @@
     "timestamp": "00:30:19.266"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -8720,7 +8720,7 @@
     "timestamp": "00:31:59.520"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:32:15.600"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -8888,7 +8888,7 @@
     "timestamp": "00:32:45.548"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jodie Hutton",
     "player2": "Olivia McLoughlin",
     "player1_team": "Aston Villa",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:34:37.495"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Asmita Ale",
     "player2": "Elisha N''Dow",
     "player1_team": "Aston Villa",
@@ -9464,7 +9464,7 @@
     "timestamp": "00:35:13.766"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:35:30.958"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:35:41.914"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Elisha N''Dow",
     "player2": "Jodie Hutton",
     "player1_team": "Aston Villa",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:36:18.904"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jodie Hutton",
     "player2": "Chloe Arthur",
     "player1_team": "Aston Villa",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:37:48.573"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Cecilie Redisch Kvamme",
     "player1_team": "West Ham United LFC",
@@ -10224,7 +10224,7 @@
     "timestamp": "00:38:15.882"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Natalie Haigh",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -10752,7 +10752,7 @@
     "timestamp": "00:40:07.926"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Elisha N''Dow",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -11288,7 +11288,7 @@
     "timestamp": "00:41:57.047"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Dagný Brynjarsdóttir",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:42:24.293"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -11432,7 +11432,7 @@
     "timestamp": "00:42:43.688"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:42:54.908"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -11904,7 +11904,7 @@
     "timestamp": "00:44:01.867"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12592,7 +12592,7 @@
     "timestamp": "00:00:09.901"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:01:02.196"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Olivia McLoughlin",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:02:00.971"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kate Longhurst",
     "player2": "Mayumi Pacheco",
     "player1_team": "West Ham United LFC",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:02:09.969"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:02:36.226"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -13832,7 +13832,7 @@
     "timestamp": "00:03:29.317"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14048,7 +14048,7 @@
     "timestamp": "00:05:01.692"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kate Longhurst",
     "player2": "Mayumi Pacheco",
     "player1_team": "West Ham United LFC",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:05:36.789"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Dagný Brynjarsdóttir",
     "player1_team": "West Ham United LFC",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:05:51.671"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -14200,7 +14200,7 @@
     "timestamp": "00:06:31.776"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Emily Louise van Egmond",
     "player1_team": "West Ham United LFC",
@@ -14312,7 +14312,7 @@
     "timestamp": "00:07:31.535"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14504,7 +14504,7 @@
     "timestamp": "00:08:06.950"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -14560,7 +14560,7 @@
     "timestamp": "00:08:41.536"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:09:13.574"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Olivia McLoughlin",
     "player2": "Marisa Ewers",
     "player1_team": "Aston Villa",
@@ -15032,7 +15032,7 @@
     "timestamp": "00:10:11.479"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16288,7 +16288,7 @@
     "timestamp": "00:14:21.936"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hawa Cissoko",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:15:17.840"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lisa Weiß",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -16704,7 +16704,7 @@
     "timestamp": "00:16:15.620"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lisa Weiß",
     "player2": "Shania Hayles",
     "player1_team": "Aston Villa",
@@ -16720,7 +16720,7 @@
     "timestamp": "00:16:47.832"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -16864,7 +16864,7 @@
     "timestamp": "00:17:14.836"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Elisha N''Dow",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:18:17.903"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -17240,7 +17240,7 @@
     "timestamp": "00:19:13.169"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Dagný Brynjarsdóttir",
     "player1_team": "West Ham United LFC",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:19:27.978"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:19:57.115"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gilly Louise Scarlett Flaherty",
     "player2": "Hawa Cissoko",
     "player1_team": "West Ham United LFC",
@@ -18336,7 +18336,7 @@
     "timestamp": "00:23:02.280"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kenza Dali",
     "player2": "",
     "player1_team": "West Ham United LFC",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:24:36.448"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19136,7 +19136,7 @@
     "timestamp": "00:25:45.974"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Olivia McLoughlin",
     "player2": "Freya Gregory",
     "player1_team": "Aston Villa",
@@ -19512,7 +19512,7 @@
     "timestamp": "00:26:58.678"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -19776,7 +19776,7 @@
     "timestamp": "00:29:55.623"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Mana Iwabuchi",
     "player1_team": "Aston Villa",
@@ -20456,7 +20456,7 @@
     "timestamp": "00:31:31.864"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Freya Gregory",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -20880,7 +20880,7 @@
     "timestamp": "00:33:49.800"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lisa Weiß",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -21096,7 +21096,7 @@
     "timestamp": "00:35:08.610"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Freya Gregory",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -21408,7 +21408,7 @@
     "timestamp": "00:36:35.833"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marisa Ewers",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -22088,7 +22088,7 @@
     "timestamp": "00:40:10.255"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Olivia McLoughlin",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -22656,7 +22656,7 @@
     "timestamp": "00:41:58.421"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Emily Louise van Egmond",
     "player1_team": "West Ham United LFC",
@@ -22904,7 +22904,7 @@
     "timestamp": "00:42:33.587"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "Dagný Brynjarsdóttir",
     "player1_team": "West Ham United LFC",
@@ -23040,7 +23040,7 @@
     "timestamp": "00:43:41.558"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Olivia McLoughlin",
     "player2": "Emily Syme",
     "player1_team": "Aston Villa",
@@ -23304,7 +23304,7 @@
     "timestamp": "00:44:42.766"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Kenza Dali",
     "player2": "Gilly Louise Scarlett Flaherty",
     "player1_team": "West Ham United LFC",
@@ -23832,7 +23832,7 @@
     "timestamp": "00:46:19.488"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Elisha N''Dow",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -23864,7 +23864,7 @@
     "timestamp": "00:47:04.288"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Martha Thomas",
     "player1_team": "West Ham United LFC",
@@ -23936,7 +23936,7 @@
     "timestamp": "00:47:17.744"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Asmita Ale",
     "player2": "Stine Larsen",
     "player1_team": "Aston Villa",
@@ -24376,7 +24376,7 @@
     "timestamp": "00:48:21.481"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Emma Follis",
     "player2": "Asmita Ale",
     "player1_team": "Aston Villa",
@@ -24528,7 +24528,7 @@
     "timestamp": "00:48:40.413"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -24576,7 +24576,7 @@
     "timestamp": "00:48:49.512"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mayumi Pacheco",
     "player2": "Kenza Dali",
     "player1_team": "West Ham United LFC",
@@ -24744,7 +24744,7 @@
     "timestamp": "00:49:11.171"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kenza Dali",
     "player2": "Kate Longhurst",
     "player1_team": "West Ham United LFC",
@@ -24856,7 +24856,7 @@
     "timestamp": "00:50:04.954"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kenza Dali",
     "player2": "Mayumi Pacheco",
     "player1_team": "West Ham United LFC",
@@ -25104,7 +25104,7 @@
     "timestamp": "00:50:41.325"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Emily Syme",
     "player2": "",
     "player1_team": "Aston Villa",

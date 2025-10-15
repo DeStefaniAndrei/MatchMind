@@ -56,7 +56,7 @@
     "timestamp": "00:00:05.111"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -256,7 +256,7 @@
     "timestamp": "00:00:35.780"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Scott Dann",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -392,7 +392,7 @@
     "timestamp": "00:01:35.442"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -1448,7 +1448,7 @@
     "timestamp": "00:04:55.829"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:07:12.363"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Ledley",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:08:50.374"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:09:17.331"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Emmanuel Adebayor",
     "player1_team": "Crystal Palace",
@@ -3584,7 +3584,7 @@
     "timestamp": "00:11:42.457"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:12:28.340"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -3856,7 +3856,7 @@
     "timestamp": "00:12:59.355"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -3944,7 +3944,7 @@
     "timestamp": "00:13:38.303"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -4088,7 +4088,7 @@
     "timestamp": "00:14:02.295"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Emmanuel Adebayor",
     "player1_team": "Crystal Palace",
@@ -4136,7 +4136,7 @@
     "timestamp": "00:15:05.613"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Emmanuel Adebayor",
     "player1_team": "Crystal Palace",
@@ -4248,7 +4248,7 @@
     "timestamp": "00:15:36.888"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -4280,7 +4280,7 @@
     "timestamp": "00:16:08.954"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -4672,7 +4672,7 @@
     "timestamp": "00:16:49.817"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:17:43.354"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -5248,7 +5248,7 @@
     "timestamp": "00:18:30.822"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -5528,7 +5528,7 @@
     "timestamp": "00:19:29.055"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:19:57.752"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -5648,7 +5648,7 @@
     "timestamp": "00:20:30.860"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -6072,7 +6072,7 @@
     "timestamp": "00:21:31.814"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Emmanuel Adebayor",
     "player1_team": "Crystal Palace",
@@ -6120,7 +6120,7 @@
     "timestamp": "00:22:20.971"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -6464,7 +6464,7 @@
     "timestamp": "00:24:00.130"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Emmanuel Adebayor",
     "player1_team": "Crystal Palace",
@@ -7216,7 +7216,7 @@
     "timestamp": "00:25:56.105"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:26:44.758"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wilfried Zaha",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -7976,7 +7976,7 @@
     "timestamp": "00:27:58.595"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:30:35.516"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -9120,7 +9120,7 @@
     "timestamp": "00:32:04.460"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:32:26.080"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -10552,7 +10552,7 @@
     "timestamp": "00:36:08.575"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -10712,7 +10712,7 @@
     "timestamp": "00:37:27.245"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -11128,7 +11128,7 @@
     "timestamp": "00:38:15.608"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:38:49.789"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -11536,7 +11536,7 @@
     "timestamp": "00:40:03.702"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Wayne Hennessey",
     "player1_team": "Crystal Palace",
@@ -12176,7 +12176,7 @@
     "timestamp": "00:41:45.378"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wes Morgan",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -12592,7 +12592,7 @@
     "timestamp": "00:43:22.101"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -12976,7 +12976,7 @@
     "timestamp": "00:44:36.069"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -13008,7 +13008,7 @@
     "timestamp": "00:45:08.441"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Emmanuel Adebayor",
     "player1_team": "Crystal Palace",
@@ -13448,7 +13448,7 @@
     "timestamp": "00:01:05.452"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -13680,7 +13680,7 @@
     "timestamp": "00:02:23.431"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -13904,7 +13904,7 @@
     "timestamp": "00:03:27.566"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:04:24.427"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:06:06.623"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -15560,7 +15560,7 @@
     "timestamp": "00:08:00.036"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bakary Sako",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:10:19.484"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -16336,7 +16336,7 @@
     "timestamp": "00:11:31.527"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Bakary Sako",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -16368,7 +16368,7 @@
     "timestamp": "00:12:11.533"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:14:32.100"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -17024,7 +17024,7 @@
     "timestamp": "00:15:10.199"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bakary Sako",
     "player2": "Joe Ledley",
     "player1_team": "Crystal Palace",
@@ -17136,7 +17136,7 @@
     "timestamp": "00:15:26.778"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Scott Dann",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -17856,7 +17856,7 @@
     "timestamp": "00:16:50.933"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:17:29.669"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:18:03.600"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -18288,7 +18288,7 @@
     "timestamp": "00:18:17.862"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:19:32.071"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -19152,7 +19152,7 @@
     "timestamp": "00:21:33.511"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -19336,7 +19336,7 @@
     "timestamp": "00:22:26.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -19392,7 +19392,7 @@
     "timestamp": "00:22:55.361"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:24:14.942"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -20152,7 +20152,7 @@
     "timestamp": "00:26:20.751"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -20784,7 +20784,7 @@
     "timestamp": "00:28:01.998"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:28:50.258"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -20872,7 +20872,7 @@
     "timestamp": "00:29:04.454"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:29:16.839"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Kelly",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -21040,7 +21040,7 @@
     "timestamp": "00:30:23.384"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Damien Delaney",
     "player2": "Martin Kelly",
     "player1_team": "Crystal Palace",
@@ -21216,7 +21216,7 @@
     "timestamp": "00:30:59.830"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Danny Simpson",
     "player1_team": "Leicester City",
@@ -21448,7 +21448,7 @@
     "timestamp": "00:31:43.082"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wilfried Zaha",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -21552,7 +21552,7 @@
     "timestamp": "00:32:00.342"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -21816,7 +21816,7 @@
     "timestamp": "00:33:08.103"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -22152,7 +22152,7 @@
     "timestamp": "00:34:03.090"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -22256,7 +22256,7 @@
     "timestamp": "00:34:48.422"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -22368,7 +22368,7 @@
     "timestamp": "00:35:44.776"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -22552,7 +22552,7 @@
     "timestamp": "00:36:21.317"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -22776,7 +22776,7 @@
     "timestamp": "00:37:08.775"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Yannick Bolasie Yala",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -22824,7 +22824,7 @@
     "timestamp": "00:37:26.568"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Bakary Sako",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -22896,7 +22896,7 @@
     "timestamp": "00:38:13.953"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Bakary Sako",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -22928,7 +22928,7 @@
     "timestamp": "00:38:39.122"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Bakary Sako",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -23200,7 +23200,7 @@
     "timestamp": "00:40:43.210"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -23408,7 +23408,7 @@
     "timestamp": "00:41:23.337"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -23584,7 +23584,7 @@
     "timestamp": "00:41:49.848"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -23640,7 +23640,7 @@
     "timestamp": "00:42:32.829"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -23864,7 +23864,7 @@
     "timestamp": "00:43:21.607"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -24112,7 +24112,7 @@
     "timestamp": "00:44:15.856"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -24264,7 +24264,7 @@
     "timestamp": "00:45:42.344"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -24304,7 +24304,7 @@
     "timestamp": "00:46:01.009"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -24392,7 +24392,7 @@
     "timestamp": "00:47:07.294"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -24408,7 +24408,7 @@
     "timestamp": "00:47:13.937"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -24472,7 +24472,7 @@
     "timestamp": "00:47:36.441"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Kelly",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -24576,7 +24576,7 @@
     "timestamp": "00:47:59.958"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",

@@ -288,7 +288,7 @@
     "timestamp": "00:00:23.078"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Dimitri Payet",
     "player2": "",
     "player1_team": "West Ham United",
@@ -488,7 +488,7 @@
     "timestamp": "00:01:47.305"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Micah Richards",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -512,7 +512,7 @@
     "timestamp": "00:02:07.357"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Micah Richards",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -600,7 +600,7 @@
     "timestamp": "00:02:32.626"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Collins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -792,7 +792,7 @@
     "timestamp": "00:03:13.554"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Leandro Bacuna",
     "player2": "Micah Richards",
     "player1_team": "Aston Villa",
@@ -816,7 +816,7 @@
     "timestamp": "00:03:45.203"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Carles Gil de Pareja Vicent",
     "player2": "Tetchi Jores Charlemagne Ulrich Okore",
     "player1_team": "Aston Villa",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:04:34.002"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:05:25.170"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Micah Richards",
     "player2": "Leandro Bacuna",
     "player1_team": "Aston Villa",
@@ -1504,7 +1504,7 @@
     "timestamp": "00:06:05.114"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordan Veretout",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:07:32.604"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Joleon Lescott",
     "player1_team": "Aston Villa",
@@ -2544,7 +2544,7 @@
     "timestamp": "00:08:06.566"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Micah Richards",
     "player2": "Leandro Bacuna",
     "player1_team": "Aston Villa",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:10:02.127"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -3448,7 +3448,7 @@
     "timestamp": "00:11:10.287"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Micah Richards",
     "player2": "Tetchi Jores Charlemagne Ulrich Okore",
     "player1_team": "Aston Villa",
@@ -3624,7 +3624,7 @@
     "timestamp": "00:11:58.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -3824,7 +3824,7 @@
     "timestamp": "00:12:58.295"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Carles Gil de Pareja Vicent",
     "player1_team": "Aston Villa",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:13:21.941"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Leandro Bacuna",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -3960,7 +3960,7 @@
     "timestamp": "00:14:07.594"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Leandro Bacuna",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -4072,7 +4072,7 @@
     "timestamp": "00:14:44.276"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Carles Gil de Pareja Vicent",
     "player2": "Tetchi Jores Charlemagne Ulrich Okore",
     "player1_team": "Aston Villa",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:15:23.890"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -4288,7 +4288,7 @@
     "timestamp": "00:16:18.249"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Alexandre Dimitri Song-Billong",
     "player1_team": "West Ham United",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:17:57.806"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Alexandre Dimitri Song-Billong",
     "player1_team": "West Ham United",
@@ -5656,7 +5656,7 @@
     "timestamp": "00:20:52.819"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Joleon Lescott",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -7272,7 +7272,7 @@
     "timestamp": "00:25:02.344"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Dimitri Payet",
     "player2": "Alexandre Dimitri Song-Billong",
     "player1_team": "West Ham United",
@@ -7512,7 +7512,7 @@
     "timestamp": "00:25:31.740"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:26:11.099"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Mark Bunn",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -7920,7 +7920,7 @@
     "timestamp": "00:26:47.230"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Mark Bunn",
     "player2": "Aly Cissokho",
     "player1_team": "Aston Villa",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:27:19.273"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Carles Gil de Pareja Vicent",
     "player1_team": "Aston Villa",
@@ -8368,7 +8368,7 @@
     "timestamp": "00:28:20.850"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Dimitri Payet",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:31:55.389"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Noble",
     "player2": "Alexandre Dimitri Song-Billong",
     "player1_team": "West Ham United",
@@ -10408,7 +10408,7 @@
     "timestamp": "00:34:26.300"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -11168,7 +11168,7 @@
     "timestamp": "00:37:01.624"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Aly Cissokho",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -11256,7 +11256,7 @@
     "timestamp": "00:37:48.649"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:38:03.309"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:38:25.065"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:40:10.008"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -12672,7 +12672,7 @@
     "timestamp": "00:41:26.890"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Joleon Lescott",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -12968,7 +12968,7 @@
     "timestamp": "00:42:42.784"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:44:53.613"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Leandro Bacuna",
     "player2": "Joleon Lescott",
     "player1_team": "Aston Villa",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:46:07.994"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Carles Gil de Pareja Vicent",
     "player1_team": "Aston Villa",
@@ -14392,7 +14392,7 @@
     "timestamp": "00:01:24.620"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Michail Antonio",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -14760,7 +14760,7 @@
     "timestamp": "00:02:49.594"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Leandro Bacuna",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -15016,7 +15016,7 @@
     "timestamp": "00:03:38.382"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -15200,7 +15200,7 @@
     "timestamp": "00:04:11.781"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Dimitri Payet",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -15384,7 +15384,7 @@
     "timestamp": "00:04:46.075"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Dimitri Payet",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -15424,7 +15424,7 @@
     "timestamp": "00:05:14.176"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mark Noble",
     "player2": "Aaron Cresswell",
     "player1_team": "West Ham United",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:05:45.594"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -15664,7 +15664,7 @@
     "timestamp": "00:06:03.901"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michail Antonio",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:06:55.343"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mark Noble",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:09:17.613"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Bunn",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -16984,7 +16984,7 @@
     "timestamp": "00:10:11.193"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Bunn",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -17248,7 +17248,7 @@
     "timestamp": "00:11:11.615"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Winston Reid",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -17632,7 +17632,7 @@
     "timestamp": "00:12:10.319"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Tomkins",
     "player2": "Alexandre Dimitri Song-Billong",
     "player1_team": "West Ham United",
@@ -17904,7 +17904,7 @@
     "timestamp": "00:13:37.405"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Bunn",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -18448,7 +18448,7 @@
     "timestamp": "00:14:59.720"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Mark Bunn",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:15:52.210"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Dimitri Payet",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -19120,7 +19120,7 @@
     "timestamp": "00:18:12.635"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -19344,7 +19344,7 @@
     "timestamp": "00:18:56.437"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Dimitri Payet",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -20168,7 +20168,7 @@
     "timestamp": "00:21:24.589"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jordan Veretout",
     "player2": "Joleon Lescott",
     "player1_team": "Aston Villa",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:23:26.438"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Bunn",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -20928,7 +20928,7 @@
     "timestamp": "00:24:22.043"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -21864,7 +21864,7 @@
     "timestamp": "00:27:39.356"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -22416,7 +22416,7 @@
     "timestamp": "00:28:48.466"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -24608,7 +24608,7 @@
     "timestamp": "00:34:40.375"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Collins",
     "player2": "Winston Reid",
     "player1_team": "West Ham United",
@@ -26696,7 +26696,7 @@
     "timestamp": "00:38:51.559"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jordan Veretout",
     "player2": "",
     "player1_team": "Aston Villa",

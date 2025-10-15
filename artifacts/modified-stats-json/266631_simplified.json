@@ -480,7 +480,7 @@
     "timestamp": "00:00:45.100"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -664,7 +664,7 @@
     "timestamp": "00:01:18.233"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -1552,7 +1552,7 @@
     "timestamp": "00:02:57.513"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "",
     "player1_team": "Barcelona",
@@ -1632,7 +1632,7 @@
     "timestamp": "00:03:39.799"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -2448,7 +2448,7 @@
     "timestamp": "00:05:14.678"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -2672,7 +2672,7 @@
     "timestamp": "00:05:36.880"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gabriel Fernández Arenas",
     "player2": "José María Giménez de Vargas",
     "player1_team": "Atlético Madrid",
@@ -2712,7 +2712,7 @@
     "timestamp": "00:06:17.609"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Gabriel Fernández Arenas",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:06:56.931"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Gabriel Fernández Arenas",
     "player2": "José María Giménez de Vargas",
     "player1_team": "Atlético Madrid",
@@ -3112,7 +3112,7 @@
     "timestamp": "00:08:12.101"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -3216,7 +3216,7 @@
     "timestamp": "00:08:38.268"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Arda Turan",
     "player1_team": "Atlético Madrid",
@@ -3264,7 +3264,7 @@
     "timestamp": "00:08:56.407"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Arda Turan",
     "player2": "Fernando José Torres Sanz",
     "player1_team": "Atlético Madrid",
@@ -3296,7 +3296,7 @@
     "timestamp": "00:09:26.824"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Barcelona",
@@ -3440,7 +3440,7 @@
     "timestamp": "00:10:02.348"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -3496,7 +3496,7 @@
     "timestamp": "00:10:22.956"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "",
     "player1_team": "Barcelona",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:13:09.245"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -6568,7 +6568,7 @@
     "timestamp": "00:16:58.047"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:18:37.973"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Fernando José Torres Sanz",
     "player1_team": "Atlético Madrid",
@@ -7384,7 +7384,7 @@
     "timestamp": "00:19:48.123"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -7464,7 +7464,7 @@
     "timestamp": "00:19:57.737"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gabriel Fernández Arenas",
     "player2": "José María Giménez de Vargas",
     "player1_team": "Atlético Madrid",
@@ -7584,7 +7584,7 @@
     "timestamp": "00:20:39.098"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -7984,7 +7984,7 @@
     "timestamp": "00:21:39.869"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -8048,7 +8048,7 @@
     "timestamp": "00:22:02.533"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -8664,7 +8664,7 @@
     "timestamp": "00:23:14.360"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -8752,7 +8752,7 @@
     "timestamp": "00:24:05.759"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Arda Turan",
     "player1_team": "Atlético Madrid",
@@ -8800,7 +8800,7 @@
     "timestamp": "00:24:22.904"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -8848,7 +8848,7 @@
     "timestamp": "00:24:33.050"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "",
     "player1_team": "Barcelona",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:26:02.198"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José María Giménez de Vargas",
     "player2": "Arda Turan",
     "player1_team": "Atlético Madrid",
@@ -9584,7 +9584,7 @@
     "timestamp": "00:26:56.749"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guilherme Magdalena Siqueira",
     "player2": "Diego Roberto Godín Leal",
     "player1_team": "Atlético Madrid",
@@ -9688,7 +9688,7 @@
     "timestamp": "00:27:34.420"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Gabriel Fernández Arenas",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -9752,7 +9752,7 @@
     "timestamp": "00:28:01.595"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Alves da Silva",
     "player2": "Claudio Andrés Bravo Muñoz",
     "player1_team": "Barcelona",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:28:52.145"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "José María Giménez de Vargas",
     "player2": "Antoine Griezmann",
     "player1_team": "Atlético Madrid",
@@ -10008,7 +10008,7 @@
     "timestamp": "00:29:35.666"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Arda Turan",
     "player1_team": "Atlético Madrid",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:30:04.006"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -10656,7 +10656,7 @@
     "timestamp": "00:33:55.039"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:35:45.374"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -12784,7 +12784,7 @@
     "timestamp": "00:38:56.048"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Arda Turan",
     "player1_team": "Atlético Madrid",
@@ -14000,7 +14000,7 @@
     "timestamp": "00:41:43.556"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -14080,7 +14080,7 @@
     "timestamp": "00:42:07.871"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:43:31.850"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ivan Rakitić",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:44:34.945"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:00:41.285"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "",
     "player1_team": "Barcelona",
@@ -15968,7 +15968,7 @@
     "timestamp": "00:01:15.959"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:02:28.828"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:05:36.646"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Arda Turan",
     "player2": "Juan Francisco Torres Belén",
     "player1_team": "Atlético Madrid",
@@ -16992,7 +16992,7 @@
     "timestamp": "00:05:52.363"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Gabriel Fernández Arenas",
     "player2": "Diego Roberto Godín Leal",
     "player1_team": "Atlético Madrid",
@@ -17392,7 +17392,7 @@
     "timestamp": "00:07:02.423"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -17960,7 +17960,7 @@
     "timestamp": "00:08:52.225"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Fernando José Torres Sanz",
     "player1_team": "Atlético Madrid",
@@ -18032,7 +18032,7 @@
     "timestamp": "00:09:25.220"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Guilherme Magdalena Siqueira",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -18200,7 +18200,7 @@
     "timestamp": "00:10:30.516"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:11:11.128"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José María Giménez de Vargas",
     "player2": "Antoine Griezmann",
     "player1_team": "Atlético Madrid",
@@ -18528,7 +18528,7 @@
     "timestamp": "00:12:04.095"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -18712,7 +18712,7 @@
     "timestamp": "00:12:30.509"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:12:56.173"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -18888,7 +18888,7 @@
     "timestamp": "00:13:07.757"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jan Oblak",
     "player2": "Antoine Griezmann",
     "player1_team": "Atlético Madrid",
@@ -18904,7 +18904,7 @@
     "timestamp": "00:13:39.962"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -19432,7 +19432,7 @@
     "timestamp": "00:14:52.757"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Arda Turan",
     "player1_team": "Atlético Madrid",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:15:15.246"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -19720,7 +19720,7 @@
     "timestamp": "00:15:53.921"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:16:38.969"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guilherme Magdalena Siqueira",
     "player2": "Jorge Resurrección Merodio",
     "player1_team": "Atlético Madrid",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:17:18.260"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ivan Rakitić",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -20408,7 +20408,7 @@
     "timestamp": "00:17:42.458"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -21296,7 +21296,7 @@
     "timestamp": "00:21:06.103"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:21:59.765"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Alves da Silva",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -22576,7 +22576,7 @@
     "timestamp": "00:24:25.868"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Raúl García Escudero",
     "player1_team": "Atlético Madrid",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:24:54.583"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Gabriel Fernández Arenas",
     "player1_team": "Atlético Madrid",
@@ -23312,7 +23312,7 @@
     "timestamp": "00:26:58.204"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -23480,7 +23480,7 @@
     "timestamp": "00:27:20.607"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -23560,7 +23560,7 @@
     "timestamp": "00:27:53.293"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -24144,7 +24144,7 @@
     "timestamp": "00:29:14.173"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -24224,7 +24224,7 @@
     "timestamp": "00:29:30.587"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -25976,7 +25976,7 @@
     "timestamp": "00:34:38.080"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -26096,7 +26096,7 @@
     "timestamp": "00:35:03.268"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Raúl García Escudero",
     "player1_team": "Atlético Madrid",
@@ -26192,7 +26192,7 @@
     "timestamp": "00:36:12.853"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -27336,7 +27336,7 @@
     "timestamp": "00:38:26.778"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -28240,7 +28240,7 @@
     "timestamp": "00:41:12.152"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -28512,7 +28512,7 @@
     "timestamp": "00:41:44.886"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jorge Resurrección Merodio",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -28576,7 +28576,7 @@
     "timestamp": "00:42:37.103"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Antoine Griezmann",
     "player1_team": "Atlético Madrid",
@@ -28656,7 +28656,7 @@
     "timestamp": "00:42:49.503"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Francisco Torres Belén",
     "player2": "Antoine Griezmann",
     "player1_team": "Atlético Madrid",
@@ -28888,7 +28888,7 @@
     "timestamp": "00:44:54.774"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -29032,7 +29032,7 @@
     "timestamp": "00:45:21.311"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -29168,7 +29168,7 @@
     "timestamp": "00:46:44.116"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -29264,7 +29264,7 @@
     "timestamp": "00:48:19.693"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jan Oblak",
     "player2": "",
     "player1_team": "Atlético Madrid",

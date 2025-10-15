@@ -240,7 +240,7 @@
     "timestamp": "00:00:25.578"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Smalling",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -856,7 +856,7 @@
     "timestamp": "00:01:38.992"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:03:21.626"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -2400,7 +2400,7 @@
     "timestamp": "00:05:17.771"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Gabriel Antoine Obertan",
     "player1_team": "Newcastle United",
@@ -2504,7 +2504,7 @@
     "timestamp": "00:05:47.202"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Massadio Haïdara",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -2992,7 +2992,7 @@
     "timestamp": "00:07:01.520"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -3032,7 +3032,7 @@
     "timestamp": "00:07:27.077"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Massadio Haïdara",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -3696,7 +3696,7 @@
     "timestamp": "00:08:38.468"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fabricio Coloccini",
     "player2": "Steven Taylor",
     "player1_team": "Newcastle United",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:09:28.687"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:11:37.387"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -4352,7 +4352,7 @@
     "timestamp": "00:12:04.994"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Adnan Januzaj",
     "player1_team": "Manchester United",
@@ -4416,7 +4416,7 @@
     "timestamp": "00:12:20.952"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:12:54.648"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "Morgan Schneiderlin",
     "player1_team": "Manchester United",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:13:30.918"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Adnan Januzaj",
     "player1_team": "Manchester United",
@@ -5096,7 +5096,7 @@
     "timestamp": "00:14:39.316"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "",
     "player1_team": "Manchester United",
@@ -5280,7 +5280,7 @@
     "timestamp": "00:15:35.229"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Massadio Haïdara",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -5440,7 +5440,7 @@
     "timestamp": "00:16:11.490"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:17:17.228"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:17:59.977"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Georginio Wijnaldum",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:19:08.977"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -6400,7 +6400,7 @@
     "timestamp": "00:19:32.891"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Germán Romero",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -6536,7 +6536,7 @@
     "timestamp": "00:20:26.915"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bastian Schweinsteiger",
     "player2": "Morgan Schneiderlin",
     "player1_team": "Manchester United",
@@ -7224,7 +7224,7 @@
     "timestamp": "00:22:18.261"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:25:19.889"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:26:47.304"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Luke Shaw",
     "player1_team": "Manchester United",
@@ -9456,7 +9456,7 @@
     "timestamp": "00:28:49.472"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -9480,7 +9480,7 @@
     "timestamp": "00:29:09.564"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -9864,7 +9864,7 @@
     "timestamp": "00:30:12.950"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:30:26.446"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:32:30.714"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -11072,7 +11072,7 @@
     "timestamp": "00:33:33.671"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -11408,7 +11408,7 @@
     "timestamp": "00:34:56.790"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sergio Germán Romero",
     "player2": "Wayne Mark Rooney",
     "player1_team": "Manchester United",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:35:36.965"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Fabricio Coloccini",
     "player2": "Gabriel Antoine Obertan",
     "player1_team": "Newcastle United",
@@ -12616,7 +12616,7 @@
     "timestamp": "00:38:01.660"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Vurnon Anita",
     "player2": "Massadio Haïdara",
     "player1_team": "Newcastle United",
@@ -12920,7 +12920,7 @@
     "timestamp": "00:38:49.314"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jack Colback",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -12960,7 +12960,7 @@
     "timestamp": "00:39:24.728"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Massadio Haïdara",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -13152,7 +13152,7 @@
     "timestamp": "00:40:01.825"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:41:10.348"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -15576,7 +15576,7 @@
     "timestamp": "00:01:21.222"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:02:18.089"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daley Blind",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -16704,7 +16704,7 @@
     "timestamp": "00:04:39.467"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "",
     "player1_team": "Manchester United",
@@ -16808,7 +16808,7 @@
     "timestamp": "00:05:14.952"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:06:59.482"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Georginio Wijnaldum",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -17520,7 +17520,7 @@
     "timestamp": "00:07:37.118"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -17608,7 +17608,7 @@
     "timestamp": "00:08:07.772"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Germán Romero",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -17984,7 +17984,7 @@
     "timestamp": "00:09:15.888"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Adnan Januzaj",
     "player1_team": "Manchester United",
@@ -18816,7 +18816,7 @@
     "timestamp": "00:13:10.106"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Steven Taylor",
     "player1_team": "Newcastle United",
@@ -19144,7 +19144,7 @@
     "timestamp": "00:14:02.208"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -19192,7 +19192,7 @@
     "timestamp": "00:14:31.237"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -19464,7 +19464,7 @@
     "timestamp": "00:15:32.470"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Juan Manuel Mata García",
     "player2": "Morgan Schneiderlin",
     "player1_team": "Manchester United",
@@ -19528,7 +19528,7 @@
     "timestamp": "00:16:00.205"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:17:52.734"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Juan Manuel Mata García",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -20632,7 +20632,7 @@
     "timestamp": "00:19:29.990"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Michael Carrick",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -20920,7 +20920,7 @@
     "timestamp": "00:20:06.345"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -21240,7 +21240,7 @@
     "timestamp": "00:20:58.855"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -21408,7 +21408,7 @@
     "timestamp": "00:22:02.745"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Gabriel Antoine Obertan",
     "player1_team": "Newcastle United",
@@ -21656,7 +21656,7 @@
     "timestamp": "00:22:49.001"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Michael Carrick",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -22088,7 +22088,7 @@
     "timestamp": "00:23:59.064"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Morgan Schneiderlin",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -22280,7 +22280,7 @@
     "timestamp": "00:24:28.486"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Florian Thauvin",
     "player1_team": "Newcastle United",
@@ -22328,7 +22328,7 @@
     "timestamp": "00:25:07.973"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Florian Thauvin",
     "player1_team": "Newcastle United",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:25:25.139"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Florian Thauvin",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -22504,7 +22504,7 @@
     "timestamp": "00:26:02.955"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Luke Shaw",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -23224,7 +23224,7 @@
     "timestamp": "00:28:23.243"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Massadio Haïdara",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -23248,7 +23248,7 @@
     "timestamp": "00:28:46.909"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Massadio Haïdara",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -24504,7 +24504,7 @@
     "timestamp": "00:33:02.353"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Florian Thauvin",
     "player1_team": "Newcastle United",
@@ -25016,7 +25016,7 @@
     "timestamp": "00:34:12.755"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -25032,7 +25032,7 @@
     "timestamp": "00:34:56.049"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -25456,7 +25456,7 @@
     "timestamp": "00:35:49.890"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Luis Antonio Valencia Mosquera",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -26328,7 +26328,7 @@
     "timestamp": "00:37:56.326"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -26464,7 +26464,7 @@
     "timestamp": "00:38:12.985"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -26912,7 +26912,7 @@
     "timestamp": "00:39:46.499"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Juan Manuel Mata García",
     "player2": "Wayne Mark Rooney",
     "player1_team": "Manchester United",
@@ -26936,7 +26936,7 @@
     "timestamp": "00:40:08.131"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "Javier Hernández Balcázar",
     "player1_team": "Manchester United",
@@ -27568,7 +27568,7 @@
     "timestamp": "00:42:45.931"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Timothy Michael Krul",
     "player2": "Florian Thauvin",
     "player1_team": "Newcastle United",
@@ -27584,7 +27584,7 @@
     "timestamp": "00:43:06.768"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -27736,7 +27736,7 @@
     "timestamp": "00:43:34.892"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luis Antonio Valencia Mosquera",
     "player2": "Javier Hernández Balcázar",
     "player1_team": "Manchester United",
@@ -28096,7 +28096,7 @@
     "timestamp": "00:44:23.197"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -28136,7 +28136,7 @@
     "timestamp": "00:44:41.842"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -28656,7 +28656,7 @@
     "timestamp": "00:46:27.212"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -28688,7 +28688,7 @@
     "timestamp": "00:46:43.851"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chancel Mbemba Mangulu",
     "player2": "Cheik Ismaël Tioté",
     "player1_team": "Newcastle United",
@@ -29120,7 +29120,7 @@
     "timestamp": "00:47:43.408"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "",
     "player1_team": "Manchester United",
@@ -29320,7 +29320,7 @@
     "timestamp": "00:48:22.810"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",

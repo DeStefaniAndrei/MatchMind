@@ -416,7 +416,7 @@
     "timestamp": "00:00:47.612"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Morgan Schneiderlin",
     "player1_team": "Manchester United",
@@ -488,7 +488,7 @@
     "timestamp": "00:01:00.490"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -640,7 +640,7 @@
     "timestamp": "00:01:22.751"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -776,7 +776,7 @@
     "timestamp": "00:01:47.106"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Wayne Mark Rooney",
     "player1_team": "Manchester United",
@@ -1096,7 +1096,7 @@
     "timestamp": "00:02:29.271"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:03:14.445"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:03:40.605"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "John Terry",
     "player1_team": "Chelsea",
@@ -1264,7 +1264,7 @@
     "timestamp": "00:04:08.691"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:04:48.242"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -1472,7 +1472,7 @@
     "timestamp": "00:05:30.550"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:06:28.774"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -2280,7 +2280,7 @@
     "timestamp": "00:07:31.907"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:07:43.923"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:08:27.133"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -3376,7 +3376,7 @@
     "timestamp": "00:11:22.421"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -5520,7 +5520,7 @@
     "timestamp": "00:17:15.685"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:19:02.247"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ander Herrera Agüera",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -6368,7 +6368,7 @@
     "timestamp": "00:20:07.391"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -8192,7 +8192,7 @@
     "timestamp": "00:24:46.271"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -8624,7 +8624,7 @@
     "timestamp": "00:25:49.165"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eden Hazard",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:26:51.662"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bastian Schweinsteiger",
     "player2": "Wayne Mark Rooney",
     "player1_team": "Manchester United",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:28:07.062"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -9144,7 +9144,7 @@
     "timestamp": "00:29:11.949"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Terry",
     "player2": "Kurt Happy Zouma",
     "player1_team": "Chelsea",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:32:00.527"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Michael Nchekwube Obinna",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -9952,7 +9952,7 @@
     "timestamp": "00:33:08.135"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "Kurt Happy Zouma",
     "player1_team": "Chelsea",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:35:36.837"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -11864,7 +11864,7 @@
     "timestamp": "00:38:46.076"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "Kurt Happy Zouma",
     "player1_team": "Chelsea",
@@ -12976,7 +12976,7 @@
     "timestamp": "00:42:49.747"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:43:44.660"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eden Hazard",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -13616,7 +13616,7 @@
     "timestamp": "00:44:49.495"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -13688,7 +13688,7 @@
     "timestamp": "00:45:52.924"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "",
     "player1_team": "Manchester United",
@@ -13984,7 +13984,7 @@
     "timestamp": "00:00:37.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -14088,7 +14088,7 @@
     "timestamp": "00:00:57.235"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:02:18.005"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:04:21.062"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -15952,7 +15952,7 @@
     "timestamp": "00:06:19.335"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Morgan Schneiderlin",
     "player1_team": "Manchester United",
@@ -16344,7 +16344,7 @@
     "timestamp": "00:07:48.328"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -16608,7 +16608,7 @@
     "timestamp": "00:08:33.572"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:08:54.417"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Morgan Schneiderlin",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:09:47.660"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -17248,7 +17248,7 @@
     "timestamp": "00:10:22.742"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Juan Manuel Mata García",
     "player2": "Ashley Young",
     "player1_team": "Manchester United",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:11:16.136"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -17528,7 +17528,7 @@
     "timestamp": "00:12:02.079"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bastian Schweinsteiger",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:14:27.318"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -18864,7 +18864,7 @@
     "timestamp": "00:15:34.715"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -18904,7 +18904,7 @@
     "timestamp": "00:15:47.546"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:19:36.018"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eden Hazard",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -20168,7 +20168,7 @@
     "timestamp": "00:21:30.020"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:23:05.222"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nemanja Matić",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -21000,7 +21000,7 @@
     "timestamp": "00:24:36.904"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cameron Borthwick-Jackson",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -21496,7 +21496,7 @@
     "timestamp": "00:26:03.303"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -21672,7 +21672,7 @@
     "timestamp": "00:26:29.973"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David de Gea Quintana",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -22144,7 +22144,7 @@
     "timestamp": "00:28:10.635"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Cameron Borthwick-Jackson",
     "player2": "",
     "player1_team": "Manchester United",
@@ -22336,7 +22336,7 @@
     "timestamp": "00:28:37.547"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -22768,7 +22768,7 @@
     "timestamp": "00:29:50.841"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:30:12.236"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -22896,7 +22896,7 @@
     "timestamp": "00:30:23.272"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -23048,7 +23048,7 @@
     "timestamp": "00:31:02.359"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Cameron Borthwick-Jackson",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -24888,7 +24888,7 @@
     "timestamp": "00:35:37.146"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nemanja Matić",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -25152,7 +25152,7 @@
     "timestamp": "00:36:29.594"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Ramires Santos do Nascimento",
     "player1_team": "Chelsea",
@@ -25648,7 +25648,7 @@
     "timestamp": "00:37:37.017"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -26112,7 +26112,7 @@
     "timestamp": "00:38:57.097"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Ramires Santos do Nascimento",
     "player1_team": "Chelsea",
@@ -26152,7 +26152,7 @@
     "timestamp": "00:39:37.442"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Eden Hazard",
     "player2": "",
     "player1_team": "Chelsea",
@@ -27592,7 +27592,7 @@
     "timestamp": "00:43:30.742"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Wayne Mark Rooney",
     "player1_team": "Manchester United",
@@ -28048,7 +28048,7 @@
     "timestamp": "00:44:34.897"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Kurt Happy Zouma",
     "player1_team": "Chelsea",
@@ -28216,7 +28216,7 @@
     "timestamp": "00:45:20.788"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -28432,7 +28432,7 @@
     "timestamp": "00:46:42.308"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Ramires Santos do Nascimento",
     "player1_team": "Chelsea",
@@ -28464,7 +28464,7 @@
     "timestamp": "00:47:28.859"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -28568,7 +28568,7 @@
     "timestamp": "00:48:04.194"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Michael Nchekwube Obinna",
     "player2": "Ruben Loftus-Cheek",
     "player1_team": "Chelsea",

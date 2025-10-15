@@ -488,7 +488,7 @@
     "timestamp": "00:01:00.037"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -632,7 +632,7 @@
     "timestamp": "00:01:33.055"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "",
     "player1_team": "Barcelona",
@@ -680,7 +680,7 @@
     "timestamp": "00:02:05.908"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Simão Mate",
     "player2": "",
     "player1_team": "Levante UD",
@@ -864,7 +864,7 @@
     "timestamp": "00:02:40.059"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Barcelona",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:04:54.430"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:05:56.182"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andrés Iniesta Luján",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -2256,7 +2256,7 @@
     "timestamp": "00:06:42.089"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Barcelona",
@@ -2384,7 +2384,7 @@
     "timestamp": "00:07:31.706"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Papa Kouly Diop",
     "player2": "Víctor Casadesús Castaño",
     "player1_team": "Levante UD",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:07:37.602"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pedro López Muñoz",
     "player2": "Víctor Casadesús Castaño",
     "player1_team": "Levante UD",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:09:22.014"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Papa Kouly Diop",
     "player2": "",
     "player1_team": "Levante UD",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:10:47.181"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Antonio García Aranda",
     "player2": "Víctor Casadesús Castaño",
     "player1_team": "Levante UD",
@@ -3432,7 +3432,7 @@
     "timestamp": "00:11:06.810"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Antonio García Aranda",
     "player2": "David Barral Torres",
     "player1_team": "Levante UD",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:11:39.865"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pedro López Muñoz",
     "player2": "José Luis Morales Nogales",
     "player1_team": "Levante UD",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:11:51.721"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pedro López Muñoz",
     "player2": "Víctor Casadesús Castaño",
     "player1_team": "Levante UD",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:12:07.112"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -4104,7 +4104,7 @@
     "timestamp": "00:13:16.469"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:13:38.041"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Simão Mate",
     "player2": "",
     "player1_team": "Levante UD",
@@ -4544,7 +4544,7 @@
     "timestamp": "00:15:36.782"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Antonio García Aranda",
     "player2": "David Barral Torres",
     "player1_team": "Levante UD",
@@ -4760,7 +4760,7 @@
     "timestamp": "00:16:16.909"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Barcelona",
@@ -4872,7 +4872,7 @@
     "timestamp": "00:16:44.678"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "",
     "player1_team": "Barcelona",
@@ -4936,7 +4936,7 @@
     "timestamp": "00:17:04.838"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Antonio García Aranda",
     "player2": "Papa Kouly Diop",
     "player1_team": "Levante UD",
@@ -5920,7 +5920,7 @@
     "timestamp": "00:19:39.024"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -5936,7 +5936,7 @@
     "timestamp": "00:20:05.782"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -6336,7 +6336,7 @@
     "timestamp": "00:21:38.161"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:22:46.762"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "",
     "player1_team": "Barcelona",
@@ -7856,7 +7856,7 @@
     "timestamp": "00:26:22.333"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:26:51.042"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:27:11.155"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -8640,7 +8640,7 @@
     "timestamp": "00:28:02.547"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simão Mate",
     "player2": "Loukas Vyntra",
     "player1_team": "Levante UD",
@@ -8816,7 +8816,7 @@
     "timestamp": "00:28:41.791"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pedro López Muñoz",
     "player2": "Papa Kouly Diop",
     "player1_team": "Levante UD",
@@ -9448,7 +9448,7 @@
     "timestamp": "00:29:58.967"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:30:52.809"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Antonio García Aranda",
     "player2": "",
     "player1_team": "Levante UD",
@@ -9672,7 +9672,7 @@
     "timestamp": "00:31:11.068"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:31:43.197"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pedro López Muñoz",
     "player2": "Loukas Vyntra",
     "player1_team": "Levante UD",
@@ -10984,7 +10984,7 @@
     "timestamp": "00:35:34.773"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Simão Mate",
     "player2": "",
     "player1_team": "Levante UD",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:36:10.808"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -11288,7 +11288,7 @@
     "timestamp": "00:36:49.176"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simão Mate",
     "player2": "Antonio García Aranda",
     "player1_team": "Levante UD",
@@ -11920,7 +11920,7 @@
     "timestamp": "00:38:34.224"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:42:32.078"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Papa Kouly Diop",
     "player2": "Héctor Rodas Ramírez",
     "player1_team": "Levante UD",
@@ -12872,7 +12872,7 @@
     "timestamp": "00:43:28.693"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -16072,7 +16072,7 @@
     "timestamp": "00:05:00.132"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Antonio García Aranda",
     "player2": "",
     "player1_team": "Levante UD",
@@ -16240,7 +16240,7 @@
     "timestamp": "00:05:20.490"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -17160,7 +17160,7 @@
     "timestamp": "00:07:16.598"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Papa Kouly Diop",
     "player2": "Héctor Rodas Ramírez",
     "player1_team": "Levante UD",
@@ -17384,7 +17384,7 @@
     "timestamp": "00:09:02.130"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Sandro Ramírez Castillo",
     "player1_team": "Barcelona",
@@ -17408,7 +17408,7 @@
     "timestamp": "00:09:49.723"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pedro López Muñoz",
     "player2": "David Barral Torres",
     "player1_team": "Levante UD",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:10:08.659"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -18312,7 +18312,7 @@
     "timestamp": "00:12:53.812"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -18680,7 +18680,7 @@
     "timestamp": "00:13:47.140"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jesús Fernández Collado",
     "player2": "Pedro López Muñoz",
     "player1_team": "Levante UD",
@@ -19088,7 +19088,7 @@
     "timestamp": "00:14:44.298"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:16:26.661"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Xavier Hernández Creus",
     "player1_team": "Barcelona",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:16:54.924"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simão Mate",
     "player2": "Héctor Rodas Ramírez",
     "player1_team": "Levante UD",
@@ -20344,7 +20344,7 @@
     "timestamp": "00:19:11.655"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -20752,7 +20752,7 @@
     "timestamp": "00:20:08.589"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -21000,7 +21000,7 @@
     "timestamp": "00:20:45.209"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jesús Fernández Collado",
     "player2": "",
     "player1_team": "Levante UD",
@@ -21240,7 +21240,7 @@
     "timestamp": "00:21:48.310"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jesús Fernández Collado",
     "player2": "",
     "player1_team": "Levante UD",
@@ -22736,7 +22736,7 @@
     "timestamp": "00:26:14.291"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Antonio García Aranda",
     "player2": "Mohamed Lamine Sissoko Gillan",
     "player1_team": "Levante UD",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:26:25.122"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mohamed Lamine Sissoko Gillan",
     "player2": "Héctor Rodas Ramírez",
     "player1_team": "Levante UD",
@@ -26144,7 +26144,7 @@
     "timestamp": "00:35:07.228"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jesús Fernández Collado",
     "player2": "",
     "player1_team": "Levante UD",
@@ -26440,7 +26440,7 @@
     "timestamp": "00:36:45.375"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Antonio García Aranda",
     "player2": "Mohamed Lamine Sissoko Gillan",
     "player1_team": "Levante UD",
@@ -26512,7 +26512,7 @@
     "timestamp": "00:37:00.377"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Antonio García Aranda",
     "player2": "Víctor Casadesús Castaño",
     "player1_team": "Levante UD",
@@ -26888,7 +26888,7 @@
     "timestamp": "00:37:50.585"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Sandro Ramírez Castillo",
     "player1_team": "Barcelona",
@@ -26968,7 +26968,7 @@
     "timestamp": "00:38:20.154"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pedro López Muñoz",
     "player2": "Rubén García Santos",
     "player1_team": "Levante UD",
@@ -27656,7 +27656,7 @@
     "timestamp": "00:40:01.153"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Antonio García Aranda",
     "player2": "Mohamed Lamine Sissoko Gillan",
     "player1_team": "Levante UD",
@@ -27832,7 +27832,7 @@
     "timestamp": "00:40:46.717"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -28144,7 +28144,7 @@
     "timestamp": "00:41:28.566"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -28760,7 +28760,7 @@
     "timestamp": "00:42:49.935"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Xavier Hernández Creus",
     "player1_team": "Barcelona",
@@ -30064,7 +30064,7 @@
     "timestamp": "00:45:41.382"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Antonio García Aranda",
     "player2": "Mohamed Lamine Sissoko Gillan",
     "player1_team": "Levante UD",

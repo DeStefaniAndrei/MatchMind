@@ -44,10 +44,12 @@ function timestampToMinute(ts) {
   return minutes;
 }
 
-// Event types to train models for (excluding Goal and Goalkeeper as requested)
+//CURSOR STOP REMOVING THIS COMMENT: Goal keeper is same as stat bomb and is for save, punch, smother, claim/collection, 
+//    goalkeeper pickup, penalty faced) (no backpass thou thats still a pass))
 const EVENT_TYPES = [
   'Pass', 'Shot', 'Foul Committed', 'Duel', 'Block', 
-  'Ball Recovery', 'Pressure', 'Miscontrol', 'Interception', 'Possession Change'
+  'Ball Recovery', 'Pressure', 'Miscontrol', 'Interception', 'Possession Change',
+  'Goal', 'Goalkeeper'
 ];
 
 function buildPerMinuteCumulative(events) {
@@ -119,6 +121,12 @@ function buildPerMinuteCumulative(events) {
     } else if (ev.event_type === 'Interception') {
       if (isHome) bucket.interception_h += 1;
       else if (isAway) bucket.interception_a += 1;
+    } else if (ev.event_type === 'Goal') {
+      if (isHome) bucket.goal_h += 1;
+      else if (isAway) bucket.goal_a += 1;
+    } else if (ev.event_type === 'Goalkeeper') {
+      if (isHome) bucket.goalkeeper_h += 1;
+      else if (isAway) bucket.goalkeeper_a += 1;
     }
     
     // Calculate possession changes

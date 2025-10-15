@@ -960,7 +960,7 @@
     "timestamp": "00:01:45.006"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:02:31.833"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Fabián Ariel Orellana Valenzuela",
     "player1_team": "Celta Vigo",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:02:44.761"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "",
     "player1_team": "Barcelona",
@@ -2792,7 +2792,7 @@
     "timestamp": "00:06:27.403"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daniel Wass",
     "player2": "",
     "player1_team": "Celta Vigo",
@@ -2856,7 +2856,7 @@
     "timestamp": "00:07:08.838"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -2888,7 +2888,7 @@
     "timestamp": "00:07:31.154"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -3208,7 +3208,7 @@
     "timestamp": "00:08:12.726"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:10:05.224"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -4296,7 +4296,7 @@
     "timestamp": "00:11:27.333"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -5472,7 +5472,7 @@
     "timestamp": "00:14:18.528"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -5600,7 +5600,7 @@
     "timestamp": "00:14:52.162"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "",
     "player1_team": "Barcelona",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:17:15.768"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Fabián Ariel Orellana Valenzuela",
     "player1_team": "Celta Vigo",
@@ -6544,7 +6544,7 @@
     "timestamp": "00:17:26.587"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Iago Aspas Juncal",
     "player1_team": "Celta Vigo",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:17:56.030"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Manuel Agudo Durán",
     "player2": "",
     "player1_team": "Celta Vigo",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:18:33.624"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -8120,7 +8120,7 @@
     "timestamp": "00:21:17.540"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -8144,7 +8144,7 @@
     "timestamp": "00:21:56.487"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -8336,7 +8336,7 @@
     "timestamp": "00:22:22.705"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergi Gómez Solà",
     "player2": "Augusto Matías Fernández",
     "player1_team": "Celta Vigo",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:24:02.601"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jonathan Castro Otto",
     "player2": "Nemanja Radoja",
     "player1_team": "Celta Vigo",
@@ -9352,7 +9352,7 @@
     "timestamp": "00:24:59.144"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Manuel Agudo Durán",
     "player2": "Iago Aspas Juncal",
     "player1_team": "Celta Vigo",
@@ -9728,7 +9728,7 @@
     "timestamp": "00:26:57.814"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Daniel Wass",
     "player1_team": "Celta Vigo",
@@ -10144,7 +10144,7 @@
     "timestamp": "00:28:25.186"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "",
     "player1_team": "Celta Vigo",
@@ -11176,7 +11176,7 @@
     "timestamp": "00:31:33.072"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Augusto Matías Fernández",
     "player1_team": "Celta Vigo",
@@ -11248,7 +11248,7 @@
     "timestamp": "00:31:56.784"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Fabián Ariel Orellana Valenzuela",
     "player1_team": "Celta Vigo",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:32:20.304"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Iago Aspas Juncal",
     "player1_team": "Celta Vigo",
@@ -11784,7 +11784,7 @@
     "timestamp": "00:33:45.214"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Manuel Agudo Durán",
     "player2": "Fabián Ariel Orellana Valenzuela",
     "player1_team": "Celta Vigo",
@@ -12024,7 +12024,7 @@
     "timestamp": "00:35:05.671"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -12448,7 +12448,7 @@
     "timestamp": "00:36:28.873"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -12904,7 +12904,7 @@
     "timestamp": "00:38:24.744"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Alves da Silva",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -13024,7 +13024,7 @@
     "timestamp": "00:38:48.115"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -13072,7 +13072,7 @@
     "timestamp": "00:39:08.342"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:39:41.784"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -13512,7 +13512,7 @@
     "timestamp": "00:40:08.439"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jonathan Castro Otto",
     "player2": "Nemanja Radoja",
     "player1_team": "Celta Vigo",
@@ -13568,7 +13568,7 @@
     "timestamp": "00:40:31.495"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:41:27.524"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -14000,7 +14000,7 @@
     "timestamp": "00:41:45.745"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -14664,7 +14664,7 @@
     "timestamp": "00:43:22.748"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Iago Aspas Juncal",
     "player1_team": "Celta Vigo",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:43:41.366"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:01:14.122"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Mallo Novegil",
     "player2": "Sergio Álvarez Conde",
     "player1_team": "Celta Vigo",
@@ -16152,7 +16152,7 @@
     "timestamp": "00:02:49.487"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:03:26.191"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Iago Aspas Juncal",
     "player1_team": "Celta Vigo",
@@ -16624,7 +16624,7 @@
     "timestamp": "00:04:19.058"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "Fabián Ariel Orellana Valenzuela",
     "player1_team": "Celta Vigo",
@@ -16728,7 +16728,7 @@
     "timestamp": "00:04:44.413"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jérémy Mathieu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:05:53.932"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -17536,7 +17536,7 @@
     "timestamp": "00:07:03.906"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -17760,7 +17760,7 @@
     "timestamp": "00:07:27.338"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -17792,7 +17792,7 @@
     "timestamp": "00:07:50.814"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jérémy Mathieu",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -17888,7 +17888,7 @@
     "timestamp": "00:08:12.428"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -17944,7 +17944,7 @@
     "timestamp": "00:08:32.293"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:10:08.661"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -18376,7 +18376,7 @@
     "timestamp": "00:12:30.975"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Munir El Haddadi Mohamed",
     "player1_team": "Barcelona",
@@ -19168,7 +19168,7 @@
     "timestamp": "00:15:02.211"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:16:40.617"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Alves da Silva",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -20032,7 +20032,7 @@
     "timestamp": "00:17:46.760"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:17:56.101"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -20216,7 +20216,7 @@
     "timestamp": "00:18:30.213"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:20:53.733"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sergi Gómez Solà",
     "player2": "Fabián Ariel Orellana Valenzuela",
     "player1_team": "Celta Vigo",
@@ -20840,7 +20840,7 @@
     "timestamp": "00:21:33.382"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Manuel Agudo Durán",
     "player2": "Daniel Wass",
     "player1_team": "Celta Vigo",
@@ -20984,7 +20984,7 @@
     "timestamp": "00:22:12.139"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Daniel Wass",
     "player2": "Fabián Ariel Orellana Valenzuela",
     "player1_team": "Celta Vigo",
@@ -21160,7 +21160,7 @@
     "timestamp": "00:22:57.919"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -22976,7 +22976,7 @@
     "timestamp": "00:26:46.641"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jonathan Castro Otto",
     "player2": "Manuel Agudo Durán",
     "player1_team": "Celta Vigo",
@@ -23240,7 +23240,7 @@
     "timestamp": "00:27:39.358"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -24144,7 +24144,7 @@
     "timestamp": "00:30:44.202"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jonathan Castro Otto",
     "player2": "",
     "player1_team": "Celta Vigo",
@@ -24504,7 +24504,7 @@
     "timestamp": "00:32:53.666"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jérémy Mathieu",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -24592,7 +24592,7 @@
     "timestamp": "00:33:35.209"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gustavo Daniel Cabral Cáceres",
     "player2": "Fabián Ariel Orellana Valenzuela",
     "player1_team": "Celta Vigo",
@@ -24632,7 +24632,7 @@
     "timestamp": "00:34:01.852"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -24800,7 +24800,7 @@
     "timestamp": "00:34:23.936"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -24904,7 +24904,7 @@
     "timestamp": "00:35:16.156"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Hugo Mallo Novegil",
     "player2": "John Guidetti",
     "player1_team": "Celta Vigo",
@@ -25584,7 +25584,7 @@
     "timestamp": "00:39:45.373"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ivan Rakitić",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -25992,7 +25992,7 @@
     "timestamp": "00:41:26.392"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jonathan Castro Otto",
     "player2": "Manuel Agudo Durán",
     "player1_team": "Celta Vigo",
@@ -26080,7 +26080,7 @@
     "timestamp": "00:41:49.087"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -26264,7 +26264,7 @@
     "timestamp": "00:42:25.807"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jérémy Mathieu",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -26784,7 +26784,7 @@
     "timestamp": "00:44:30.419"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",

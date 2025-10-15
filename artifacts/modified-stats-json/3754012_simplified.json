@@ -376,7 +376,7 @@
     "timestamp": "00:00:50.549"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -920,7 +920,7 @@
     "timestamp": "00:02:15.783"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Abdul Rahman Baba",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -944,7 +944,7 @@
     "timestamp": "00:02:36.404"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -1256,7 +1256,7 @@
     "timestamp": "00:03:42.100"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -1840,7 +1840,7 @@
     "timestamp": "00:06:28.216"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -1896,7 +1896,7 @@
     "timestamp": "00:06:38.941"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -2000,7 +2000,7 @@
     "timestamp": "00:06:55.473"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Abdul Rahman Baba",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -2040,7 +2040,7 @@
     "timestamp": "00:07:08.283"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:08:03.411"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "Jordy Clasie",
     "player1_team": "Southampton",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:08:37.543"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "",
     "player1_team": "Southampton",
@@ -2832,7 +2832,7 @@
     "timestamp": "00:10:17.905"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -2848,7 +2848,7 @@
     "timestamp": "00:10:36.444"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:10:58.907"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Abdul Rahman Baba",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -4976,7 +4976,7 @@
     "timestamp": "00:15:33.493"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Virgil van Dijk",
     "player2": "Matt Targett",
     "player1_team": "Southampton",
@@ -5024,7 +5024,7 @@
     "timestamp": "00:15:53.199"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "",
     "player1_team": "Southampton",
@@ -5104,7 +5104,7 @@
     "timestamp": "00:16:28.168"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "",
     "player1_team": "Southampton",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:16:48.615"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -5200,7 +5200,7 @@
     "timestamp": "00:17:11.318"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -5816,7 +5816,7 @@
     "timestamp": "00:18:15.818"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -6048,7 +6048,7 @@
     "timestamp": "00:19:02.780"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Matt Targett",
     "player1_team": "Southampton",
@@ -6456,7 +6456,7 @@
     "timestamp": "00:20:09.733"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "",
     "player1_team": "Chelsea",
@@ -6880,7 +6880,7 @@
     "timestamp": "00:21:52.013"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ryan Bertrand",
     "player2": "",
     "player1_team": "Southampton",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:22:52.943"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "",
     "player1_team": "Southampton",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:23:24.603"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:24:20.018"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Virgil van Dijk",
     "player2": "Ryan Bertrand",
     "player1_team": "Southampton",
@@ -8480,7 +8480,7 @@
     "timestamp": "00:27:51.620"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Oriol Romeu Vidal",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:28:32.615"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "",
     "player1_team": "Southampton",
@@ -9872,7 +9872,7 @@
     "timestamp": "00:31:42.155"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -9936,7 +9936,7 @@
     "timestamp": "00:32:01.832"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "César Azpilicueta Tanco",
     "player1_team": "Chelsea",
@@ -10904,7 +10904,7 @@
     "timestamp": "00:34:19.933"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:34:28.142"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:34:55.762"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bertrand",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -11176,7 +11176,7 @@
     "timestamp": "00:35:15.524"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bertrand",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:43:22.510"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Gary Cahill",
     "player1_team": "Chelsea",
@@ -14016,7 +14016,7 @@
     "timestamp": "00:43:48.118"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Gary Cahill",
     "player1_team": "Chelsea",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:44:48.398"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "",
     "player1_team": "Chelsea",
@@ -14984,7 +14984,7 @@
     "timestamp": "00:00:38.191"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Jordy Clasie",
     "player1_team": "Southampton",
@@ -15536,7 +15536,7 @@
     "timestamp": "00:03:04.471"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Branislav Ivanović",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:06:29.990"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "Branislav Ivanović",
     "player1_team": "Chelsea",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:09:32.610"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gary Cahill",
     "player2": "Robert Kenedy Nunes do Nascimento",
     "player1_team": "Chelsea",
@@ -17600,7 +17600,7 @@
     "timestamp": "00:10:15.482"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Steven Davis",
     "player2": "",
     "player1_team": "Southampton",
@@ -17736,7 +17736,7 @@
     "timestamp": "00:11:25.508"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Kenedy Nunes do Nascimento",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -19056,7 +19056,7 @@
     "timestamp": "00:14:51.615"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Kenedy Nunes do Nascimento",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -19104,7 +19104,7 @@
     "timestamp": "00:15:39.090"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "Cédric Ricardo Alves Soares",
     "player1_team": "Southampton",
@@ -19288,7 +19288,7 @@
     "timestamp": "00:16:12.501"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Branislav Ivanović",
     "player1_team": "Chelsea",
@@ -19760,7 +19760,7 @@
     "timestamp": "00:17:18.867"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -19800,7 +19800,7 @@
     "timestamp": "00:18:06.570"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gary Cahill",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:19:19.119"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Gary Cahill",
     "player1_team": "Chelsea",
@@ -19920,7 +19920,7 @@
     "timestamp": "00:20:10.782"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:21:06.728"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ryan Bertrand",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -20880,7 +20880,7 @@
     "timestamp": "00:24:25.310"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Oriol Romeu Vidal",
     "player1_team": "Southampton",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:24:59.866"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -21784,7 +21784,7 @@
     "timestamp": "00:27:19.145"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -22280,7 +22280,7 @@
     "timestamp": "00:28:18.683"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "Charlie Austin",
     "player1_team": "Southampton",
@@ -22792,7 +22792,7 @@
     "timestamp": "00:30:48.498"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -23000,7 +23000,7 @@
     "timestamp": "00:31:18.191"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -23472,7 +23472,7 @@
     "timestamp": "00:32:25.548"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "",
     "player1_team": "Chelsea",
@@ -23816,7 +23816,7 @@
     "timestamp": "00:34:03.428"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "John Michael Nchekwube Obinna",
     "player1_team": "Chelsea",
@@ -24152,7 +24152,7 @@
     "timestamp": "00:35:02.431"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -24760,7 +24760,7 @@
     "timestamp": "00:36:56.077"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Michael Nchekwube Obinna",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -24904,7 +24904,7 @@
     "timestamp": "00:37:15.180"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Fraser Forster",
     "player2": "",
     "player1_team": "Southampton",
@@ -24928,7 +24928,7 @@
     "timestamp": "00:37:58.304"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Michael Nchekwube Obinna",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -26208,7 +26208,7 @@
     "timestamp": "00:41:00.438"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Willian Borges da Silva",
     "player2": "César Azpilicueta Tanco",
     "player1_team": "Chelsea",
@@ -26272,7 +26272,7 @@
     "timestamp": "00:41:10.217"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -26880,7 +26880,7 @@
     "timestamp": "00:42:38.621"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "Branislav Ivanović",
     "player1_team": "Chelsea",
@@ -27128,7 +27128,7 @@
     "timestamp": "00:44:22.490"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -28248,7 +28248,7 @@
     "timestamp": "00:47:14.830"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -28384,7 +28384,7 @@
     "timestamp": "00:47:42.290"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -28440,7 +28440,7 @@
     "timestamp": "00:48:34.275"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Kenedy Nunes do Nascimento",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -28736,7 +28736,7 @@
     "timestamp": "00:49:18.004"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "",
     "player1_team": "Chelsea",

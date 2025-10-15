@@ -1,5 +1,6 @@
 import { supabase } from './supabaseClient'
-import { mockMatches, mockUsers, mockStakes, mockPredictions, mockQuestions, mockLiveEvents } from './mock-data'
+import { mockUsers, mockStakes } from './mock-data'
+import { matchSimulator } from './match-simulator'
 
 export interface LiveMatchData {
   matchId: string
@@ -14,10 +15,10 @@ export interface LiveMatchData {
 
 export interface MatchEvent {
   id: string
-  type: "goal" | "yellow_card" | "red_card" | "corner" | "substitution"
+  type: string
   minute: number
   player?: string
-  team: "home" | "away"
+  team: "home" | "away" | "unknown"
   description: string
 }
 
@@ -25,51 +26,27 @@ export interface MatchEvent {
 
 // Fetch all matches
 export async function fetchMatches() {
-  // Force use mock data for demo
-  console.log('Using mock matches data for demo')
-  return mockMatches
-  
-  // Commented out Supabase call for demo
-  /*
   try {
-    const { data, error } = await supabase.from('matches').select('*')
-    if (error) throw error
-    
-    // Transform data to match frontend expectations
-    const transformedData = data?.map(match => ({
-      id: match.id,
-      homeTeam: match.home_team || match.homeTeam,
-      awayTeam: match.away_team || match.awayTeam,
-      startTime: match.start_time || match.startTime,
-      status: match.status,
-      participants: match.participants,
-      totalStake: match.total_stake || match.totalStake,
-      homeScore: match.home_score || match.homeScore,
-      awayScore: match.away_score || match.awayScore,
-      contract_address: match.contract_address,
-      minute: match.minute,
-      events: match.events
-    })) || []
-    
-    console.log('Transformed matches data:', transformedData)
-    return transformedData
-  } catch (error) {
-    console.log('Using mock matches data')
-    return mockMatches
-  }
-  */
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/matches', { cache: 'no-store' })
+      return await res.json()
+    }
+  } catch {}
+  return matchSimulator.getMatches()
 }
 
 // Fetch a single match by ID
 export async function fetchMatchById(matchId: string) {
   try {
-    const { data, error } = await supabase.from('matches').select('*').eq('id', matchId).single()
-    if (error) throw error
-    return data
-  } catch (error) {
-    console.log('Using mock match data')
-    return mockMatches.find(m => m.id === matchId) || mockMatches[0]
-  }
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/matches/${matchId}`, { cache: 'no-store' })
+      if (res.ok) return await res.json()
+    }
+  } catch {}
+  const sim = matchSimulator.getMatchById(matchId)
+  if (sim) return sim
+  const first = matchSimulator.getMatches()[0]
+  return first ?? null
 }
 
 // Add a stake
@@ -103,8 +80,8 @@ export async function fetchPredictions(userId: string, matchId: string) {
     if (error) throw error
     return data
   } catch (error) {
-    console.log('Using mock predictions data')
-    return mockPredictions.filter(p => p.user_id === userId && p.match_id === matchId)
+    console.log('Using mock predictions data fallback (empty)')
+    return []
   }
 }
 
@@ -150,8 +127,8 @@ export async function fetchMatchQuestions(matchId: string) {
     if (error) throw error
     return data
   } catch (error) {
-    console.log('Using mock questions data')
-    return mockQuestions.filter(q => q.match_id === matchId)
+    console.log('Using mock questions data fallback (empty)')
+    return []
   }
 }
 
@@ -162,8 +139,9 @@ export async function fetchLiveEvents(matchId: string) {
     if (error) throw error
     return data
   } catch (error) {
-    console.log('Using mock events data')
-    return mockLiveEvents
+    const sim = matchSimulator.getMatchById(matchId)
+    if (sim && sim.events) return sim.events as MatchEvent[]
+    return []
   }
 }
 
@@ -185,16 +163,28 @@ export async function fetchLiveMatchData(matchId: string): Promise<LiveMatchData
 
   await new Promise((resolve) => setTimeout(resolve, 1000))
 
-  // Return mock live data
+  const sim = matchSimulator.getMatchById(matchId)
+  if (sim) {
+    return {
+      matchId,
+      homeTeam: sim.homeTeam,
+      awayTeam: sim.awayTeam,
+      homeScore: sim.homeScore ?? 0,
+      awayScore: sim.awayScore ?? 0,
+      minute: sim.minute ?? 0,
+      status: (sim.status === 'completed' ? 'completed' : 'live'),
+      events: (sim.events || []) as MatchEvent[],
+    }
+  }
   return {
     matchId,
-    homeTeam: "Manchester United",
-    awayTeam: "Liverpool",
-    homeScore: 2,
-    awayScore: 1,
-    minute: 67,
-    status: "live",
-    events: mockLiveEvents,
+    homeTeam: '',
+    awayTeam: '',
+    homeScore: 0,
+    awayScore: 0,
+    minute: 0,
+    status: 'live',
+    events: [],
   }
 }
 

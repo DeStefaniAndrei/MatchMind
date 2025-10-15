@@ -136,7 +136,7 @@
     "timestamp": "00:00:12.441"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Per Mertesacker",
     "player1_team": "Arsenal",
@@ -592,7 +592,7 @@
     "timestamp": "00:01:11.418"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "",
     "player1_team": "Leicester City",
@@ -600,7 +600,7 @@
     "timestamp": "00:01:32.226"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Santiago Cazorla González",
     "player1_team": "Arsenal",
@@ -1072,7 +1072,7 @@
     "timestamp": "00:02:45.249"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -1088,7 +1088,7 @@
     "timestamp": "00:03:15.587"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Ramsey",
     "player2": "Per Mertesacker",
     "player1_team": "Arsenal",
@@ -1272,7 +1272,7 @@
     "timestamp": "00:03:48.439"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wes Morgan",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:04:35.962"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -2792,7 +2792,7 @@
     "timestamp": "00:08:35.326"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Laurent Koscielny",
     "player2": "Per Mertesacker",
     "player1_team": "Arsenal",
@@ -3776,7 +3776,7 @@
     "timestamp": "00:11:14.439"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -5000,7 +5000,7 @@
     "timestamp": "00:15:02.263"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "Alexis Alejandro Sánchez Sánchez",
     "player1_team": "Arsenal",
@@ -5112,7 +5112,7 @@
     "timestamp": "00:15:16.679"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Santiago Cazorla González",
     "player2": "",
     "player1_team": "Arsenal",
@@ -5416,7 +5416,7 @@
     "timestamp": "00:16:30.846"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Ritchie De Laet",
     "player1_team": "Leicester City",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:21:31.450"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -6904,7 +6904,7 @@
     "timestamp": "00:22:17.799"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -6936,7 +6936,7 @@
     "timestamp": "00:22:57.441"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -7016,7 +7016,7 @@
     "timestamp": "00:23:23.727"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "",
     "player1_team": "Leicester City",
@@ -7720,7 +7720,7 @@
     "timestamp": "00:24:57.598"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Theo Walcott",
     "player2": "Ignacio Monreal Eraso",
     "player1_team": "Arsenal",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:25:18.980"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -7912,7 +7912,7 @@
     "timestamp": "00:25:30.461"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:27:23.353"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -10064,7 +10064,7 @@
     "timestamp": "00:30:26.232"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "Santiago Cazorla González",
     "player1_team": "Arsenal",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:31:30.749"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Per Mertesacker",
     "player1_team": "Arsenal",
@@ -10696,7 +10696,7 @@
     "timestamp": "00:31:57.489"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:33:53.080"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -11432,7 +11432,7 @@
     "timestamp": "00:34:55.282"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -11896,7 +11896,7 @@
     "timestamp": "00:36:23.371"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wes Morgan",
     "player2": "",
     "player1_team": "Leicester City",
@@ -12024,7 +12024,7 @@
     "timestamp": "00:37:08.523"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -12400,7 +12400,7 @@
     "timestamp": "00:38:58.579"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Petr Čech",
     "player2": "Laurent Koscielny",
     "player1_team": "Arsenal",
@@ -13720,7 +13720,7 @@
     "timestamp": "00:42:15.078"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -13824,7 +13824,7 @@
     "timestamp": "00:43:54.674"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -14232,7 +14232,7 @@
     "timestamp": "00:45:35.125"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:45:57.228"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "",
     "player1_team": "Leicester City",
@@ -14544,7 +14544,7 @@
     "timestamp": "00:46:44.359"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "",
     "player1_team": "Arsenal",
@@ -14904,7 +14904,7 @@
     "timestamp": "00:00:42.855"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:01:33.939"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "Santiago Cazorla González",
     "player1_team": "Arsenal",
@@ -16152,7 +16152,7 @@
     "timestamp": "00:04:05.981"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -16168,7 +16168,7 @@
     "timestamp": "00:04:18.052"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "Aaron Ramsey",
     "player1_team": "Arsenal",
@@ -16376,7 +16376,7 @@
     "timestamp": "00:04:43.671"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "N''Golo Kanté",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:05:37.986"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Per Mertesacker",
     "player1_team": "Arsenal",
@@ -16752,7 +16752,7 @@
     "timestamp": "00:06:05.496"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:06:48.170"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Santiago Cazorla González",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:08:31.377"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "",
     "player1_team": "Arsenal",
@@ -17720,7 +17720,7 @@
     "timestamp": "00:09:26.503"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -18000,7 +18000,7 @@
     "timestamp": "00:10:10.833"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Mikel Arteta Amatriain",
     "player2": "",
     "player1_team": "Arsenal",
@@ -18080,7 +18080,7 @@
     "timestamp": "00:10:35.780"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wes Morgan",
     "player2": "Andrew Philip King",
     "player1_team": "Leicester City",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:12:57.831"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -18664,7 +18664,7 @@
     "timestamp": "00:13:16.563"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:13:44.914"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mikel Arteta Amatriain",
     "player2": "Laurent Koscielny",
     "player1_team": "Arsenal",
@@ -19440,7 +19440,7 @@
     "timestamp": "00:15:29.572"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:18:27.544"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "",
     "player1_team": "Arsenal",
@@ -20544,7 +20544,7 @@
     "timestamp": "00:19:36.360"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "",
     "player1_team": "Leicester City",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:22:23.758"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "Santiago Cazorla González",
     "player1_team": "Arsenal",
@@ -21528,7 +21528,7 @@
     "timestamp": "00:22:54.517"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "N''Golo Kanté",
     "player2": "",
     "player1_team": "Leicester City",
@@ -21800,7 +21800,7 @@
     "timestamp": "00:23:42.472"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Aaron Ramsey",
     "player1_team": "Arsenal",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:25:19.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -22752,7 +22752,7 @@
     "timestamp": "00:26:25.958"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mikel Arteta Amatriain",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -23512,7 +23512,7 @@
     "timestamp": "00:28:50.103"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "",
     "player1_team": "Leicester City",
@@ -24088,7 +24088,7 @@
     "timestamp": "00:30:16.089"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Alexis Alejandro Sánchez Sánchez",
     "player2": "",
     "player1_team": "Arsenal",
@@ -24448,7 +24448,7 @@
     "timestamp": "00:33:19.813"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -24608,7 +24608,7 @@
     "timestamp": "00:33:46.380"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -24704,7 +24704,7 @@
     "timestamp": "00:34:59.885"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ignacio Monreal Eraso",
     "player2": "Alexis Alejandro Sánchez Sánchez",
     "player1_team": "Arsenal",
@@ -25200,7 +25200,7 @@
     "timestamp": "00:38:12.241"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "",
     "player1_team": "Leicester City",
@@ -25536,7 +25536,7 @@
     "timestamp": "00:39:12.980"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "",
     "player1_team": "Leicester City",
@@ -25552,7 +25552,7 @@
     "timestamp": "00:39:29.118"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -25728,7 +25728,7 @@
     "timestamp": "00:40:20.522"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Andrej Kramarić",
     "player1_team": "Leicester City",
@@ -25840,7 +25840,7 @@
     "timestamp": "00:40:36.710"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -25920,7 +25920,7 @@
     "timestamp": "00:41:21.421"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mesut Özil",
     "player2": "Santiago Cazorla González",
     "player1_team": "Arsenal",
@@ -26072,7 +26072,7 @@
     "timestamp": "00:42:15.479"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -27144,7 +27144,7 @@
     "timestamp": "00:45:43.603"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Laurent Koscielny",
     "player2": "",
     "player1_team": "Arsenal",
@@ -27224,7 +27224,7 @@
     "timestamp": "00:46:17.892"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Santiago Cazorla González",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -27928,7 +27928,7 @@
     "timestamp": "00:49:04.190"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "",
     "player1_team": "Arsenal",

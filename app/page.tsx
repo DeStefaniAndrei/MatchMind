@@ -2,6 +2,7 @@ import { Header } from "@/components/layout/header"
 import { HeroSection } from "@/components/landing/hero-section"
 import { StatsSection } from "@/components/landing/stats-section"
 import { MatchList } from "@/components/matches/match-list"
+import { LivePreview } from "@/components/matches/live-preview"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -62,47 +63,15 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Live Match Preview */}
+      {/* Live Match Preview */
+      }
       <section className="py-16 px-4">
         <div className="container mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Live Match</h2>
+            <h2 className="text-3xl font-bold mb-4">Live Matches</h2>
             <p className="text-muted-foreground">Join the action in real-time</p>
           </div>
-          
-          <div className="max-w-2xl mx-auto">
-            <Card className="border-2 border-red-500">
-              <CardHeader>
-                <div className="flex items-center justify-between">
-                  <CardTitle className="text-xl">Manchester United vs Liverpool</CardTitle>
-                  <Badge className="bg-red-500">LIVE</Badge>
-                </div>
-                <div className="flex items-center gap-4 text-sm text-muted-foreground">
-                  <div className="flex items-center gap-1">
-                    <Users className="h-4 w-4" />
-                    <span>1,247 players</span>
-                  </div>
-                  <div className="flex items-center gap-1">
-                    <Trophy className="h-4 w-4" />
-                    <span>15,420 CHZ staked</span>
-                  </div>
-                </div>
-              </CardHeader>
-              <CardContent>
-                <div className="text-center space-y-4">
-                  <div className="text-4xl font-bold">2 - 1</div>
-                  <div className="text-sm text-muted-foreground">67' + 2</div>
-                  <div className="flex items-center justify-center gap-2">
-                    <Zap className="h-4 w-4 text-yellow-500" />
-                    <span className="text-sm">Live questions active</span>
-                  </div>
-                  <Link href="/match/1">
-                    <Button className="w-full">Join Match</Button>
-                  </Link>
-                </div>
-              </CardContent>
-            </Card>
-          </div>
+          <LivePreview />
         </div>
       </section>
 

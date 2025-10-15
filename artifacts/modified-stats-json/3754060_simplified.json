@@ -600,7 +600,7 @@
     "timestamp": "00:01:21.524"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "José Ramiro Funes Mori",
     "player1_team": "Everton",
@@ -816,7 +816,7 @@
     "timestamp": "00:02:02.085"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto Moreno Pérez",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Liverpool",
@@ -1144,7 +1144,7 @@
     "timestamp": "00:03:04.523"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Steven Naismith",
     "player1_team": "Everton",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:04:06.317"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Guangtai Jiang",
     "player2": "",
     "player1_team": "Everton",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:04:27.631"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guangtai Jiang",
     "player2": "Gareth Barry",
     "player1_team": "Everton",
@@ -2024,7 +2024,7 @@
     "timestamp": "00:06:01.438"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto Moreno Pérez",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -2104,7 +2104,7 @@
     "timestamp": "00:06:26.762"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "James Philip Milner",
     "player2": "",
     "player1_team": "Liverpool",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:07:26.650"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Alberto Moreno Pérez",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Liverpool",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:07:58.067"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Alberto Moreno Pérez",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:08:54.007"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Škrtel",
     "player2": "Lucas Pezzini Leiva",
     "player1_team": "Liverpool",
@@ -2528,7 +2528,7 @@
     "timestamp": "00:09:26.109"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Alberto Moreno Pérez",
     "player2": "",
     "player1_team": "Liverpool",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:11:48.511"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -3056,7 +3056,7 @@
     "timestamp": "00:12:12.981"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -3672,7 +3672,7 @@
     "timestamp": "00:13:51.782"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Emre Can",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:14:33.692"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -4344,7 +4344,7 @@
     "timestamp": "00:15:36.787"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto Moreno Pérez",
     "player2": "Daniel Andre Sturridge",
     "player1_team": "Liverpool",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:16:58.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "Brendan Joel Zibusiso Galloway",
     "player1_team": "Everton",
@@ -5960,7 +5960,7 @@
     "timestamp": "00:19:39.183"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Naismith",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -6192,7 +6192,7 @@
     "timestamp": "00:22:37.588"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "James Philip Milner",
     "player2": "",
     "player1_team": "Liverpool",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:24:08.797"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "",
     "player1_team": "Liverpool",
@@ -6480,7 +6480,7 @@
     "timestamp": "00:24:26.293"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -6856,7 +6856,7 @@
     "timestamp": "00:25:17.845"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel William John Ings",
     "player2": "Nathaniel Edwin Clyne",
     "player1_team": "Liverpool",
@@ -6992,7 +6992,7 @@
     "timestamp": "00:25:32.900"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "Mamadou Sakho",
     "player1_team": "Liverpool",
@@ -7176,7 +7176,7 @@
     "timestamp": "00:26:37.917"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ross Barkley",
     "player2": "Steven Naismith",
     "player1_team": "Everton",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:27:14.803"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "Gareth Barry",
     "player1_team": "Everton",
@@ -7328,7 +7328,7 @@
     "timestamp": "00:27:52.779"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "",
     "player1_team": "Liverpool",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:28:06.546"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:29:53.958"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -8008,7 +8008,7 @@
     "timestamp": "00:30:26.216"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Steven Naismith",
     "player1_team": "Everton",
@@ -8112,7 +8112,7 @@
     "timestamp": "00:30:53.055"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "",
     "player1_team": "Liverpool",
@@ -8128,7 +8128,7 @@
     "timestamp": "00:31:17.865"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -8160,7 +8160,7 @@
     "timestamp": "00:31:30.967"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:32:29.496"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ross Barkley",
     "player2": "José Ramiro Funes Mori",
     "player1_team": "Everton",
@@ -8728,7 +8728,7 @@
     "timestamp": "00:33:09.157"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -8984,7 +8984,7 @@
     "timestamp": "00:34:42.521"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Steven Naismith",
     "player1_team": "Everton",
@@ -9320,7 +9320,7 @@
     "timestamp": "00:35:38.917"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Philip Milner",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:36:00.469"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:36:40.144"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Tim Howard",
     "player2": "",
     "player1_team": "Everton",
@@ -9520,7 +9520,7 @@
     "timestamp": "00:38:11.986"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guangtai Jiang",
     "player2": "Gareth Barry",
     "player1_team": "Everton",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:38:52.761"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Liverpool",
@@ -10624,7 +10624,7 @@
     "timestamp": "00:40:23.692"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "Daniel William John Ings",
     "player1_team": "Liverpool",
@@ -10728,7 +10728,7 @@
     "timestamp": "00:42:05.661"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Alberto Moreno Pérez",
     "player2": "Daniel Andre Sturridge",
     "player1_team": "Liverpool",
@@ -11288,7 +11288,7 @@
     "timestamp": "00:43:55.018"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Daniel Andre Sturridge",
     "player1_team": "Liverpool",
@@ -11336,7 +11336,7 @@
     "timestamp": "00:44:17.244"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "Daniel Andre Sturridge",
     "player1_team": "Liverpool",
@@ -11512,7 +11512,7 @@
     "timestamp": "00:44:53.879"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Tim Howard",
     "player2": "Steven Naismith",
     "player1_team": "Everton",
@@ -11944,7 +11944,7 @@
     "timestamp": "00:47:00.705"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "Steven Naismith",
     "player1_team": "Everton",
@@ -12016,7 +12016,7 @@
     "timestamp": "00:47:34.033"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Lucas Pezzini Leiva",
     "player1_team": "Liverpool",
@@ -12536,7 +12536,7 @@
     "timestamp": "00:00:28.105"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gareth Barry",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:01:04.308"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "Guangtai Jiang",
     "player1_team": "Everton",
@@ -12816,7 +12816,7 @@
     "timestamp": "00:01:35.950"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Gerard Deulofeu Lázaro",
     "player2": "James McCarthy",
     "player1_team": "Everton",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:02:27.679"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ross Barkley",
     "player2": "José Ramiro Funes Mori",
     "player1_team": "Everton",
@@ -13192,7 +13192,7 @@
     "timestamp": "00:03:06.962"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Simon Mignolet",
     "player2": "",
     "player1_team": "Liverpool",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:03:58.009"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Steven Naismith",
     "player1_team": "Everton",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:04:19.829"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:04:37.758"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "José Ramiro Funes Mori",
     "player2": "",
     "player1_team": "Everton",
@@ -13944,7 +13944,7 @@
     "timestamp": "00:05:51.995"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mamadou Sakho",
     "player2": "Lucas Pezzini Leiva",
     "player1_team": "Liverpool",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:06:47.490"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -14464,7 +14464,7 @@
     "timestamp": "00:07:33.681"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:08:00.617"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Škrtel",
     "player2": "Lucas Pezzini Leiva",
     "player1_team": "Liverpool",
@@ -14816,7 +14816,7 @@
     "timestamp": "00:08:45.834"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Daniel Andre Sturridge",
     "player1_team": "Liverpool",
@@ -14888,7 +14888,7 @@
     "timestamp": "00:09:04.271"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gerard Deulofeu Lázaro",
     "player2": "",
     "player1_team": "Everton",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:11:10.365"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ross Barkley",
     "player2": "James McCarthy",
     "player1_team": "Everton",
@@ -15472,7 +15472,7 @@
     "timestamp": "00:12:08.240"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Steven Naismith",
     "player1_team": "Everton",
@@ -15960,7 +15960,7 @@
     "timestamp": "00:14:12.574"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Daniel Andre Sturridge",
     "player1_team": "Liverpool",
@@ -16024,7 +16024,7 @@
     "timestamp": "00:14:26.310"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Philip Milner",
     "player2": "Nathaniel Edwin Clyne",
     "player1_team": "Liverpool",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:15:34.679"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -16648,7 +16648,7 @@
     "timestamp": "00:16:31.892"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guangtai Jiang",
     "player2": "Gareth Barry",
     "player1_team": "Everton",
@@ -16888,7 +16888,7 @@
     "timestamp": "00:17:19.011"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -17112,7 +17112,7 @@
     "timestamp": "00:18:38.359"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "",
     "player1_team": "Liverpool",
@@ -17224,7 +17224,7 @@
     "timestamp": "00:19:21.980"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Alberto Moreno Pérez",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Liverpool",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:21:04.315"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -18056,7 +18056,7 @@
     "timestamp": "00:22:58.038"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Ramiro Funes Mori",
     "player2": "Brendan Joel Zibusiso Galloway",
     "player1_team": "Everton",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:23:44.933"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:25:19.267"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "",
     "player1_team": "Everton",
@@ -18544,7 +18544,7 @@
     "timestamp": "00:25:41.424"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lucas Pezzini Leiva",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Liverpool",
@@ -18920,7 +18920,7 @@
     "timestamp": "00:26:20.758"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Tim Howard",
     "player2": "",
     "player1_team": "Everton",
@@ -19056,7 +19056,7 @@
     "timestamp": "00:28:47.482"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guangtai Jiang",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -19136,7 +19136,7 @@
     "timestamp": "00:28:59.290"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guangtai Jiang",
     "player2": "Aaron Lennon",
     "player1_team": "Everton",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:30:13.992"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Daniel Andre Sturridge",
     "player1_team": "Liverpool",
@@ -19544,7 +19544,7 @@
     "timestamp": "00:30:31.104"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Emre Can",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -20384,7 +20384,7 @@
     "timestamp": "00:34:30.409"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto Moreno Pérez",
     "player2": "Joe Allen",
     "player1_team": "Liverpool",
@@ -20656,7 +20656,7 @@
     "timestamp": "00:35:04.140"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adam David Lallana",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -21456,7 +21456,7 @@
     "timestamp": "00:36:45.592"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Liverpool",
@@ -21552,7 +21552,7 @@
     "timestamp": "00:37:08.343"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -21624,7 +21624,7 @@
     "timestamp": "00:37:24.071"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "",
     "player1_team": "Everton",
@@ -21896,7 +21896,7 @@
     "timestamp": "00:38:03.043"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gareth Barry",
     "player2": "Brendan Joel Zibusiso Galloway",
     "player1_team": "Everton",
@@ -22048,7 +22048,7 @@
     "timestamp": "00:38:37.126"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Guangtai Jiang",
     "player2": "Phil Jagielka",
     "player1_team": "Everton",
@@ -22752,7 +22752,7 @@
     "timestamp": "00:40:42.530"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "",
     "player1_team": "Liverpool",
@@ -23272,7 +23272,7 @@
     "timestamp": "00:42:18.953"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guangtai Jiang",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -23384,7 +23384,7 @@
     "timestamp": "00:42:37.935"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Philippe Coutinho Correia",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -23664,7 +23664,7 @@
     "timestamp": "00:43:10.130"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -24008,7 +24008,7 @@
     "timestamp": "00:45:16.871"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Gareth Barry",
     "player1_team": "Everton",

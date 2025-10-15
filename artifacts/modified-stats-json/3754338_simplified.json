@@ -48,7 +48,7 @@
     "timestamp": "00:00:05.637"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -352,7 +352,7 @@
     "timestamp": "00:00:52.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:03:31.036"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paul Dummett",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -2264,7 +2264,7 @@
     "timestamp": "00:06:28.965"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jack Colback",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:09:01.000"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Michail Antonio",
     "player1_team": "West Ham United",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:09:43.157"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -3592,7 +3592,7 @@
     "timestamp": "00:10:07.282"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Michail Antonio",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:10:43.256"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Dimitri Payet",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:11:30.406"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Collins",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -3840,7 +3840,7 @@
     "timestamp": "00:12:11.282"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Dimitri Payet",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -3896,7 +3896,7 @@
     "timestamp": "00:13:19.182"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -4360,7 +4360,7 @@
     "timestamp": "00:15:38.545"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Paul Dummett",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -4376,7 +4376,7 @@
     "timestamp": "00:15:48.042"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paul Dummett",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -4744,7 +4744,7 @@
     "timestamp": "00:16:41.887"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:17:22.031"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:17:45.661"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Paul Dummett",
     "player2": "Fabricio Coloccini",
     "player1_team": "Newcastle United",
@@ -5544,7 +5544,7 @@
     "timestamp": "00:18:46.609"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -6496,7 +6496,7 @@
     "timestamp": "00:20:58.316"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -6560,7 +6560,7 @@
     "timestamp": "00:21:12.814"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Pedro Mba Obiang Avomo",
     "player1_team": "West Ham United",
@@ -7968,7 +7968,7 @@
     "timestamp": "00:24:31.977"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -8568,7 +8568,7 @@
     "timestamp": "00:25:51.133"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -8848,7 +8848,7 @@
     "timestamp": "00:27:03.097"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -9288,7 +9288,7 @@
     "timestamp": "00:28:50.668"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Mark Noble",
     "player1_team": "West Ham United",
@@ -9536,7 +9536,7 @@
     "timestamp": "00:29:20.456"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -9584,7 +9584,7 @@
     "timestamp": "00:29:30.638"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Noble",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:31:05.116"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:34:15.449"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fabricio Coloccini",
     "player2": "Jonjo Shelvey",
     "player1_team": "Newcastle United",
@@ -12016,7 +12016,7 @@
     "timestamp": "00:35:49.905"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Dimitri Payet",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -12168,7 +12168,7 @@
     "timestamp": "00:37:28.739"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -12664,7 +12664,7 @@
     "timestamp": "00:40:49.138"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Collins",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -13976,7 +13976,7 @@
     "timestamp": "00:44:33.914"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:45:18.316"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Pedro Mba Obiang Avomo",
     "player2": "Angelo Obinze Ogbonna",
     "player1_team": "West Ham United",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:45:56.015"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Michail Antonio",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -14360,7 +14360,7 @@
     "timestamp": "00:46:20.665"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Dimitri Payet",
     "player2": "",
     "player1_team": "West Ham United",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:00:29.092"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Jack Colback",
     "player1_team": "Newcastle United",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:01:13.429"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paul Dummett",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -15232,7 +15232,7 @@
     "timestamp": "00:01:52.637"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -15776,7 +15776,7 @@
     "timestamp": "00:04:16.719"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Mitrović",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:04:24.505"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Dimitri Payet",
     "player1_team": "West Ham United",
@@ -15848,7 +15848,7 @@
     "timestamp": "00:04:39.644"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Paul Dummett",
     "player2": "",
     "player1_team": "Newcastle United",
@@ -15864,7 +15864,7 @@
     "timestamp": "00:04:49.580"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -15912,7 +15912,7 @@
     "timestamp": "00:04:57.641"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paul Dummett",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:05:24.435"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Rob Elliot",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -16176,7 +16176,7 @@
     "timestamp": "00:05:57.080"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Nikica Jelavić",
     "player1_team": "West Ham United",
@@ -16408,7 +16408,7 @@
     "timestamp": "00:06:39.734"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "",
     "player1_team": "West Ham United",
@@ -17312,7 +17312,7 @@
     "timestamp": "00:08:40.603"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Dimitri Payet",
     "player2": "",
     "player1_team": "West Ham United",
@@ -17464,7 +17464,7 @@
     "timestamp": "00:11:44.857"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -18216,7 +18216,7 @@
     "timestamp": "00:13:52.625"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Collins",
     "player2": "James Tomkins",
     "player1_team": "West Ham United",
@@ -18240,7 +18240,7 @@
     "timestamp": "00:14:18.616"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -18616,7 +18616,7 @@
     "timestamp": "00:15:37.541"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -18920,7 +18920,7 @@
     "timestamp": "00:16:48.424"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Tomkins",
     "player2": "Nikica Jelavić",
     "player1_team": "West Ham United",
@@ -19856,7 +19856,7 @@
     "timestamp": "00:19:18.845"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jonjo Shelvey",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:20:50.897"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:22:17.108"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Jonjo Shelvey",
     "player1_team": "Newcastle United",
@@ -22560,7 +22560,7 @@
     "timestamp": "00:26:35.665"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jack Colback",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -23232,7 +23232,7 @@
     "timestamp": "00:29:14.822"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mark Noble",
     "player2": "Carl Jenkinson",
     "player1_team": "West Ham United",
@@ -23696,7 +23696,7 @@
     "timestamp": "00:30:17.750"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jack Colback",
     "player2": "Ayoze Pérez Gutiérrez",
     "player1_team": "Newcastle United",
@@ -24432,7 +24432,7 @@
     "timestamp": "00:32:44.174"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -24864,7 +24864,7 @@
     "timestamp": "00:34:27.620"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aaron Cresswell",
     "player2": "Nikica Jelavić",
     "player1_team": "West Ham United",
@@ -25104,7 +25104,7 @@
     "timestamp": "00:37:09.820"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daryl Janmaat",
     "player2": "Chancel Mbemba Mangulu",
     "player1_team": "Newcastle United",
@@ -25168,7 +25168,7 @@
     "timestamp": "00:37:35.241"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carl Jenkinson",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -25336,7 +25336,7 @@
     "timestamp": "00:37:54.052"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Angelo Obinze Ogbonna",
     "player2": "Adrián San Miguel del Castillo",
     "player1_team": "West Ham United",
@@ -25472,7 +25472,7 @@
     "timestamp": "00:38:25.581"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carl Jenkinson",
     "player2": "Enner Remberto Valencia Lastra",
     "player1_team": "West Ham United",
@@ -25544,7 +25544,7 @@
     "timestamp": "00:38:49.848"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carl Jenkinson",
     "player2": "Nikica Jelavić",
     "player1_team": "West Ham United",
@@ -25592,7 +25592,7 @@
     "timestamp": "00:39:10.746"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Rob Elliot",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -26168,7 +26168,7 @@
     "timestamp": "00:40:48.039"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -26224,7 +26224,7 @@
     "timestamp": "00:41:09.502"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carl Jenkinson",
     "player2": "James Collins",
     "player1_team": "West Ham United",
@@ -26280,7 +26280,7 @@
     "timestamp": "00:41:32.705"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -26312,7 +26312,7 @@
     "timestamp": "00:42:14.604"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jack Colback",
     "player2": "Aleksandar Mitrović",
     "player1_team": "Newcastle United",
@@ -27456,7 +27456,7 @@
     "timestamp": "00:46:34.356"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carl Jenkinson",
     "player2": "Cheikhou Kouyaté",
     "player1_team": "West Ham United",
@@ -27880,7 +27880,7 @@
     "timestamp": "00:47:53.198"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adrián San Miguel del Castillo",
     "player2": "Nikica Jelavić",
     "player1_team": "West Ham United",
@@ -28224,7 +28224,7 @@
     "timestamp": "00:50:12.616"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Yoan Gouffran",
     "player2": "Georginio Wijnaldum",
     "player1_team": "Newcastle United",
@@ -28424,7 +28424,7 @@
     "timestamp": "00:50:47.233"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nikica Jelavić",
     "player2": "",
     "player1_team": "West Ham United",
@@ -28520,7 +28520,7 @@
     "timestamp": "00:51:22.631"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Rob Elliot",
     "player2": "Moussa Sissoko",
     "player1_team": "Newcastle United",

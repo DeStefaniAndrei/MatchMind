@@ -352,7 +352,7 @@
     "timestamp": "00:00:43.104"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "Gabriel Appelt Pires",
     "player1_team": "Leganés",
@@ -384,7 +384,7 @@
     "timestamp": "00:00:53.718"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -1008,7 +1008,7 @@
     "timestamp": "00:02:26.247"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -1240,7 +1240,7 @@
     "timestamp": "00:02:58.918"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Víctor David Díaz Miguel",
     "player2": "",
     "player1_team": "Leganés",
@@ -1704,7 +1704,7 @@
     "timestamp": "00:03:51.677"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Rafael Alcântara do Nascimento",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:04:17.084"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Samuel Yves Umtiti",
     "player2": "Rafael Alcântara do Nascimento",
     "player1_team": "Barcelona",
@@ -2184,7 +2184,7 @@
     "timestamp": "00:05:30.015"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:06:10.211"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Víctor David Díaz Miguel",
     "player2": "",
     "player1_team": "Leganés",
@@ -2424,7 +2424,7 @@
     "timestamp": "00:06:31.964"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -2896,7 +2896,7 @@
     "timestamp": "00:07:49.494"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:08:37.059"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Pablo Ínsua Blanco",
     "player2": "Unai Bustinza Martínez",
     "player1_team": "Leganés",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:10:44.102"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jon Ander Serantes Simon",
     "player2": "",
     "player1_team": "Leganés",
@@ -5224,7 +5224,7 @@
     "timestamp": "00:14:07.452"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "",
     "player1_team": "Leganés",
@@ -5600,7 +5600,7 @@
     "timestamp": "00:16:47.066"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Darwin Daniel Machís Marcano",
     "player2": "",
     "player1_team": "Leganés",
@@ -5912,7 +5912,7 @@
     "timestamp": "00:18:08.403"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rafael Alcântara do Nascimento",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:20:33.974"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -7736,7 +7736,7 @@
     "timestamp": "00:22:49.233"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -7752,7 +7752,7 @@
     "timestamp": "00:23:26.064"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -7840,7 +7840,7 @@
     "timestamp": "00:23:52.481"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Diego Rico Salguero",
     "player2": "Pablo Ínsua Blanco",
     "player1_team": "Leganés",
@@ -7992,7 +7992,7 @@
     "timestamp": "00:24:33.329"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "Gabriel Appelt Pires",
     "player1_team": "Leganés",
@@ -8312,7 +8312,7 @@
     "timestamp": "00:25:16.009"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "Lluis Sastre Reus",
     "player1_team": "Leganés",
@@ -8384,7 +8384,7 @@
     "timestamp": "00:25:24.431"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "Lluis Sastre Reus",
     "player1_team": "Leganés",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:26:24.206"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:27:15.758"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Samuel Yves Umtiti",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:28:21.125"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "Pablo Ínsua Blanco",
     "player1_team": "Leganés",
@@ -9904,7 +9904,7 @@
     "timestamp": "00:29:14.532"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor David Díaz Miguel",
     "player2": "Gabriel Appelt Pires",
     "player1_team": "Leganés",
@@ -10064,7 +10064,7 @@
     "timestamp": "00:29:40.862"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -10992,7 +10992,7 @@
     "timestamp": "00:33:46.250"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Rafael Alcântara do Nascimento",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -11272,7 +11272,7 @@
     "timestamp": "00:34:14.995"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Marc-André ter Stegen",
     "player1_team": "Barcelona",
@@ -11568,7 +11568,7 @@
     "timestamp": "00:34:53.055"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:35:16.404"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -12712,7 +12712,7 @@
     "timestamp": "00:38:01.270"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Marc-André ter Stegen",
     "player1_team": "Barcelona",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:39:46.745"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -14440,7 +14440,7 @@
     "timestamp": "00:42:49.226"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "Pablo Ínsua Blanco",
     "player1_team": "Leganés",
@@ -14960,7 +14960,7 @@
     "timestamp": "00:44:40.510"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Unai López Cabrera",
     "player2": "Lluis Sastre Reus",
     "player1_team": "Leganés",
@@ -16208,7 +16208,7 @@
     "timestamp": "00:03:03.914"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "",
     "player1_team": "Leganés",
@@ -16256,7 +16256,7 @@
     "timestamp": "00:03:29.021"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -16456,7 +16456,7 @@
     "timestamp": "00:03:55.799"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Rafael Alcântara do Nascimento",
     "player2": "",
     "player1_team": "Barcelona",
@@ -17072,7 +17072,7 @@
     "timestamp": "00:05:44.803"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:06:16.579"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:07:14.150"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:07:28.760"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -17544,7 +17544,7 @@
     "timestamp": "00:08:16.132"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:10:41.104"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -17776,7 +17776,7 @@
     "timestamp": "00:11:47.168"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:12:04.888"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -18152,7 +18152,7 @@
     "timestamp": "00:12:54.199"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:14:44.762"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:16:04.057"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alexander Szymanowski",
     "player2": "Gabriel Appelt Pires",
     "player1_team": "Leganés",
@@ -19432,7 +19432,7 @@
     "timestamp": "00:17:06.735"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jon Ander Serantes Simon",
     "player2": "",
     "player1_team": "Leganés",
@@ -20072,7 +20072,7 @@
     "timestamp": "00:20:12.892"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Samuel Yves Umtiti",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:20:44.087"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "Gabriel Appelt Pires",
     "player1_team": "Leganés",
@@ -20896,7 +20896,7 @@
     "timestamp": "00:22:02.034"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -21232,7 +21232,7 @@
     "timestamp": "00:23:17.712"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Rafael Alcântara do Nascimento",
     "player1_team": "Barcelona",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:23:55.169"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:24:23.282"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jon Ander Serantes Simon",
     "player2": "",
     "player1_team": "Leganés",
@@ -21448,7 +21448,7 @@
     "timestamp": "00:25:26.501"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Diego Rico Salguero",
     "player2": "Gabriel Appelt Pires",
     "player1_team": "Leganés",
@@ -21648,7 +21648,7 @@
     "timestamp": "00:26:23.276"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor David Díaz Miguel",
     "player2": "Rubén Salvador Pérez Del Mármol",
     "player1_team": "Leganés",
@@ -21896,7 +21896,7 @@
     "timestamp": "00:26:58.643"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Samuel Yves Umtiti",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -22272,7 +22272,7 @@
     "timestamp": "00:28:15.436"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor David Díaz Miguel",
     "player2": "Alexander Szymanowski",
     "player1_team": "Leganés",
@@ -22824,7 +22824,7 @@
     "timestamp": "00:29:40.609"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lluis Sastre Reus",
     "player2": "",
     "player1_team": "Leganés",
@@ -23080,7 +23080,7 @@
     "timestamp": "00:30:34.780"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Denis Suárez Fernández",
     "player1_team": "Barcelona",
@@ -23280,7 +23280,7 @@
     "timestamp": "00:31:06.841"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -23376,7 +23376,7 @@
     "timestamp": "00:32:05.016"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Francisco Alcácer García",
     "player1_team": "Barcelona",
@@ -23408,7 +23408,7 @@
     "timestamp": "00:32:34.300"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Arda Turan",
     "player1_team": "Barcelona",
@@ -24208,7 +24208,7 @@
     "timestamp": "00:36:08.480"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -25312,7 +25312,7 @@
     "timestamp": "00:38:08.286"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Diego Rico Salguero",
     "player2": "Gabriel Appelt Pires",
     "player1_team": "Leganés",
@@ -25344,7 +25344,7 @@
     "timestamp": "00:38:50.413"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -25520,7 +25520,7 @@
     "timestamp": "00:39:26.329"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Julián Omar Ramos Suárez",
     "player2": "",
     "player1_team": "Leganés",
@@ -25576,7 +25576,7 @@
     "timestamp": "00:40:15.878"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Arda Turan",
     "player1_team": "Barcelona",
@@ -25984,7 +25984,7 @@
     "timestamp": "00:41:21.672"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",

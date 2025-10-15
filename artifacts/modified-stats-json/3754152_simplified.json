@@ -320,7 +320,7 @@
     "timestamp": "00:01:00.773"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -592,7 +592,7 @@
     "timestamp": "00:02:14.917"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -792,7 +792,7 @@
     "timestamp": "00:03:16.358"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jan Kirchhoff",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -816,7 +816,7 @@
     "timestamp": "00:03:23.551"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -880,7 +880,7 @@
     "timestamp": "00:03:41.616"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -896,7 +896,7 @@
     "timestamp": "00:04:10.915"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:04:54.128"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:04:55.974"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -1280,7 +1280,7 @@
     "timestamp": "00:05:17.490"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:06:24.291"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -1768,7 +1768,7 @@
     "timestamp": "00:07:00.461"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -1816,7 +1816,7 @@
     "timestamp": "00:07:28.771"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:07:40.925"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -2080,7 +2080,7 @@
     "timestamp": "00:08:03.139"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -2128,7 +2128,7 @@
     "timestamp": "00:08:24.393"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -2784,7 +2784,7 @@
     "timestamp": "00:09:44.741"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Huth",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -2800,7 +2800,7 @@
     "timestamp": "00:10:27.016"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3248,7 +3248,7 @@
     "timestamp": "00:12:03.141"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -3584,7 +3584,7 @@
     "timestamp": "00:12:53.837"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Fabio Borini",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -3888,7 +3888,7 @@
     "timestamp": "00:13:32.788"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Christian Fuchs",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -3936,7 +3936,7 @@
     "timestamp": "00:14:20.433"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:15:31.512"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Vito Mannone",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -4112,7 +4112,7 @@
     "timestamp": "00:16:11.465"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -4296,7 +4296,7 @@
     "timestamp": "00:16:39.457"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:17:14.151"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:18:59.349"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -5312,7 +5312,7 @@
     "timestamp": "00:19:25.914"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -5672,7 +5672,7 @@
     "timestamp": "00:20:03.132"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -5680,7 +5680,7 @@
     "timestamp": "00:20:54.689"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -5728,7 +5728,7 @@
     "timestamp": "00:21:14.127"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wahbi Khazri",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -6176,7 +6176,7 @@
     "timestamp": "00:23:13.458"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -6256,7 +6256,7 @@
     "timestamp": "00:24:27.939"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -6680,7 +6680,7 @@
     "timestamp": "00:25:59.242"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -6832,7 +6832,7 @@
     "timestamp": "00:27:34.445"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:28:02.164"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:29:06.038"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -7704,7 +7704,7 @@
     "timestamp": "00:31:55.558"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:32:22.539"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8296,7 +8296,7 @@
     "timestamp": "00:33:56.003"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8496,7 +8496,7 @@
     "timestamp": "00:34:21.074"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "DeAndre Yedlin",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:35:44.805"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -9888,7 +9888,7 @@
     "timestamp": "00:38:10.740"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -10056,7 +10056,7 @@
     "timestamp": "00:38:54.784"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -10488,7 +10488,7 @@
     "timestamp": "00:40:13.460"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:41:48.875"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -11096,7 +11096,7 @@
     "timestamp": "00:43:28.509"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -11184,7 +11184,7 @@
     "timestamp": "00:43:47.043"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -11368,7 +11368,7 @@
     "timestamp": "00:44:17.180"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -11712,7 +11712,7 @@
     "timestamp": "00:45:50.210"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -12000,7 +12000,7 @@
     "timestamp": "00:46:25.337"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Danny Drinkwater",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -12256,7 +12256,7 @@
     "timestamp": "00:47:20.631"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -12288,7 +12288,7 @@
     "timestamp": "00:47:54.503"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -12768,7 +12768,7 @@
     "timestamp": "00:01:05.409"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Wahbi Khazri",
     "player2": "",
     "player1_team": "Sunderland",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:02:48.966"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Wahbi Khazri",
     "player1_team": "Sunderland",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:07:37.944"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -14992,7 +14992,7 @@
     "timestamp": "00:08:38.096"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jan Kirchhoff",
     "player1_team": "Sunderland",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:09:24.607"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:10:02.620"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:10:29.388"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:11:03.253"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -15880,7 +15880,7 @@
     "timestamp": "00:11:40.332"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:12:44.277"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -16512,7 +16512,7 @@
     "timestamp": "00:14:03.312"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Christian Fuchs",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:14:39.613"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -16872,7 +16872,7 @@
     "timestamp": "00:15:26.641"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:16:51.047"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -18368,7 +18368,7 @@
     "timestamp": "00:19:52.986"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -18584,7 +18584,7 @@
     "timestamp": "00:21:46.130"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -18632,7 +18632,7 @@
     "timestamp": "00:21:54.133"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -18768,7 +18768,7 @@
     "timestamp": "00:22:59.075"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -18872,7 +18872,7 @@
     "timestamp": "00:23:15.722"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:23:40.386"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -19296,7 +19296,7 @@
     "timestamp": "00:24:26.522"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Jack Rodwell",
     "player1_team": "Sunderland",
@@ -19936,7 +19936,7 @@
     "timestamp": "00:26:09.799"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jermain Defoe",
     "player2": "DeAndre Yedlin",
     "player1_team": "Sunderland",
@@ -20152,7 +20152,7 @@
     "timestamp": "00:27:11.237"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20224,7 +20224,7 @@
     "timestamp": "00:28:00.695"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -20448,7 +20448,7 @@
     "timestamp": "00:28:57.695"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:29:20.037"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20872,7 +20872,7 @@
     "timestamp": "00:30:31.127"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -21248,7 +21248,7 @@
     "timestamp": "00:31:31.921"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick van Aanholt",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -21896,7 +21896,7 @@
     "timestamp": "00:33:36.948"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick van Aanholt",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:36:41.840"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "",
     "player1_team": "Sunderland",
@@ -22976,7 +22976,7 @@
     "timestamp": "00:38:57.051"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -23416,7 +23416,7 @@
     "timestamp": "00:40:10.786"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Daniel Amartey",
     "player1_team": "Leicester City",
@@ -23584,7 +23584,7 @@
     "timestamp": "00:40:33.745"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Vito Mannone",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -24456,7 +24456,7 @@
     "timestamp": "00:43:09.500"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Demarai Gray",
     "player2": "Christian Fuchs",
     "player1_team": "Leicester City",
@@ -24664,7 +24664,7 @@
     "timestamp": "00:43:54.857"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -25848,7 +25848,7 @@
     "timestamp": "00:46:10.248"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Demarai Gray",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -26072,7 +26072,7 @@
     "timestamp": "00:46:48.226"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Lamine Koné",
     "player1_team": "Sunderland",
@@ -26360,7 +26360,7 @@
     "timestamp": "00:47:31.317"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Vito Mannone",
     "player2": "Dame N''Doye",
     "player1_team": "Sunderland",
@@ -26504,7 +26504,7 @@
     "timestamp": "00:48:10.297"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Demarai Gray",
     "player1_team": "Leicester City",
@@ -26816,7 +26816,7 @@
     "timestamp": "00:49:11.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "DeAndre Yedlin",
     "player2": "Vito Mannone",
     "player1_team": "Sunderland",
@@ -27008,7 +27008,7 @@
     "timestamp": "00:50:55.060"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jan Kirchhoff",
     "player2": "",
     "player1_team": "Sunderland",

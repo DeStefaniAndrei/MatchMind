@@ -560,7 +560,7 @@
     "timestamp": "00:01:01.210"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -1104,7 +1104,7 @@
     "timestamp": "00:02:16.838"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -1520,7 +1520,7 @@
     "timestamp": "00:03:05.480"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Joleon Lescott",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:04:28.765"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -2600,7 +2600,7 @@
     "timestamp": "00:06:07.080"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jesús Navas González",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -3136,7 +3136,7 @@
     "timestamp": "00:07:42.444"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ciaran Clark",
     "player2": "Joleon Lescott",
     "player1_team": "Aston Villa",
@@ -3360,7 +3360,7 @@
     "timestamp": "00:08:28.957"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gnégnéri Yaya Touré",
     "player2": "David Josué Jiménez Silva",
     "player1_team": "Manchester City",
@@ -3752,7 +3752,7 @@
     "timestamp": "00:09:35.919"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -3984,7 +3984,7 @@
     "timestamp": "00:10:12.859"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -4240,7 +4240,7 @@
     "timestamp": "00:11:23.432"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -4488,7 +4488,7 @@
     "timestamp": "00:12:07.816"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jesús Navas González",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -5232,7 +5232,7 @@
     "timestamp": "00:14:35.486"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -5656,7 +5656,7 @@
     "timestamp": "00:15:51.283"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:17:21.930"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Vincent Kompany",
     "player1_team": "Manchester City",
@@ -6464,7 +6464,7 @@
     "timestamp": "00:17:54.732"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gnégnéri Yaya Touré",
     "player2": "David Josué Jiménez Silva",
     "player1_team": "Manchester City",
@@ -6544,7 +6544,7 @@
     "timestamp": "00:18:49.588"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:20:29.581"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Vincent Kompany",
     "player1_team": "Manchester City",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:24:29.358"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordan Veretout",
     "player2": "Alan Hutton",
     "player1_team": "Aston Villa",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:25:23.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jordan Veretout",
     "player2": "Gabriel Imuetinyan Agbonlahor",
     "player1_team": "Aston Villa",
@@ -9344,7 +9344,7 @@
     "timestamp": "00:26:31.879"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -9888,7 +9888,7 @@
     "timestamp": "00:28:07.963"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -10032,7 +10032,7 @@
     "timestamp": "00:28:46.443"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -10488,7 +10488,7 @@
     "timestamp": "00:30:22.670"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -11464,7 +11464,7 @@
     "timestamp": "00:32:38.554"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -11536,7 +11536,7 @@
     "timestamp": "00:33:34.305"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Vincent Kompany",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:34:38.526"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jesús Navas González",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -12344,7 +12344,7 @@
     "timestamp": "00:35:37.300"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:37:26.333"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gnégnéri Yaya Touré",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:38:42.100"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:38:51.585"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jesús Navas González",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -13680,7 +13680,7 @@
     "timestamp": "00:39:39.064"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Vincent Kompany",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -14176,7 +14176,7 @@
     "timestamp": "00:40:42.167"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jesús Navas González",
     "player2": "",
     "player1_team": "Manchester City",
@@ -14832,7 +14832,7 @@
     "timestamp": "00:42:55.163"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:43:13.920"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -15216,7 +15216,7 @@
     "timestamp": "00:44:39.122"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gnégnéri Yaya Touré",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -16272,7 +16272,7 @@
     "timestamp": "00:01:07.748"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Vincent Kompany",
     "player1_team": "Manchester City",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:01:59.139"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jesús Navas González",
     "player2": "David Josué Jiménez Silva",
     "player1_team": "Manchester City",
@@ -16696,7 +16696,7 @@
     "timestamp": "00:02:24.556"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -16880,7 +16880,7 @@
     "timestamp": "00:03:43.624"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:08:04.595"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David Josué Jiménez Silva",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -21280,7 +21280,7 @@
     "timestamp": "00:12:55.734"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -22048,7 +22048,7 @@
     "timestamp": "00:15:52.474"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:16:23.742"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -22352,7 +22352,7 @@
     "timestamp": "00:16:59.444"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "Raheem Sterling",
     "player1_team": "Manchester City",
@@ -25384,7 +25384,7 @@
     "timestamp": "00:24:46.087"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -25608,7 +25608,7 @@
     "timestamp": "00:25:33.294"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -26496,7 +26496,7 @@
     "timestamp": "00:29:14.337"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -26784,7 +26784,7 @@
     "timestamp": "00:30:03.385"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -27320,7 +27320,7 @@
     "timestamp": "00:31:15.992"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gaël Clichy",
     "player2": "Vincent Kompany",
     "player1_team": "Manchester City",
@@ -27440,7 +27440,7 @@
     "timestamp": "00:31:34.586"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ciaran Clark",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -27544,7 +27544,7 @@
     "timestamp": "00:32:13.128"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gaël Clichy",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -27968,7 +27968,7 @@
     "timestamp": "00:34:35.691"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -29264,7 +29264,7 @@
     "timestamp": "00:37:41.561"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gaël Clichy",
     "player2": "Fernando Luiz Rosa",
     "player1_team": "Manchester City",
@@ -31648,7 +31648,7 @@
     "timestamp": "00:42:43.800"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Joleon Lescott",
     "player2": "Ciaran Clark",
     "player1_team": "Aston Villa",
@@ -32200,7 +32200,7 @@
     "timestamp": "00:43:58.802"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Joleon Lescott",
     "player1_team": "Aston Villa",
@@ -32744,7 +32744,7 @@
     "timestamp": "00:45:01.528"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Idrissa Gana Gueye",
     "player2": "Alan Hutton",
     "player1_team": "Aston Villa",
@@ -33856,7 +33856,7 @@
     "timestamp": "00:47:32.276"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Micah Richards",
     "player1_team": "Aston Villa",

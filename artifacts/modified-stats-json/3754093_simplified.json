@@ -96,7 +96,7 @@
     "timestamp": "00:00:48.689"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -168,7 +168,7 @@
     "timestamp": "00:01:12.850"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "",
     "player1_team": "Chelsea",
@@ -224,7 +224,7 @@
     "timestamp": "00:01:27.725"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jan Vertonghen",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -888,7 +888,7 @@
     "timestamp": "00:02:53.959"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -904,7 +904,7 @@
     "timestamp": "00:04:35.312"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:06:29.813"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:06:52.786"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -1824,7 +1824,7 @@
     "timestamp": "00:08:02.788"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:09:49.474"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:10:37.745"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -3216,7 +3216,7 @@
     "timestamp": "00:11:16.104"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:11:49.993"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -3456,7 +3456,7 @@
     "timestamp": "00:12:56.041"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:13:26.673"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Asmir Begović",
     "player2": "",
     "player1_team": "Chelsea",
@@ -3544,7 +3544,7 @@
     "timestamp": "00:14:09.880"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -3784,7 +3784,7 @@
     "timestamp": "00:15:07.746"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "Gary Cahill",
     "player1_team": "Chelsea",
@@ -3856,7 +3856,7 @@
     "timestamp": "00:15:29.571"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:16:10.178"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jan Vertonghen",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -4152,7 +4152,7 @@
     "timestamp": "00:16:29.344"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -4416,7 +4416,7 @@
     "timestamp": "00:17:15.222"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:17:36.015"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -4688,7 +4688,7 @@
     "timestamp": "00:19:11.973"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -4824,7 +4824,7 @@
     "timestamp": "00:19:29.874"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:20:28.655"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Harry Kane",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -5496,7 +5496,7 @@
     "timestamp": "00:21:31.464"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -5704,7 +5704,7 @@
     "timestamp": "00:22:06.353"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -5800,7 +5800,7 @@
     "timestamp": "00:22:46.434"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -6072,7 +6072,7 @@
     "timestamp": "00:23:18.025"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -6408,7 +6408,7 @@
     "timestamp": "00:24:06.424"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -6904,7 +6904,7 @@
     "timestamp": "00:25:15.547"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -7920,7 +7920,7 @@
     "timestamp": "00:27:50.234"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -8008,7 +8008,7 @@
     "timestamp": "00:28:35.790"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Heung-Min Son",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -8296,7 +8296,7 @@
     "timestamp": "00:29:22.194"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Pedro Eliezer Rodríguez Ledesma",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -8808,7 +8808,7 @@
     "timestamp": "00:30:38.225"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -8904,7 +8904,7 @@
     "timestamp": "00:31:26.211"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -8984,7 +8984,7 @@
     "timestamp": "00:32:35.640"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "César Azpilicueta Tanco",
     "player1_team": "Chelsea",
@@ -9000,7 +9000,7 @@
     "timestamp": "00:32:57.055"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Mason",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -9200,7 +9200,7 @@
     "timestamp": "00:33:25.070"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -9232,7 +9232,7 @@
     "timestamp": "00:33:49.165"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -9552,7 +9552,7 @@
     "timestamp": "00:34:37.724"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -9640,7 +9640,7 @@
     "timestamp": "00:34:56.872"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -9952,7 +9952,7 @@
     "timestamp": "00:35:33.741"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eden Hazard",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -10128,7 +10128,7 @@
     "timestamp": "00:35:50.950"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -10568,7 +10568,7 @@
     "timestamp": "00:37:33.370"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:39:00.287"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -11472,7 +11472,7 @@
     "timestamp": "00:40:05.823"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -12448,7 +12448,7 @@
     "timestamp": "00:42:48.622"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -13336,7 +13336,7 @@
     "timestamp": "00:45:15.430"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "Branislav Ivanović",
     "player1_team": "Chelsea",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:46:20.549"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -13376,7 +13376,7 @@
     "timestamp": "00:46:48.094"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -13528,7 +13528,7 @@
     "timestamp": "00:00:13.749"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -13848,7 +13848,7 @@
     "timestamp": "00:00:54.747"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -14632,7 +14632,7 @@
     "timestamp": "00:02:50.401"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Heung-Min Son",
     "player1_team": "Tottenham Hotspur",
@@ -14800,7 +14800,7 @@
     "timestamp": "00:03:14.322"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -15056,7 +15056,7 @@
     "timestamp": "00:03:47.507"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -15296,7 +15296,7 @@
     "timestamp": "00:04:38.938"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:04:55.287"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:05:02.779"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -15560,7 +15560,7 @@
     "timestamp": "00:05:27.561"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "Kurt Happy Zouma",
     "player1_team": "Chelsea",
@@ -15880,7 +15880,7 @@
     "timestamp": "00:08:28.852"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -16144,7 +16144,7 @@
     "timestamp": "00:10:45.022"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -16256,7 +16256,7 @@
     "timestamp": "00:11:09.441"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:11:29.263"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -16384,7 +16384,7 @@
     "timestamp": "00:11:54.330"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:12:51.208"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kurt Happy Zouma",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -16952,7 +16952,7 @@
     "timestamp": "00:13:26.308"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -17104,7 +17104,7 @@
     "timestamp": "00:13:53.900"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:15:26.103"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:15:50.625"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -18208,7 +18208,7 @@
     "timestamp": "00:16:47.821"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -18600,7 +18600,7 @@
     "timestamp": "00:17:35.776"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Heung-Min Son",
     "player1_team": "Tottenham Hotspur",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:20:45.463"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -19400,7 +19400,7 @@
     "timestamp": "00:21:21.854"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -19520,7 +19520,7 @@
     "timestamp": "00:21:58.686"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -19536,7 +19536,7 @@
     "timestamp": "00:22:27.776"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -19560,7 +19560,7 @@
     "timestamp": "00:23:00.043"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -19784,7 +19784,7 @@
     "timestamp": "00:23:38.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -20256,7 +20256,7 @@
     "timestamp": "00:24:42.560"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -20496,7 +20496,7 @@
     "timestamp": "00:25:06.867"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kyle Walker",
     "player2": "Danny Rose",
     "player1_team": "Tottenham Hotspur",
@@ -21112,7 +21112,7 @@
     "timestamp": "00:26:46.422"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:27:23.999"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -21400,7 +21400,7 @@
     "timestamp": "00:27:38.942"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Asmir Begović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -21544,7 +21544,7 @@
     "timestamp": "00:29:08.207"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -21976,7 +21976,7 @@
     "timestamp": "00:30:13.268"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Clinton Mua N''Jie",
     "player1_team": "Tottenham Hotspur",
@@ -22520,7 +22520,7 @@
     "timestamp": "00:32:03.409"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nemanja Matić",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -22768,7 +22768,7 @@
     "timestamp": "00:32:42.356"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kyle Walker",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -23136,7 +23136,7 @@
     "timestamp": "00:34:31.753"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -23304,7 +23304,7 @@
     "timestamp": "00:35:00.098"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -23336,7 +23336,7 @@
     "timestamp": "00:35:05.333"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Asmir Begović",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -23416,7 +23416,7 @@
     "timestamp": "00:35:51.487"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -23704,7 +23704,7 @@
     "timestamp": "00:37:09.930"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -24304,7 +24304,7 @@
     "timestamp": "00:38:28.333"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -24400,7 +24400,7 @@
     "timestamp": "00:38:50.260"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Eden Hazard",
     "player1_team": "Chelsea",
@@ -24632,7 +24632,7 @@
     "timestamp": "00:39:31.964"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -24848,7 +24848,7 @@
     "timestamp": "00:40:18.833"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "",
     "player1_team": "Chelsea",
@@ -25392,7 +25392,7 @@
     "timestamp": "00:43:30.558"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danny Rose",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -25696,7 +25696,7 @@
     "timestamp": "00:44:18.624"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -25784,7 +25784,7 @@
     "timestamp": "00:44:39.201"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Kurt Happy Zouma",
     "player1_team": "Chelsea",
@@ -25800,7 +25800,7 @@
     "timestamp": "00:45:04.729"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Rose",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -25936,7 +25936,7 @@
     "timestamp": "00:45:24.699"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -26088,7 +26088,7 @@
     "timestamp": "00:46:19.182"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -26112,7 +26112,7 @@
     "timestamp": "00:46:36.475"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -26528,7 +26528,7 @@
     "timestamp": "00:47:36.505"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -26792,7 +26792,7 @@
     "timestamp": "00:48:16.897"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Ruben Loftus-Cheek",
     "player1_team": "Chelsea",
@@ -26984,7 +26984,7 @@
     "timestamp": "00:49:06.412"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Clinton Mua N''Jie",
     "player1_team": "Tottenham Hotspur",

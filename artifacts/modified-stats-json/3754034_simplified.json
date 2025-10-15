@@ -104,7 +104,7 @@
     "timestamp": "00:00:13.260"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -312,7 +312,7 @@
     "timestamp": "00:00:42.801"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Maya Yoshida",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -664,7 +664,7 @@
     "timestamp": "00:01:39.157"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -848,7 +848,7 @@
     "timestamp": "00:02:16.050"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Shane Long",
     "player1_team": "Southampton",
@@ -1104,7 +1104,7 @@
     "timestamp": "00:03:00.312"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -1480,7 +1480,7 @@
     "timestamp": "00:03:53.995"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:04:49.146"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "",
     "player1_team": "Southampton",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:06:43.218"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -2056,7 +2056,7 @@
     "timestamp": "00:07:29.559"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:08:44.309"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Dušan Tadić",
     "player2": "",
     "player1_team": "Southampton",
@@ -2448,7 +2448,7 @@
     "timestamp": "00:09:34.846"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Phil Jagielka",
     "player1_team": "Everton",
@@ -2640,7 +2640,7 @@
     "timestamp": "00:10:12.177"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Steven Davis",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:12:13.228"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -4336,7 +4336,7 @@
     "timestamp": "00:15:03.613"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -5968,7 +5968,7 @@
     "timestamp": "00:18:29.944"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -6096,7 +6096,7 @@
     "timestamp": "00:18:57.590"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Tom Cleverley",
     "player2": "Brendan Joel Zibusiso Galloway",
     "player1_team": "Everton",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:19:09.753"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:20:02.957"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Séamus Coleman",
     "player2": "John Stones",
     "player1_team": "Everton",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:20:24.821"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "",
     "player1_team": "Southampton",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:22:22.120"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:24:10.332"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -7904,7 +7904,7 @@
     "timestamp": "00:25:52.572"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:26:37.234"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Steven Davis",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -8296,7 +8296,7 @@
     "timestamp": "00:27:25.786"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:30:52.173"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Shane Long",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -9120,7 +9120,7 @@
     "timestamp": "00:31:37.394"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -9608,7 +9608,7 @@
     "timestamp": "00:32:58.949"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -9768,7 +9768,7 @@
     "timestamp": "00:33:14.105"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Dušan Tadić",
     "player2": "",
     "player1_team": "Southampton",
@@ -9784,7 +9784,7 @@
     "timestamp": "00:33:49.030"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -10600,7 +10600,7 @@
     "timestamp": "00:37:30.799"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Séamus Coleman",
     "player2": "",
     "player1_team": "Everton",
@@ -10608,7 +10608,7 @@
     "timestamp": "00:38:06.252"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:38:27.915"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:39:23.132"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Séamus Coleman",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -12072,7 +12072,7 @@
     "timestamp": "00:42:27.283"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -12336,7 +12336,7 @@
     "timestamp": "00:43:38.837"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Séamus Coleman",
     "player2": "Arouna Koné",
     "player1_team": "Everton",
@@ -12824,7 +12824,7 @@
     "timestamp": "00:45:35.802"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "Arouna Koné",
     "player1_team": "Everton",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:46:10.598"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Tom Cleverley",
     "player2": "Arouna Koné",
     "player1_team": "Everton",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:46:26.039"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Arouna Koné",
     "player1_team": "Everton",
@@ -13048,7 +13048,7 @@
     "timestamp": "00:46:41.203"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Maarten Stekelenburg",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:46:59.938"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Tim Howard",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -13224,7 +13224,7 @@
     "timestamp": "00:47:43.419"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:48:00.549"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Dušan Tadić",
     "player2": "",
     "player1_team": "Southampton",
@@ -13528,7 +13528,7 @@
     "timestamp": "00:00:17.777"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -13776,7 +13776,7 @@
     "timestamp": "00:01:03.620"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -14488,7 +14488,7 @@
     "timestamp": "00:02:55.362"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "",
     "player1_team": "Everton",
@@ -15200,7 +15200,7 @@
     "timestamp": "00:05:35.972"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -15240,7 +15240,7 @@
     "timestamp": "00:06:03.964"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "",
     "player1_team": "Southampton",
@@ -16272,7 +16272,7 @@
     "timestamp": "00:09:19.390"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:09:54.774"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Maya Yoshida",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -16608,7 +16608,7 @@
     "timestamp": "00:10:22.426"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Arouna Koné",
     "player1_team": "Everton",
@@ -17152,7 +17152,7 @@
     "timestamp": "00:11:55.277"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gareth Barry",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -17944,7 +17944,7 @@
     "timestamp": "00:17:42.597"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sadio Mané",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -18024,7 +18024,7 @@
     "timestamp": "00:18:06.136"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -19368,7 +19368,7 @@
     "timestamp": "00:21:10.347"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Steven Davis",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:22:17.699"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Phil Jagielka",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -19544,7 +19544,7 @@
     "timestamp": "00:22:39.968"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "",
     "player1_team": "Southampton",
@@ -19584,7 +19584,7 @@
     "timestamp": "00:23:04.584"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:23:38.079"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "James McCarthy",
     "player1_team": "Everton",
@@ -19728,7 +19728,7 @@
     "timestamp": "00:24:02.815"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -19800,7 +19800,7 @@
     "timestamp": "00:25:11.821"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sadio Mané",
     "player2": "Oriol Romeu Vidal",
     "player1_team": "Southampton",
@@ -20232,7 +20232,7 @@
     "timestamp": "00:26:54.408"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "Phil Jagielka",
     "player1_team": "Everton",
@@ -20272,7 +20272,7 @@
     "timestamp": "00:27:18.914"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "Gareth Barry",
     "player1_team": "Everton",
@@ -20304,7 +20304,7 @@
     "timestamp": "00:27:38.151"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Maarten Stekelenburg",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:28:34.435"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -20832,7 +20832,7 @@
     "timestamp": "00:29:03.403"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Maya Yoshida",
     "player2": "Oriol Romeu Vidal",
     "player1_team": "Southampton",
@@ -21088,7 +21088,7 @@
     "timestamp": "00:30:05.745"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Séamus Coleman",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -21192,7 +21192,7 @@
     "timestamp": "00:30:36.264"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Stones",
     "player2": "Romelu Lukaku Menama",
     "player1_team": "Everton",
@@ -21240,7 +21240,7 @@
     "timestamp": "00:31:05.907"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Stones",
     "player2": "Arouna Koné",
     "player1_team": "Everton",
@@ -21400,7 +21400,7 @@
     "timestamp": "00:31:51.569"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Brendan Joel Zibusiso Galloway",
     "player2": "Ross Barkley",
     "player1_team": "Everton",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:34:26.053"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "",
     "player1_team": "Southampton",
@@ -22232,7 +22232,7 @@
     "timestamp": "00:35:36.107"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -22792,7 +22792,7 @@
     "timestamp": "00:36:54.884"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ross Barkley",
     "player2": "",
     "player1_team": "Everton",
@@ -22952,7 +22952,7 @@
     "timestamp": "00:37:45.595"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Tom Cleverley",
     "player2": "James McCarthy",
     "player1_team": "Everton",
@@ -23336,7 +23336,7 @@
     "timestamp": "00:39:44.245"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -24688,7 +24688,7 @@
     "timestamp": "00:44:42.532"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "",
     "player1_team": "Southampton",
@@ -25480,7 +25480,7 @@
     "timestamp": "00:46:36.448"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Maya Yoshida",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -25544,7 +25544,7 @@
     "timestamp": "00:47:07.234"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -25976,7 +25976,7 @@
     "timestamp": "00:48:30.076"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gareth Barry",
     "player2": "",
     "player1_team": "Everton",

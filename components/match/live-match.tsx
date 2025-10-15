@@ -7,23 +7,76 @@ import { Badge } from "@/components/ui/badge"
 import { Progress } from "@/components/ui/progress"
 import { useToast } from "@/hooks/use-toast"
 import { Clock, Users, Trophy, Target, Zap, Brain } from "lucide-react"
-import { mockLiveEvents } from "@/lib/mock-data"
+import { fetchMatchById } from "@/lib/api"
+import { getSimulatedMinuteMs } from "@/lib/sim-config"
 import { realtimeQuestionService, type LiveQuestion } from "@/lib/realtime-question-service"
 
 interface LiveMatchProps {
   matchId: string
 }
 
+// Maintainable lists of event types to show in the Live Events pane
+const GOAL_EVENT_TYPES = [
+  'shot_goal', // from simplified JSON normalization
+  'goal' // fallback
+]
+const SHOT_EVENT_TYPES = [
+  'shot_on_target',
+  'shot_miss',
+]
+const FOUL_EVENT_TYPES = [
+  'Foul Committed',
+  'Card'
+]
+
+// Explicit set-piece event types from simplified JSON
+const SET_PIECE_TYPES = ['corner', 'free_kick', 'throw_in']
+
+function isSetPiece(type: string): boolean {
+  return SET_PIECE_TYPES.includes(type)
+}
+
+function isDisplayableEvent(type: string): boolean {
+  return (
+    GOAL_EVENT_TYPES.includes(type) ||
+    SHOT_EVENT_TYPES.includes(type) ||
+    FOUL_EVENT_TYPES.includes(type) ||
+    isSetPiece(type)
+  )
+}
+
 export function LiveMatch({ matchId }: LiveMatchProps) {
   const [currentQuestion, setCurrentQuestion] = useState<LiveQuestion | null>(null)
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
-  const [score, setScore] = useState(780)
-  const [matchMinute, setMatchMinute] = useState(67)
-  const [events, setEvents] = useState(mockLiveEvents)
+  const [matchMinute, setMatchMinute] = useState(0)
+  const [events, setEvents] = useState<any[]>([])
+  const [homeTeam, setHomeTeam] = useState<string>("")
+  const [awayTeam, setAwayTeam] = useState<string>("")
+  const [homeScore, setHomeScore] = useState<number>(0)
+  const [awayScore, setAwayScore] = useState<number>(0)
   const [isQuestionServiceActive, setIsQuestionServiceActive] = useState(false)
   const { toast } = useToast()
 
   useEffect(() => {
+    const loadFromMatch = async () => {
+      try {
+        const match = await fetchMatchById(matchId)
+        if (match) {
+          setHomeTeam(match.homeTeam || "Home Team")
+          setAwayTeam(match.awayTeam || "Away Team")
+          setHomeScore(match.homeScore ?? 0)
+          setAwayScore(match.awayScore ?? 0)
+          setMatchMinute(match.minute ?? 0)
+          setEvents(Array.isArray(match.events) ? match.events : [])
+        }
+      } catch (error) {
+        console.error('Failed to load match data:', error)
+      }
+    }
+
+    // Initial load
+    loadFromMatch()
+
     // Initialize the real-time question service for this match
     const initializeQuestionService = async () => {
       try {
@@ -49,36 +102,29 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
 
     initializeQuestionService()
 
-    // Simulate match progression
-    const matchInterval = setInterval(() => {
-      setMatchMinute(prev => {
-        const newMinute = prev + 1
-        if (newMinute >= 90) {
-          realtimeQuestionService.stopMatch(matchId)
-          return 90
+    // Poll match from each simulated minute to reflect new  state
+    const minuteMs = getSimulatedMinuteMs()
+    const matchInterval = setInterval(async () => {
+      try {
+        const match = await fetchMatchById(matchId)
+        if (!match) return
+        const prevMinute = matchMinute
+        setHomeTeam(match.homeTeam || "Home Team")
+        setAwayTeam(match.awayTeam || "Away Team")
+        setHomeScore(match.homeScore ?? 0)
+        setAwayScore(match.awayScore ?? 0)
+        setMatchMinute(match.minute ?? 0)
+        setEvents(Array.isArray(match.events) ? match.events : [])
+        if ((match.minute ?? 0) > prevMinute) {
+          realtimeQuestionService.updateMatchMinute(matchId, match.minute ?? 0)
         }
-        // Update the question service with new minute
-        realtimeQuestionService.updateMatchMinute(matchId, newMinute)
-        return newMinute
-      })
-    }, 5000) // Every 5 seconds for demo
-
-    // Simulate new events
-    const eventInterval = setInterval(() => {
-      const newEvent = {
-        id: Date.now().toString(),
-        type: Math.random() > 0.7 ? "goal" : "yellow_card",
-        minute: matchMinute,
-        player: "Demo Player",
-        team: Math.random() > 0.5 ? "home" : "away",
-        description: Math.random() > 0.7 ? "Goal scored!" : "Yellow card"
+      } catch (e) {
+        // ignore transient errors
       }
-      setEvents(prev => [newEvent, ...prev.slice(0, 4)])
-    }, 15000) // Every 15 seconds for demo
+    }, minuteMs)
 
     return () => {
       clearInterval(matchInterval)
-      clearInterval(eventInterval)
       realtimeQuestionService.stopMatch(matchId)
     }
   }, [matchId, toast])
@@ -106,7 +152,7 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
     
     if (result.success) {
       setCurrentQuestion({ ...currentQuestion, answered: true })
-      setScore(score + result.pointsAwarded)
+      // Score is user-specific and not in Match type; integrate later if needed
       
       // Show immediate submission feedback
       toast({
@@ -141,13 +187,13 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
       <Card>
         <CardHeader>
           <div className="flex items-center justify-between">
-            <CardTitle>Manchester United vs Liverpool</CardTitle>
+            <CardTitle>{homeTeam || "Home Team"} vs {awayTeam || "Away Team"}</CardTitle>
             <Badge className="bg-red-500">LIVE</Badge>
           </div>
           <div className="flex items-center gap-4 text-sm text-muted-foreground">
             <div className="flex items-center gap-1">
               <Clock className="h-4 w-4" />
-              <span>{matchMinute}' + 2</span>
+              <span>{matchMinute}'</span>
             </div>
             <div className="flex items-center gap-1">
               <Users className="h-4 w-4" />
@@ -161,8 +207,8 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
         </CardHeader>
         <CardContent>
           <div className="text-center">
-            <div className="text-3xl font-bold mb-2">2 - 1</div>
-            <div className="text-sm text-muted-foreground">Your Score: {score} points</div>
+            <div className="text-3xl font-bold mb-2">{homeScore} - {awayScore}</div>
+            {/* Your Score is not part of Match; omitted to keep data strictly from Match */}
             <div className="mt-2 flex items-center justify-center gap-2">
               <Target className="h-4 w-4 text-green-500" />
               <span className="text-sm text-green-600">Rank #3</span>
@@ -242,10 +288,19 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
         </CardHeader>
         <CardContent>
           <div className="space-y-3">
-            {events.map((event) => (
+            {events
+              //ony type of events that are displated sorted by time max 15
+              .filter((e) => isDisplayableEvent(String(e.type)))
+              .sort((a, b) => (a.minute ?? 0) - (b.minute ?? 0))
+              .slice(-10)
+              .map((event) => (
               <div key={event.id} className="flex items-center gap-3 p-3 bg-muted rounded-lg">
                 <div className={`w-3 h-3 rounded-full ${
-                  event.type === "goal" ? "bg-green-500" : "bg-yellow-500"
+                  event.type === "shot_goal" || event.type === "goal"
+                    ? "bg-green-500"
+                    : isSetPiece(String(event.type))
+                      ? "bg-blue-500"
+                      : "bg-yellow-500"
                 }`} />
                 <div className="flex-1">
                   <div className="font-medium">{event.description}</div>
@@ -255,7 +310,7 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
                 </div>
                 <Badge variant="outline">{event.type}</Badge>
               </div>
-            ))}
+              ))}
           </div>
         </CardContent>
       </Card>

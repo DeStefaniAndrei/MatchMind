@@ -272,7 +272,7 @@
     "timestamp": "00:00:15.975"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -544,7 +544,7 @@
     "timestamp": "00:01:00.309"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Vincent Kompany",
     "player2": "",
     "player1_team": "Manchester City",
@@ -600,7 +600,7 @@
     "timestamp": "00:01:26.071"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -656,7 +656,7 @@
     "timestamp": "00:01:41.065"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:02:41.739"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jesús Navas González",
     "player2": "David Josué Jiménez Silva",
     "player1_team": "Manchester City",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:05:14.267"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -2416,7 +2416,7 @@
     "timestamp": "00:06:04.149"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "Vincent Kompany",
     "player1_team": "Manchester City",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:06:47.107"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:07:26.742"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -2936,7 +2936,7 @@
     "timestamp": "00:07:52.974"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -3056,7 +3056,7 @@
     "timestamp": "00:09:00.897"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:09:32.342"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:12:04.922"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gaël Clichy",
     "player2": "Fernando Francisco Reges",
     "player1_team": "Manchester City",
@@ -4400,7 +4400,7 @@
     "timestamp": "00:12:53.773"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -4712,7 +4712,7 @@
     "timestamp": "00:13:31.063"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fernando Francisco Reges",
     "player2": "David Josué Jiménez Silva",
     "player1_team": "Manchester City",
@@ -5040,7 +5040,7 @@
     "timestamp": "00:14:49.916"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "Vincent Kompany",
     "player1_team": "Manchester City",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:16:08.917"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nicolás Hernán Otamendi",
     "player2": "Gaël Clichy",
     "player1_team": "Manchester City",
@@ -7968,7 +7968,7 @@
     "timestamp": "00:22:29.148"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Joe Hart",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -8344,7 +8344,7 @@
     "timestamp": "00:23:51.692"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:24:09.869"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -8528,7 +8528,7 @@
     "timestamp": "00:24:23.069"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:24:40.814"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "David Josué Jiménez Silva",
     "player1_team": "Manchester City",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:25:37.964"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Nathan Redmond",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:26:44.526"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Joe Hart",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:29:36.855"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -10384,7 +10384,7 @@
     "timestamp": "00:31:20.848"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -10432,7 +10432,7 @@
     "timestamp": "00:31:50.485"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -10536,7 +10536,7 @@
     "timestamp": "00:32:05.471"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -10896,7 +10896,7 @@
     "timestamp": "00:32:42.640"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -11224,7 +11224,7 @@
     "timestamp": "00:33:09.757"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gary O''Neil",
     "player2": "Martin Olsson",
     "player1_team": "Norwich City",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:34:15.389"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -11848,7 +11848,7 @@
     "timestamp": "00:35:23.403"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -12880,7 +12880,7 @@
     "timestamp": "00:37:21.992"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -12936,7 +12936,7 @@
     "timestamp": "00:37:52.633"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Joe Hart",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -13248,7 +13248,7 @@
     "timestamp": "00:39:27.386"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -13328,7 +13328,7 @@
     "timestamp": "00:39:48.815"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:40:06.665"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "",
     "player1_team": "Manchester City",
@@ -13976,7 +13976,7 @@
     "timestamp": "00:41:33.400"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -14008,7 +14008,7 @@
     "timestamp": "00:42:04.271"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gaël Clichy",
     "player2": "Fernando Luiz Rosa",
     "player1_team": "Manchester City",
@@ -14128,7 +14128,7 @@
     "timestamp": "00:44:14.401"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sergio Leonel Agüero del Castillo",
     "player2": "",
     "player1_team": "Manchester City",
@@ -14344,7 +14344,7 @@
     "timestamp": "00:44:51.871"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bacary Sagna",
     "player2": "Fernando Francisco Reges",
     "player1_team": "Manchester City",
@@ -14600,7 +14600,7 @@
     "timestamp": "00:45:46.896"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -14624,7 +14624,7 @@
     "timestamp": "00:45:57.738"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -14704,7 +14704,7 @@
     "timestamp": "00:46:15.858"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -14776,7 +14776,7 @@
     "timestamp": "00:46:35.152"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -15248,7 +15248,7 @@
     "timestamp": "00:00:35.251"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:00:56.592"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -16176,7 +16176,7 @@
     "timestamp": "00:02:42.046"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jesús Navas González",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -16336,7 +16336,7 @@
     "timestamp": "00:03:35.535"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jonathan Howson",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -16440,7 +16440,7 @@
     "timestamp": "00:04:26.247"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jesús Navas González",
     "player2": "Fernando Francisco Reges",
     "player1_team": "Manchester City",
@@ -16520,7 +16520,7 @@
     "timestamp": "00:05:34.538"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Fernando Luiz Rosa",
     "player2": "David Josué Jiménez Silva",
     "player1_team": "Manchester City",
@@ -16640,7 +16640,7 @@
     "timestamp": "00:05:50.823"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -16672,7 +16672,7 @@
     "timestamp": "00:06:06.123"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Russell Martin",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -18216,7 +18216,7 @@
     "timestamp": "00:09:42.156"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bennett",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -18520,7 +18520,7 @@
     "timestamp": "00:10:29.963"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Wilfried Guemiand Bony",
     "player1_team": "Manchester City",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:10:51.160"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -19280,7 +19280,7 @@
     "timestamp": "00:13:27.857"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jesús Navas González",
     "player2": "",
     "player1_team": "Manchester City",
@@ -19928,7 +19928,7 @@
     "timestamp": "00:14:57.392"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -20104,7 +20104,7 @@
     "timestamp": "00:15:22.359"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David Josué Jiménez Silva",
     "player2": "",
     "player1_team": "Manchester City",
@@ -21872,7 +21872,7 @@
     "timestamp": "00:21:35.184"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David Josué Jiménez Silva",
     "player2": "Fernando Luiz Rosa",
     "player1_team": "Manchester City",
@@ -24456,7 +24456,7 @@
     "timestamp": "00:28:03.729"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fernando Francisco Reges",
     "player2": "Gaël Clichy",
     "player1_team": "Manchester City",
@@ -24624,7 +24624,7 @@
     "timestamp": "00:28:51.391"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jesús Navas González",
     "player2": "",
     "player1_team": "Manchester City",
@@ -24904,7 +24904,7 @@
     "timestamp": "00:29:47.584"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jesús Navas González",
     "player2": "",
     "player1_team": "Manchester City",
@@ -25232,7 +25232,7 @@
     "timestamp": "00:30:57.772"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Raheem Sterling",
     "player2": "Gaël Clichy",
     "player1_team": "Manchester City",
@@ -25512,7 +25512,7 @@
     "timestamp": "00:31:52.488"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fernando Francisco Reges",
     "player2": "Gaël Clichy",
     "player1_team": "Manchester City",
@@ -26328,7 +26328,7 @@
     "timestamp": "00:33:34.380"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -26848,7 +26848,7 @@
     "timestamp": "00:35:20.572"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -27016,7 +27016,7 @@
     "timestamp": "00:35:48.903"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Kelechi Promise Iheanacho",
     "player1_team": "Manchester City",
@@ -27056,7 +27056,7 @@
     "timestamp": "00:36:19.757"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -27696,7 +27696,7 @@
     "timestamp": "00:37:54.575"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Kelechi Promise Iheanacho",
     "player1_team": "Manchester City",
@@ -27752,7 +27752,7 @@
     "timestamp": "00:38:19.780"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -28112,7 +28112,7 @@
     "timestamp": "00:40:07.814"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -28392,7 +28392,7 @@
     "timestamp": "00:41:12.451"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -28488,7 +28488,7 @@
     "timestamp": "00:41:21.829"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David Josué Jiménez Silva",
     "player2": "Kelechi Promise Iheanacho",
     "player1_team": "Manchester City",
@@ -28912,7 +28912,7 @@
     "timestamp": "00:42:31.312"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pablo Javier Zabaleta Girod",
     "player2": "Fernando Luiz Rosa",
     "player1_team": "Manchester City",
@@ -29352,7 +29352,7 @@
     "timestamp": "00:44:05.615"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -29392,7 +29392,7 @@
     "timestamp": "00:44:30.757"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -29648,7 +29648,7 @@
     "timestamp": "00:45:45.247"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pablo Javier Zabaleta Girod",
     "player2": "David Josué Jiménez Silva",
     "player1_team": "Manchester City",
@@ -29712,7 +29712,7 @@
     "timestamp": "00:45:58.021"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "David Josué Jiménez Silva",
     "player2": "",
     "player1_team": "Manchester City",
@@ -29784,7 +29784,7 @@
     "timestamp": "00:46:31.562"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nicolás Hernán Otamendi",
     "player2": "Gaël Clichy",
     "player1_team": "Manchester City",
@@ -29864,7 +29864,7 @@
     "timestamp": "00:46:46.723"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",

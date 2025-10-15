@@ -632,7 +632,7 @@
     "timestamp": "00:01:02.771"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Manuel Morlanes Ariño",
     "player2": "Santiago Cazorla González",
     "player1_team": "Villarreal",
@@ -1008,7 +1008,7 @@
     "timestamp": "00:02:01.322"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "",
     "player1_team": "Barcelona",
@@ -1024,7 +1024,7 @@
     "timestamp": "00:02:29.745"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:02:58.061"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro González Soberón",
     "player2": "Samuel Chimerenka Chukwueze",
     "player1_team": "Villarreal",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:03:10.731"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mario Gaspar Pérez Martínez",
     "player2": "Manuel Morlanes Ariño",
     "player1_team": "Villarreal",
@@ -1320,7 +1320,7 @@
     "timestamp": "00:03:33.645"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Gaspar Pérez Martínez",
     "player2": "Samuel Chimerenka Chukwueze",
     "player1_team": "Villarreal",
@@ -1472,7 +1472,7 @@
     "timestamp": "00:03:55.041"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -1992,7 +1992,7 @@
     "timestamp": "00:05:00.552"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Santiago Cazorla González",
     "player2": "Víctor Ruíz Torre",
     "player1_team": "Villarreal",
@@ -2088,7 +2088,7 @@
     "timestamp": "00:05:30.351"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Santiago Cazorla González",
     "player2": "Vicente Iborra De La Fuente",
     "player1_team": "Villarreal",
@@ -2120,7 +2120,7 @@
     "timestamp": "00:06:10.929"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Samuel Chimerenka Chukwueze",
     "player2": "Santiago Cazorla González",
     "player1_team": "Villarreal",
@@ -2216,7 +2216,7 @@
     "timestamp": "00:06:53.438"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luis Alberto Suárez Díaz",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -2448,7 +2448,7 @@
     "timestamp": "00:07:25.967"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Santiago Cazorla González",
     "player2": "",
     "player1_team": "Villarreal",
@@ -2552,7 +2552,7 @@
     "timestamp": "00:08:04.388"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Arturo Erasmo Vidal Pardo",
     "player1_team": "Barcelona",
@@ -2784,7 +2784,7 @@
     "timestamp": "00:09:12.045"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Clément Lenglet",
     "player1_team": "Barcelona",
@@ -2944,7 +2944,7 @@
     "timestamp": "00:09:35.441"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Arturo Erasmo Vidal Pardo",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:10:29.591"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -4152,7 +4152,7 @@
     "timestamp": "00:13:49.421"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Gaspar Pérez Martínez",
     "player2": "Manuel Morlanes Ariño",
     "player1_team": "Villarreal",
@@ -5112,7 +5112,7 @@
     "timestamp": "00:16:31.139"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Samuel Yves Umtiti",
     "player2": "Marc-André ter Stegen",
     "player1_team": "Barcelona",
@@ -5304,7 +5304,7 @@
     "timestamp": "00:16:59.144"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:17:21.073"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Philippe Coutinho Correia",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -6272,7 +6272,7 @@
     "timestamp": "00:19:24.071"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "Malcom Filipe Silva de Oliveira",
     "player1_team": "Barcelona",
@@ -6416,7 +6416,7 @@
     "timestamp": "00:20:07.651"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Asenjo Andrés",
     "player2": "Álvaro González Soberón",
     "player1_team": "Villarreal",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:20:58.908"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Samuel Yves Umtiti",
     "player2": "Arturo Erasmo Vidal Pardo",
     "player1_team": "Barcelona",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:21:22.374"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Arturo Erasmo Vidal Pardo",
     "player1_team": "Barcelona",
@@ -8096,7 +8096,7 @@
     "timestamp": "00:25:01.724"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Clément Lenglet",
     "player1_team": "Barcelona",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:26:15.970"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:31:38.793"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alfonso Pedraza Sag",
     "player2": "Santiago Cazorla González",
     "player1_team": "Villarreal",
@@ -11792,7 +11792,7 @@
     "timestamp": "00:34:15.257"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Malcom Filipe Silva de Oliveira",
     "player1_team": "Barcelona",
@@ -12152,7 +12152,7 @@
     "timestamp": "00:35:26.349"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Asenjo Andrés",
     "player2": "Álvaro González Soberón",
     "player1_team": "Villarreal",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:36:20.996"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alfonso Pedraza Sag",
     "player2": "Samuel Chimerenka Chukwueze",
     "player1_team": "Villarreal",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:38:09.864"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Ramiro Funes Mori",
     "player2": "Víctor Ruíz Torre",
     "player1_team": "Villarreal",
@@ -14352,7 +14352,7 @@
     "timestamp": "00:40:46.995"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Ramiro Funes Mori",
     "player2": "Álvaro González Soberón",
     "player1_team": "Villarreal",
@@ -14688,7 +14688,7 @@
     "timestamp": "00:41:32.429"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alfonso Pedraza Sag",
     "player2": "Víctor Ruíz Torre",
     "player1_team": "Villarreal",
@@ -15448,7 +15448,7 @@
     "timestamp": "00:44:33.033"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:45:54.231"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Gaspar Pérez Martínez",
     "player2": "Vicente Iborra De La Fuente",
     "player1_team": "Villarreal",
@@ -16576,7 +16576,7 @@
     "timestamp": "00:01:09.406"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -17496,7 +17496,7 @@
     "timestamp": "00:03:36.800"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -18032,7 +18032,7 @@
     "timestamp": "00:05:42.021"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alfonso Pedraza Sag",
     "player2": "Vicente Iborra De La Fuente",
     "player1_team": "Villarreal",
@@ -18224,7 +18224,7 @@
     "timestamp": "00:06:34.068"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Santiago Cazorla González",
     "player2": "Álvaro González Soberón",
     "player1_team": "Villarreal",
@@ -18424,7 +18424,7 @@
     "timestamp": "00:07:52.320"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Arthur Henrique Ramos de Oliveira Melo",
     "player1_team": "Barcelona",
@@ -18984,7 +18984,7 @@
     "timestamp": "00:08:51.727"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Gaspar Pérez Martínez",
     "player2": "Karl Brillant Toko Ekambi",
     "player1_team": "Villarreal",
@@ -19168,7 +19168,7 @@
     "timestamp": "00:09:22.347"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -19944,7 +19944,7 @@
     "timestamp": "00:10:46.298"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alfonso Pedraza Sag",
     "player2": "Vicente Iborra De La Fuente",
     "player1_team": "Villarreal",
@@ -19968,7 +19968,7 @@
     "timestamp": "00:11:19.839"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Arturo Erasmo Vidal Pardo",
     "player1_team": "Barcelona",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:13:26.098"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Víctor Ruíz Torre",
     "player2": "Álvaro González Soberón",
     "player1_team": "Villarreal",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:14:00.091"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -21424,7 +21424,7 @@
     "timestamp": "00:15:16.856"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Clément Lenglet",
     "player1_team": "Barcelona",
@@ -21608,7 +21608,7 @@
     "timestamp": "00:15:46.496"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Gaspar Pérez Martínez",
     "player2": "Santiago Cazorla González",
     "player1_team": "Villarreal",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:19:05.573"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Arturo Erasmo Vidal Pardo",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -24592,7 +24592,7 @@
     "timestamp": "00:23:45.120"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Santiago Cazorla González",
     "player2": "Álvaro González Soberón",
     "player1_team": "Villarreal",
@@ -25016,7 +25016,7 @@
     "timestamp": "00:25:08.733"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -25568,7 +25568,7 @@
     "timestamp": "00:27:24.446"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -26272,7 +26272,7 @@
     "timestamp": "00:29:53.176"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -26864,7 +26864,7 @@
     "timestamp": "00:31:19.503"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Víctor Ruíz Torre",
     "player2": "Santiago Cáseres",
     "player1_team": "Villarreal",
@@ -26920,7 +26920,7 @@
     "timestamp": "00:31:53.855"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Malcom Filipe Silva de Oliveira",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -26968,7 +26968,7 @@
     "timestamp": "00:32:10.405"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sergio Asenjo Andrés",
     "player2": "",
     "player1_team": "Villarreal",
@@ -27024,7 +27024,7 @@
     "timestamp": "00:32:54.993"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -28080,7 +28080,7 @@
     "timestamp": "00:36:25.194"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -28496,7 +28496,7 @@
     "timestamp": "00:38:20.291"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Asenjo Andrés",
     "player2": "Víctor Ruíz Torre",
     "player1_team": "Villarreal",
@@ -28744,7 +28744,7 @@
     "timestamp": "00:39:13.090"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Víctor Ruíz Torre",
     "player2": "",
     "player1_team": "Villarreal",
@@ -28768,7 +28768,7 @@
     "timestamp": "00:40:01.360"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Samuel Yves Umtiti",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -28896,7 +28896,7 @@
     "timestamp": "00:41:36.232"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Carles Aleña Castillo",
     "player1_team": "Barcelona",
@@ -30440,7 +30440,7 @@
     "timestamp": "00:47:13.761"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ivan Rakitić",
     "player2": "Clément Lenglet",
     "player1_team": "Barcelona",
@@ -30536,7 +30536,7 @@
     "timestamp": "00:47:41.362"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",

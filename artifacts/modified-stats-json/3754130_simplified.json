@@ -520,7 +520,7 @@
     "timestamp": "00:00:49.634"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -704,7 +704,7 @@
     "timestamp": "00:01:25.169"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -1088,7 +1088,7 @@
     "timestamp": "00:02:10.793"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -1304,7 +1304,7 @@
     "timestamp": "00:02:42.135"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jordan Veretout",
     "player2": "Micah Richards",
     "player1_team": "Aston Villa",
@@ -2024,7 +2024,7 @@
     "timestamp": "00:07:14.059"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Richardson",
     "player2": "Leandro Bacuna",
     "player1_team": "Aston Villa",
@@ -2456,7 +2456,7 @@
     "timestamp": "00:08:35.111"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -2576,7 +2576,7 @@
     "timestamp": "00:08:58.334"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jordan Veretout",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3376,7 +3376,7 @@
     "timestamp": "00:11:23.334"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",
@@ -3552,7 +3552,7 @@
     "timestamp": "00:12:02.911"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -3816,7 +3816,7 @@
     "timestamp": "00:13:22.829"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -3920,7 +3920,7 @@
     "timestamp": "00:14:22.789"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Richardson",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -4104,7 +4104,7 @@
     "timestamp": "00:14:45.380"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordan Veretout",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -4448,7 +4448,7 @@
     "timestamp": "00:17:03.872"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -4776,7 +4776,7 @@
     "timestamp": "00:17:57.092"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Kieran Richardson",
     "player1_team": "Aston Villa",
@@ -4824,7 +4824,7 @@
     "timestamp": "00:18:33.349"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -5176,7 +5176,7 @@
     "timestamp": "00:19:25.974"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Russell Martin",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -5936,7 +5936,7 @@
     "timestamp": "00:21:27.411"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -5968,7 +5968,7 @@
     "timestamp": "00:22:06.160"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Scott Sinclair",
     "player1_team": "Aston Villa",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:22:27.472"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jordan Veretout",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:24:50.877"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:24:59.496"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Declan Rudd",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6728,7 +6728,7 @@
     "timestamp": "00:25:55.002"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Declan Rudd",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:27:35.050"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Declan Rudd",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:28:15.969"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -8608,7 +8608,7 @@
     "timestamp": "00:31:21.724"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -8944,7 +8944,7 @@
     "timestamp": "00:32:58.417"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wes Hoolahan",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",
@@ -9280,7 +9280,7 @@
     "timestamp": "00:33:54.307"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "Alexander Banor Tettey",
     "player1_team": "Norwich City",
@@ -9952,7 +9952,7 @@
     "timestamp": "00:36:36.014"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jonathan Howson",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:38:10.104"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -10320,7 +10320,7 @@
     "timestamp": "00:38:24.858"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -10520,7 +10520,7 @@
     "timestamp": "00:38:54.888"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "Russell Martin",
     "player1_team": "Norwich City",
@@ -10832,7 +10832,7 @@
     "timestamp": "00:39:55.766"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Alan Hutton",
     "player1_team": "Aston Villa",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:41:07.145"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Declan Rudd",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11552,7 +11552,7 @@
     "timestamp": "00:43:15.431"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Westwood",
     "player2": "Leandro Bacuna",
     "player1_team": "Aston Villa",
@@ -11592,7 +11592,7 @@
     "timestamp": "00:44:24.185"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jordan Veretout",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:44:49.301"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jordan Veretout",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:00:39.744"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12968,7 +12968,7 @@
     "timestamp": "00:02:07.838"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Declan Rudd",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13304,7 +13304,7 @@
     "timestamp": "00:03:21.687"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:04:14.233"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Declan Rudd",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13752,7 +13752,7 @@
     "timestamp": "00:05:25.532"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -14696,7 +14696,7 @@
     "timestamp": "00:08:16.972"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Declan Rudd",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:09:11.547"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kieran Richardson",
     "player2": "Alan Hutton",
     "player1_team": "Aston Villa",
@@ -15272,7 +15272,7 @@
     "timestamp": "00:11:27.371"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -15296,7 +15296,7 @@
     "timestamp": "00:11:41.943"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:12:24.978"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Nathan Redmond",
     "player2": "Russell Martin",
     "player1_team": "Norwich City",
@@ -15368,7 +15368,7 @@
     "timestamp": "00:12:46.463"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -15424,7 +15424,7 @@
     "timestamp": "00:13:46.789"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -15624,7 +15624,7 @@
     "timestamp": "00:14:31.040"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -15888,7 +15888,7 @@
     "timestamp": "00:15:02.204"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jordan Veretout",
     "player2": "Kieran Richardson",
     "player1_team": "Aston Villa",
@@ -16136,7 +16136,7 @@
     "timestamp": "00:17:24.668"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -16472,7 +16472,7 @@
     "timestamp": "00:18:41.434"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -16496,7 +16496,7 @@
     "timestamp": "00:18:52.096"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leandro Bacuna",
     "player2": "Kieran Richardson",
     "player1_team": "Aston Villa",
@@ -17016,7 +17016,7 @@
     "timestamp": "00:20:01.545"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:23:21.411"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -18624,7 +18624,7 @@
     "timestamp": "00:24:20.167"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:25:16.221"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ciaran Clark",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -18952,7 +18952,7 @@
     "timestamp": "00:26:11.784"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jordan Veretout",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -19080,7 +19080,7 @@
     "timestamp": "00:27:13.694"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Richardson",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -19296,7 +19296,7 @@
     "timestamp": "00:27:43.405"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -19600,7 +19600,7 @@
     "timestamp": "00:28:32.004"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Richardson",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -19784,7 +19784,7 @@
     "timestamp": "00:28:59.280"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jordan Veretout",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:33:53.551"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jordan Veretout",
     "player2": "Micah Richards",
     "player1_team": "Aston Villa",
@@ -21600,7 +21600,7 @@
     "timestamp": "00:37:39.067"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -21776,7 +21776,7 @@
     "timestamp": "00:39:04.042"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Micah Richards",
     "player1_team": "Aston Villa",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:39:34.183"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jack Grealish",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:43:18.826"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -22456,7 +22456,7 @@
     "timestamp": "00:43:40.105"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Vadis Odjidja-Ofoe",
     "player1_team": "Norwich City",
@@ -22656,7 +22656,7 @@
     "timestamp": "00:44:06.789"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -22864,7 +22864,7 @@
     "timestamp": "00:44:58.273"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Richardson",
     "player2": "Jordan Ayew",
     "player1_team": "Aston Villa",
@@ -23064,7 +23064,7 @@
     "timestamp": "00:45:21.742"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Westwood",
     "player2": "Jack Grealish",
     "player1_team": "Aston Villa",
@@ -23296,7 +23296,7 @@
     "timestamp": "00:47:27.150"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -23440,7 +23440,7 @@
     "timestamp": "00:48:22.482"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Adama Traoré Diarra",
     "player1_team": "Aston Villa",
@@ -23552,7 +23552,7 @@
     "timestamp": "00:49:00.414"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -23712,7 +23712,7 @@
     "timestamp": "00:49:44.746"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Micah Richards",
     "player2": "Bradley Guzan",
     "player1_team": "Aston Villa",

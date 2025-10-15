@@ -496,7 +496,7 @@
     "timestamp": "00:00:52.999"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -600,7 +600,7 @@
     "timestamp": "00:01:27.750"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -1152,7 +1152,7 @@
     "timestamp": "00:03:24.275"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Ryan Mason",
     "player1_team": "Tottenham Hotspur",
@@ -1184,7 +1184,7 @@
     "timestamp": "00:03:37.404"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:04:28.355"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1648,7 +1648,7 @@
     "timestamp": "00:05:19.669"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jeffrey Schlupp",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -1976,7 +1976,7 @@
     "timestamp": "00:06:41.365"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -2136,7 +2136,7 @@
     "timestamp": "00:06:59.283"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Nacer Chadli",
     "player1_team": "Tottenham Hotspur",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:08:27.966"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Riyad Mahrez",
     "player2": "",
     "player1_team": "Leicester City",
@@ -2840,7 +2840,7 @@
     "timestamp": "00:09:28.219"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "Andrew Philip King",
     "player1_team": "Leicester City",
@@ -2864,7 +2864,7 @@
     "timestamp": "00:10:19.422"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -2928,7 +2928,7 @@
     "timestamp": "00:10:50.596"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:11:59.718"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -3880,7 +3880,7 @@
     "timestamp": "00:13:42.218"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -4072,7 +4072,7 @@
     "timestamp": "00:14:28.612"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -4424,7 +4424,7 @@
     "timestamp": "00:15:19.359"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:16:06.850"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -4992,7 +4992,7 @@
     "timestamp": "00:17:37.975"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:18:38.326"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -5672,7 +5672,7 @@
     "timestamp": "00:19:41.349"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -5688,7 +5688,7 @@
     "timestamp": "00:20:04.082"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:21:56.132"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:23:22.022"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:24:22.316"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:28:34.386"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jeffrey Schlupp",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:29:18.768"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -8672,7 +8672,7 @@
     "timestamp": "00:30:54.118"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -9208,7 +9208,7 @@
     "timestamp": "00:32:41.528"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -9416,7 +9416,7 @@
     "timestamp": "00:33:12.843"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Nacer Chadli",
     "player1_team": "Tottenham Hotspur",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:33:45.142"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -9952,7 +9952,7 @@
     "timestamp": "00:34:35.502"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -10000,7 +10000,7 @@
     "timestamp": "00:34:52.296"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -10448,7 +10448,7 @@
     "timestamp": "00:36:11.661"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:38:41.308"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Harry Kane",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -11712,7 +11712,7 @@
     "timestamp": "00:39:28.260"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Ryan Mason",
     "player1_team": "Tottenham Hotspur",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:42:22.029"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:42:54.575"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Ryan Mason",
     "player1_team": "Tottenham Hotspur",
@@ -13512,7 +13512,7 @@
     "timestamp": "00:44:29.268"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -14016,7 +14016,7 @@
     "timestamp": "00:46:19.645"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Harry Kane",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:00:04.940"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Andrew Philip King",
     "player1_team": "Leicester City",
@@ -14576,7 +14576,7 @@
     "timestamp": "00:00:20.754"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Andrew Philip King",
     "player1_team": "Leicester City",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:01:37.735"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -16184,7 +16184,7 @@
     "timestamp": "00:05:05.409"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Harry Kane",
     "player2": "Nacer Chadli",
     "player1_team": "Tottenham Hotspur",
@@ -16560,7 +16560,7 @@
     "timestamp": "00:05:49.864"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -16848,7 +16848,7 @@
     "timestamp": "00:07:20.008"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:07:53.434"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Nacer Chadli",
     "player1_team": "Tottenham Hotspur",
@@ -17424,7 +17424,7 @@
     "timestamp": "00:10:09.535"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Ben Davies",
     "player1_team": "Tottenham Hotspur",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:10:44.819"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Nacer Chadli",
     "player1_team": "Tottenham Hotspur",
@@ -17560,7 +17560,7 @@
     "timestamp": "00:11:30.937"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jamie Vardy",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -18064,7 +18064,7 @@
     "timestamp": "00:13:35.634"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -18400,7 +18400,7 @@
     "timestamp": "00:14:22.440"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -18536,7 +18536,7 @@
     "timestamp": "00:15:36.100"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Andrew Philip King",
     "player1_team": "Leicester City",
@@ -18608,7 +18608,7 @@
     "timestamp": "00:15:56.314"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -18656,7 +18656,7 @@
     "timestamp": "00:16:11.850"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Riyad Mahrez",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -18720,7 +18720,7 @@
     "timestamp": "00:16:59.123"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -19432,7 +19432,7 @@
     "timestamp": "00:19:25.409"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -19768,7 +19768,7 @@
     "timestamp": "00:20:31.955"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -20368,7 +20368,7 @@
     "timestamp": "00:22:45.295"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jan Vertonghen",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:23:21.114"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:24:52.069"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -21208,7 +21208,7 @@
     "timestamp": "00:27:13.688"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -21456,7 +21456,7 @@
     "timestamp": "00:28:21.524"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -21560,7 +21560,7 @@
     "timestamp": "00:28:53.104"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Mason",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -22216,7 +22216,7 @@
     "timestamp": "00:31:13.290"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -22384,7 +22384,7 @@
     "timestamp": "00:32:27.796"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -22872,7 +22872,7 @@
     "timestamp": "00:34:26.507"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "",
     "player1_team": "Leicester City",
@@ -23272,7 +23272,7 @@
     "timestamp": "00:37:55.743"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Riyad Mahrez",
     "player2": "Andrew Philip King",
     "player1_team": "Leicester City",
@@ -23872,7 +23872,7 @@
     "timestamp": "00:41:12.164"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "",
     "player1_team": "Leicester City",
@@ -23968,7 +23968,7 @@
     "timestamp": "00:42:58.237"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Gökhan İnler",
     "player1_team": "Leicester City",
@@ -24072,7 +24072,7 @@
     "timestamp": "00:43:07.008"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Riyad Mahrez",
     "player2": "",
     "player1_team": "Leicester City",
@@ -24096,7 +24096,7 @@
     "timestamp": "00:43:58.251"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -24304,7 +24304,7 @@
     "timestamp": "00:44:47.609"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -24512,7 +24512,7 @@
     "timestamp": "00:45:54.691"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Tom Carroll",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -24728,7 +24728,7 @@
     "timestamp": "00:47:02.875"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Tom Carroll",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -24784,7 +24784,7 @@
     "timestamp": "00:47:31.697"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Tom Carroll",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -24856,7 +24856,7 @@
     "timestamp": "00:48:12.129"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -24912,7 +24912,7 @@
     "timestamp": "00:48:55.454"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "",
     "player1_team": "Tottenham Hotspur",

@@ -336,7 +336,7 @@
     "timestamp": "00:00:38.789"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Katie McCabe",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -392,7 +392,7 @@
     "timestamp": "00:01:00.923"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Katie McCabe",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -736,7 +736,7 @@
     "timestamp": "00:02:57.568"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -864,7 +864,7 @@
     "timestamp": "00:03:19.696"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Lucy Staniforth",
     "player1_team": "Manchester United",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:04:25.399"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Katie McCabe",
     "player2": "Vivianne Miedema",
     "player1_team": "Arsenal WFC",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:05:00.462"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Bethany Mead",
     "player2": "Vivianne Miedema",
     "player1_team": "Arsenal WFC",
@@ -1488,7 +1488,7 @@
     "timestamp": "00:06:00.263"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Christen Annemarie Press",
     "player1_team": "Manchester United",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:06:42.501"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -1744,7 +1744,7 @@
     "timestamp": "00:07:04.101"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Jill Roord",
     "player1_team": "Arsenal WFC",
@@ -1928,7 +1928,7 @@
     "timestamp": "00:07:33.208"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lia Wälti",
     "player2": "Vivianne Miedema",
     "player1_team": "Arsenal WFC",
@@ -2112,7 +2112,7 @@
     "timestamp": "00:08:26.242"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Lucy Staniforth",
     "player1_team": "Manchester United",
@@ -2160,7 +2160,7 @@
     "timestamp": "00:09:13.751"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:09:42.325"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Katie McCabe",
     "player2": "Jill Roord",
     "player1_team": "Arsenal WFC",
@@ -2336,7 +2336,7 @@
     "timestamp": "00:10:04.873"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Katie Zelem",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:13:38.851"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ona Batlle Pascual",
     "player2": "Lucy Staniforth",
     "player1_team": "Manchester United",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:16:07.535"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Katie McCabe",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:17:11.032"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Lucy Staniforth",
     "player1_team": "Manchester United",
@@ -5144,7 +5144,7 @@
     "timestamp": "00:17:39.967"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Katie McCabe",
     "player2": "Noelle Maritz",
     "player1_team": "Arsenal WFC",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:18:33.846"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Katie McCabe",
     "player2": "Caitlin Jade Foord",
     "player1_team": "Arsenal WFC",
@@ -5600,7 +5600,7 @@
     "timestamp": "00:19:58.046"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Christen Annemarie Press",
     "player1_team": "Manchester United",
@@ -5808,7 +5808,7 @@
     "timestamp": "00:20:28.321"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Millie Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -5928,7 +5928,7 @@
     "timestamp": "00:21:04.702"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Bethany Mead",
     "player1_team": "Arsenal WFC",
@@ -6032,7 +6032,7 @@
     "timestamp": "00:21:23.286"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Millie Turner",
     "player2": "Lucy Staniforth",
     "player1_team": "Manchester United",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:24:31.234"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Katie McCabe",
     "player2": "Jill Roord",
     "player1_team": "Arsenal WFC",
@@ -7376,7 +7376,7 @@
     "timestamp": "00:24:57.817"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Bethany Mead",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:29:48.203"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Christen Annemarie Press",
     "player1_team": "Manchester United",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:30:07.526"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Manchester United",
@@ -9056,7 +9056,7 @@
     "timestamp": "00:31:29.699"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Manchester United",
@@ -9696,7 +9696,7 @@
     "timestamp": "00:33:50.881"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Jill Roord",
     "player1_team": "Arsenal WFC",
@@ -9992,7 +9992,7 @@
     "timestamp": "00:35:00.031"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Carlotte Wubben-Moy",
     "player1_team": "Arsenal WFC",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:35:28.031"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Jill Roord",
     "player1_team": "Arsenal WFC",
@@ -10464,7 +10464,7 @@
     "timestamp": "00:36:15.637"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -10520,7 +10520,7 @@
     "timestamp": "00:36:42.973"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ona Batlle Pascual",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:37:26.270"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Manchester United",
@@ -10920,7 +10920,7 @@
     "timestamp": "00:38:31.368"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Katie McCabe",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -11160,7 +11160,7 @@
     "timestamp": "00:39:54.880"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Lucy Staniforth",
     "player1_team": "Manchester United",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:40:12.498"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -11368,7 +11368,7 @@
     "timestamp": "00:40:23.338"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lucy Staniforth",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -11664,7 +11664,7 @@
     "timestamp": "00:42:04.457"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lucy Staniforth",
     "player2": "Ona Batlle Pascual",
     "player1_team": "Manchester United",
@@ -12120,7 +12120,7 @@
     "timestamp": "00:43:32.107"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Christen Annemarie Press",
     "player1_team": "Manchester United",
@@ -12216,7 +12216,7 @@
     "timestamp": "00:43:57.781"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Katie McCabe",
     "player2": "Vivianne Miedema",
     "player1_team": "Arsenal WFC",
@@ -12288,7 +12288,7 @@
     "timestamp": "00:44:25.358"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bethany Mead",
     "player2": "Kim Little",
     "player1_team": "Arsenal WFC",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:46:42.097"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:00:28.626"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Bethany Mead",
     "player1_team": "Arsenal WFC",
@@ -14360,7 +14360,7 @@
     "timestamp": "00:03:03.362"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Bethany Mead",
     "player1_team": "Arsenal WFC",
@@ -14616,7 +14616,7 @@
     "timestamp": "00:03:58.989"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Lucy Staniforth",
     "player1_team": "Manchester United",
@@ -14808,7 +14808,7 @@
     "timestamp": "00:04:30.186"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Katie McCabe",
     "player2": "Carlotte Wubben-Moy",
     "player1_team": "Arsenal WFC",
@@ -14904,7 +14904,7 @@
     "timestamp": "00:05:55.393"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Bethany Mead",
     "player1_team": "Arsenal WFC",
@@ -15032,7 +15032,7 @@
     "timestamp": "00:06:19.065"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lucy Staniforth",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -15200,7 +15200,7 @@
     "timestamp": "00:07:42.639"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lia Wälti",
     "player2": "Katie McCabe",
     "player1_team": "Arsenal WFC",
@@ -15344,7 +15344,7 @@
     "timestamp": "00:08:21.313"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:08:43.770"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Carlotte Wubben-Moy",
     "player2": "Manuela Zinsberger",
     "player1_team": "Arsenal WFC",
@@ -15592,7 +15592,7 @@
     "timestamp": "00:09:18.270"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Christen Annemarie Press",
     "player1_team": "Manchester United",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:09:43.204"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Millie Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -16528,7 +16528,7 @@
     "timestamp": "00:11:17.698"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Amy Turner",
     "player2": "Mary Alexandra Earps",
     "player1_team": "Manchester United",
@@ -16688,7 +16688,7 @@
     "timestamp": "00:12:10.640"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -16816,7 +16816,7 @@
     "timestamp": "00:12:31.464"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Christen Annemarie Press",
     "player1_team": "Manchester United",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:12:44.522"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Christen Annemarie Press",
     "player1_team": "Manchester United",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:13:01.758"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Jill Roord",
     "player1_team": "Arsenal WFC",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:14:28.445"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Katie McCabe",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:16:55.152"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Millie Turner",
     "player2": "Ona Batlle Pascual",
     "player1_team": "Manchester United",
@@ -18248,7 +18248,7 @@
     "timestamp": "00:17:54.522"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Manuela Zinsberger",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -19096,7 +19096,7 @@
     "timestamp": "00:20:29.220"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Danielle van de Donk",
     "player1_team": "Arsenal WFC",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:22:24.910"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -20032,7 +20032,7 @@
     "timestamp": "00:22:54.771"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Noelle Maritz",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:23:18.453"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "Danielle van de Donk",
     "player1_team": "Arsenal WFC",
@@ -20640,7 +20640,7 @@
     "timestamp": "00:24:42.635"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lucy Staniforth",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -20712,7 +20712,7 @@
     "timestamp": "00:25:51.376"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Katie McCabe",
     "player2": "Noelle Maritz",
     "player1_team": "Arsenal WFC",
@@ -21080,7 +21080,7 @@
     "timestamp": "00:27:04.668"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Amy Turner",
     "player1_team": "Manchester United",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:27:28.117"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Katie Zelem",
     "player1_team": "Manchester United",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:28:06.549"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lia Wälti",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -21520,7 +21520,7 @@
     "timestamp": "00:29:06.092"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -22736,7 +22736,7 @@
     "timestamp": "00:32:43.201"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lucy Staniforth",
     "player2": "",
     "player1_team": "Manchester United",
@@ -22952,7 +22952,7 @@
     "timestamp": "00:34:26.531"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Jackie Groenen",
     "player1_team": "Manchester United",
@@ -23472,7 +23472,7 @@
     "timestamp": "00:36:21.932"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Manuela Zinsberger",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -23920,7 +23920,7 @@
     "timestamp": "00:37:40.971"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Jessica Sigsworth",
     "player1_team": "Manchester United",
@@ -23992,7 +23992,7 @@
     "timestamp": "00:37:56.041"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Millie Turner",
     "player1_team": "Manchester United",
@@ -25264,7 +25264,7 @@
     "timestamp": "00:42:46.309"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Katie McCabe",
     "player2": "Vivianne Miedema",
     "player1_team": "Arsenal WFC",
@@ -25344,7 +25344,7 @@
     "timestamp": "00:43:33.159"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Katie McCabe",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -25448,7 +25448,7 @@
     "timestamp": "00:45:23.177"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Noelle Maritz",
     "player2": "",
     "player1_team": "Arsenal WFC",
@@ -26736,7 +26736,7 @@
     "timestamp": "00:48:38.954"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martha Harris",
     "player2": "Hayley Ladd",
     "player1_team": "Manchester United",
@@ -27056,7 +27056,7 @@
     "timestamp": "00:49:27.345"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ona Batlle Pascual",
     "player2": "Ella Toone",
     "player1_team": "Manchester United",

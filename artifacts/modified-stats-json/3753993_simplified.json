@@ -64,7 +64,7 @@
     "timestamp": "00:00:04.686"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -208,7 +208,7 @@
     "timestamp": "00:00:26.834"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Alexander Banor Tettey",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -560,7 +560,7 @@
     "timestamp": "00:01:05.962"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -768,7 +768,7 @@
     "timestamp": "00:01:59.296"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jeremain Lens",
     "player1_team": "Sunderland",
@@ -1008,7 +1008,7 @@
     "timestamp": "00:02:34.113"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -2192,7 +2192,7 @@
     "timestamp": "00:05:06.706"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:06:14.663"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2632,7 +2632,7 @@
     "timestamp": "00:07:38.958"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2696,7 +2696,7 @@
     "timestamp": "00:08:28.368"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Russell Martin",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -2944,7 +2944,7 @@
     "timestamp": "00:09:24.280"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -3120,7 +3120,7 @@
     "timestamp": "00:10:19.759"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -3232,7 +3232,7 @@
     "timestamp": "00:10:44.777"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -3576,7 +3576,7 @@
     "timestamp": "00:11:33.312"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -4056,7 +4056,7 @@
     "timestamp": "00:13:19.758"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Russell Martin",
     "player1_team": "Norwich City",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:13:40.372"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Steven Whittaker",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:14:16.252"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -4440,7 +4440,7 @@
     "timestamp": "00:14:47.262"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "",
     "player1_team": "Sunderland",
@@ -4640,7 +4640,7 @@
     "timestamp": "00:15:07.581"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:15:44.978"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -4976,7 +4976,7 @@
     "timestamp": "00:16:25.318"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Sebastian Larsson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -5664,7 +5664,7 @@
     "timestamp": "00:18:14.843"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6200,7 +6200,7 @@
     "timestamp": "00:21:19.460"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:23:42.254"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:24:53.456"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -7496,7 +7496,7 @@
     "timestamp": "00:26:44.975"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -8248,7 +8248,7 @@
     "timestamp": "00:29:07.537"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8696,7 +8696,7 @@
     "timestamp": "00:30:35.012"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:31:18.802"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -9160,7 +9160,7 @@
     "timestamp": "00:32:02.593"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -9168,7 +9168,7 @@
     "timestamp": "00:32:18.253"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sebastián Coates Nión",
     "player2": "Costel Fane Pantilimon",
     "player1_team": "Sunderland",
@@ -9544,7 +9544,7 @@
     "timestamp": "00:33:01.414"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -10864,7 +10864,7 @@
     "timestamp": "00:39:37.150"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:43:01.355"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -11592,7 +11592,7 @@
     "timestamp": "00:44:08.042"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "Steven Fletcher",
     "player1_team": "Sunderland",
@@ -12080,7 +12080,7 @@
     "timestamp": "00:45:44.903"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -12512,7 +12512,7 @@
     "timestamp": "00:46:45.925"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -12560,7 +12560,7 @@
     "timestamp": "00:47:08.199"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -12792,7 +12792,7 @@
     "timestamp": "00:47:35.704"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -13984,7 +13984,7 @@
     "timestamp": "00:01:55.747"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lee Cattermole",
     "player2": "Patrick van Aanholt",
     "player1_team": "Sunderland",
@@ -14216,7 +14216,7 @@
     "timestamp": "00:02:52.517"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "",
     "player1_team": "Sunderland",
@@ -14408,7 +14408,7 @@
     "timestamp": "00:04:21.786"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -15192,7 +15192,7 @@
     "timestamp": "00:06:22.239"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:07:02.799"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lee Cattermole",
     "player2": "Billy Jones",
     "player1_team": "Sunderland",
@@ -15360,7 +15360,7 @@
     "timestamp": "00:07:20.029"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jeremain Lens",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:08:45.653"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -15824,7 +15824,7 @@
     "timestamp": "00:09:02.251"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -16056,7 +16056,7 @@
     "timestamp": "00:09:41.515"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Jeremain Lens",
     "player1_team": "Sunderland",
@@ -16360,7 +16360,7 @@
     "timestamp": "00:10:21.226"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Danny Graham",
     "player1_team": "Sunderland",
@@ -16928,7 +16928,7 @@
     "timestamp": "00:11:36.942"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Graham Dorrans",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:14:24.101"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Alexander Banor Tettey",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",
@@ -18480,7 +18480,7 @@
     "timestamp": "00:16:31.167"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Sebastián Coates Nión",
     "player1_team": "Sunderland",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:17:27.301"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",
@@ -19168,7 +19168,7 @@
     "timestamp": "00:17:50.428"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Alexander Banor Tettey",
     "player1_team": "Norwich City",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:18:55.336"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -19672,7 +19672,7 @@
     "timestamp": "00:19:38.468"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Cameron Jerome",
     "player1_team": "Norwich City",
@@ -19744,7 +19744,7 @@
     "timestamp": "00:20:03.963"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Bradley Johnson",
     "player1_team": "Norwich City",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:20:59.407"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jonathan Howson",
     "player2": "Bradley Johnson",
     "player1_team": "Norwich City",
@@ -20760,7 +20760,7 @@
     "timestamp": "00:23:01.054"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Lewis Grabban",
     "player1_team": "Norwich City",
@@ -20808,7 +20808,7 @@
     "timestamp": "00:23:30.153"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Lewis Grabban",
     "player1_team": "Norwich City",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:24:11.218"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Danny Graham",
     "player1_team": "Sunderland",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:24:39.118"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:25:04.472"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Lee Cattermole",
     "player1_team": "Sunderland",
@@ -21496,7 +21496,7 @@
     "timestamp": "00:26:10.759"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Danny Graham",
     "player1_team": "Sunderland",
@@ -21648,7 +21648,7 @@
     "timestamp": "00:26:41.020"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jeremain Lens",
     "player2": "",
     "player1_team": "Sunderland",
@@ -21928,7 +21928,7 @@
     "timestamp": "00:27:46.138"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:29:17.971"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jeremain Lens",
     "player2": "Sebastián Coates Nión",
     "player1_team": "Sunderland",
@@ -22840,7 +22840,7 @@
     "timestamp": "00:30:33.884"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -23000,7 +23000,7 @@
     "timestamp": "00:31:34.563"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "",
     "player1_team": "Sunderland",
@@ -23120,7 +23120,7 @@
     "timestamp": "00:32:09.736"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",
@@ -23536,7 +23536,7 @@
     "timestamp": "00:33:14.854"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -23568,7 +23568,7 @@
     "timestamp": "00:33:52.664"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -23648,7 +23648,7 @@
     "timestamp": "00:34:19.658"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -23824,7 +23824,7 @@
     "timestamp": "00:34:37.522"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -25104,7 +25104,7 @@
     "timestamp": "00:37:35.420"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -26128,7 +26128,7 @@
     "timestamp": "00:40:38.516"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jeremain Lens",
     "player2": "",
     "player1_team": "Sunderland",
@@ -26240,7 +26240,7 @@
     "timestamp": "00:41:53.902"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jeremain Lens",
     "player2": "",
     "player1_team": "Sunderland",
@@ -26448,7 +26448,7 @@
     "timestamp": "00:43:33.058"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Steven Whittaker",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",
@@ -26864,7 +26864,7 @@
     "timestamp": "00:44:22.484"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bradley Johnson",
     "player2": "Graham Dorrans",
     "player1_team": "Norwich City",
@@ -27296,7 +27296,7 @@
     "timestamp": "00:45:25.988"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Gary O''Neil",
     "player2": "Lewis Grabban",
     "player1_team": "Norwich City",

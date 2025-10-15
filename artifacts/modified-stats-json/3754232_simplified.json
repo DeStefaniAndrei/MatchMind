@@ -552,7 +552,7 @@
     "timestamp": "00:01:10.023"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ben Watson",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -576,7 +576,7 @@
     "timestamp": "00:01:50.645"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ben Watson",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",
@@ -648,7 +648,7 @@
     "timestamp": "00:02:40.756"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -720,7 +720,7 @@
     "timestamp": "00:03:02.363"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Timothy Evans Fosu-Mensah",
     "player1_team": "Manchester United",
@@ -1088,7 +1088,7 @@
     "timestamp": "00:04:00.730"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faustino Marcos Alberto Rojo",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:04:27.494"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ander Herrera Agüera",
     "player2": "Marcus Rashford",
     "player1_team": "Manchester United",
@@ -1344,7 +1344,7 @@
     "timestamp": "00:04:33.013"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -1720,7 +1720,7 @@
     "timestamp": "00:05:31.357"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -2128,7 +2128,7 @@
     "timestamp": "00:06:56.547"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -2296,7 +2296,7 @@
     "timestamp": "00:07:26.939"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Timothy Evans Fosu-Mensah",
     "player1_team": "Manchester United",
@@ -2584,7 +2584,7 @@
     "timestamp": "00:08:14.585"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -2840,7 +2840,7 @@
     "timestamp": "00:09:24.963"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ben Watson",
     "player2": "Allan Romeo Nyom",
     "player1_team": "Watford",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:10:19.507"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David de Gea Quintana",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -3136,7 +3136,7 @@
     "timestamp": "00:11:02.687"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ben Watson",
     "player2": "Miguel Ángel Britos Cabrera",
     "player1_team": "Watford",
@@ -3800,7 +3800,7 @@
     "timestamp": "00:13:52.073"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faustino Marcos Alberto Rojo",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -3840,7 +3840,7 @@
     "timestamp": "00:14:14.149"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Ben Watson",
     "player1_team": "Watford",
@@ -4352,7 +4352,7 @@
     "timestamp": "00:15:20.864"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -4544,7 +4544,7 @@
     "timestamp": "00:16:11.024"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Troy Deeney",
     "player2": "Ben Watson",
     "player1_team": "Watford",
@@ -4656,7 +4656,7 @@
     "timestamp": "00:16:41.681"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -4952,7 +4952,7 @@
     "timestamp": "00:17:47.779"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "",
     "player1_team": "Manchester United",
@@ -5136,7 +5136,7 @@
     "timestamp": "00:19:28.692"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Memphis Depay",
     "player2": "Faustino Marcos Alberto Rojo",
     "player1_team": "Manchester United",
@@ -6288,7 +6288,7 @@
     "timestamp": "00:22:06.924"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -6392,7 +6392,7 @@
     "timestamp": "00:22:43.291"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ben Watson",
     "player2": "José Holebas",
     "player1_team": "Watford",
@@ -7920,7 +7920,7 @@
     "timestamp": "00:28:22.342"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Marcus Rashford",
     "player1_team": "Manchester United",
@@ -8112,7 +8112,7 @@
     "timestamp": "00:28:57.125"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -8136,7 +8136,7 @@
     "timestamp": "00:29:21.957"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -8656,7 +8656,7 @@
     "timestamp": "00:30:19.897"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:30:40.936"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Memphis Depay",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -10016,7 +10016,7 @@
     "timestamp": "00:34:06.396"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "Faustino Marcos Alberto Rojo",
     "player1_team": "Manchester United",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:36:00.417"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Guillermo Varela Olivera",
     "player2": "Timothy Evans Fosu-Mensah",
     "player1_team": "Manchester United",
@@ -10520,7 +10520,7 @@
     "timestamp": "00:36:29.064"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",
@@ -10632,7 +10632,7 @@
     "timestamp": "00:36:59.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ben Watson",
     "player2": "Sebastian Prödl",
     "player1_team": "Watford",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:38:47.860"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Timothy Evans Fosu-Mensah",
     "player1_team": "Manchester United",
@@ -11344,7 +11344,7 @@
     "timestamp": "00:39:33.265"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faustino Marcos Alberto Rojo",
     "player2": "Morgan Schneiderlin",
     "player1_team": "Manchester United",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:42:13.942"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Morgan Schneiderlin",
     "player1_team": "Manchester United",
@@ -12584,7 +12584,7 @@
     "timestamp": "00:43:07.004"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Sebastian Prödl",
     "player1_team": "Watford",
@@ -13256,7 +13256,7 @@
     "timestamp": "00:44:45.667"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -13288,7 +13288,7 @@
     "timestamp": "00:45:12.002"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Juan Manuel Mata García",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -13616,7 +13616,7 @@
     "timestamp": "00:00:06.810"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Timothy Evans Fosu-Mensah",
     "player1_team": "Manchester United",
@@ -13800,7 +13800,7 @@
     "timestamp": "00:00:40.178"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -14016,7 +14016,7 @@
     "timestamp": "00:01:11.997"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -14272,7 +14272,7 @@
     "timestamp": "00:01:51.382"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:04:12.612"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Heurelho da Silva Gomes",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -15280,7 +15280,7 @@
     "timestamp": "00:04:47.456"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ben Watson",
     "player2": "Sebastian Prödl",
     "player1_team": "Watford",
@@ -15328,7 +15328,7 @@
     "timestamp": "00:05:29.175"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ben Watson",
     "player2": "Miguel Ángel Britos Cabrera",
     "player1_team": "Watford",
@@ -15528,7 +15528,7 @@
     "timestamp": "00:06:38.985"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",
@@ -15664,7 +15664,7 @@
     "timestamp": "00:07:10.002"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faustino Marcos Alberto Rojo",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -16664,7 +16664,7 @@
     "timestamp": "00:10:07.107"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -16872,7 +16872,7 @@
     "timestamp": "00:10:32.213"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Timothy Evans Fosu-Mensah",
     "player1_team": "Manchester United",
@@ -17168,7 +17168,7 @@
     "timestamp": "00:11:17.653"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -17472,7 +17472,7 @@
     "timestamp": "00:14:03.610"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faustino Marcos Alberto Rojo",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -17624,7 +17624,7 @@
     "timestamp": "00:14:34.264"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faustino Marcos Alberto Rojo",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -18352,7 +18352,7 @@
     "timestamp": "00:17:07.648"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -18504,7 +18504,7 @@
     "timestamp": "00:17:30.552"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Manuel Mata García",
     "player2": "Faustino Marcos Alberto Rojo",
     "player1_team": "Manchester United",
@@ -18752,7 +18752,7 @@
     "timestamp": "00:18:07.884"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:19:42.801"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Guillermo Varela Olivera",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:21:04.705"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -20272,7 +20272,7 @@
     "timestamp": "00:21:39.536"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Heurelho da Silva Gomes",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:24:55.033"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Heurelho da Silva Gomes",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",
@@ -21208,7 +21208,7 @@
     "timestamp": "00:25:35.538"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -21920,7 +21920,7 @@
     "timestamp": "00:27:20.037"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Morgan Schneiderlin",
     "player2": "Matteo Darmian",
     "player1_team": "Manchester United",
@@ -22032,7 +22032,7 @@
     "timestamp": "00:27:43.040"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:29:02.342"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Heurelho da Silva Gomes",
     "player2": "Nordin Amrabat",
     "player1_team": "Watford",
@@ -22376,7 +22376,7 @@
     "timestamp": "00:29:29.225"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -22584,7 +22584,7 @@
     "timestamp": "00:29:58.256"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -22832,7 +22832,7 @@
     "timestamp": "00:30:35.868"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Timothy Evans Fosu-Mensah",
     "player1_team": "Manchester United",
@@ -23272,7 +23272,7 @@
     "timestamp": "00:31:58.824"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Morgan Schneiderlin",
     "player2": "Timothy Evans Fosu-Mensah",
     "player1_team": "Manchester United",
@@ -23632,7 +23632,7 @@
     "timestamp": "00:33:14.218"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ben Watson",
     "player2": "Sebastian Prödl",
     "player1_team": "Watford",
@@ -23808,7 +23808,7 @@
     "timestamp": "00:34:52.080"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ben Watson",
     "player2": "",
     "player1_team": "Watford",
@@ -24568,7 +24568,7 @@
     "timestamp": "00:40:10.510"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Guillermo Varela Olivera",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -24680,7 +24680,7 @@
     "timestamp": "00:40:50.138"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -24768,7 +24768,7 @@
     "timestamp": "00:41:18.492"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Juan Manuel Mata García",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -24856,7 +24856,7 @@
     "timestamp": "00:41:44.471"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Heurelho da Silva Gomes",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -25704,7 +25704,7 @@
     "timestamp": "00:44:43.276"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Nordin Amrabat",
     "player1_team": "Watford",
@@ -25784,7 +25784,7 @@
     "timestamp": "00:45:06.192"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "David de Gea Quintana",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -25864,7 +25864,7 @@
     "timestamp": "00:45:45.463"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -25912,7 +25912,7 @@
     "timestamp": "00:45:59.707"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -25992,7 +25992,7 @@
     "timestamp": "00:46:20.781"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David de Gea Quintana",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -26120,7 +26120,7 @@
     "timestamp": "00:47:11.578"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Holebas",
     "player2": "Nordin Amrabat",
     "player1_team": "Watford",
@@ -26248,7 +26248,7 @@
     "timestamp": "00:48:00.253"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jesse Lingard",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -26336,7 +26336,7 @@
     "timestamp": "00:48:38.625"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jesse Lingard",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",

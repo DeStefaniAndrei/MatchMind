@@ -1,5 +1,5 @@
 // Test individual models for each event type
-// Usage: node scripts/AI/test-all-models.js --models "artifacts/models/individual" --input "artifacts/modified-stats-json"
+// Usage: node scripts/AI/test-all-models.js --models "public/artifacts/models" --input "artifacts/modified-stats-json"
 
 const fs = require('fs');
 const path = require('path');

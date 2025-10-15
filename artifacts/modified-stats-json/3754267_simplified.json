@@ -408,7 +408,7 @@
     "timestamp": "00:00:46.619"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",
@@ -464,7 +464,7 @@
     "timestamp": "00:01:11.788"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -1200,7 +1200,7 @@
     "timestamp": "00:03:18.104"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:03:41.412"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -2312,7 +2312,7 @@
     "timestamp": "00:06:16.581"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -2352,7 +2352,7 @@
     "timestamp": "00:06:39.351"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "José Manuel Jurado Marín",
     "player1_team": "Watford",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:07:25.064"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -3072,7 +3072,7 @@
     "timestamp": "00:08:17.050"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Ariel Yacob",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:12:23.598"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "José Manuel Jurado Marín",
     "player2": "",
     "player1_team": "Watford",
@@ -4720,7 +4720,7 @@
     "timestamp": "00:14:09.399"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:14:53.330"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",
@@ -5048,7 +5048,7 @@
     "timestamp": "00:15:40.514"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "José Manuel Jurado Marín",
     "player2": "",
     "player1_team": "Watford",
@@ -5528,7 +5528,7 @@
     "timestamp": "00:18:01.696"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Jonas Olsson",
     "player1_team": "West Bromwich Albion",
@@ -6560,7 +6560,7 @@
     "timestamp": "00:20:39.797"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:21:40.448"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "José Manuel Jurado Marín",
     "player1_team": "Watford",
@@ -6816,7 +6816,7 @@
     "timestamp": "00:22:02.270"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:23:31.398"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Craig Cathcart",
     "player1_team": "Watford",
@@ -8064,7 +8064,7 @@
     "timestamp": "00:26:27.566"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Craig Gardner",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -8320,7 +8320,7 @@
     "timestamp": "00:28:11.300"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Craig Gardner",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:29:02.732"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Miguel Arturo Layún Prado",
     "player1_team": "Watford",
@@ -8648,7 +8648,7 @@
     "timestamp": "00:29:49.296"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Craig Cathcart",
     "player1_team": "Watford",
@@ -8712,7 +8712,7 @@
     "timestamp": "00:30:18.414"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -9248,7 +9248,7 @@
     "timestamp": "00:33:00.648"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Craig Cathcart",
     "player1_team": "Watford",
@@ -9856,7 +9856,7 @@
     "timestamp": "00:34:57.430"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:35:53.203"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "José Manuel Jurado Marín",
     "player2": "Ikechi Anya",
     "player1_team": "Watford",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:36:30.560"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "José Manuel Jurado Marín",
     "player2": "",
     "player1_team": "Watford",
@@ -10840,7 +10840,7 @@
     "timestamp": "00:37:51.312"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Brunt",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -11128,7 +11128,7 @@
     "timestamp": "00:39:27.271"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Miguel Arturo Layún Prado",
     "player1_team": "Watford",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:40:03.638"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:41:19.496"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -11984,7 +11984,7 @@
     "timestamp": "00:41:52.297"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Craig Cathcart",
     "player1_team": "Watford",
@@ -12136,7 +12136,7 @@
     "timestamp": "00:42:14.992"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:42:39.265"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -13360,7 +13360,7 @@
     "timestamp": "00:00:12.598"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "José Manuel Jurado Marín",
     "player1_team": "Watford",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:00:53.437"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Valon Behrami",
     "player2": "Sebastian Prödl",
     "player1_team": "Watford",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:02:10.952"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Darren Fletcher",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -13912,7 +13912,7 @@
     "timestamp": "00:02:55.896"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ikechi Anya",
     "player2": "Craig Cathcart",
     "player1_team": "Watford",
@@ -14144,7 +14144,7 @@
     "timestamp": "00:03:43.065"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Odion Jude Ighalo",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -14328,7 +14328,7 @@
     "timestamp": "00:04:36.797"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Valon Behrami",
     "player1_team": "Watford",
@@ -15192,7 +15192,7 @@
     "timestamp": "00:07:08.874"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -15312,7 +15312,7 @@
     "timestamp": "00:07:59.419"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "José Manuel Jurado Marín",
     "player1_team": "Watford",
@@ -15520,7 +15520,7 @@
     "timestamp": "00:08:39.705"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Miguel Arturo Layún Prado",
     "player1_team": "Watford",
@@ -15640,7 +15640,7 @@
     "timestamp": "00:09:18.463"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Almen Abdi",
     "player1_team": "Watford",
@@ -16032,7 +16032,7 @@
     "timestamp": "00:10:37.940"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:10:56.462"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -16480,7 +16480,7 @@
     "timestamp": "00:11:56.391"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ikechi Anya",
     "player2": "José Manuel Jurado Marín",
     "player1_team": "Watford",
@@ -17832,7 +17832,7 @@
     "timestamp": "00:16:09.737"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Sebastian Prödl",
     "player1_team": "Watford",
@@ -17888,7 +17888,7 @@
     "timestamp": "00:16:30.790"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -18296,7 +18296,7 @@
     "timestamp": "00:18:07.362"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Valon Behrami",
     "player1_team": "Watford",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:18:43.262"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -18704,7 +18704,7 @@
     "timestamp": "00:19:36.399"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Valon Behrami",
     "player2": "Sebastian Prödl",
     "player1_team": "Watford",
@@ -18864,7 +18864,7 @@
     "timestamp": "00:20:23.796"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Valon Behrami",
     "player2": "Craig Cathcart",
     "player1_team": "Watford",
@@ -19912,7 +19912,7 @@
     "timestamp": "00:23:47.057"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -20376,7 +20376,7 @@
     "timestamp": "00:25:35.512"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -20656,7 +20656,7 @@
     "timestamp": "00:26:49.674"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -20824,7 +20824,7 @@
     "timestamp": "00:27:20.460"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jonas Olsson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -20928,7 +20928,7 @@
     "timestamp": "00:27:48.986"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Etienne Capoue",
     "player2": "Valon Behrami",
     "player1_team": "Watford",
@@ -21480,7 +21480,7 @@
     "timestamp": "00:29:27.866"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -21656,7 +21656,7 @@
     "timestamp": "00:30:07.454"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -21784,7 +21784,7 @@
     "timestamp": "00:30:39.418"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Troy Deeney",
     "player1_team": "Watford",
@@ -22152,7 +22152,7 @@
     "timestamp": "00:32:02.082"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Allan Romeo Nyom",
     "player2": "Valon Behrami",
     "player1_team": "Watford",
@@ -22272,7 +22272,7 @@
     "timestamp": "00:32:25.248"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -22376,7 +22376,7 @@
     "timestamp": "00:32:50.774"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Almen Abdi",
     "player2": "Allan Romeo Nyom",
     "player1_team": "Watford",
@@ -22752,7 +22752,7 @@
     "timestamp": "00:33:52.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Chris Brunt",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -23600,7 +23600,7 @@
     "timestamp": "00:36:44.901"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gareth McAuley",
     "player2": "Jonas Olsson",
     "player1_team": "West Bromwich Albion",
@@ -23696,7 +23696,7 @@
     "timestamp": "00:37:23.956"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "James Morrison",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -24736,7 +24736,7 @@
     "timestamp": "00:41:28.969"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -24864,7 +24864,7 @@
     "timestamp": "00:42:12.295"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Chris Brunt",
     "player2": "Jonas Olsson",
     "player1_team": "West Bromwich Albion",
@@ -25416,7 +25416,7 @@
     "timestamp": "00:44:35.040"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Valon Behrami",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -25808,7 +25808,7 @@
     "timestamp": "00:45:45.000"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jonas Olsson",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -26088,7 +26088,7 @@
     "timestamp": "00:46:55.438"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Craig Cathcart",
     "player1_team": "Watford",
@@ -26160,7 +26160,7 @@
     "timestamp": "00:47:08.343"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Etienne Capoue",
     "player1_team": "Watford",
@@ -26208,7 +26208,7 @@
     "timestamp": "00:47:31.723"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ikechi Anya",
     "player2": "Odion Jude Ighalo",
     "player1_team": "Watford",

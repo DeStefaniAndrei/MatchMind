@@ -11,15 +11,28 @@ export interface Match {
   contract_address?: string
   minute?: number
   events?: MatchEvent[]
+  cumulativeStats?: CumulativeMinuteStats[]
 }
 
 export interface MatchEvent {
   id: string
-  type: "goal" | "yellow_card" | "red_card" | "corner" | "substitution"
+  type: string
   minute: number
   player?: string
-  team: "home" | "away"
+  team: "home" | "away" | "unknown"
   description: string
+}
+
+export interface CumulativeStatsByTeam {
+  home: Record<string, number>
+  away: Record<string, number>
+  unknown: Record<string, number>
+}
+
+export interface CumulativeMinuteStats {
+  minute: number
+  byType: Record<string, number>
+  byTeam?: CumulativeStatsByTeam
 }
 
 export interface User {

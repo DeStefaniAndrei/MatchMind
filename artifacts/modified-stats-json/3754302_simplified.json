@@ -216,7 +216,7 @@
     "timestamp": "00:00:24.569"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "",
     "player1_team": "Leicester City",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:02:11.939"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -1280,7 +1280,7 @@
     "timestamp": "00:02:41.177"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1872,7 +1872,7 @@
     "timestamp": "00:04:38.888"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Dušan Tadić",
     "player2": "",
     "player1_team": "Southampton",
@@ -1912,7 +1912,7 @@
     "timestamp": "00:05:47.711"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -2016,7 +2016,7 @@
     "timestamp": "00:06:02.400"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:07:34.537"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -2408,7 +2408,7 @@
     "timestamp": "00:07:55.055"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -2480,7 +2480,7 @@
     "timestamp": "00:08:11.023"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -2616,7 +2616,7 @@
     "timestamp": "00:08:37.761"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:08:57.394"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:09:25.646"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Dušan Tadić",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -2848,7 +2848,7 @@
     "timestamp": "00:09:37.334"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:10:09.630"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -3640,7 +3640,7 @@
     "timestamp": "00:12:31.405"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -3944,7 +3944,7 @@
     "timestamp": "00:13:24.298"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -4424,7 +4424,7 @@
     "timestamp": "00:14:32.312"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wes Morgan",
     "player2": "",
     "player1_team": "Leicester City",
@@ -6080,7 +6080,7 @@
     "timestamp": "00:18:47.792"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "",
     "player1_team": "Southampton",
@@ -6096,7 +6096,7 @@
     "timestamp": "00:19:26.216"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Dušan Tadić",
     "player2": "",
     "player1_team": "Southampton",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:19:57.259"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Dušan Tadić",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:21:17.545"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -6304,7 +6304,7 @@
     "timestamp": "00:21:55.984"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -6384,7 +6384,7 @@
     "timestamp": "00:22:27.401"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -6432,7 +6432,7 @@
     "timestamp": "00:22:55.480"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -7016,7 +7016,7 @@
     "timestamp": "00:25:32.961"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -7544,7 +7544,7 @@
     "timestamp": "00:26:58.869"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Ward-Prowse",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -7616,7 +7616,7 @@
     "timestamp": "00:27:49.427"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "James Ward-Prowse",
     "player2": "",
     "player1_team": "Southampton",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:28:32.176"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Dušan Tadić",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -7776,7 +7776,7 @@
     "timestamp": "00:32:18.151"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -8352,7 +8352,7 @@
     "timestamp": "00:34:06.117"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "James Ward-Prowse",
     "player2": "Cédric Ricardo Alves Soares",
     "player1_team": "Southampton",
@@ -8800,7 +8800,7 @@
     "timestamp": "00:35:23.514"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -8960,7 +8960,7 @@
     "timestamp": "00:37:12.569"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:37:24.745"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -9456,7 +9456,7 @@
     "timestamp": "00:40:37.521"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -9600,7 +9600,7 @@
     "timestamp": "00:41:03.618"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Fuchs",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:43:01.504"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -10296,7 +10296,7 @@
     "timestamp": "00:43:45.473"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:44:13.222"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -10728,7 +10728,7 @@
     "timestamp": "00:45:05.270"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -10920,7 +10920,7 @@
     "timestamp": "00:45:30.679"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sadio Mané",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -11664,7 +11664,7 @@
     "timestamp": "00:47:34.456"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -12296,7 +12296,7 @@
     "timestamp": "00:00:11.799"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:00:47.086"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -12440,7 +12440,7 @@
     "timestamp": "00:01:00.459"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "James Ward-Prowse",
     "player1_team": "Southampton",
@@ -12584,7 +12584,7 @@
     "timestamp": "00:01:19.196"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -12872,7 +12872,7 @@
     "timestamp": "00:02:00.807"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -12928,7 +12928,7 @@
     "timestamp": "00:02:12.052"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -13200,7 +13200,7 @@
     "timestamp": "00:02:55.180"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:03:40.372"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -14584,7 +14584,7 @@
     "timestamp": "00:06:26.303"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:08:38.137"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -14944,7 +14944,7 @@
     "timestamp": "00:09:57.292"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -14968,7 +14968,7 @@
     "timestamp": "00:10:33.920"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:11:04.258"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:11:56.879"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:14:37.814"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Maya Yoshida",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -15896,7 +15896,7 @@
     "timestamp": "00:16:30.070"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Victor Wanyama",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -16672,7 +16672,7 @@
     "timestamp": "00:19:56.053"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Kelvin Davis",
     "player1_team": "Southampton",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:23:09.758"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -17752,7 +17752,7 @@
     "timestamp": "00:24:34.468"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:25:52.773"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -18224,7 +18224,7 @@
     "timestamp": "00:26:35.558"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -18248,7 +18248,7 @@
     "timestamp": "00:27:05.868"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -18312,7 +18312,7 @@
     "timestamp": "00:27:42.051"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -18808,7 +18808,7 @@
     "timestamp": "00:29:33.178"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Nathan Dyer",
     "player1_team": "Leicester City",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:29:44.397"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -19032,7 +19032,7 @@
     "timestamp": "00:30:45.438"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -19064,7 +19064,7 @@
     "timestamp": "00:31:16.534"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -20104,7 +20104,7 @@
     "timestamp": "00:33:51.364"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -20168,7 +20168,7 @@
     "timestamp": "00:34:26.137"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:36:34.214"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Wes Morgan",
     "player1_team": "Leicester City",
@@ -21272,7 +21272,7 @@
     "timestamp": "00:38:41.902"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -21336,7 +21336,7 @@
     "timestamp": "00:39:02.190"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -21392,7 +21392,7 @@
     "timestamp": "00:39:21.706"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -21568,7 +21568,7 @@
     "timestamp": "00:40:02.315"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:43:29.611"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -22576,7 +22576,7 @@
     "timestamp": "00:44:54.940"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -22960,7 +22960,7 @@
     "timestamp": "00:47:33.465"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -23192,7 +23192,7 @@
     "timestamp": "00:48:42.484"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ryan Bertrand",
     "player2": "Jay Rodriguez",
     "player1_team": "Southampton",
@@ -23368,7 +23368,7 @@
     "timestamp": "00:49:22.069"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Virgil van Dijk",
     "player2": "",
     "player1_team": "Southampton",

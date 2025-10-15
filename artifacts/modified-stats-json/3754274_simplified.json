@@ -96,7 +96,7 @@
     "timestamp": "00:00:09.285"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -560,7 +560,7 @@
     "timestamp": "00:01:27.515"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -592,7 +592,7 @@
     "timestamp": "00:01:45.335"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adam Smith",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -736,7 +736,7 @@
     "timestamp": "00:02:07.416"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adam Smith",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -1048,7 +1048,7 @@
     "timestamp": "00:02:56.916"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:03:36.614"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Philipp Wollscheid",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:04:12.969"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -1536,7 +1536,7 @@
     "timestamp": "00:04:47.533"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simon Francis",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:05:29.079"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Junior Stanislas",
     "player1_team": "AFC Bournemouth",
@@ -1688,7 +1688,7 @@
     "timestamp": "00:05:43.925"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Junior Stanislas",
     "player1_team": "AFC Bournemouth",
@@ -1896,7 +1896,7 @@
     "timestamp": "00:06:23.628"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Dan Gosling",
     "player1_team": "AFC Bournemouth",
@@ -2304,7 +2304,7 @@
     "timestamp": "00:07:16.559"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -2496,7 +2496,7 @@
     "timestamp": "00:08:02.217"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -3008,7 +3008,7 @@
     "timestamp": "00:10:41.380"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -3088,7 +3088,7 @@
     "timestamp": "00:11:02.186"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -3952,7 +3952,7 @@
     "timestamp": "00:13:34.569"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -4392,7 +4392,7 @@
     "timestamp": "00:14:40.967"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -4776,7 +4776,7 @@
     "timestamp": "00:15:47.113"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -4856,7 +4856,7 @@
     "timestamp": "00:16:24.494"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "Glen Johnson",
     "player1_team": "Stoke City",
@@ -4888,7 +4888,7 @@
     "timestamp": "00:16:57.361"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marc Muniesa Martínez",
     "player1_team": "Stoke City",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:17:18.162"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -5800,7 +5800,7 @@
     "timestamp": "00:19:46.456"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simon Francis",
     "player2": "Marc Pugh",
     "player1_team": "AFC Bournemouth",
@@ -5872,7 +5872,7 @@
     "timestamp": "00:20:40.904"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -6104,7 +6104,7 @@
     "timestamp": "00:21:14.820"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Marc Pugh",
     "player1_team": "AFC Bournemouth",
@@ -6944,7 +6944,7 @@
     "timestamp": "00:23:18.572"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -7048,7 +7048,7 @@
     "timestamp": "00:23:52.151"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:24:13.675"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -7184,7 +7184,7 @@
     "timestamp": "00:24:24.868"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Xherdan Shaqiri",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -7776,7 +7776,7 @@
     "timestamp": "00:26:50.793"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Junior Stanislas",
     "player2": "Charlie Daniels",
     "player1_team": "AFC Bournemouth",
@@ -7816,7 +7816,7 @@
     "timestamp": "00:27:16.576"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Junior Stanislas",
     "player2": "Charlie Daniels",
     "player1_team": "AFC Bournemouth",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:27:26.809"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Junior Stanislas",
     "player2": "Charlie Daniels",
     "player1_team": "AFC Bournemouth",
@@ -8368,7 +8368,7 @@
     "timestamp": "00:29:09.019"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -8904,7 +8904,7 @@
     "timestamp": "00:31:10.513"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -9344,7 +9344,7 @@
     "timestamp": "00:32:47.428"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -10456,7 +10456,7 @@
     "timestamp": "00:35:22.884"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Xherdan Shaqiri",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -10856,7 +10856,7 @@
     "timestamp": "00:37:23.375"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Junior Stanislas",
     "player1_team": "AFC Bournemouth",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:37:47.637"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Junior Stanislas",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -11120,7 +11120,7 @@
     "timestamp": "00:38:50.792"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:39:34.288"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:40:03.562"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simon Francis",
     "player2": "Adam Smith",
     "player1_team": "AFC Bournemouth",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:40:31.645"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Junior Stanislas",
     "player2": "Charlie Daniels",
     "player1_team": "AFC Bournemouth",
@@ -13528,7 +13528,7 @@
     "timestamp": "00:47:02.853"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -13816,7 +13816,7 @@
     "timestamp": "00:00:21.058"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Ritchie",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -13864,7 +13864,7 @@
     "timestamp": "00:00:32.018"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Matt Ritchie",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -13976,7 +13976,7 @@
     "timestamp": "00:04:19.601"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -15176,7 +15176,7 @@
     "timestamp": "00:08:28.968"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "Philipp Wollscheid",
     "player1_team": "Stoke City",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:10:11.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Junior Stanislas",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -16408,7 +16408,7 @@
     "timestamp": "00:13:14.176"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:14:54.150"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Simon Francis",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -16968,7 +16968,7 @@
     "timestamp": "00:15:19.001"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Junior Stanislas",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -17104,7 +17104,7 @@
     "timestamp": "00:16:21.426"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -17272,7 +17272,7 @@
     "timestamp": "00:16:58.292"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mame Biram Diouf",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -17768,7 +17768,7 @@
     "timestamp": "00:18:28.247"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gilbert Gianelli Imbula Wanga",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:22:08.990"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:23:33.044"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mame Biram Diouf",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -19320,7 +19320,7 @@
     "timestamp": "00:23:56.634"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Benik Afobe",
     "player2": "Charlie Daniels",
     "player1_team": "AFC Bournemouth",
@@ -19360,7 +19360,7 @@
     "timestamp": "00:24:03.338"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mame Biram Diouf",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:24:25.354"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Ibrahim Afellay",
     "player1_team": "Stoke City",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:24:40.642"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -20472,7 +20472,7 @@
     "timestamp": "00:28:03.700"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Philipp Wollscheid",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:29:32.044"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:30:19.569"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -21184,7 +21184,7 @@
     "timestamp": "00:31:01.993"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Manuel Iturbe Arévalo",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -21360,7 +21360,7 @@
     "timestamp": "00:31:27.907"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -21688,7 +21688,7 @@
     "timestamp": "00:32:45.407"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Matt Ritchie",
     "player2": "Benik Afobe",
     "player1_team": "AFC Bournemouth",
@@ -21968,7 +21968,7 @@
     "timestamp": "00:33:49.222"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "",
     "player1_team": "AFC Bournemouth",
@@ -22080,7 +22080,7 @@
     "timestamp": "00:34:51.291"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Gilbert Gianelli Imbula Wanga",
     "player1_team": "Stoke City",
@@ -22120,7 +22120,7 @@
     "timestamp": "00:35:15.054"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simon Francis",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:35:59.196"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Matt Ritchie",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -22416,7 +22416,7 @@
     "timestamp": "00:36:46.695"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Matt Ritchie",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -22464,7 +22464,7 @@
     "timestamp": "00:37:36.642"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Simon Francis",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -22720,7 +22720,7 @@
     "timestamp": "00:38:09.136"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Steve Cook",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -22960,7 +22960,7 @@
     "timestamp": "00:40:33.684"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -23104,7 +23104,7 @@
     "timestamp": "00:41:06.092"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Benik Afobe",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -24616,7 +24616,7 @@
     "timestamp": "00:44:53.093"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Matt Ritchie",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -24720,7 +24720,7 @@
     "timestamp": "00:45:28.245"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Harry Arter",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -24832,7 +24832,7 @@
     "timestamp": "00:45:56.001"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adam Smith",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -24944,7 +24944,7 @@
     "timestamp": "00:46:13.122"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jack Butland",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -25008,7 +25008,7 @@
     "timestamp": "00:47:11.168"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Juan Manuel Iturbe Arévalo",
     "player1_team": "AFC Bournemouth",
@@ -25232,7 +25232,7 @@
     "timestamp": "00:47:56.141"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mame Biram Diouf",
     "player2": "José Luis Sanmartín Mato",
     "player1_team": "Stoke City",
@@ -25608,7 +25608,7 @@
     "timestamp": "00:48:38.887"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Steve Cook",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -26056,7 +26056,7 @@
     "timestamp": "00:50:00.643"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adam Smith",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",

@@ -472,7 +472,7 @@
     "timestamp": "00:01:26.463"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adrian Mutu",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -1088,7 +1088,7 @@
     "timestamp": "00:03:01.485"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:04:21.048"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adrian Mutu",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:05:24.305"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -1664,7 +1664,7 @@
     "timestamp": "00:05:40.278"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "Frank Lampard",
     "player1_team": "Chelsea",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:06:00.795"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -1832,7 +1832,7 @@
     "timestamp": "00:06:25.986"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:06:44.359"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Frank Lampard",
     "player2": "Adrian Mutu",
     "player1_team": "Chelsea",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:07:11.782"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "",
     "player1_team": "Arsenal",
@@ -2168,7 +2168,7 @@
     "timestamp": "00:07:19.195"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Adrian Mutu",
     "player2": "",
     "player1_team": "Chelsea",
@@ -2192,7 +2192,7 @@
     "timestamp": "00:07:40.349"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gérémi Sorele N\"Djitap Fotso",
     "player2": "Adrian Mutu",
     "player1_team": "Chelsea",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:08:12.171"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Adrian Mutu",
     "player2": "",
     "player1_team": "Chelsea",
@@ -2424,7 +2424,7 @@
     "timestamp": "00:09:03.902"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sulzeer Jeremiah ''Sol' Campbell",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:09:48.060"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -2824,7 +2824,7 @@
     "timestamp": "00:10:32.863"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "Scott Parker",
     "player1_team": "Chelsea",
@@ -3288,7 +3288,7 @@
     "timestamp": "00:11:59.066"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:12:14.309"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Eiður Smári Guðjohnsen",
     "player1_team": "Chelsea",
@@ -3480,7 +3480,7 @@
     "timestamp": "00:12:45.105"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Adrian Mutu",
     "player1_team": "Chelsea",
@@ -3664,7 +3664,7 @@
     "timestamp": "00:13:22.360"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Robert Pirès",
     "player1_team": "Arsenal",
@@ -3768,7 +3768,7 @@
     "timestamp": "00:13:34.315"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gaël Clichy",
     "player2": "Sulzeer Jeremiah ''Sol' Campbell",
     "player1_team": "Arsenal",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:15:06.277"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick Vieira",
     "player2": "Laureano Bisan-Etame Mayer",
     "player1_team": "Arsenal",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:15:56.679"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sulzeer Jeremiah ''Sol' Campbell",
     "player2": "",
     "player1_team": "Arsenal",
@@ -4776,7 +4776,7 @@
     "timestamp": "00:16:39.828"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adrian Mutu",
     "player2": "Mario Melchiot",
     "player1_team": "Chelsea",
@@ -4976,7 +4976,7 @@
     "timestamp": "00:18:33.891"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sulzeer Jeremiah ''Sol' Campbell",
     "player2": "Gaël Clichy",
     "player1_team": "Arsenal",
@@ -5152,7 +5152,7 @@
     "timestamp": "00:18:56.076"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -5264,7 +5264,7 @@
     "timestamp": "00:19:17.573"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -5464,7 +5464,7 @@
     "timestamp": "00:19:43.266"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Thierry Henry",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -5768,7 +5768,7 @@
     "timestamp": "00:21:28.498"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -5864,7 +5864,7 @@
     "timestamp": "00:21:49.249"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -5896,7 +5896,7 @@
     "timestamp": "00:22:06.165"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -5976,7 +5976,7 @@
     "timestamp": "00:22:24.083"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:24:11.727"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "",
     "player1_team": "Arsenal",
@@ -6872,7 +6872,7 @@
     "timestamp": "00:24:47.289"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Laureano Bisan-Etame Mayer",
     "player1_team": "Arsenal",
@@ -7352,7 +7352,7 @@
     "timestamp": "00:26:19.552"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -8128,7 +8128,7 @@
     "timestamp": "00:28:27.561"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Adrian Mutu",
     "player2": "",
     "player1_team": "Chelsea",
@@ -8240,7 +8240,7 @@
     "timestamp": "00:29:20.186"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -8600,7 +8600,7 @@
     "timestamp": "00:30:49.561"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -8776,7 +8776,7 @@
     "timestamp": "00:31:20.273"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Frank Lampard",
     "player2": "Scott Parker",
     "player1_team": "Chelsea",
@@ -8824,7 +8824,7 @@
     "timestamp": "00:31:33.679"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Scott Parker",
     "player2": "Mario Melchiot",
     "player1_team": "Chelsea",
@@ -8848,7 +8848,7 @@
     "timestamp": "00:31:36.397"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Scott Parker",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:33:03.493"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Terry",
     "player2": "Claude Makélélé",
     "player1_team": "Chelsea",
@@ -9648,7 +9648,7 @@
     "timestamp": "00:33:42.265"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -9808,7 +9808,7 @@
     "timestamp": "00:34:06.995"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adrian Mutu",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -9968,7 +9968,7 @@
     "timestamp": "00:34:59.086"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adrian Mutu",
     "player2": "Eiður Smári Guðjohnsen",
     "player1_team": "Chelsea",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:36:04.702"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Laureano Bisan-Etame Mayer",
     "player1_team": "Arsenal",
@@ -10216,7 +10216,7 @@
     "timestamp": "00:36:25.496"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Terry",
     "player2": "Mario Melchiot",
     "player1_team": "Chelsea",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:36:52.572"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -10320,7 +10320,7 @@
     "timestamp": "00:37:06.655"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Frank Lampard",
     "player1_team": "Chelsea",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:37:13.587"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Eiður Smári Guðjohnsen",
     "player1_team": "Chelsea",
@@ -10504,7 +10504,7 @@
     "timestamp": "00:37:30.221"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -10576,7 +10576,7 @@
     "timestamp": "00:37:41.325"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Adrian Mutu",
     "player2": "",
     "player1_team": "Chelsea",
@@ -10856,7 +10856,7 @@
     "timestamp": "00:38:40.997"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Scott Parker",
     "player2": "Mario Melchiot",
     "player1_team": "Chelsea",
@@ -10912,7 +10912,7 @@
     "timestamp": "00:38:56.887"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:39:25.421"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gaël Clichy",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -11608,7 +11608,7 @@
     "timestamp": "00:41:11.643"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Frank Lampard",
     "player2": "Mario Melchiot",
     "player1_team": "Chelsea",
@@ -11720,7 +11720,7 @@
     "timestamp": "00:41:31.711"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "",
     "player1_team": "Arsenal",
@@ -11736,7 +11736,7 @@
     "timestamp": "00:42:13.006"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -11952,7 +11952,7 @@
     "timestamp": "00:42:49.955"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "Kolo Habib Touré",
     "player1_team": "Arsenal",
@@ -12128,7 +12128,7 @@
     "timestamp": "00:43:41.180"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "John Terry",
     "player1_team": "Chelsea",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:44:32.845"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "",
     "player1_team": "Chelsea",
@@ -12384,7 +12384,7 @@
     "timestamp": "00:44:59.698"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "",
     "player1_team": "Arsenal",
@@ -12808,7 +12808,7 @@
     "timestamp": "00:46:16.747"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adrian Mutu",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -13416,7 +13416,7 @@
     "timestamp": "00:00:55.507"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -13552,7 +13552,7 @@
     "timestamp": "00:01:18.231"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "",
     "player1_team": "Arsenal",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:02:19.419"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "Claude Makélélé",
     "player1_team": "Chelsea",
@@ -14120,7 +14120,7 @@
     "timestamp": "00:02:46.360"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Gérémi Sorele N\"Djitap Fotso",
     "player2": "",
     "player1_team": "Chelsea",
@@ -14328,7 +14328,7 @@
     "timestamp": "00:03:23.525"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -14360,7 +14360,7 @@
     "timestamp": "00:03:40.341"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Terry",
     "player2": "Frank Lampard",
     "player1_team": "Chelsea",
@@ -14896,7 +14896,7 @@
     "timestamp": "00:05:02.999"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -15120,7 +15120,7 @@
     "timestamp": "00:06:06.789"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Frank Lampard",
     "player1_team": "Chelsea",
@@ -15200,7 +15200,7 @@
     "timestamp": "00:06:17.669"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Claude Makélélé",
     "player1_team": "Chelsea",
@@ -15360,7 +15360,7 @@
     "timestamp": "00:06:36.920"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Laureano Bisan-Etame Mayer",
     "player1_team": "Arsenal",
@@ -15520,7 +15520,7 @@
     "timestamp": "00:07:01.420"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Eiður Smári Guðjohnsen",
     "player1_team": "Chelsea",
@@ -15840,7 +15840,7 @@
     "timestamp": "00:08:12.002"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -15896,7 +15896,7 @@
     "timestamp": "00:08:32.976"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -16072,7 +16072,7 @@
     "timestamp": "00:09:14.934"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -16240,7 +16240,7 @@
     "timestamp": "00:09:37.229"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -16312,7 +16312,7 @@
     "timestamp": "00:09:56.433"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Eiður Smári Guðjohnsen",
     "player1_team": "Chelsea",
@@ -16448,7 +16448,7 @@
     "timestamp": "00:10:14.782"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -16728,7 +16728,7 @@
     "timestamp": "00:10:57.189"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -16832,7 +16832,7 @@
     "timestamp": "00:11:19.690"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -16864,7 +16864,7 @@
     "timestamp": "00:11:37.021"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -16976,7 +16976,7 @@
     "timestamp": "00:12:06.887"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Scott Parker",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -17144,7 +17144,7 @@
     "timestamp": "00:12:33.226"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gérémi Sorele N\"Djitap Fotso",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -17400,7 +17400,7 @@
     "timestamp": "00:13:48.830"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Terry",
     "player2": "Gérémi Sorele N\"Djitap Fotso",
     "player1_team": "Chelsea",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:14:27.306"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Patrick Vieira",
     "player2": "",
     "player1_team": "Arsenal",
@@ -17584,7 +17584,7 @@
     "timestamp": "00:15:04.843"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Wayne Bridge",
     "player2": "Frank Lampard",
     "player1_team": "Chelsea",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:17:12.708"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -18568,7 +18568,7 @@
     "timestamp": "00:18:36.843"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kolo Habib Touré",
     "player2": "Sulzeer Jeremiah ''Sol' Campbell",
     "player1_team": "Arsenal",
@@ -19824,7 +19824,7 @@
     "timestamp": "00:21:06.106"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "Gaël Clichy",
     "player1_team": "Arsenal",
@@ -20536,7 +20536,7 @@
     "timestamp": "00:24:40.876"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claude Makélélé",
     "player2": "Frank Lampard",
     "player1_team": "Chelsea",
@@ -20816,7 +20816,7 @@
     "timestamp": "00:25:22.573"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick Vieira",
     "player2": "Robert Pirès",
     "player1_team": "Arsenal",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:25:52.527"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "John Terry",
     "player1_team": "Chelsea",
@@ -21080,7 +21080,7 @@
     "timestamp": "00:26:28.744"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "",
     "player1_team": "Chelsea",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:29:54.302"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Dennis Bergkamp",
     "player1_team": "Arsenal",
@@ -22704,7 +22704,7 @@
     "timestamp": "00:31:06.964"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jerrel Hasselbaink",
     "player2": "",
     "player1_team": "Chelsea",
@@ -22856,7 +22856,7 @@
     "timestamp": "00:32:01.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Pirès",
     "player2": "Gaël Clichy",
     "player1_team": "Arsenal",
@@ -22920,7 +22920,7 @@
     "timestamp": "00:32:54.930"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -23272,7 +23272,7 @@
     "timestamp": "00:33:37.879"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Thierry Henry",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -23320,7 +23320,7 @@
     "timestamp": "00:34:52.444"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -23384,7 +23384,7 @@
     "timestamp": "00:35:06.061"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Neil Sullivan",
     "player2": "",
     "player1_team": "Chelsea",
@@ -23632,7 +23632,7 @@
     "timestamp": "00:36:02.818"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jerrel Hasselbaink",
     "player2": "",
     "player1_team": "Chelsea",
@@ -23648,7 +23648,7 @@
     "timestamp": "00:36:27.770"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jerrel Hasselbaink",
     "player2": "Mario Melchiot",
     "player1_team": "Chelsea",
@@ -23680,7 +23680,7 @@
     "timestamp": "00:36:56.616"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Robert Pirès",
     "player1_team": "Arsenal",
@@ -23808,7 +23808,7 @@
     "timestamp": "00:37:39.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "William Gallas",
     "player1_team": "Chelsea",
@@ -23968,7 +23968,7 @@
     "timestamp": "00:38:11.161"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Melchiot",
     "player2": "Frank Lampard",
     "player1_team": "Chelsea",
@@ -24224,7 +24224,7 @@
     "timestamp": "00:38:57.027"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neil Sullivan",
     "player2": "Mario Melchiot",
     "player1_team": "Chelsea",
@@ -24328,7 +24328,7 @@
     "timestamp": "00:39:12.714"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "",
     "player1_team": "Arsenal",
@@ -24416,7 +24416,7 @@
     "timestamp": "00:40:08.192"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -24616,7 +24616,7 @@
     "timestamp": "00:40:48.966"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jesper Grønkjær",
     "player2": "Frank Lampard",
     "player1_team": "Chelsea",
@@ -24712,7 +24712,7 @@
     "timestamp": "00:41:02.857"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "",
     "player1_team": "Arsenal",
@@ -25120,7 +25120,7 @@
     "timestamp": "00:42:07.566"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -25136,7 +25136,7 @@
     "timestamp": "00:42:35.325"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Pirès",
     "player2": "Fredrik Ljungberg",
     "player1_team": "Arsenal",
@@ -25624,7 +25624,7 @@
     "timestamp": "00:44:06.302"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claude Makélélé",
     "player2": "Wayne Bridge",
     "player1_team": "Chelsea",
@@ -25720,7 +25720,7 @@
     "timestamp": "00:44:20.966"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jerrel Hasselbaink",
     "player2": "",
     "player1_team": "Chelsea",
@@ -25840,7 +25840,7 @@
     "timestamp": "00:44:55.474"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claude Makélélé",
     "player2": "Mario Melchiot",
     "player1_team": "Chelsea",
@@ -25880,7 +25880,7 @@
     "timestamp": "00:45:29.794"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -26024,7 +26024,7 @@
     "timestamp": "00:45:59.491"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Joe Cole",
     "player2": "",
     "player1_team": "Chelsea",
@@ -26064,7 +26064,7 @@
     "timestamp": "00:46:37.096"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -26216,7 +26216,7 @@
     "timestamp": "00:47:26.257"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claude Makélélé",
     "player2": "Wayne Bridge",
     "player1_team": "Chelsea",
@@ -26384,7 +26384,7 @@
     "timestamp": "00:48:03.159"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Pirès",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",

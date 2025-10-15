@@ -144,7 +144,7 @@
     "timestamp": "00:00:14.966"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -408,7 +408,7 @@
     "timestamp": "00:01:28.083"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ryan Giggs",
     "player2": "",
     "player1_team": "Manchester United",
@@ -544,7 +544,7 @@
     "timestamp": "00:02:26.512"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Samuel Eto''o Fils",
     "player1_team": "Barcelona",
@@ -704,7 +704,7 @@
     "timestamp": "00:03:07.266"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:04:27.082"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Ji-Sung Park",
     "player1_team": "Manchester United",
@@ -1112,7 +1112,7 @@
     "timestamp": "00:04:50.443"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Rio Ferdinand",
     "player1_team": "Manchester United",
@@ -1248,7 +1248,7 @@
     "timestamp": "00:05:15.250"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Cristiano Ronaldo dos Santos Aveiro",
     "player1_team": "Manchester United",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:06:28.636"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Anderson Luis de Abreu Oliveira",
     "player1_team": "Manchester United",
@@ -1744,7 +1744,7 @@
     "timestamp": "00:07:15.120"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -1776,7 +1776,7 @@
     "timestamp": "00:07:31.837"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Rio Ferdinand",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -2136,7 +2136,7 @@
     "timestamp": "00:08:30.770"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nemanja Vidić",
     "player2": "Edwin van der Sar",
     "player1_team": "Manchester United",
@@ -2528,7 +2528,7 @@
     "timestamp": "00:10:27.032"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xavier Hernández Creus",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -3584,7 +3584,7 @@
     "timestamp": "00:13:03.687"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Ji-Sung Park",
     "player1_team": "Manchester United",
@@ -3872,7 +3872,7 @@
     "timestamp": "00:13:46.155"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gnégnéri Yaya Touré",
     "player2": "Víctor Valdés Arribas",
     "player1_team": "Barcelona",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:14:05.441"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Cristiano Ronaldo dos Santos Aveiro",
     "player1_team": "Manchester United",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:17:49.082"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -5120,7 +5120,7 @@
     "timestamp": "00:18:23.650"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Samuel Eto''o Fils",
     "player1_team": "Barcelona",
@@ -5368,7 +5368,7 @@
     "timestamp": "00:19:38.966"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -5568,7 +5568,7 @@
     "timestamp": "00:21:52.204"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ryan Giggs",
     "player2": "Cristiano Ronaldo dos Santos Aveiro",
     "player1_team": "Manchester United",
@@ -5928,7 +5928,7 @@
     "timestamp": "00:23:21.241"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Barcelona",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:26:34.200"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "",
     "player1_team": "Barcelona",
@@ -7080,7 +7080,7 @@
     "timestamp": "00:26:57.186"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Samuel Eto''o Fils",
     "player1_team": "Barcelona",
@@ -7112,7 +7112,7 @@
     "timestamp": "00:27:09.030"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Cristiano Ronaldo dos Santos Aveiro",
     "player1_team": "Manchester United",
@@ -7280,7 +7280,7 @@
     "timestamp": "00:27:39.378"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -7424,7 +7424,7 @@
     "timestamp": "00:28:19.460"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -8136,7 +8136,7 @@
     "timestamp": "00:30:09.574"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -8536,7 +8536,7 @@
     "timestamp": "00:31:08.131"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Rio Ferdinand",
     "player1_team": "Manchester United",
@@ -8616,7 +8616,7 @@
     "timestamp": "00:31:28.829"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Anderson Luis de Abreu Oliveira",
     "player1_team": "Manchester United",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:33:38.904"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -9728,7 +9728,7 @@
     "timestamp": "00:34:20.394"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xavier Hernández Creus",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:34:53.219"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Xavier Hernández Creus",
     "player2": "",
     "player1_team": "Barcelona",
@@ -9776,7 +9776,7 @@
     "timestamp": "00:35:25.670"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -9824,7 +9824,7 @@
     "timestamp": "00:35:56.650"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "",
     "player1_team": "Manchester United",
@@ -10704,7 +10704,7 @@
     "timestamp": "00:38:13.888"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "",
     "player1_team": "Barcelona",
@@ -10720,7 +10720,7 @@
     "timestamp": "00:38:37.013"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -10928,7 +10928,7 @@
     "timestamp": "00:39:19.766"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Ji-Sung Park",
     "player1_team": "Manchester United",
@@ -11112,7 +11112,7 @@
     "timestamp": "00:39:50.722"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Víctor Valdés Arribas",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Barcelona",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:42:05.738"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ryan Giggs",
     "player2": "Patrice Evra",
     "player1_team": "Manchester United",
@@ -12016,7 +12016,7 @@
     "timestamp": "00:43:20.489"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:43:48.677"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -12200,7 +12200,7 @@
     "timestamp": "00:44:00.604"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Samuel Eto''o Fils",
     "player1_team": "Barcelona",
@@ -13432,7 +13432,7 @@
     "timestamp": "00:00:24.740"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Carlos Alberto Tevez",
     "player1_team": "Manchester United",
@@ -13480,7 +13480,7 @@
     "timestamp": "00:00:36.978"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Carlos Alberto Tevez",
     "player1_team": "Manchester United",
@@ -14104,7 +14104,7 @@
     "timestamp": "00:01:48.773"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cristiano Ronaldo dos Santos Aveiro",
     "player2": "Ji-Sung Park",
     "player1_team": "Manchester United",
@@ -14736,7 +14736,7 @@
     "timestamp": "00:03:00.367"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -16320,7 +16320,7 @@
     "timestamp": "00:07:30.996"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:07:44.543"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -16728,7 +16728,7 @@
     "timestamp": "00:08:42.435"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Wayne Mark Rooney",
     "player1_team": "Manchester United",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:08:54.369"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:09:56.910"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Cristiano Ronaldo dos Santos Aveiro",
     "player1_team": "Manchester United",
@@ -17416,7 +17416,7 @@
     "timestamp": "00:10:23.923"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "",
     "player1_team": "Barcelona",
@@ -17584,7 +17584,7 @@
     "timestamp": "00:11:19.478"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -17896,7 +17896,7 @@
     "timestamp": "00:12:20.668"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Nemanja Vidić",
     "player1_team": "Manchester United",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:13:36.674"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:13:48.916"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Michael Carrick",
     "player2": "Cristiano Ronaldo dos Santos Aveiro",
     "player1_team": "Manchester United",
@@ -18408,7 +18408,7 @@
     "timestamp": "00:13:55.939"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gnégnéri Yaya Touré",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -18744,7 +18744,7 @@
     "timestamp": "00:15:09.405"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Edwin van der Sar",
     "player2": "Nemanja Vidić",
     "player1_team": "Manchester United",
@@ -18936,7 +18936,7 @@
     "timestamp": "00:16:23.286"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Rio Ferdinand",
     "player1_team": "Manchester United",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:17:34.012"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ryan Giggs",
     "player2": "",
     "player1_team": "Manchester United",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:18:03.368"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "",
     "player1_team": "Barcelona",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:20:40.901"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Edwin van der Sar",
     "player2": "Rio Ferdinand",
     "player1_team": "Manchester United",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:21:05.830"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -20592,7 +20592,7 @@
     "timestamp": "00:22:25.576"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Samuel Eto''o Fils",
     "player1_team": "Barcelona",
@@ -20688,7 +20688,7 @@
     "timestamp": "00:22:50.600"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Samuel Eto''o Fils",
     "player1_team": "Barcelona",
@@ -20720,7 +20720,7 @@
     "timestamp": "00:23:16.862"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -20856,7 +20856,7 @@
     "timestamp": "00:23:42.597"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ryan Giggs",
     "player2": "",
     "player1_team": "Manchester United",
@@ -20904,7 +20904,7 @@
     "timestamp": "00:24:16.067"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Rio Ferdinand",
     "player1_team": "Manchester United",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:26:42.703"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ryan Giggs",
     "player2": "Dimitar Ivanov Berbatov",
     "player1_team": "Manchester United",
@@ -21544,7 +21544,7 @@
     "timestamp": "00:28:07.992"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Carles Puyol i Saforcada",
     "player1_team": "Barcelona",
@@ -21616,7 +21616,7 @@
     "timestamp": "00:29:21.270"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrice Evra",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -21976,7 +21976,7 @@
     "timestamp": "00:30:14.285"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Seydou Kéita",
     "player1_team": "Barcelona",
@@ -22304,7 +22304,7 @@
     "timestamp": "00:31:24.954"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -22328,7 +22328,7 @@
     "timestamp": "00:31:49.952"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -22512,7 +22512,7 @@
     "timestamp": "00:32:15.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nemanja Vidić",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -22704,7 +22704,7 @@
     "timestamp": "00:32:40.988"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Víctor Valdés Arribas",
     "player2": "",
     "player1_team": "Barcelona",
@@ -22800,7 +22800,7 @@
     "timestamp": "00:33:36.419"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Samuel Eto''o Fils",
     "player1_team": "Barcelona",
@@ -22904,7 +22904,7 @@
     "timestamp": "00:34:13.294"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -23656,7 +23656,7 @@
     "timestamp": "00:37:29.640"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -24664,7 +24664,7 @@
     "timestamp": "00:39:48.746"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Víctor Valdés Arribas",
     "player2": "Seydou Kéita",
     "player1_team": "Barcelona",
@@ -24832,7 +24832,7 @@
     "timestamp": "00:41:07.288"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Wayne Mark Rooney",
     "player2": "Carlos Alberto Tevez",
     "player1_team": "Manchester United",
@@ -24872,7 +24872,7 @@
     "timestamp": "00:41:26.174"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Wayne Mark Rooney",
     "player2": "Dimitar Ivanov Berbatov",
     "player1_team": "Manchester United",
@@ -25080,7 +25080,7 @@
     "timestamp": "00:43:18.733"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Rio Ferdinand",
     "player1_team": "Manchester United",
@@ -25432,7 +25432,7 @@
     "timestamp": "00:43:56.673"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sylvio Mendes Campos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -25872,7 +25872,7 @@
     "timestamp": "00:44:53.744"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Rio Ferdinand",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -26104,7 +26104,7 @@
     "timestamp": "00:45:38.068"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Andrés Iniesta Luján",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -26472,7 +26472,7 @@
     "timestamp": "00:47:18.638"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Carles Puyol i Saforcada",
     "player2": "",
     "player1_team": "Barcelona",
@@ -26496,7 +26496,7 @@
     "timestamp": "00:47:24.924"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",

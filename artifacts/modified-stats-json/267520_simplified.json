@@ -304,7 +304,7 @@
     "timestamp": "00:00:46.366"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Haris Seferović",
     "player1_team": "Real Sociedad",
@@ -432,7 +432,7 @@
     "timestamp": "00:01:12.237"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Daniel Estrada Agirrezablaga",
     "player2": "",
     "player1_team": "Real Sociedad",
@@ -440,7 +440,7 @@
     "timestamp": "00:02:10.339"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:51.517"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -936,7 +936,7 @@
     "timestamp": "00:03:33.429"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Xavier Hernández Creus",
     "player1_team": "Barcelona",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:04:09.715"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Alexis Alejandro Sánchez Sánchez",
     "player1_team": "Barcelona",
@@ -2808,7 +2808,7 @@
     "timestamp": "00:09:24.026"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Antoine Griezmann",
     "player2": "",
     "player1_team": "Real Sociedad",
@@ -3048,7 +3048,7 @@
     "timestamp": "00:10:17.114"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -3440,7 +3440,7 @@
     "timestamp": "00:11:20.214"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -4120,7 +4120,7 @@
     "timestamp": "00:12:51.057"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "",
     "player1_team": "Real Sociedad",
@@ -4552,7 +4552,7 @@
     "timestamp": "00:14:23.087"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xavier Hernández Creus",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -5144,7 +5144,7 @@
     "timestamp": "00:15:41.112"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Xabier Prieto Argarate",
     "player1_team": "Real Sociedad",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:16:16.521"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Estrada Agirrezablaga",
     "player2": "Haris Seferović",
     "player1_team": "Real Sociedad",
@@ -5392,7 +5392,7 @@
     "timestamp": "00:16:35.730"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Daniel Estrada Agirrezablaga",
     "player2": "Haris Seferović",
     "player1_team": "Real Sociedad",
@@ -5504,7 +5504,7 @@
     "timestamp": "00:16:53.059"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Adriano Correia Claro",
     "player1_team": "Barcelona",
@@ -5656,7 +5656,7 @@
     "timestamp": "00:17:27.503"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -6088,7 +6088,7 @@
     "timestamp": "00:18:14.642"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -6248,7 +6248,7 @@
     "timestamp": "00:18:37.672"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Xavier Hernández Creus",
     "player1_team": "Barcelona",
@@ -6328,7 +6328,7 @@
     "timestamp": "00:20:43.628"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Antoine Griezmann",
     "player1_team": "Real Sociedad",
@@ -6344,7 +6344,7 @@
     "timestamp": "00:20:56.467"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -6624,7 +6624,7 @@
     "timestamp": "00:21:31.583"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -7192,7 +7192,7 @@
     "timestamp": "00:23:21.873"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Liassine Cadamuro-Bentaïba",
     "player2": "Javier Ros Añón",
     "player1_team": "Real Sociedad",
@@ -7872,7 +7872,7 @@
     "timestamp": "00:24:55.707"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Xavier Hernández Creus",
     "player1_team": "Barcelona",
@@ -8712,7 +8712,7 @@
     "timestamp": "00:26:49.963"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -10120,7 +10120,7 @@
     "timestamp": "00:29:14.819"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:29:57.578"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Antoine Griezmann",
     "player1_team": "Real Sociedad",
@@ -10552,7 +10552,7 @@
     "timestamp": "00:30:29.406"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Markel Bergara Larrañaga",
     "player1_team": "Real Sociedad",
@@ -10680,7 +10680,7 @@
     "timestamp": "00:30:53.352"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Antoine Griezmann",
     "player2": "",
     "player1_team": "Real Sociedad",
@@ -10696,7 +10696,7 @@
     "timestamp": "00:31:15.228"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Haris Seferović",
     "player1_team": "Real Sociedad",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:34:08.881"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "",
     "player1_team": "Real Sociedad",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:34:59.043"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -12984,7 +12984,7 @@
     "timestamp": "00:36:54.953"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "",
     "player1_team": "Real Sociedad",
@@ -15544,7 +15544,7 @@
     "timestamp": "00:42:49.332"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Estrada Agirrezablaga",
     "player2": "Marco Sangalli Fuentes",
     "player1_team": "Real Sociedad",
@@ -15592,7 +15592,7 @@
     "timestamp": "00:43:18.860"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "",
     "player1_team": "Barcelona",
@@ -15608,7 +15608,7 @@
     "timestamp": "00:43:28.708"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -15640,7 +15640,7 @@
     "timestamp": "00:43:41.334"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -15928,7 +15928,7 @@
     "timestamp": "00:44:38.349"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Estrada Agirrezablaga",
     "player2": "Liassine Cadamuro-Bentaïba",
     "player1_team": "Real Sociedad",
@@ -16160,7 +16160,7 @@
     "timestamp": "00:45:12.516"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alexis Alejandro Sánchez Sánchez",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -16824,7 +16824,7 @@
     "timestamp": "00:00:48.187"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Liassine Cadamuro-Bentaïba",
     "player2": "Jon Ansotegi Gorostola",
     "player1_team": "Real Sociedad",
@@ -17080,7 +17080,7 @@
     "timestamp": "00:01:17.708"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -17120,7 +17120,7 @@
     "timestamp": "00:01:31.175"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:02:15.208"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -18000,7 +18000,7 @@
     "timestamp": "00:03:19.710"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xavier Hernández Creus",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:04:16.517"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Íñigo Martínez Berridi",
     "player1_team": "Real Sociedad",
@@ -18600,7 +18600,7 @@
     "timestamp": "00:04:39.377"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:05:02.746"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Xavier Hernández Creus",
     "player1_team": "Barcelona",
@@ -20000,7 +20000,7 @@
     "timestamp": "00:08:57.350"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -20216,7 +20216,7 @@
     "timestamp": "00:09:37.313"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Alexis Alejandro Sánchez Sánchez",
     "player1_team": "Barcelona",
@@ -20728,7 +20728,7 @@
     "timestamp": "00:10:48.618"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -21536,7 +21536,7 @@
     "timestamp": "00:12:31.283"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Marc Bartra Aregall",
     "player1_team": "Barcelona",
@@ -22256,7 +22256,7 @@
     "timestamp": "00:14:41.513"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Liassine Cadamuro-Bentaïba",
     "player2": "Markel Bergara Larrañaga",
     "player1_team": "Real Sociedad",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:15:16.043"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Markel Bergara Larrañaga",
     "player1_team": "Real Sociedad",
@@ -24296,7 +24296,7 @@
     "timestamp": "00:20:16.432"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Víctor Valdés Arribas",
     "player2": "Marc Bartra Aregall",
     "player1_team": "Barcelona",
@@ -25936,7 +25936,7 @@
     "timestamp": "00:24:03.298"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xavier Hernández Creus",
     "player2": "Alexis Alejandro Sánchez Sánchez",
     "player1_team": "Barcelona",
@@ -26232,7 +26232,7 @@
     "timestamp": "00:25:42.163"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Imanol Agirretxe Arruti",
     "player1_team": "Real Sociedad",
@@ -26312,7 +26312,7 @@
     "timestamp": "00:25:54.563"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Imanol Agirretxe Arruti",
     "player1_team": "Real Sociedad",
@@ -26360,7 +26360,7 @@
     "timestamp": "00:26:05.201"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -26864,7 +26864,7 @@
     "timestamp": "00:27:04.302"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Íñigo Martínez Berridi",
     "player2": "Alberto De La Bella Madureño",
     "player1_team": "Real Sociedad",
@@ -27200,7 +27200,7 @@
     "timestamp": "00:28:32.301"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -28760,7 +28760,7 @@
     "timestamp": "00:32:43.749"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -29016,7 +29016,7 @@
     "timestamp": "00:33:20.023"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Liassine Cadamuro-Bentaïba",
     "player2": "Jon Ansotegi Gorostola",
     "player1_team": "Real Sociedad",
@@ -29072,7 +29072,7 @@
     "timestamp": "00:33:39.627"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Íñigo Martínez Berridi",
     "player1_team": "Real Sociedad",
@@ -30680,7 +30680,7 @@
     "timestamp": "00:38:04.935"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alberto De La Bella Madureño",
     "player2": "Íñigo Martínez Berridi",
     "player1_team": "Real Sociedad",
@@ -31040,7 +31040,7 @@
     "timestamp": "00:39:01.867"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Alves da Silva",
     "player2": "Marc Bartra Aregall",
     "player1_team": "Barcelona",
@@ -31448,7 +31448,7 @@
     "timestamp": "00:40:25.121"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Xavier Hernández Creus",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -32056,7 +32056,7 @@
     "timestamp": "00:43:12.744"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Liassine Cadamuro-Bentaïba",
     "player2": "Jon Ansotegi Gorostola",
     "player1_team": "Real Sociedad",
@@ -32808,7 +32808,7 @@
     "timestamp": "00:44:54.207"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adriano Correia Claro",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",

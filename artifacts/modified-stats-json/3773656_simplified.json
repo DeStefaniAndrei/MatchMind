@@ -192,7 +192,7 @@
     "timestamp": "00:00:19.189"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Clément Lenglet",
     "player1_team": "Barcelona",
@@ -1160,7 +1160,7 @@
     "timestamp": "00:02:41.479"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -2272,7 +2272,7 @@
     "timestamp": "00:04:33.265"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Yannick Ferreira Carrasco",
     "player1_team": "Atlético Madrid",
@@ -2432,7 +2432,7 @@
     "timestamp": "00:05:09.538"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jorge Resurrección Merodio",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -3624,7 +3624,7 @@
     "timestamp": "00:07:39.302"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Mario Hermoso Canseco",
     "player1_team": "Atlético Madrid",
@@ -3680,7 +3680,7 @@
     "timestamp": "00:08:13.398"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -3848,7 +3848,7 @@
     "timestamp": "00:09:44.824"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Stefan Savić",
     "player1_team": "Atlético Madrid",
@@ -5672,7 +5672,7 @@
     "timestamp": "00:14:32.135"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Antoine Griezmann",
     "player1_team": "Barcelona",
@@ -5704,7 +5704,7 @@
     "timestamp": "00:15:07.815"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -5944,7 +5944,7 @@
     "timestamp": "00:15:58.696"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:16:20.856"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Yannick Ferreira Carrasco",
     "player2": "José María Giménez de Vargas",
     "player1_team": "Atlético Madrid",
@@ -6792,7 +6792,7 @@
     "timestamp": "00:18:00.161"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -7104,7 +7104,7 @@
     "timestamp": "00:18:44.716"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Saúl Ñíguez Esclapez",
     "player1_team": "Atlético Madrid",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:19:38.550"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Frenkie de Jong",
     "player1_team": "Barcelona",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:20:10.713"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Miralem Pjanić",
     "player2": "",
     "player1_team": "Barcelona",
@@ -7664,7 +7664,7 @@
     "timestamp": "00:21:08.334"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Miralem Pjanić",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -8024,7 +8024,7 @@
     "timestamp": "00:21:49.638"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Ángel Martín Correa",
     "player1_team": "Atlético Madrid",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:23:27.789"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Saúl Ñíguez Esclapez",
     "player1_team": "Atlético Madrid",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:23:44.546"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Ángel Martín Correa",
     "player1_team": "Atlético Madrid",
@@ -8664,7 +8664,7 @@
     "timestamp": "00:23:58.734"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Yannick Ferreira Carrasco",
     "player1_team": "Atlético Madrid",
@@ -9024,7 +9024,7 @@
     "timestamp": "00:24:46.562"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Trippier",
     "player2": "Marcos Llorente Moreno",
     "player1_team": "Atlético Madrid",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:24:59.036"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Clément Lenglet",
     "player1_team": "Barcelona",
@@ -10040,7 +10040,7 @@
     "timestamp": "00:27:35.515"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Miralem Pjanić",
     "player1_team": "Barcelona",
@@ -10760,7 +10760,7 @@
     "timestamp": "00:29:17.447"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -11088,7 +11088,7 @@
     "timestamp": "00:31:56.545"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pedro González López",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -11536,7 +11536,7 @@
     "timestamp": "00:32:46.546"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Trippier",
     "player2": "Stefan Savić",
     "player1_team": "Atlético Madrid",
@@ -11816,7 +11816,7 @@
     "timestamp": "00:33:32.803"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Marcos Llorente Moreno",
     "player1_team": "Atlético Madrid",
@@ -13408,7 +13408,7 @@
     "timestamp": "00:37:02.502"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Frenkie de Jong",
     "player1_team": "Barcelona",
@@ -13536,7 +13536,7 @@
     "timestamp": "00:37:32.279"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Trippier",
     "player2": "Saúl Ñíguez Esclapez",
     "player1_team": "Atlético Madrid",
@@ -14120,7 +14120,7 @@
     "timestamp": "00:38:43.182"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Frenkie de Jong",
     "player1_team": "Barcelona",
@@ -15472,7 +15472,7 @@
     "timestamp": "00:41:42.191"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jan Oblak",
     "player2": "Saúl Ñíguez Esclapez",
     "player1_team": "Atlético Madrid",
@@ -15704,7 +15704,7 @@
     "timestamp": "00:42:39.460"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Antoine Griezmann",
     "player1_team": "Barcelona",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:44:22.354"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "João Félix Sequeira",
     "player1_team": "Atlético Madrid",
@@ -15936,7 +15936,7 @@
     "timestamp": "00:44:49.128"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Clément Lenglet",
     "player1_team": "Barcelona",
@@ -17696,7 +17696,7 @@
     "timestamp": "00:00:24.498"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Yannick Ferreira Carrasco",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:01:27.896"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -18456,7 +18456,7 @@
     "timestamp": "00:02:13.976"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Trippier",
     "player2": "Ángel Martín Correa",
     "player1_team": "Atlético Madrid",
@@ -19992,7 +19992,7 @@
     "timestamp": "00:05:51.186"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jan Oblak",
     "player2": "João Félix Sequeira",
     "player1_team": "Atlético Madrid",
@@ -20024,7 +20024,7 @@
     "timestamp": "00:06:22.659"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Yannick Ferreira Carrasco",
     "player1_team": "Atlético Madrid",
@@ -20200,7 +20200,7 @@
     "timestamp": "00:07:05.132"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Miralem Pjanić",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -20656,7 +20656,7 @@
     "timestamp": "00:07:58.163"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ángel Martín Correa",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -21376,7 +21376,7 @@
     "timestamp": "00:09:54.107"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Miralem Pjanić",
     "player1_team": "Barcelona",
@@ -21840,7 +21840,7 @@
     "timestamp": "00:11:29.101"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Miralem Pjanić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -22128,7 +22128,7 @@
     "timestamp": "00:12:13.539"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Mario Hermoso Canseco",
     "player1_team": "Atlético Madrid",
@@ -22576,7 +22576,7 @@
     "timestamp": "00:17:04.327"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Marc-André ter Stegen",
     "player1_team": "Barcelona",
@@ -22864,7 +22864,7 @@
     "timestamp": "00:17:44.476"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Saúl Ñíguez Esclapez",
     "player1_team": "Atlético Madrid",
@@ -23088,7 +23088,7 @@
     "timestamp": "00:18:27.035"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Saúl Ñíguez Esclapez",
     "player1_team": "Atlético Madrid",
@@ -23264,7 +23264,7 @@
     "timestamp": "00:18:57.498"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Miralem Pjanić",
     "player1_team": "Barcelona",
@@ -25768,7 +25768,7 @@
     "timestamp": "00:24:16.944"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Saúl Ñíguez Esclapez",
     "player1_team": "Atlético Madrid",
@@ -25880,7 +25880,7 @@
     "timestamp": "00:24:58.075"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jorge Resurrección Merodio",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -25896,7 +25896,7 @@
     "timestamp": "00:25:26.993"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Trippier",
     "player2": "Stefan Savić",
     "player1_team": "Atlético Madrid",
@@ -26032,7 +26032,7 @@
     "timestamp": "00:25:56.925"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kieran Trippier",
     "player2": "Ángel Martín Correa",
     "player1_team": "Atlético Madrid",
@@ -27416,7 +27416,7 @@
     "timestamp": "00:29:28.615"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Diego da Silva Costa",
     "player1_team": "Atlético Madrid",
@@ -27824,7 +27824,7 @@
     "timestamp": "00:30:44.372"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Miralem Pjanić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -29176,7 +29176,7 @@
     "timestamp": "00:35:23.061"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -29864,7 +29864,7 @@
     "timestamp": "00:37:39.130"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Trippier",
     "player2": "Diego da Silva Costa",
     "player1_team": "Atlético Madrid",
@@ -29952,7 +29952,7 @@
     "timestamp": "00:38:36.537"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Marc-André ter Stegen",
     "player1_team": "Barcelona",
@@ -30536,7 +30536,7 @@
     "timestamp": "00:39:37.396"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Thomas Lemar",
     "player2": "",
     "player1_team": "Atlético Madrid",
@@ -31128,7 +31128,7 @@
     "timestamp": "00:41:24.643"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Ousmane Dembélé",
     "player1_team": "Barcelona",
@@ -31320,7 +31320,7 @@
     "timestamp": "00:42:23.864"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mario Hermoso Canseco",
     "player2": "Diego da Silva Costa",
     "player1_team": "Atlético Madrid",
@@ -31752,7 +31752,7 @@
     "timestamp": "00:43:45.226"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "",
     "player1_team": "Barcelona",
@@ -31784,7 +31784,7 @@
     "timestamp": "00:44:16.682"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Philippe Coutinho Correia",
     "player2": "Frenkie de Jong",
     "player1_team": "Barcelona",
@@ -32016,7 +32016,7 @@
     "timestamp": "00:45:47.498"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Thomas Lemar",
     "player2": "Diego da Silva Costa",
     "player1_team": "Atlético Madrid",
@@ -32104,7 +32104,7 @@
     "timestamp": "00:46:10.096"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergino Dest",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -32144,7 +32144,7 @@
     "timestamp": "00:46:23.255"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Thomas Lemar",
     "player2": "Diego da Silva Costa",
     "player1_team": "Atlético Madrid",
@@ -32384,7 +32384,7 @@
     "timestamp": "00:47:03.886"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jorge Resurrección Merodio",
     "player2": "Kieran Trippier",
     "player1_team": "Atlético Madrid",
@@ -32768,7 +32768,7 @@
     "timestamp": "00:48:14.384"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -32784,7 +32784,7 @@
     "timestamp": "00:48:43.172"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "",
     "player1_team": "Barcelona",
@@ -32968,7 +32968,7 @@
     "timestamp": "00:49:23.329"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",

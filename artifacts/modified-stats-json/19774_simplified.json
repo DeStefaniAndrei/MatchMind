@@ -1904,7 +1904,7 @@
     "timestamp": "00:05:07.219"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:05:20.114"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -1944,7 +1944,7 @@
     "timestamp": "00:05:38.980"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -2000,7 +2000,7 @@
     "timestamp": "00:06:15.380"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -2200,7 +2200,7 @@
     "timestamp": "00:06:54.582"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Chloe Kelly",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -2624,7 +2624,7 @@
     "timestamp": "00:09:14.270"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -2656,7 +2656,7 @@
     "timestamp": "00:09:32.194"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -2728,7 +2728,7 @@
     "timestamp": "00:09:48.684"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Taylor Hinds",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -2992,7 +2992,7 @@
     "timestamp": "00:10:42.740"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -3024,7 +3024,7 @@
     "timestamp": "00:11:00.431"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -3168,7 +3168,7 @@
     "timestamp": "00:11:20.496"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -3520,7 +3520,7 @@
     "timestamp": "00:12:15.801"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -3672,7 +3672,7 @@
     "timestamp": "00:12:47.074"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:13:00.117"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -4168,7 +4168,7 @@
     "timestamp": "00:13:50.286"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Georgia Brougham",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -4248,7 +4248,7 @@
     "timestamp": "00:14:10.927"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -4616,7 +4616,7 @@
     "timestamp": "00:14:58.728"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -5000,7 +5000,7 @@
     "timestamp": "00:15:53.641"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Inessa Kaagman",
     "player2": "Georgia Brougham",
     "player1_team": "Everton LFC",
@@ -5344,7 +5344,7 @@
     "timestamp": "00:17:21.576"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sophie Baggaley",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -5384,7 +5384,7 @@
     "timestamp": "00:17:54.186"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -5416,7 +5416,7 @@
     "timestamp": "00:18:15.026"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -5792,7 +5792,7 @@
     "timestamp": "00:19:26.149"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:21:30.132"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:22:10.026"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -6792,7 +6792,7 @@
     "timestamp": "00:22:30.741"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -6984,7 +6984,7 @@
     "timestamp": "00:23:15.466"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danique Kerkdijk",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:24:37.992"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:25:28.330"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -7632,7 +7632,7 @@
     "timestamp": "00:25:44.574"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -7848,7 +7848,7 @@
     "timestamp": "00:26:25.420"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:26:35.785"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -7928,7 +7928,7 @@
     "timestamp": "00:26:54.166"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sophie Baggaley",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -8344,7 +8344,7 @@
     "timestamp": "00:28:25.975"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -8856,7 +8856,7 @@
     "timestamp": "00:29:34.891"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:29:51.601"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Georgia Brougham",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -9048,7 +9048,7 @@
     "timestamp": "00:30:18.838"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -9072,7 +9072,7 @@
     "timestamp": "00:30:38.747"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:30:54.275"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -9136,7 +9136,7 @@
     "timestamp": "00:31:06.797"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -9448,7 +9448,7 @@
     "timestamp": "00:32:11.128"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Chloe Kelly",
     "player1_team": "Everton LFC",
@@ -9920,7 +9920,7 @@
     "timestamp": "00:33:19.036"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -10128,7 +10128,7 @@
     "timestamp": "00:33:57.583"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Julie Biesmans",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -10176,7 +10176,7 @@
     "timestamp": "00:34:42.346"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -10392,7 +10392,7 @@
     "timestamp": "00:35:21.874"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Inessa Kaagman",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -10416,7 +10416,7 @@
     "timestamp": "00:36:16.655"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -11040,7 +11040,7 @@
     "timestamp": "00:38:00.639"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danique Kerkdijk",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -11104,7 +11104,7 @@
     "timestamp": "00:38:46.854"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Megan Finnigan",
     "player2": "Gabrielle George",
     "player1_team": "Everton LFC",
@@ -11240,7 +11240,7 @@
     "timestamp": "00:39:08.443"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:40:01.441"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ella Rutherford",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -12152,7 +12152,7 @@
     "timestamp": "00:41:15.519"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -13072,7 +13072,7 @@
     "timestamp": "00:43:20.522"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Danique Kerkdijk",
     "player1_team": "Bristol City WFC",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:43:47.213"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -13352,7 +13352,7 @@
     "timestamp": "00:44:16.891"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -14000,7 +14000,7 @@
     "timestamp": "00:45:57.687"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -14288,7 +14288,7 @@
     "timestamp": "00:00:02.258"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -14368,7 +14368,7 @@
     "timestamp": "00:00:28.265"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -14920,7 +14920,7 @@
     "timestamp": "00:02:07.257"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -15136,7 +15136,7 @@
     "timestamp": "00:02:27.808"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -15160,7 +15160,7 @@
     "timestamp": "00:02:46.737"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -15600,7 +15600,7 @@
     "timestamp": "00:03:55.969"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Poppy Pattinson",
     "player2": "",
     "player1_team": "Bristol City WFC",
@@ -16000,7 +16000,7 @@
     "timestamp": "00:05:30.530"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -16080,7 +16080,7 @@
     "timestamp": "00:05:47.849"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sophie Baggaley",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -16400,7 +16400,7 @@
     "timestamp": "00:07:27.234"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -16528,7 +16528,7 @@
     "timestamp": "00:07:50.682"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -16816,7 +16816,7 @@
     "timestamp": "00:08:33.918"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Dominique Bruinenberg",
     "player1_team": "Everton LFC",
@@ -16976,7 +16976,7 @@
     "timestamp": "00:09:12.768"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -17376,7 +17376,7 @@
     "timestamp": "00:09:56.192"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Carla Humphrey",
     "player1_team": "Bristol City WFC",
@@ -17872,7 +17872,7 @@
     "timestamp": "00:11:06.245"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -18104,7 +18104,7 @@
     "timestamp": "00:12:28.817"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -18192,7 +18192,7 @@
     "timestamp": "00:12:50.186"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -18376,7 +18376,7 @@
     "timestamp": "00:13:25.962"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Katie Robinson",
     "player1_team": "Bristol City WFC",
@@ -18840,7 +18840,7 @@
     "timestamp": "00:14:31.949"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -19312,7 +19312,7 @@
     "timestamp": "00:16:15.410"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Simone Magill",
     "player1_team": "Everton LFC",
@@ -19504,7 +19504,7 @@
     "timestamp": "00:17:06.270"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chloe Kelly",
     "player2": "Georgia Brougham",
     "player1_team": "Everton LFC",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:20:10.941"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -20064,7 +20064,7 @@
     "timestamp": "00:20:30.110"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -20440,7 +20440,7 @@
     "timestamp": "00:21:31.181"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -20552,7 +20552,7 @@
     "timestamp": "00:22:05.675"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Inessa Kaagman",
     "player1_team": "Everton LFC",
@@ -20584,7 +20584,7 @@
     "timestamp": "00:22:35.118"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Claudia Walker",
     "player1_team": "Everton LFC",
@@ -20608,7 +20608,7 @@
     "timestamp": "00:22:46.772"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Claudia Walker",
     "player1_team": "Everton LFC",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:23:00.994"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Juliette Kemppi",
     "player1_team": "Bristol City WFC",
@@ -21024,7 +21024,7 @@
     "timestamp": "00:23:58.349"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -21176,7 +21176,7 @@
     "timestamp": "00:25:00.665"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Georgia Brougham",
     "player2": "Kirstie Levell",
     "player1_team": "Everton LFC",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:26:17.393"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -22448,7 +22448,7 @@
     "timestamp": "00:31:04.790"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Faye Bryson",
     "player2": "Angharad James",
     "player1_team": "Everton LFC",
@@ -23216,7 +23216,7 @@
     "timestamp": "00:35:39.368"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Claudia Walker",
     "player1_team": "Everton LFC",
@@ -23264,7 +23264,7 @@
     "timestamp": "00:35:48.119"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Claudia Walker",
     "player1_team": "Everton LFC",
@@ -23600,7 +23600,7 @@
     "timestamp": "00:36:41.126"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Claudia Walker",
     "player1_team": "Everton LFC",
@@ -23648,7 +23648,7 @@
     "timestamp": "00:36:56.849"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sophie Baggaley",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -23664,7 +23664,7 @@
     "timestamp": "00:37:28.594"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Megan Finnigan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -23744,7 +23744,7 @@
     "timestamp": "00:37:37.916"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Claudia Walker",
     "player1_team": "Everton LFC",
@@ -23824,7 +23824,7 @@
     "timestamp": "00:37:56.430"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Taylor Hinds",
     "player2": "Elise Hughes",
     "player1_team": "Everton LFC",
@@ -23880,7 +23880,7 @@
     "timestamp": "00:38:12.775"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Megan Finnigan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -24296,7 +24296,7 @@
     "timestamp": "00:40:39.978"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Lucy Hope",
     "player1_team": "Bristol City WFC",
@@ -24592,7 +24592,7 @@
     "timestamp": "00:41:34.105"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Inessa Kaagman",
     "player2": "Georgia Brougham",
     "player1_team": "Everton LFC",
@@ -24728,7 +24728,7 @@
     "timestamp": "00:42:14.362"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Chloe Kelly",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -24848,7 +24848,7 @@
     "timestamp": "00:43:49.581"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Loren Dykes",
     "player2": "Katie Robinson",
     "player1_team": "Bristol City WFC",
@@ -24992,7 +24992,7 @@
     "timestamp": "00:44:24.245"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Julie Biesmans",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -25040,7 +25040,7 @@
     "timestamp": "00:44:49.707"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ella Rutherford",
     "player2": "Katie Robinson",
     "player1_team": "Bristol City WFC",
@@ -25672,7 +25672,7 @@
     "timestamp": "00:46:39.886"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Megan Finnigan",
     "player2": "Chantelle Boye-Hlorkah",
     "player1_team": "Everton LFC",
@@ -25728,7 +25728,7 @@
     "timestamp": "00:47:04.174"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Poppy Pattinson",
     "player2": "Ella Rutherford",
     "player1_team": "Bristol City WFC",
@@ -25808,7 +25808,7 @@
     "timestamp": "00:47:26.791"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Inessa Kaagman",
     "player2": "",
     "player1_team": "Everton LFC",
@@ -26376,7 +26376,7 @@
     "timestamp": "00:49:31.188"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chantelle Boye-Hlorkah",
     "player2": "Megan Finnigan",
     "player1_team": "Everton LFC",

@@ -1000,7 +1000,7 @@
     "timestamp": "00:02:15.384"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:03:15.477"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Saido Berahino",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -1624,7 +1624,7 @@
     "timestamp": "00:04:14.883"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -1648,7 +1648,7 @@
     "timestamp": "00:04:49.004"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -2328,7 +2328,7 @@
     "timestamp": "00:06:52.762"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -2608,7 +2608,7 @@
     "timestamp": "00:08:01.590"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -2688,7 +2688,7 @@
     "timestamp": "00:08:57.519"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -2912,7 +2912,7 @@
     "timestamp": "00:09:36.232"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -3088,7 +3088,7 @@
     "timestamp": "00:10:11.050"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wes Hoolahan",
     "player2": "",
     "player1_team": "Norwich City",
@@ -3440,7 +3440,7 @@
     "timestamp": "00:12:29.952"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -5848,7 +5848,7 @@
     "timestamp": "00:18:57.609"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -6000,7 +6000,7 @@
     "timestamp": "00:20:45.000"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -6224,7 +6224,7 @@
     "timestamp": "00:21:07.159"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Darren Fletcher",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -6768,7 +6768,7 @@
     "timestamp": "00:23:11.145"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jonathan Grant Evans",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -6808,7 +6808,7 @@
     "timestamp": "00:23:59.264"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jonathan Howson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -7192,7 +7192,7 @@
     "timestamp": "00:25:07.290"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:25:40.369"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:26:06.906"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Stéphane Sessègnon",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:26:34.358"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:27:47.696"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -7728,7 +7728,7 @@
     "timestamp": "00:28:24.310"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Stéphane Sessègnon",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -7936,7 +7936,7 @@
     "timestamp": "00:30:20.023"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jonathan Grant Evans",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -8136,7 +8136,7 @@
     "timestamp": "00:31:12.275"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -8200,7 +8200,7 @@
     "timestamp": "00:31:40.155"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -8264,7 +8264,7 @@
     "timestamp": "00:32:07.958"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -8432,7 +8432,7 @@
     "timestamp": "00:32:49.165"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:34:12.369"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -9240,7 +9240,7 @@
     "timestamp": "00:35:18.038"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -9384,7 +9384,7 @@
     "timestamp": "00:36:23.059"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:37:04.739"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -9696,7 +9696,7 @@
     "timestamp": "00:37:27.109"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -9800,7 +9800,7 @@
     "timestamp": "00:38:15.161"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -9816,7 +9816,7 @@
     "timestamp": "00:38:28.526"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "",
     "player1_team": "Norwich City",
@@ -9976,7 +9976,7 @@
     "timestamp": "00:39:04.567"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -10056,7 +10056,7 @@
     "timestamp": "00:39:50.662"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -10160,7 +10160,7 @@
     "timestamp": "00:40:50.311"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:41:50.679"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Stéphane Sessègnon",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -10560,7 +10560,7 @@
     "timestamp": "00:43:15.073"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -11192,7 +11192,7 @@
     "timestamp": "00:45:36.430"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -11328,7 +11328,7 @@
     "timestamp": "00:00:09.355"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -11944,7 +11944,7 @@
     "timestamp": "00:02:37.288"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jonathan Grant Evans",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -12632,7 +12632,7 @@
     "timestamp": "00:05:40.895"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Alexander Banor Tettey",
     "player1_team": "Norwich City",
@@ -13024,7 +13024,7 @@
     "timestamp": "00:06:21.960"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -14064,7 +14064,7 @@
     "timestamp": "00:09:59.115"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -15104,7 +15104,7 @@
     "timestamp": "00:12:04.327"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wes Hoolahan",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -15352,7 +15352,7 @@
     "timestamp": "00:12:59.203"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -16536,7 +16536,7 @@
     "timestamp": "00:16:19.269"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -17064,7 +17064,7 @@
     "timestamp": "00:18:09.335"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Chris Brunt",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -17144,7 +17144,7 @@
     "timestamp": "00:18:56.919"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -17304,7 +17304,7 @@
     "timestamp": "00:19:22.922"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -17320,7 +17320,7 @@
     "timestamp": "00:21:04.952"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -17336,7 +17336,7 @@
     "timestamp": "00:21:22.523"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:22:44.262"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Russell Martin",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17728,7 +17728,7 @@
     "timestamp": "00:23:29.945"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -17928,7 +17928,7 @@
     "timestamp": "00:24:28.895"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -18240,7 +18240,7 @@
     "timestamp": "00:26:09.022"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Nathan Redmond",
     "player2": "",
     "player1_team": "Norwich City",
@@ -18656,7 +18656,7 @@
     "timestamp": "00:28:30.472"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Wes Hoolahan",
     "player1_team": "Norwich City",
@@ -18832,7 +18832,7 @@
     "timestamp": "00:28:48.931"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -19080,7 +19080,7 @@
     "timestamp": "00:30:55.092"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ryan Bennett",
     "player2": "Alexander Banor Tettey",
     "player1_team": "Norwich City",
@@ -19408,7 +19408,7 @@
     "timestamp": "00:32:36.571"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -19944,7 +19944,7 @@
     "timestamp": "00:34:11.016"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -20288,7 +20288,7 @@
     "timestamp": "00:35:12.114"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Matt Jarvis",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:35:34.996"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Matt Jarvis",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:36:26.827"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:37:16.422"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Nathan Redmond",
     "player2": "Russell Martin",
     "player1_team": "Norwich City",
@@ -21008,7 +21008,7 @@
     "timestamp": "00:38:43.777"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Matt Jarvis",
     "player2": "",
     "player1_team": "Norwich City",
@@ -22072,7 +22072,7 @@
     "timestamp": "00:42:09.389"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Alexander Banor Tettey",
     "player1_team": "Norwich City",
@@ -22776,7 +22776,7 @@
     "timestamp": "00:43:35.920"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Matt Jarvis",
     "player2": "",
     "player1_team": "Norwich City",
@@ -22848,7 +22848,7 @@
     "timestamp": "00:44:01.851"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -22864,7 +22864,7 @@
     "timestamp": "00:44:52.283"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -23008,7 +23008,7 @@
     "timestamp": "00:45:25.076"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Russell Martin",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",

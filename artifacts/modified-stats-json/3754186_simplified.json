@@ -152,7 +152,7 @@
     "timestamp": "00:00:12.825"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -232,7 +232,7 @@
     "timestamp": "00:00:36.808"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -960,7 +960,7 @@
     "timestamp": "00:02:22.786"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Paddy McNair",
     "player2": "Matteo Darmian",
     "player1_team": "Manchester United",
@@ -1392,7 +1392,7 @@
     "timestamp": "00:03:41.583"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -1768,7 +1768,7 @@
     "timestamp": "00:04:34.658"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -2360,7 +2360,7 @@
     "timestamp": "00:06:23.325"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -2680,7 +2680,7 @@
     "timestamp": "00:07:12.945"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -3944,7 +3944,7 @@
     "timestamp": "00:10:37.883"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -4080,7 +4080,7 @@
     "timestamp": "00:11:07.171"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:12:02.003"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "",
     "player1_team": "Leicester City",
@@ -4672,7 +4672,7 @@
     "timestamp": "00:13:43.226"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wes Morgan",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:14:20.102"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -4824,7 +4824,7 @@
     "timestamp": "00:14:38.087"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "David de Gea Quintana",
     "player2": "",
     "player1_team": "Manchester United",
@@ -5256,7 +5256,7 @@
     "timestamp": "00:15:58.072"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Wayne Mark Rooney",
     "player1_team": "Manchester United",
@@ -5560,7 +5560,7 @@
     "timestamp": "00:17:06.317"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -5776,7 +5776,7 @@
     "timestamp": "00:17:45.077"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Paddy McNair",
     "player1_team": "Manchester United",
@@ -5960,7 +5960,7 @@
     "timestamp": "00:18:11.267"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -6256,7 +6256,7 @@
     "timestamp": "00:19:42.271"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -6416,7 +6416,7 @@
     "timestamp": "00:20:49.475"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -7008,7 +7008,7 @@
     "timestamp": "00:21:58.155"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -7056,7 +7056,7 @@
     "timestamp": "00:22:30.795"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -7232,7 +7232,7 @@
     "timestamp": "00:25:07.549"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paddy McNair",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -7576,7 +7576,7 @@
     "timestamp": "00:26:59.508"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -7864,7 +7864,7 @@
     "timestamp": "00:28:14.577"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -7968,7 +7968,7 @@
     "timestamp": "00:28:33.087"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -8016,7 +8016,7 @@
     "timestamp": "00:28:52.247"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Young",
     "player2": "Paddy McNair",
     "player1_team": "Manchester United",
@@ -8336,7 +8336,7 @@
     "timestamp": "00:29:45.663"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:32:42.101"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wes Morgan",
     "player2": "Kasper Schmeichel",
     "player1_team": "Leicester City",
@@ -9408,7 +9408,7 @@
     "timestamp": "00:33:17.961"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -9448,7 +9448,7 @@
     "timestamp": "00:33:37.340"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -10024,7 +10024,7 @@
     "timestamp": "00:35:12.790"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Paddy McNair",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -10312,7 +10312,7 @@
     "timestamp": "00:36:02.411"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -10360,7 +10360,7 @@
     "timestamp": "00:36:14.551"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -10760,7 +10760,7 @@
     "timestamp": "00:37:01.866"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Smalling",
     "player2": "Paddy McNair",
     "player1_team": "Manchester United",
@@ -11016,7 +11016,7 @@
     "timestamp": "00:37:48.851"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "Wayne Mark Rooney",
     "player1_team": "Manchester United",
@@ -11232,7 +11232,7 @@
     "timestamp": "00:39:01.012"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -11312,7 +11312,7 @@
     "timestamp": "00:39:35.312"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -11360,7 +11360,7 @@
     "timestamp": "00:39:57.450"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "",
     "player1_team": "Manchester United",
@@ -11376,7 +11376,7 @@
     "timestamp": "00:40:17.098"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:40:37.881"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -11544,7 +11544,7 @@
     "timestamp": "00:40:58.779"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:41:09.111"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Marc Albrighton",
     "player1_team": "Leicester City",
@@ -12448,7 +12448,7 @@
     "timestamp": "00:43:01.761"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -12816,7 +12816,7 @@
     "timestamp": "00:44:15.159"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -13000,7 +13000,7 @@
     "timestamp": "00:46:05.842"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -13032,7 +13032,7 @@
     "timestamp": "00:46:16.243"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -13600,7 +13600,7 @@
     "timestamp": "00:01:02.329"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -14024,7 +14024,7 @@
     "timestamp": "00:02:13.426"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Young",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -14072,7 +14072,7 @@
     "timestamp": "00:03:20.034"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -14336,7 +14336,7 @@
     "timestamp": "00:04:51.696"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -14928,7 +14928,7 @@
     "timestamp": "00:06:28.733"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -14984,7 +14984,7 @@
     "timestamp": "00:07:11.293"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -15080,7 +15080,7 @@
     "timestamp": "00:07:42.193"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -15224,7 +15224,7 @@
     "timestamp": "00:08:26.175"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -16088,7 +16088,7 @@
     "timestamp": "00:10:54.218"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -16424,7 +16424,7 @@
     "timestamp": "00:11:40.451"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -17040,7 +17040,7 @@
     "timestamp": "00:13:10.927"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Young",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -17152,7 +17152,7 @@
     "timestamp": "00:14:11.971"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -17240,7 +17240,7 @@
     "timestamp": "00:14:57.246"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:15:16.743"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:16:01.285"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -17600,7 +17600,7 @@
     "timestamp": "00:16:15.334"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -17784,7 +17784,7 @@
     "timestamp": "00:16:44.303"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Juan Manuel Mata García",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -18464,7 +18464,7 @@
     "timestamp": "00:18:17.879"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -19688,7 +19688,7 @@
     "timestamp": "00:22:17.974"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -19824,7 +19824,7 @@
     "timestamp": "00:23:10.328"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -19864,7 +19864,7 @@
     "timestamp": "00:24:46.266"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:25:57.359"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -20160,7 +20160,7 @@
     "timestamp": "00:26:26.275"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20200,7 +20200,7 @@
     "timestamp": "00:26:40.094"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ashley Young",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -20232,7 +20232,7 @@
     "timestamp": "00:26:58.586"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Simpson",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -20416,7 +20416,7 @@
     "timestamp": "00:27:47.182"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -20496,7 +20496,7 @@
     "timestamp": "00:28:15.674"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -20768,7 +20768,7 @@
     "timestamp": "00:28:47.526"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -20808,7 +20808,7 @@
     "timestamp": "00:29:25.548"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ashley Young",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:29:42.957"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Smalling",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -21760,7 +21760,7 @@
     "timestamp": "00:31:33.796"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daley Blind",
     "player2": "",
     "player1_team": "Manchester United",
@@ -22088,7 +22088,7 @@
     "timestamp": "00:33:30.845"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Juan Manuel Mata García",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -22168,7 +22168,7 @@
     "timestamp": "00:33:51.640"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -22232,7 +22232,7 @@
     "timestamp": "00:34:39.673"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -22328,7 +22328,7 @@
     "timestamp": "00:35:02.446"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -22408,7 +22408,7 @@
     "timestamp": "00:35:17.817"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -23920,7 +23920,7 @@
     "timestamp": "00:39:51.227"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Young",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -24624,7 +24624,7 @@
     "timestamp": "00:41:39.627"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "",
     "player1_team": "Leicester City",
@@ -24656,7 +24656,7 @@
     "timestamp": "00:42:33.930"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Christian Fuchs",
     "player2": "",
     "player1_team": "Leicester City",
@@ -24784,7 +24784,7 @@
     "timestamp": "00:43:26.169"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Paddy McNair",
     "player1_team": "Manchester United",
@@ -25448,7 +25448,7 @@
     "timestamp": "00:44:56.868"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daley Blind",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",

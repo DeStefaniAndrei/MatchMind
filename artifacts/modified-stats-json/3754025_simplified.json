@@ -304,7 +304,7 @@
     "timestamp": "00:00:40.093"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -1208,7 +1208,7 @@
     "timestamp": "00:03:04.687"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:03:32.075"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "César Azpilicueta Tanco",
     "player2": "John Terry",
     "player1_team": "Chelsea",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:04:13.489"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "Branislav Ivanović",
     "player1_team": "Chelsea",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:06:09.637"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Ola Toivonen",
     "player1_team": "Sunderland",
@@ -1768,7 +1768,7 @@
     "timestamp": "00:06:34.639"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:06:49.206"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Willian Borges da Silva",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -2240,7 +2240,7 @@
     "timestamp": "00:08:47.611"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "",
     "player1_team": "Sunderland",
@@ -2248,7 +2248,7 @@
     "timestamp": "00:09:00.955"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "John Terry",
     "player1_team": "Chelsea",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:10:16.751"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Ola Toivonen",
     "player1_team": "Sunderland",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:11:49.817"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -4048,7 +4048,7 @@
     "timestamp": "00:14:03.905"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Willian Borges da Silva",
     "player2": "John Terry",
     "player1_team": "Chelsea",
@@ -4560,7 +4560,7 @@
     "timestamp": "00:16:39.532"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Willian Borges da Silva",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -5680,7 +5680,7 @@
     "timestamp": "00:19:03.346"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:20:20.342"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -6792,7 +6792,7 @@
     "timestamp": "00:22:33.548"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nemanja Matić",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:25:23.391"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -8448,7 +8448,7 @@
     "timestamp": "00:26:23.830"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Costel Fane Pantilimon",
     "player2": "Ola Toivonen",
     "player1_team": "Sunderland",
@@ -8832,7 +8832,7 @@
     "timestamp": "00:27:41.179"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -8864,7 +8864,7 @@
     "timestamp": "00:28:10.656"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Patrick van Aanholt",
     "player2": "",
     "player1_team": "Sunderland",
@@ -8952,7 +8952,7 @@
     "timestamp": "00:28:43.540"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Jack Rodwell",
     "player1_team": "Sunderland",
@@ -9560,7 +9560,7 @@
     "timestamp": "00:30:42.956"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -10088,7 +10088,7 @@
     "timestamp": "00:32:27.860"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -10208,7 +10208,7 @@
     "timestamp": "00:32:52.962"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John O''Shea",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -10256,7 +10256,7 @@
     "timestamp": "00:33:41.549"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -10744,7 +10744,7 @@
     "timestamp": "00:35:13.708"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Kurt Happy Zouma",
     "player1_team": "Chelsea",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:38:10.712"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John O''Shea",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -11912,7 +11912,7 @@
     "timestamp": "00:38:51.844"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -12504,7 +12504,7 @@
     "timestamp": "00:40:12.269"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -13176,7 +13176,7 @@
     "timestamp": "00:43:30.592"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -13456,7 +13456,7 @@
     "timestamp": "00:44:23.648"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -13704,7 +13704,7 @@
     "timestamp": "00:44:47.249"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -14136,7 +14136,7 @@
     "timestamp": "00:45:40.227"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Chelsea",
@@ -14256,7 +14256,7 @@
     "timestamp": "00:00:06.089"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -14400,7 +14400,7 @@
     "timestamp": "00:00:33.700"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:01:05.854"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Francesc Fàbregas i Soler",
     "player1_team": "Chelsea",
@@ -14784,7 +14784,7 @@
     "timestamp": "00:01:58.645"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -15624,7 +15624,7 @@
     "timestamp": "00:06:16.203"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Adam Johnson",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -15800,7 +15800,7 @@
     "timestamp": "00:07:51.218"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Francesc Fàbregas i Soler",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -16232,7 +16232,7 @@
     "timestamp": "00:08:56.081"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "John O''Shea",
     "player1_team": "Sunderland",
@@ -17048,7 +17048,7 @@
     "timestamp": "00:12:22.834"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:13:22.461"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -17328,7 +17328,7 @@
     "timestamp": "00:13:49.335"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "John Terry",
     "player1_team": "Chelsea",
@@ -17504,7 +17504,7 @@
     "timestamp": "00:14:24.111"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -17760,7 +17760,7 @@
     "timestamp": "00:15:02.720"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -18016,7 +18016,7 @@
     "timestamp": "00:16:11.946"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Willian Borges da Silva",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -18360,7 +18360,7 @@
     "timestamp": "00:17:38.695"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:18:10.464"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Adam Johnson",
     "player1_team": "Sunderland",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:18:49.758"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Younes Kaboul",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:20:03.699"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Diego da Silva Costa",
     "player1_team": "Chelsea",
@@ -18992,7 +18992,7 @@
     "timestamp": "00:20:19.234"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -19112,7 +19112,7 @@
     "timestamp": "00:20:40.779"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Duncan Watmore",
     "player1_team": "Sunderland",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:21:26.522"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -19472,7 +19472,7 @@
     "timestamp": "00:21:48.109"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -19592,7 +19592,7 @@
     "timestamp": "00:22:12.242"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Billy Jones",
     "player2": "Adam Johnson",
     "player1_team": "Sunderland",
@@ -20224,7 +20224,7 @@
     "timestamp": "00:23:58.216"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -20400,7 +20400,7 @@
     "timestamp": "00:24:31.157"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Adam Johnson",
     "player2": "Jermain Defoe",
     "player1_team": "Sunderland",
@@ -20512,7 +20512,7 @@
     "timestamp": "00:25:42.146"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Willian Borges da Silva",
     "player1_team": "Chelsea",
@@ -21120,7 +21120,7 @@
     "timestamp": "00:27:01.566"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Kurt Happy Zouma",
     "player1_team": "Chelsea",
@@ -21216,7 +21216,7 @@
     "timestamp": "00:27:26.657"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Oscar dos Santos Emboaba Júnior",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -22264,7 +22264,7 @@
     "timestamp": "00:30:16.354"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "César Azpilicueta Tanco",
     "player2": "Oscar dos Santos Emboaba Júnior",
     "player1_team": "Chelsea",
@@ -22400,7 +22400,7 @@
     "timestamp": "00:30:49.245"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -23016,7 +23016,7 @@
     "timestamp": "00:33:37.493"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Adam Johnson",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -23376,7 +23376,7 @@
     "timestamp": "00:34:49.694"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Adam Johnson",
     "player1_team": "Sunderland",
@@ -23568,7 +23568,7 @@
     "timestamp": "00:35:34.466"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adam Johnson",
     "player2": "Danny Graham",
     "player1_team": "Sunderland",
@@ -23624,7 +23624,7 @@
     "timestamp": "00:36:41.478"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",
@@ -23712,7 +23712,7 @@
     "timestamp": "00:36:54.727"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Adam Johnson",
     "player2": "",
     "player1_team": "Sunderland",
@@ -24336,7 +24336,7 @@
     "timestamp": "00:39:12.714"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Thibaut Courtois",
     "player2": "Loïc Rémy",
     "player1_team": "Chelsea",
@@ -25464,7 +25464,7 @@
     "timestamp": "00:42:21.772"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Yann Gérard M''Vila",
     "player2": "Fabio Borini",
     "player1_team": "Sunderland",
@@ -25848,7 +25848,7 @@
     "timestamp": "00:44:50.483"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Yann Gérard M''Vila",
     "player2": "Adam Johnson",
     "player1_team": "Sunderland",
@@ -25920,7 +25920,7 @@
     "timestamp": "00:45:13.717"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Branislav Ivanović",
     "player2": "Nemanja Matić",
     "player1_team": "Chelsea",
@@ -26072,7 +26072,7 @@
     "timestamp": "00:45:49.133"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Willian Borges da Silva",
     "player2": "César Azpilicueta Tanco",
     "player1_team": "Chelsea",
@@ -26216,7 +26216,7 @@
     "timestamp": "00:46:18.419"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick van Aanholt",
     "player2": "Younes Kaboul",
     "player1_team": "Sunderland",
@@ -26328,7 +26328,7 @@
     "timestamp": "00:46:36.280"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Branislav Ivanović",
     "player2": "John Terry",
     "player1_team": "Chelsea",
@@ -26472,7 +26472,7 @@
     "timestamp": "00:47:25.324"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John O''Shea",
     "player2": "Yann Gérard M''Vila",
     "player1_team": "Sunderland",

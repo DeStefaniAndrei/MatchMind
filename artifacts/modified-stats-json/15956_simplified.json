@@ -432,7 +432,7 @@
     "timestamp": "00:00:42.722"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -1608,7 +1608,7 @@
     "timestamp": "00:02:47.711"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "",
     "player1_team": "Barcelona",
@@ -2736,7 +2736,7 @@
     "timestamp": "00:06:06.482"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -2960,7 +2960,7 @@
     "timestamp": "00:06:37.541"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Rubén Alcaraz Jiménez",
     "player2": "Óscar Plano Pedreño",
     "player1_team": "Real Valladolid",
@@ -3096,7 +3096,7 @@
     "timestamp": "00:06:58.796"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Rubén Alcaraz Jiménez",
     "player2": "Borja Fernández Fernández",
     "player1_team": "Real Valladolid",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:08:04.017"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -3648,7 +3648,7 @@
     "timestamp": "00:08:44.754"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -4160,7 +4160,7 @@
     "timestamp": "00:10:30.097"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -4520,7 +4520,7 @@
     "timestamp": "00:11:13.650"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "",
     "player1_team": "Barcelona",
@@ -4728,7 +4728,7 @@
     "timestamp": "00:12:51.884"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ousmane Dembélé",
     "player2": "",
     "player1_team": "Barcelona",
@@ -5616,7 +5616,7 @@
     "timestamp": "00:15:58.488"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Masip López",
     "player2": "Anuar Mohamed Tuhami",
     "player1_team": "Real Valladolid",
@@ -6448,7 +6448,7 @@
     "timestamp": "00:18:27.293"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:19:48.506"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -7744,7 +7744,7 @@
     "timestamp": "00:22:08.348"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Francisco José Olivas Alba",
     "player2": "Fernando Calero Villa",
     "player1_team": "Real Valladolid",
@@ -8008,7 +8008,7 @@
     "timestamp": "00:22:55.726"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ivan Rakitić",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:23:33.645"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ousmane Dembélé",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -8368,7 +8368,7 @@
     "timestamp": "00:24:03.563"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -8488,7 +8488,7 @@
     "timestamp": "00:24:33.052"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:24:44.605"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ignacio Martínez García",
     "player2": "Enes Ünal",
     "player1_team": "Real Valladolid",
@@ -9112,7 +9112,7 @@
     "timestamp": "00:26:13.315"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -9576,7 +9576,7 @@
     "timestamp": "00:27:15.718"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -10104,7 +10104,7 @@
     "timestamp": "00:29:02.370"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Rubén Alcaraz Jiménez",
     "player2": "Javier Moyano Lujano",
     "player1_team": "Real Valladolid",
@@ -10152,7 +10152,7 @@
     "timestamp": "00:29:54.667"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -10472,7 +10472,7 @@
     "timestamp": "00:30:48.190"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ignacio Martínez García",
     "player2": "Rubén Alcaraz Jiménez",
     "player1_team": "Real Valladolid",
@@ -10952,7 +10952,7 @@
     "timestamp": "00:32:26.454"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Javier Moyano Lujano",
     "player2": "Enes Ünal",
     "player1_team": "Real Valladolid",
@@ -11176,7 +11176,7 @@
     "timestamp": "00:33:21.495"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ousmane Dembélé",
     "player2": "",
     "player1_team": "Barcelona",
@@ -11344,7 +11344,7 @@
     "timestamp": "00:34:09.157"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:34:44.717"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ousmane Dembélé",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:35:23.007"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -11696,7 +11696,7 @@
     "timestamp": "00:35:50.682"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -11840,7 +11840,7 @@
     "timestamp": "00:36:14.881"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -12024,7 +12024,7 @@
     "timestamp": "00:37:33.009"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -12216,7 +12216,7 @@
     "timestamp": "00:38:08.010"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "Ousmane Dembélé",
     "player1_team": "Barcelona",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:38:54.045"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Ousmane Dembélé",
     "player1_team": "Barcelona",
@@ -12448,7 +12448,7 @@
     "timestamp": "00:39:19.720"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Masip López",
     "player2": "Enes Ünal",
     "player1_team": "Real Valladolid",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:39:55.209"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Rubén Alcaraz Jiménez",
     "player2": "",
     "player1_team": "Real Valladolid",
@@ -13184,7 +13184,7 @@
     "timestamp": "00:43:36.632"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -14136,7 +14136,7 @@
     "timestamp": "00:02:19.969"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -14688,7 +14688,7 @@
     "timestamp": "00:03:43.463"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "",
     "player1_team": "Barcelona",
@@ -15056,7 +15056,7 @@
     "timestamp": "00:05:30.119"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Borja Fernández Fernández",
     "player2": "José Ignacio Martínez García",
     "player1_team": "Real Valladolid",
@@ -15152,7 +15152,7 @@
     "timestamp": "00:05:56.372"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Masip López",
     "player2": "Rubén Alcaraz Jiménez",
     "player1_team": "Real Valladolid",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:07:30.622"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Rubén Alcaraz Jiménez",
     "player2": "",
     "player1_team": "Real Valladolid",
@@ -15728,7 +15728,7 @@
     "timestamp": "00:08:15.359"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -16192,7 +16192,7 @@
     "timestamp": "00:10:08.403"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Fernando Calero Villa",
     "player2": "Enes Ünal",
     "player1_team": "Real Valladolid",
@@ -16256,7 +16256,7 @@
     "timestamp": "00:10:43.768"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:12:53.003"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ignacio Martínez García",
     "player2": "Enes Ünal",
     "player1_team": "Real Valladolid",
@@ -17256,7 +17256,7 @@
     "timestamp": "00:14:01.560"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Rubén Alcaraz Jiménez",
     "player2": "",
     "player1_team": "Real Valladolid",
@@ -17280,7 +17280,7 @@
     "timestamp": "00:14:54.562"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Javier Moyano Lujano",
     "player2": "Laureano Antonio Villa Suárez",
     "player1_team": "Real Valladolid",
@@ -17488,7 +17488,7 @@
     "timestamp": "00:15:42.300"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -17696,7 +17696,7 @@
     "timestamp": "00:16:13.671"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -18728,7 +18728,7 @@
     "timestamp": "00:19:32.149"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ignacio Martínez García",
     "player2": "Rubén Alcaraz Jiménez",
     "player1_team": "Real Valladolid",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:20:00.182"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -19752,7 +19752,7 @@
     "timestamp": "00:21:55.191"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -20096,7 +20096,7 @@
     "timestamp": "00:22:47.347"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fernando Calero Villa",
     "player2": "Jordi Masip López",
     "player1_team": "Real Valladolid",
@@ -20440,7 +20440,7 @@
     "timestamp": "00:23:54.889"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Óscar Plano Pedreño",
     "player2": "Enes Ünal",
     "player1_team": "Real Valladolid",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:25:36.013"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Masip López",
     "player2": "Javier Moyano Lujano",
     "player1_team": "Real Valladolid",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:26:12.694"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -21064,7 +21064,7 @@
     "timestamp": "00:26:38.378"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Moyano Lujano",
     "player2": "Rubén Alcaraz Jiménez",
     "player1_team": "Real Valladolid",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:27:01.304"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "",
     "player1_team": "Barcelona",
@@ -21384,7 +21384,7 @@
     "timestamp": "00:27:51.382"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -21536,7 +21536,7 @@
     "timestamp": "00:28:37.297"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Óscar Plano Pedreño",
     "player2": "Rubén Alcaraz Jiménez",
     "player1_team": "Real Valladolid",
@@ -21816,7 +21816,7 @@
     "timestamp": "00:30:06.987"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -21976,7 +21976,7 @@
     "timestamp": "00:30:48.161"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ignacio Martínez García",
     "player2": "Duje Čop",
     "player1_team": "Real Valladolid",
@@ -22104,7 +22104,7 @@
     "timestamp": "00:31:43.141"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Sergi Roberto Carnicer",
     "player2": "",
     "player1_team": "Barcelona",
@@ -22568,7 +22568,7 @@
     "timestamp": "00:33:12.501"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ignacio Martínez García",
     "player2": "Laureano Antonio Villa Suárez",
     "player1_team": "Real Valladolid",
@@ -22872,7 +22872,7 @@
     "timestamp": "00:33:58.970"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ignacio Martínez García",
     "player2": "Rubén Alcaraz Jiménez",
     "player1_team": "Real Valladolid",
@@ -23224,7 +23224,7 @@
     "timestamp": "00:35:02.206"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Óscar Plano Pedreño",
     "player2": "Francisco José Olivas Alba",
     "player1_team": "Real Valladolid",
@@ -23288,7 +23288,7 @@
     "timestamp": "00:35:38.259"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -23824,7 +23824,7 @@
     "timestamp": "00:38:02.994"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fernando Calero Villa",
     "player2": "Francisco José Olivas Alba",
     "player1_team": "Real Valladolid",
@@ -24392,7 +24392,7 @@
     "timestamp": "00:39:40.057"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -24568,7 +24568,7 @@
     "timestamp": "00:41:07.776"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Samuel Yves Umtiti",
     "player1_team": "Barcelona",
@@ -24944,7 +24944,7 @@
     "timestamp": "00:42:14.950"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -24976,7 +24976,7 @@
     "timestamp": "00:42:37.183"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -25024,7 +25024,7 @@
     "timestamp": "00:42:46.074"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -26376,7 +26376,7 @@
     "timestamp": "00:46:54.576"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Arturo Erasmo Vidal Pardo",
     "player1_team": "Barcelona",
@@ -26408,7 +26408,7 @@
     "timestamp": "00:48:47.696"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ignacio Martínez García",
     "player2": "Anuar Mohamed Tuhami",
     "player1_team": "Real Valladolid",

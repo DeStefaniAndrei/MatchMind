@@ -584,7 +584,7 @@
     "timestamp": "00:02:12.329"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -632,7 +632,7 @@
     "timestamp": "00:02:24.017"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -920,7 +920,7 @@
     "timestamp": "00:03:02.982"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "James Ward-Prowse",
     "player1_team": "Southampton",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:06:35.691"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "James Ward-Prowse",
     "player1_team": "Southampton",
@@ -2568,7 +2568,7 @@
     "timestamp": "00:07:00.234"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Glyn Oliver Myhill",
     "player1_team": "West Bromwich Albion",
@@ -2664,7 +2664,7 @@
     "timestamp": "00:07:35.610"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -2704,7 +2704,7 @@
     "timestamp": "00:08:04.803"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -2856,7 +2856,7 @@
     "timestamp": "00:08:21.283"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:08:53.961"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Callum McManaman",
     "player1_team": "West Bromwich Albion",
@@ -3104,7 +3104,7 @@
     "timestamp": "00:09:14.231"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Callum McManaman",
     "player1_team": "West Bromwich Albion",
@@ -3152,7 +3152,7 @@
     "timestamp": "00:09:40.635"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Craig Gardner",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -3832,7 +3832,7 @@
     "timestamp": "00:11:57.632"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -6040,7 +6040,7 @@
     "timestamp": "00:17:48.846"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Darren Fletcher",
     "player1_team": "West Bromwich Albion",
@@ -6536,7 +6536,7 @@
     "timestamp": "00:18:59.605"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Dušan Tadić",
     "player2": "",
     "player1_team": "Southampton",
@@ -6664,7 +6664,7 @@
     "timestamp": "00:19:47.651"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Jay Rodriguez",
     "player1_team": "Southampton",
@@ -6712,7 +6712,7 @@
     "timestamp": "00:20:07.955"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -7296,7 +7296,7 @@
     "timestamp": "00:21:32.308"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Dušan Tadić",
     "player2": "James Ward-Prowse",
     "player1_team": "Southampton",
@@ -7360,7 +7360,7 @@
     "timestamp": "00:22:52.513"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Dušan Tadić",
     "player2": "",
     "player1_team": "Southampton",
@@ -7768,7 +7768,7 @@
     "timestamp": "00:24:51.723"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Chris Brunt",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -7944,7 +7944,7 @@
     "timestamp": "00:26:17.143"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Claudio Ariel Yacob",
     "player1_team": "West Bromwich Albion",
@@ -8048,7 +8048,7 @@
     "timestamp": "00:26:45.649"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Jay Rodriguez",
     "player1_team": "Southampton",
@@ -8112,7 +8112,7 @@
     "timestamp": "00:27:17.834"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Jay Rodriguez",
     "player1_team": "Southampton",
@@ -8784,7 +8784,7 @@
     "timestamp": "00:28:33.383"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Ariel Yacob",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -9504,7 +9504,7 @@
     "timestamp": "00:30:09.226"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Craig Gardner",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -9656,7 +9656,7 @@
     "timestamp": "00:31:12.209"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Callum McManaman",
     "player1_team": "West Bromwich Albion",
@@ -10352,7 +10352,7 @@
     "timestamp": "00:33:20.777"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:37:48.813"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -12048,7 +12048,7 @@
     "timestamp": "00:38:42.354"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -12848,7 +12848,7 @@
     "timestamp": "00:41:16.456"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -12920,7 +12920,7 @@
     "timestamp": "00:41:31.003"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -13312,7 +13312,7 @@
     "timestamp": "00:42:40.782"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "",
     "player1_team": "Southampton",
@@ -13384,7 +13384,7 @@
     "timestamp": "00:43:24.934"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Victor Wanyama",
     "player1_team": "Southampton",
@@ -14000,7 +14000,7 @@
     "timestamp": "00:44:51.611"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "Rickie Lambert",
     "player1_team": "West Bromwich Albion",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:01:14.031"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -15720,7 +15720,7 @@
     "timestamp": "00:04:06.828"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -16536,7 +16536,7 @@
     "timestamp": "00:06:56.131"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Ward-Prowse",
     "player2": "",
     "player1_team": "Southampton",
@@ -17232,7 +17232,7 @@
     "timestamp": "00:10:16.086"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Gardner",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -17264,7 +17264,7 @@
     "timestamp": "00:10:48.271"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Gardner",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:11:13.410"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Darren Fletcher",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -17872,7 +17872,7 @@
     "timestamp": "00:13:04.236"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:13:13.075"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Salomón Rondón Giménez",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -18120,7 +18120,7 @@
     "timestamp": "00:13:35.563"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Craig Gardner",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -18136,7 +18136,7 @@
     "timestamp": "00:14:11.510"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Gardner",
     "player2": "Chris Brunt",
     "player1_team": "West Bromwich Albion",
@@ -18416,7 +18416,7 @@
     "timestamp": "00:15:35.211"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "James Ward-Prowse",
     "player1_team": "Southampton",
@@ -19640,7 +19640,7 @@
     "timestamp": "00:18:12.114"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Ariel Yacob",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -19880,7 +19880,7 @@
     "timestamp": "00:19:25.651"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:23:11.928"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "James Ward-Prowse",
     "player1_team": "Southampton",
@@ -21040,7 +21040,7 @@
     "timestamp": "00:24:36.444"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cédric Ricardo Alves Soares",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -22472,7 +22472,7 @@
     "timestamp": "00:29:50.589"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -22680,7 +22680,7 @@
     "timestamp": "00:30:37.550"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Maya Yoshida",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -22808,7 +22808,7 @@
     "timestamp": "00:30:52.841"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Virgil van Dijk",
     "player1_team": "Southampton",
@@ -23080,7 +23080,7 @@
     "timestamp": "00:31:34.552"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -23632,7 +23632,7 @@
     "timestamp": "00:32:32.954"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "Saido Berahino",
     "player1_team": "West Bromwich Albion",
@@ -23712,7 +23712,7 @@
     "timestamp": "00:32:58.443"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Maya Yoshida",
     "player2": "José Miguel da Rocha Fonte",
     "player1_team": "Southampton",
@@ -23928,7 +23928,7 @@
     "timestamp": "00:33:59.923"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -24016,7 +24016,7 @@
     "timestamp": "00:34:16.692"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Victor Wanyama",
     "player2": "Steven Davis",
     "player1_team": "Southampton",
@@ -24856,7 +24856,7 @@
     "timestamp": "00:37:48.262"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Maya Yoshida",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -25248,7 +25248,7 @@
     "timestamp": "00:38:49.540"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Maya Yoshida",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -25512,7 +25512,7 @@
     "timestamp": "00:40:24.538"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -25816,7 +25816,7 @@
     "timestamp": "00:41:09.029"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Targett",
     "player2": "Dušan Tadić",
     "player1_team": "Southampton",
@@ -26984,7 +26984,7 @@
     "timestamp": "00:44:10.513"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Miguel da Rocha Fonte",
     "player2": "Maya Yoshida",
     "player1_team": "Southampton",
@@ -28064,7 +28064,7 @@
     "timestamp": "00:46:58.615"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Maya Yoshida",
     "player2": "Sadio Mané",
     "player1_team": "Southampton",
@@ -28152,7 +28152,7 @@
     "timestamp": "00:47:28.835"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Dušan Tadić",
     "player2": "Graziano Pellè",
     "player1_team": "Southampton",
@@ -28360,7 +28360,7 @@
     "timestamp": "00:48:00.825"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "Jonas Olsson",
     "player1_team": "West Bromwich Albion",

@@ -880,7 +880,7 @@
     "timestamp": "00:02:30.003"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Andrés Iniesta Luján",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -1128,7 +1128,7 @@
     "timestamp": "00:03:22.730"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "Nabil Ghilas",
     "player1_team": "Córdoba CF",
@@ -1544,7 +1544,7 @@
     "timestamp": "00:04:20.021"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -1944,7 +1944,7 @@
     "timestamp": "00:05:17.873"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Martín Montoya Torralbo",
     "player1_team": "Barcelona",
@@ -2208,7 +2208,7 @@
     "timestamp": "00:06:03.756"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "David Omar Rodríguez Barrera",
     "player1_team": "Córdoba CF",
@@ -2856,7 +2856,7 @@
     "timestamp": "00:08:51.338"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "José Ángel Crespo Rincón",
     "player2": "Patrick Claude Ekeng Ekeng",
     "player1_team": "Córdoba CF",
@@ -3168,7 +3168,7 @@
     "timestamp": "00:09:42.112"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martín Montoya Torralbo",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:11:45.799"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ángel Crespo Rincón",
     "player2": "Borja García Freire",
     "player1_team": "Córdoba CF",
@@ -3992,7 +3992,7 @@
     "timestamp": "00:12:01.132"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Luis Eduardo Delgado Pacheco",
     "player2": "José Ángel Crespo Rincón",
     "player1_team": "Córdoba CF",
@@ -4272,7 +4272,7 @@
     "timestamp": "00:12:38.668"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "",
     "player1_team": "Córdoba CF",
@@ -4560,7 +4560,7 @@
     "timestamp": "00:13:40.827"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -4680,7 +4680,7 @@
     "timestamp": "00:14:14.055"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martín Montoya Torralbo",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -5272,7 +5272,7 @@
     "timestamp": "00:15:28.081"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "Federico Nicolás Cartabia",
     "player1_team": "Córdoba CF",
@@ -5840,7 +5840,7 @@
     "timestamp": "00:16:27.126"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Federico Nicolás Cartabia",
     "player2": "José Ángel Crespo Rincón",
     "player1_team": "Córdoba CF",
@@ -7128,7 +7128,7 @@
     "timestamp": "00:20:49.960"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -7432,7 +7432,7 @@
     "timestamp": "00:21:44.587"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ángel Crespo Rincón",
     "player2": "Luis Eduardo Delgado Pacheco",
     "player1_team": "Córdoba CF",
@@ -7472,7 +7472,7 @@
     "timestamp": "00:22:00.545"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martín Montoya Torralbo",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -8304,7 +8304,7 @@
     "timestamp": "00:23:55.917"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "José Ángel Crespo Rincón",
     "player2": "Patrick Claude Ekeng Ekeng",
     "player1_team": "Córdoba CF",
@@ -8416,7 +8416,7 @@
     "timestamp": "00:24:32.645"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eduard Campabadal Claros",
     "player2": "Nabil Ghilas",
     "player1_team": "Córdoba CF",
@@ -8584,7 +8584,7 @@
     "timestamp": "00:24:54.951"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -8680,7 +8680,7 @@
     "timestamp": "00:25:31.148"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ángel Crespo Rincón",
     "player2": "Borja García Freire",
     "player1_team": "Córdoba CF",
@@ -9480,7 +9480,7 @@
     "timestamp": "00:27:15.851"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Federico Nicolás Cartabia",
     "player2": "Eduard Campabadal Claros",
     "player1_team": "Córdoba CF",
@@ -9808,7 +9808,7 @@
     "timestamp": "00:28:58.459"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -11424,7 +11424,7 @@
     "timestamp": "00:31:51.796"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martín Montoya Torralbo",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -12272,7 +12272,7 @@
     "timestamp": "00:33:29.710"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "",
     "player1_team": "Barcelona",
@@ -12512,7 +12512,7 @@
     "timestamp": "00:34:30.873"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Andrés Iniesta Luján",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -13240,7 +13240,7 @@
     "timestamp": "00:36:22.162"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -14120,7 +14120,7 @@
     "timestamp": "00:37:49.447"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martín Montoya Torralbo",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -14496,7 +14496,7 @@
     "timestamp": "00:38:41.209"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Ángel Crespo Rincón",
     "player2": "Borja García Freire",
     "player1_team": "Córdoba CF",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:39:16.315"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -15440,7 +15440,7 @@
     "timestamp": "00:41:03.731"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Federico Nicolás Cartabia",
     "player2": "Luis Eduardo Delgado Pacheco",
     "player1_team": "Córdoba CF",
@@ -16304,7 +16304,7 @@
     "timestamp": "00:43:22.435"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martín Montoya Torralbo",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:43:52.262"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -16824,7 +16824,7 @@
     "timestamp": "00:44:37.184"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ivan Rakitić",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:00:52.461"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -17360,7 +17360,7 @@
     "timestamp": "00:01:27.339"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martín Montoya Torralbo",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -18624,7 +18624,7 @@
     "timestamp": "00:03:32.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "Federico Nicolás Cartabia",
     "player1_team": "Córdoba CF",
@@ -19976,7 +19976,7 @@
     "timestamp": "00:06:42.587"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -20864,7 +20864,7 @@
     "timestamp": "00:09:34.835"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "",
     "player1_team": "Córdoba CF",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:10:50.656"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -21736,7 +21736,7 @@
     "timestamp": "00:11:34.267"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "",
     "player1_team": "Córdoba CF",
@@ -21744,7 +21744,7 @@
     "timestamp": "00:12:21.953"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -22688,7 +22688,7 @@
     "timestamp": "00:14:22.554"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "",
     "player1_team": "Barcelona",
@@ -22848,7 +22848,7 @@
     "timestamp": "00:14:52.377"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "Aleksandar Pantić",
     "player1_team": "Córdoba CF",
@@ -22896,7 +22896,7 @@
     "timestamp": "00:15:00.502"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -23320,7 +23320,7 @@
     "timestamp": "00:15:58.099"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "Patrick Claude Ekeng Ekeng",
     "player1_team": "Córdoba CF",
@@ -23360,7 +23360,7 @@
     "timestamp": "00:16:30.368"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "Nabil Ghilas",
     "player1_team": "Córdoba CF",
@@ -23984,7 +23984,7 @@
     "timestamp": "00:19:29.809"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Pedro Eliezer Rodríguez Ledesma",
     "player1_team": "Barcelona",
@@ -24672,7 +24672,7 @@
     "timestamp": "00:20:26.342"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Luis Eduardo Delgado Pacheco",
     "player2": "David Omar Rodríguez Barrera",
     "player1_team": "Córdoba CF",
@@ -25048,7 +25048,7 @@
     "timestamp": "00:21:41.368"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Federico Nicolás Cartabia",
     "player2": "José Ángel Crespo Rincón",
     "player1_team": "Córdoba CF",
@@ -25080,7 +25080,7 @@
     "timestamp": "00:22:20.161"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "Patrick Claude Ekeng Ekeng",
     "player1_team": "Córdoba CF",
@@ -25144,7 +25144,7 @@
     "timestamp": "00:22:38.198"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Federico Nicolás Cartabia",
     "player2": "",
     "player1_team": "Córdoba CF",
@@ -25288,7 +25288,7 @@
     "timestamp": "00:23:37.257"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Aleksandar Pantić",
     "player2": "Borja García Freire",
     "player1_team": "Córdoba CF",
@@ -25584,7 +25584,7 @@
     "timestamp": "00:26:10.964"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martín Montoya Torralbo",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -25744,7 +25744,7 @@
     "timestamp": "00:26:34.891"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "",
     "player1_team": "Córdoba CF",
@@ -26304,7 +26304,7 @@
     "timestamp": "00:28:10.098"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Luis Alberto Suárez Díaz",
     "player2": "Xavier Hernández Creus",
     "player1_team": "Barcelona",
@@ -26472,7 +26472,7 @@
     "timestamp": "00:28:27.683"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Carlos Martín Corral",
     "player2": "Aleksandar Pantić",
     "player1_team": "Córdoba CF",
@@ -26880,7 +26880,7 @@
     "timestamp": "00:30:21.128"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Rafael Alcântara do Nascimento",
     "player1_team": "Barcelona",
@@ -27360,7 +27360,7 @@
     "timestamp": "00:31:30.212"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "Patrick Claude Ekeng Ekeng",
     "player1_team": "Córdoba CF",
@@ -28424,7 +28424,7 @@
     "timestamp": "00:33:36.652"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xavier Hernández Creus",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -29200,7 +29200,7 @@
     "timestamp": "00:36:13.609"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Xavier Hernández Creus",
     "player2": "",
     "player1_team": "Barcelona",
@@ -29280,7 +29280,7 @@
     "timestamp": "00:37:37.390"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Pinillos González",
     "player2": "Fausto Rossi",
     "player1_team": "Córdoba CF",
@@ -29968,7 +29968,7 @@
     "timestamp": "00:38:57.160"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fausto Rossi",
     "player2": "Daniel Pinillos González",
     "player1_team": "Córdoba CF",
@@ -30224,7 +30224,7 @@
     "timestamp": "00:39:30.446"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Patrick Claude Ekeng Ekeng",
     "player2": "",
     "player1_team": "Córdoba CF",
@@ -31128,7 +31128,7 @@
     "timestamp": "00:42:35.848"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Eduard Campabadal Claros",
     "player2": "",
     "player1_team": "Córdoba CF",

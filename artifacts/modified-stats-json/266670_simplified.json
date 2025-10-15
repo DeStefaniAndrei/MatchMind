@@ -976,7 +976,7 @@
     "timestamp": "00:02:11.439"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Papa Kouly Diop",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -1168,7 +1168,7 @@
     "timestamp": "00:03:06.222"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Javier López Rodríguez",
     "player2": "Felipe Salvador Caicedo Corozo",
     "player1_team": "Espanyol",
@@ -1592,7 +1592,7 @@
     "timestamp": "00:04:05.216"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Jorge Franco Alviz",
     "player1_team": "Espanyol",
@@ -1680,7 +1680,7 @@
     "timestamp": "00:04:17.775"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Jorge Franco Alviz",
     "player1_team": "Espanyol",
@@ -1896,7 +1896,7 @@
     "timestamp": "00:04:42.143"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Alves da Silva",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -2520,7 +2520,7 @@
     "timestamp": "00:06:30.117"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -3048,7 +3048,7 @@
     "timestamp": "00:08:40.344"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Hernán Arsenio Pérez González",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -3224,7 +3224,7 @@
     "timestamp": "00:09:03.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier López Rodríguez",
     "player2": "Álvaro González Soberón",
     "player1_team": "Espanyol",
@@ -3464,7 +3464,7 @@
     "timestamp": "00:10:17.218"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Papa Kouly Diop",
     "player2": "Álvaro González Soberón",
     "player1_team": "Espanyol",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:11:33.580"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:11:43.916"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Alves da Silva",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -4240,7 +4240,7 @@
     "timestamp": "00:13:04.127"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -4928,7 +4928,7 @@
     "timestamp": "00:14:18.853"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Pau López Sabata",
     "player2": "Víctor Guillermo Álvarez Delgado",
     "player1_team": "Espanyol",
@@ -5352,7 +5352,7 @@
     "timestamp": "00:16:12.672"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Enzo Pablo Roco Roco",
     "player1_team": "Espanyol",
@@ -6168,7 +6168,7 @@
     "timestamp": "00:18:04.693"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Daniel Alves da Silva",
     "player1_team": "Barcelona",
@@ -6200,7 +6200,7 @@
     "timestamp": "00:18:33.504"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -6528,7 +6528,7 @@
     "timestamp": "00:19:22.662"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -6600,7 +6600,7 @@
     "timestamp": "00:19:32.971"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -6616,7 +6616,7 @@
     "timestamp": "00:20:25.532"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Pau López Sabata",
     "player2": "",
     "player1_team": "Espanyol",
@@ -6648,7 +6648,7 @@
     "timestamp": "00:21:50.612"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Marco Asensio Willemsen",
     "player2": "Hernán Arsenio Pérez González",
     "player1_team": "Espanyol",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:23:10.272"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marco Asensio Willemsen",
     "player2": "Álvaro González Soberón",
     "player1_team": "Espanyol",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:23:55.089"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Javier López Rodríguez",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -6968,7 +6968,7 @@
     "timestamp": "00:24:31.411"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Joan Jordán Moreno",
     "player2": "Álvaro González Soberón",
     "player1_team": "Espanyol",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:25:12.839"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:25:40.229"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Joan Jordán Moreno",
     "player2": "Javier López Rodríguez",
     "player1_team": "Espanyol",
@@ -7216,7 +7216,7 @@
     "timestamp": "00:25:52.093"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Javier López Rodríguez",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -7480,7 +7480,7 @@
     "timestamp": "00:26:33.536"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:27:32.142"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -8072,7 +8072,7 @@
     "timestamp": "00:27:59.131"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -8768,7 +8768,7 @@
     "timestamp": "00:29:33.133"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrés Iniesta Luján",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:30:18.558"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -9080,7 +9080,7 @@
     "timestamp": "00:30:58.006"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -9592,7 +9592,7 @@
     "timestamp": "00:32:22.405"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Marco Asensio Willemsen",
     "player2": "",
     "player1_team": "Espanyol",
@@ -9760,7 +9760,7 @@
     "timestamp": "00:33:53.288"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Pau López Sabata",
     "player1_team": "Espanyol",
@@ -10248,7 +10248,7 @@
     "timestamp": "00:37:04.564"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Javier López Rodríguez",
     "player2": "Papa Kouly Diop",
     "player1_team": "Espanyol",
@@ -10280,7 +10280,7 @@
     "timestamp": "00:37:20.308"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -10384,7 +10384,7 @@
     "timestamp": "00:37:34.305"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Javier López Rodríguez",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:40:12.260"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -11296,7 +11296,7 @@
     "timestamp": "00:40:36.608"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -11464,7 +11464,7 @@
     "timestamp": "00:41:17.031"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -11624,7 +11624,7 @@
     "timestamp": "00:41:40.573"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -11832,7 +11832,7 @@
     "timestamp": "00:42:31.824"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -11992,7 +11992,7 @@
     "timestamp": "00:42:59.888"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -12080,7 +12080,7 @@
     "timestamp": "00:43:22.055"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -12168,7 +12168,7 @@
     "timestamp": "00:44:25.312"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -12248,7 +12248,7 @@
     "timestamp": "00:44:33.844"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -12608,7 +12608,7 @@
     "timestamp": "00:00:36.607"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -12688,7 +12688,7 @@
     "timestamp": "00:00:50.910"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -14088,7 +14088,7 @@
     "timestamp": "00:03:03.957"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -14440,7 +14440,7 @@
     "timestamp": "00:04:02.775"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Pau López Sabata",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -15048,7 +15048,7 @@
     "timestamp": "00:05:21.096"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -16328,7 +16328,7 @@
     "timestamp": "00:08:43.938"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:09:36.933"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Claudio Andrés Bravo Muñoz",
     "player1_team": "Barcelona",
@@ -17088,7 +17088,7 @@
     "timestamp": "00:10:27.247"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:11:05.190"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jorge Franco Alviz",
     "player2": "Felipe Salvador Caicedo Corozo",
     "player1_team": "Espanyol",
@@ -17648,7 +17648,7 @@
     "timestamp": "00:11:37.829"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Joan Jordán Moreno",
     "player2": "",
     "player1_team": "Espanyol",
@@ -18392,7 +18392,7 @@
     "timestamp": "00:14:15.515"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -18648,7 +18648,7 @@
     "timestamp": "00:14:47.072"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -19248,7 +19248,7 @@
     "timestamp": "00:16:48.915"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -19464,7 +19464,7 @@
     "timestamp": "00:18:07.149"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -19656,7 +19656,7 @@
     "timestamp": "00:18:51.127"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Papa Kouly Diop",
     "player2": "Álvaro González Soberón",
     "player1_team": "Espanyol",
@@ -19784,7 +19784,7 @@
     "timestamp": "00:19:19.382"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -19848,7 +19848,7 @@
     "timestamp": "00:19:40.354"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Joan Jordán Moreno",
     "player2": "Hernán Arsenio Pérez González",
     "player1_team": "Espanyol",
@@ -20728,7 +20728,7 @@
     "timestamp": "00:22:14.231"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -20824,7 +20824,7 @@
     "timestamp": "00:22:28.742"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Gerard Moreno Balaguero",
     "player1_team": "Espanyol",
@@ -21288,7 +21288,7 @@
     "timestamp": "00:23:44.032"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Pau López Sabata",
     "player2": "Felipe Salvador Caicedo Corozo",
     "player1_team": "Espanyol",
@@ -21576,7 +21576,7 @@
     "timestamp": "00:24:34.145"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -21896,7 +21896,7 @@
     "timestamp": "00:25:49.548"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Javier Alejandro Mascherano",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -22088,7 +22088,7 @@
     "timestamp": "00:26:16.912"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -22392,7 +22392,7 @@
     "timestamp": "00:27:14.198"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Javier Alejandro Mascherano",
     "player1_team": "Barcelona",
@@ -22488,7 +22488,7 @@
     "timestamp": "00:27:35.192"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -22984,7 +22984,7 @@
     "timestamp": "00:28:34.709"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -23144,7 +23144,7 @@
     "timestamp": "00:29:42.660"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -23528,7 +23528,7 @@
     "timestamp": "00:30:59.593"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "",
     "player1_team": "Barcelona",
@@ -23728,7 +23728,7 @@
     "timestamp": "00:32:18.823"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Javier López Rodríguez",
     "player2": "Hernán Arsenio Pérez González",
     "player1_team": "Espanyol",
@@ -23968,7 +23968,7 @@
     "timestamp": "00:32:54.618"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -24056,7 +24056,7 @@
     "timestamp": "00:33:30.555"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -24816,7 +24816,7 @@
     "timestamp": "00:35:13.207"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -24888,7 +24888,7 @@
     "timestamp": "00:35:27.680"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -24952,7 +24952,7 @@
     "timestamp": "00:36:07.513"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Felipe Salvador Caicedo Corozo",
     "player1_team": "Espanyol",
@@ -24992,7 +24992,7 @@
     "timestamp": "00:36:33.742"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Víctor Guillermo Álvarez Delgado",
     "player2": "Marco Asensio Willemsen",
     "player1_team": "Espanyol",
@@ -25128,7 +25128,7 @@
     "timestamp": "00:37:00.538"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Álvaro González Soberón",
     "player2": "Gerard Moreno Balaguero",
     "player1_team": "Espanyol",
@@ -25184,7 +25184,7 @@
     "timestamp": "00:37:29.032"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -25488,7 +25488,7 @@
     "timestamp": "00:38:10.911"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Pau López Sabata",
     "player2": "Gerard Moreno Balaguero",
     "player1_team": "Espanyol",
@@ -25808,7 +25808,7 @@
     "timestamp": "00:39:09.073"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -25976,7 +25976,7 @@
     "timestamp": "00:39:31.020"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Pau López Sabata",
     "player2": "Gerard Moreno Balaguero",
     "player1_team": "Espanyol",
@@ -26104,7 +26104,7 @@
     "timestamp": "00:40:33.047"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Álvaro González Soberón",
     "player2": "Gerard Moreno Balaguero",
     "player1_team": "Espanyol",
@@ -26336,7 +26336,7 @@
     "timestamp": "00:41:52.173"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Daniel Alves da Silva",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -27032,7 +27032,7 @@
     "timestamp": "00:44:38.821"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Enzo Pablo Roco Roco",
     "player2": "Hernán Arsenio Pérez González",
     "player1_team": "Espanyol",
@@ -27616,7 +27616,7 @@
     "timestamp": "00:46:20.951"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Pau López Sabata",
     "player2": "",
     "player1_team": "Espanyol",

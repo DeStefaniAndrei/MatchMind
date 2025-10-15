@@ -536,7 +536,7 @@
     "timestamp": "00:01:00.726"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Adam Smith",
     "player2": "Matt Ritchie",
     "player1_team": "AFC Bournemouth",
@@ -1296,7 +1296,7 @@
     "timestamp": "00:02:50.741"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -1352,7 +1352,7 @@
     "timestamp": "00:03:15.527"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -1512,7 +1512,7 @@
     "timestamp": "00:03:42.954"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:08:34.055"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Gibbs",
     "player2": "Aaron Ramsey",
     "player1_team": "Arsenal",
@@ -4200,7 +4200,7 @@
     "timestamp": "00:10:34.816"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Steve Cook",
     "player2": "Dan Gosling",
     "player1_team": "AFC Bournemouth",
@@ -4504,7 +4504,7 @@
     "timestamp": "00:11:20.924"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "",
     "player1_team": "Arsenal",
@@ -5032,7 +5032,7 @@
     "timestamp": "00:13:00.827"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Calum Chambers",
     "player1_team": "Arsenal",
@@ -6024,7 +6024,7 @@
     "timestamp": "00:15:07.865"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simon Francis",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:16:19.492"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Petr Čech",
     "player2": "Alex Oxlade-Chamberlain",
     "player1_team": "Arsenal",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:17:54.353"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Simon Francis",
     "player2": "Joshua King",
     "player1_team": "AFC Bournemouth",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:19:35.232"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -7848,7 +7848,7 @@
     "timestamp": "00:20:04.444"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -8112,7 +8112,7 @@
     "timestamp": "00:21:14.123"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -10040,7 +10040,7 @@
     "timestamp": "00:26:21.818"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Arsenal",
@@ -10240,7 +10240,7 @@
     "timestamp": "00:28:13.472"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Olivier Giroud",
     "player1_team": "Arsenal",
@@ -10368,7 +10368,7 @@
     "timestamp": "00:28:54.006"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -10984,7 +10984,7 @@
     "timestamp": "00:29:49.891"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Dan Gosling",
     "player1_team": "AFC Bournemouth",
@@ -11456,7 +11456,7 @@
     "timestamp": "00:30:51.203"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Gibbs",
     "player2": "Aaron Ramsey",
     "player1_team": "Arsenal",
@@ -11504,7 +11504,7 @@
     "timestamp": "00:31:17.467"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:31:40.527"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Olivier Giroud",
     "player1_team": "Arsenal",
@@ -12104,7 +12104,7 @@
     "timestamp": "00:32:55.359"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:33:28.841"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Arsenal",
@@ -12520,7 +12520,7 @@
     "timestamp": "00:34:37.717"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "Olivier Giroud",
     "player1_team": "Arsenal",
@@ -12856,7 +12856,7 @@
     "timestamp": "00:35:57.616"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "Alex Oxlade-Chamberlain",
     "player1_team": "Arsenal",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:36:46.121"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -13416,7 +13416,7 @@
     "timestamp": "00:37:47.438"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "",
     "player1_team": "Arsenal",
@@ -13656,7 +13656,7 @@
     "timestamp": "00:38:49.181"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kieran Gibbs",
     "player2": "Theo Walcott",
     "player1_team": "Arsenal",
@@ -14032,7 +14032,7 @@
     "timestamp": "00:40:21.691"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:41:53.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Arsenal",
@@ -15424,7 +15424,7 @@
     "timestamp": "00:44:18.112"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Mesut Özil",
     "player2": "Olivier Giroud",
     "player1_team": "Arsenal",
@@ -16368,7 +16368,7 @@
     "timestamp": "00:00:47.471"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Andrew Surman",
     "player2": "Charlie Daniels",
     "player1_team": "AFC Bournemouth",
@@ -16784,7 +16784,7 @@
     "timestamp": "00:01:43.892"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -17096,7 +17096,7 @@
     "timestamp": "00:02:33.482"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -17448,7 +17448,7 @@
     "timestamp": "00:03:26.451"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Per Mertesacker",
     "player1_team": "Arsenal",
@@ -18152,7 +18152,7 @@
     "timestamp": "00:05:04.467"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kieran Gibbs",
     "player2": "Calum Chambers",
     "player1_team": "Arsenal",
@@ -18688,7 +18688,7 @@
     "timestamp": "00:06:13.254"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -19392,7 +19392,7 @@
     "timestamp": "00:07:43.424"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Andrew Surman",
     "player1_team": "AFC Bournemouth",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:09:28.937"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -20144,7 +20144,7 @@
     "timestamp": "00:10:00.450"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Junior Stanislas",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -20424,7 +20424,7 @@
     "timestamp": "00:10:48.636"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Gibbs",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Arsenal",
@@ -20544,7 +20544,7 @@
     "timestamp": "00:11:37.694"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Olivier Giroud",
     "player1_team": "Arsenal",
@@ -21232,7 +21232,7 @@
     "timestamp": "00:12:47.397"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Arsenal",
@@ -21904,7 +21904,7 @@
     "timestamp": "00:14:32.672"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Olivier Giroud",
     "player1_team": "Arsenal",
@@ -22128,7 +22128,7 @@
     "timestamp": "00:15:56.843"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Junior Stanislas",
     "player1_team": "AFC Bournemouth",
@@ -22176,7 +22176,7 @@
     "timestamp": "00:16:13.890"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Steve Cook",
     "player1_team": "AFC Bournemouth",
@@ -22968,7 +22968,7 @@
     "timestamp": "00:18:55.182"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Héctor Bellerín Moruno",
     "player2": "Calum Chambers",
     "player1_team": "Arsenal",
@@ -23000,7 +23000,7 @@
     "timestamp": "00:19:20.198"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Per Mertesacker",
     "player2": "Alex Oxlade-Chamberlain",
     "player1_team": "Arsenal",
@@ -23168,7 +23168,7 @@
     "timestamp": "00:19:53.779"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Arsenal",
@@ -24240,7 +24240,7 @@
     "timestamp": "00:23:03.474"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Gibbs",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -24904,7 +24904,7 @@
     "timestamp": "00:24:35.756"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -25224,7 +25224,7 @@
     "timestamp": "00:25:59.371"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Artur Boruc",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -25480,7 +25480,7 @@
     "timestamp": "00:26:42.917"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kieran Gibbs",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Arsenal",
@@ -25720,7 +25720,7 @@
     "timestamp": "00:27:42.763"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Charlie Daniels",
     "player2": "Harry Arter",
     "player1_team": "AFC Bournemouth",
@@ -26456,7 +26456,7 @@
     "timestamp": "00:30:12.219"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Ritchie",
     "player2": "Simon Francis",
     "player1_team": "AFC Bournemouth",
@@ -27840,7 +27840,7 @@
     "timestamp": "00:33:21.915"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kieran Gibbs",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Arsenal",
@@ -28256,7 +28256,7 @@
     "timestamp": "00:36:19.015"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Adam Smith",
     "player2": "Glenn Murray",
     "player1_team": "AFC Bournemouth",
@@ -28784,7 +28784,7 @@
     "timestamp": "00:37:21.684"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Mesut Özil",
     "player2": "Alex Oxlade-Chamberlain",
     "player1_team": "Arsenal",
@@ -29464,7 +29464,7 @@
     "timestamp": "00:40:02.773"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Petr Čech",
     "player2": "Mesut Özil",
     "player1_team": "Arsenal",
@@ -31776,7 +31776,7 @@
     "timestamp": "00:45:20.486"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Junior Stanislas",
     "player2": "Glenn Murray",
     "player1_team": "AFC Bournemouth",

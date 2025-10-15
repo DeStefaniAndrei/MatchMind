@@ -344,7 +344,7 @@
     "timestamp": "00:00:41.285"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Aly Cissokho",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -408,7 +408,7 @@
     "timestamp": "00:01:22.915"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -1400,7 +1400,7 @@
     "timestamp": "00:05:06.718"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -1880,7 +1880,7 @@
     "timestamp": "00:06:18.607"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -2288,7 +2288,7 @@
     "timestamp": "00:07:26.519"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -2600,7 +2600,7 @@
     "timestamp": "00:08:24.553"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:09:00.281"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -2768,7 +2768,7 @@
     "timestamp": "00:09:28.851"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -2872,7 +2872,7 @@
     "timestamp": "00:09:42.298"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -2944,7 +2944,7 @@
     "timestamp": "00:09:55.087"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -3016,7 +3016,7 @@
     "timestamp": "00:10:22.418"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Carles Gil de Pareja Vicent",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -3536,7 +3536,7 @@
     "timestamp": "00:12:18.529"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -4088,7 +4088,7 @@
     "timestamp": "00:13:28.676"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Alan Hutton",
     "player1_team": "Aston Villa",
@@ -4528,7 +4528,7 @@
     "timestamp": "00:14:53.478"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -4568,7 +4568,7 @@
     "timestamp": "00:15:29.360"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Lamela",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -4736,7 +4736,7 @@
     "timestamp": "00:15:56.006"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -4792,7 +4792,7 @@
     "timestamp": "00:16:18.581"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -4832,7 +4832,7 @@
     "timestamp": "00:16:42.322"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Ashley Westwood",
     "player1_team": "Aston Villa",
@@ -5056,7 +5056,7 @@
     "timestamp": "00:17:22.332"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -5640,7 +5640,7 @@
     "timestamp": "00:18:49.807"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Carles Gil de Pareja Vicent",
     "player1_team": "Aston Villa",
@@ -5904,7 +5904,7 @@
     "timestamp": "00:19:23.407"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Kevin Wimmer",
     "player1_team": "Tottenham Hotspur",
@@ -5992,7 +5992,7 @@
     "timestamp": "00:19:57.169"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordan Ayew",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -6072,7 +6072,7 @@
     "timestamp": "00:20:14.872"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -6312,7 +6312,7 @@
     "timestamp": "00:21:02.465"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -6672,7 +6672,7 @@
     "timestamp": "00:21:52.172"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -6712,7 +6712,7 @@
     "timestamp": "00:22:06.034"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Carles Gil de Pareja Vicent",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -6736,7 +6736,7 @@
     "timestamp": "00:22:33.415"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Kevin Wimmer",
     "player1_team": "Tottenham Hotspur",
@@ -6952,7 +6952,7 @@
     "timestamp": "00:23:17.490"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -7680,7 +7680,7 @@
     "timestamp": "00:25:57.939"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -7712,7 +7712,7 @@
     "timestamp": "00:26:20.403"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -8256,7 +8256,7 @@
     "timestamp": "00:28:19.724"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -8520,7 +8520,7 @@
     "timestamp": "00:29:12.068"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -8992,7 +8992,7 @@
     "timestamp": "00:30:35.201"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -9288,7 +9288,7 @@
     "timestamp": "00:31:26.431"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -9720,7 +9720,7 @@
     "timestamp": "00:32:52.524"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Toby Alderweireld",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -10640,7 +10640,7 @@
     "timestamp": "00:34:56.548"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Bradley Guzan",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -11144,7 +11144,7 @@
     "timestamp": "00:36:11.995"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -11488,7 +11488,7 @@
     "timestamp": "00:37:26.901"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -11576,7 +11576,7 @@
     "timestamp": "00:37:53.688"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Carles Gil de Pareja Vicent",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -11800,7 +11800,7 @@
     "timestamp": "00:39:05.538"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -12096,7 +12096,7 @@
     "timestamp": "00:39:40.585"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -12184,7 +12184,7 @@
     "timestamp": "00:40:38.299"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -12320,7 +12320,7 @@
     "timestamp": "00:41:08.510"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -12632,7 +12632,7 @@
     "timestamp": "00:41:57.653"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jordan Veretout",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -13024,7 +13024,7 @@
     "timestamp": "00:44:50.331"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bamidele Alli",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -13160,7 +13160,7 @@
     "timestamp": "00:45:59.203"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -13232,7 +13232,7 @@
     "timestamp": "00:46:18.877"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -14592,7 +14592,7 @@
     "timestamp": "00:03:10.394"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Carles Gil de Pareja Vicent",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -14776,7 +14776,7 @@
     "timestamp": "00:03:53.025"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -15944,7 +15944,7 @@
     "timestamp": "00:07:03.340"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Idrissa Gana Gueye",
     "player2": "Carles Gil de Pareja Vicent",
     "player1_team": "Aston Villa",
@@ -16592,7 +16592,7 @@
     "timestamp": "00:08:38.926"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -16960,7 +16960,7 @@
     "timestamp": "00:09:31.016"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -17008,7 +17008,7 @@
     "timestamp": "00:09:57.893"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -17048,7 +17048,7 @@
     "timestamp": "00:10:24.257"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Jordan Veretout",
     "player1_team": "Aston Villa",
@@ -17192,7 +17192,7 @@
     "timestamp": "00:10:54.725"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -17576,7 +17576,7 @@
     "timestamp": "00:11:54.800"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -18000,7 +18000,7 @@
     "timestamp": "00:13:25.183"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -18472,7 +18472,7 @@
     "timestamp": "00:14:48.186"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -18776,7 +18776,7 @@
     "timestamp": "00:16:26.521"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -18960,7 +18960,7 @@
     "timestamp": "00:16:51.405"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -20952,7 +20952,7 @@
     "timestamp": "00:21:31.982"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:24:43.937"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Tetchi Jores Charlemagne Ulrich Okore",
     "player1_team": "Aston Villa",
@@ -21496,7 +21496,7 @@
     "timestamp": "00:25:10.847"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -21728,7 +21728,7 @@
     "timestamp": "00:26:00.332"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Andre Green",
     "player1_team": "Aston Villa",
@@ -22552,7 +22552,7 @@
     "timestamp": "00:28:08.968"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -23312,7 +23312,7 @@
     "timestamp": "00:29:49.146"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -24320,7 +24320,7 @@
     "timestamp": "00:33:09.288"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -24688,7 +24688,7 @@
     "timestamp": "00:33:54.237"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -24800,7 +24800,7 @@
     "timestamp": "00:34:05.896"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ashley Westwood",
     "player2": "Tetchi Jores Charlemagne Ulrich Okore",
     "player1_team": "Aston Villa",
@@ -24904,7 +24904,7 @@
     "timestamp": "00:34:43.847"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -24944,7 +24944,7 @@
     "timestamp": "00:35:03.358"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Rose",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -25152,7 +25152,7 @@
     "timestamp": "00:35:41.992"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -25416,7 +25416,7 @@
     "timestamp": "00:36:23.989"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aly Cissokho",
     "player2": "Idrissa Gana Gueye",
     "player1_team": "Aston Villa",
@@ -25576,7 +25576,7 @@
     "timestamp": "00:36:43.713"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -25912,7 +25912,7 @@
     "timestamp": "00:37:50.990"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -26264,7 +26264,7 @@
     "timestamp": "00:39:03.485"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -27120,7 +27120,7 @@
     "timestamp": "00:41:56.922"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Andre Green",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",
@@ -27664,7 +27664,7 @@
     "timestamp": "00:44:37.177"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ashley Westwood",
     "player2": "",
     "player1_team": "Aston Villa",
@@ -28064,7 +28064,7 @@
     "timestamp": "00:45:29.326"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Alan Hutton",
     "player2": "Rudy Gestede",
     "player1_team": "Aston Villa",

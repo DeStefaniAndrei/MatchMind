@@ -128,7 +128,7 @@
     "timestamp": "00:00:10.193"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -1120,7 +1120,7 @@
     "timestamp": "00:03:00.979"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:05:20.070"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -2608,7 +2608,7 @@
     "timestamp": "00:06:19.833"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -3176,7 +3176,7 @@
     "timestamp": "00:07:42.788"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jamie Vardy",
     "player2": "Jeffrey Schlupp",
     "player1_team": "Leicester City",
@@ -3344,7 +3344,7 @@
     "timestamp": "00:08:13.499"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Riyad Mahrez",
     "player2": "Ritchie De Laet",
     "player1_team": "Leicester City",
@@ -3712,7 +3712,7 @@
     "timestamp": "00:09:10.851"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gökhan İnler",
     "player2": "Danny Drinkwater",
     "player1_team": "Leicester City",
@@ -5008,7 +5008,7 @@
     "timestamp": "00:14:22.338"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Gökhan İnler",
     "player1_team": "Leicester City",
@@ -5312,7 +5312,7 @@
     "timestamp": "00:15:12.550"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:15:35.036"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Shinji Okazaki",
     "player1_team": "Leicester City",
@@ -5704,7 +5704,7 @@
     "timestamp": "00:16:45.907"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:21:18.632"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -7656,7 +7656,7 @@
     "timestamp": "00:22:33.167"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -8184,7 +8184,7 @@
     "timestamp": "00:24:03.822"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:24:41.401"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Glenn Whelan",
     "player2": "Erik Pieters",
     "player1_team": "Stoke City",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:25:26.067"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:26:00.454"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -8792,7 +8792,7 @@
     "timestamp": "00:27:26.961"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:28:09.231"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Xherdan Shaqiri",
     "player2": "",
     "player1_team": "Stoke City",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:30:03.391"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -9896,7 +9896,7 @@
     "timestamp": "00:31:09.833"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -10072,7 +10072,7 @@
     "timestamp": "00:32:04.426"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jack Butland",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -10160,7 +10160,7 @@
     "timestamp": "00:33:09.025"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -10968,7 +10968,7 @@
     "timestamp": "00:35:00.671"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -11152,7 +11152,7 @@
     "timestamp": "00:36:29.563"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -11440,7 +11440,7 @@
     "timestamp": "00:37:15.173"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Xherdan Shaqiri",
     "player2": "",
     "player1_team": "Stoke City",
@@ -11600,7 +11600,7 @@
     "timestamp": "00:38:17.071"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -11992,7 +11992,7 @@
     "timestamp": "00:39:14.563"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -12040,7 +12040,7 @@
     "timestamp": "00:39:42.143"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Riyad Mahrez",
     "player2": "Ritchie De Laet",
     "player1_team": "Leicester City",
@@ -12400,7 +12400,7 @@
     "timestamp": "00:40:49.111"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Drinkwater",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -13032,7 +13032,7 @@
     "timestamp": "00:42:51.504"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jeffrey Schlupp",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -13064,7 +13064,7 @@
     "timestamp": "00:43:15.704"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jack Butland",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -13208,7 +13208,7 @@
     "timestamp": "00:43:57.081"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Huth",
     "player2": "Riyad Mahrez",
     "player1_team": "Leicester City",
@@ -13640,7 +13640,7 @@
     "timestamp": "00:45:23.501"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -13952,7 +13952,7 @@
     "timestamp": "00:00:09.897"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -13992,7 +13992,7 @@
     "timestamp": "00:00:27.333"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -14080,7 +14080,7 @@
     "timestamp": "00:00:55.699"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -14216,7 +14216,7 @@
     "timestamp": "00:01:31.739"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:03:33.452"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:03:54.740"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Riyad Mahrez",
     "player2": "",
     "player1_team": "Leicester City",
@@ -15040,7 +15040,7 @@
     "timestamp": "00:06:10.143"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:07:01.402"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -15336,7 +15336,7 @@
     "timestamp": "00:07:22.866"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Marc Albrighton",
     "player2": "Ritchie De Laet",
     "player1_team": "Leicester City",
@@ -15480,7 +15480,7 @@
     "timestamp": "00:08:19.563"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Xherdan Shaqiri",
     "player2": "",
     "player1_team": "Stoke City",
@@ -15584,7 +15584,7 @@
     "timestamp": "00:09:19.998"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -15816,7 +15816,7 @@
     "timestamp": "00:09:57.850"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Erik Pieters",
     "player2": "Marc Wilson",
     "player1_team": "Stoke City",
@@ -16544,7 +16544,7 @@
     "timestamp": "00:12:04.129"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:12:32.064"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jack Butland",
     "player2": "Jonathan Walters",
     "player1_team": "Stoke City",
@@ -16744,7 +16744,7 @@
     "timestamp": "00:13:34.290"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "",
     "player1_team": "Stoke City",
@@ -16760,7 +16760,7 @@
     "timestamp": "00:13:54.119"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marko Arnautović",
     "player1_team": "Stoke City",
@@ -17152,7 +17152,7 @@
     "timestamp": "00:14:41.993"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jack Butland",
     "player2": "",
     "player1_team": "Stoke City",
@@ -18488,7 +18488,7 @@
     "timestamp": "00:19:20.905"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Robert Huth",
     "player1_team": "Leicester City",
@@ -19016,7 +19016,7 @@
     "timestamp": "00:21:12.264"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marco van Ginkel",
     "player2": "Bojan Krkíc Pérez",
     "player1_team": "Stoke City",
@@ -20136,7 +20136,7 @@
     "timestamp": "00:26:30.553"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "Jamie Vardy",
     "player1_team": "Leicester City",
@@ -20192,7 +20192,7 @@
     "timestamp": "00:26:52.260"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marc Wilson",
     "player1_team": "Stoke City",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:27:23.497"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "",
     "player1_team": "Leicester City",
@@ -20728,7 +20728,7 @@
     "timestamp": "00:29:41.807"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Xherdan Shaqiri",
     "player2": "",
     "player1_team": "Stoke City",
@@ -20792,7 +20792,7 @@
     "timestamp": "00:30:06.028"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "N''Golo Kanté",
     "player1_team": "Leicester City",
@@ -20992,7 +20992,7 @@
     "timestamp": "00:30:41.209"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -21024,7 +21024,7 @@
     "timestamp": "00:31:02.007"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Glenn Whelan",
     "player1_team": "Stoke City",
@@ -21176,7 +21176,7 @@
     "timestamp": "00:31:40.475"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marc Wilson",
     "player1_team": "Stoke City",
@@ -21264,7 +21264,7 @@
     "timestamp": "00:32:00.132"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Xherdan Shaqiri",
     "player2": "Geoff Cameron",
     "player1_team": "Stoke City",
@@ -21328,7 +21328,7 @@
     "timestamp": "00:33:22.624"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marc Wilson",
     "player1_team": "Stoke City",
@@ -22448,7 +22448,7 @@
     "timestamp": "00:36:30.111"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -23376,7 +23376,7 @@
     "timestamp": "00:40:18.938"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kasper Schmeichel",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -23560,7 +23560,7 @@
     "timestamp": "00:40:50.213"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jack Butland",
     "player2": "",
     "player1_team": "Stoke City",
@@ -23720,7 +23720,7 @@
     "timestamp": "00:41:31.964"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Osazemwinde Peter Odemwingie",
     "player2": "Glen Johnson",
     "player1_team": "Stoke City",
@@ -23944,7 +23944,7 @@
     "timestamp": "00:42:03.697"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -24328,7 +24328,7 @@
     "timestamp": "00:43:13.966"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Osazemwinde Peter Odemwingie",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -24504,7 +24504,7 @@
     "timestamp": "00:43:38.563"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Glen Johnson",
     "player2": "Xherdan Shaqiri",
     "player1_team": "Stoke City",
@@ -24640,7 +24640,7 @@
     "timestamp": "00:44:49.731"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ritchie De Laet",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -24824,7 +24824,7 @@
     "timestamp": "00:45:32.573"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jeffrey Schlupp",
     "player2": "José Leonardo Ulloa",
     "player1_team": "Leicester City",
@@ -25088,7 +25088,7 @@
     "timestamp": "00:46:15.908"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Erik Pieters",
     "player2": "Marc Wilson",
     "player1_team": "Stoke City",

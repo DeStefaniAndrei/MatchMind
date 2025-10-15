@@ -184,7 +184,7 @@
     "timestamp": "00:00:14.023"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jordi Alba Ramos",
     "player2": "Claudio Andrés Bravo Muñoz",
     "player1_team": "Barcelona",
@@ -536,7 +536,7 @@
     "timestamp": "00:01:15.196"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Emiliano Buendía",
     "player2": "Santiago Vergini",
     "player1_team": "Getafe",
@@ -720,7 +720,7 @@
     "timestamp": "00:01:59.561"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -968,7 +968,7 @@
     "timestamp": "00:02:39.580"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Emiliano Buendía",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -1376,7 +1376,7 @@
     "timestamp": "00:03:32.432"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Arda Turan",
     "player1_team": "Barcelona",
@@ -1656,7 +1656,7 @@
     "timestamp": "00:04:10.891"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Emiliano Daniel Velázquez Maldonado",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -1752,7 +1752,7 @@
     "timestamp": "00:04:38.539"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -2072,7 +2072,7 @@
     "timestamp": "00:05:24.033"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:10:22.532"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "",
     "player1_team": "Barcelona",
@@ -3912,7 +3912,7 @@
     "timestamp": "00:11:46.925"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -3992,7 +3992,7 @@
     "timestamp": "00:11:59.655"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -4848,7 +4848,7 @@
     "timestamp": "00:13:38.767"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Claudio Andrés Bravo Muñoz",
     "player1_team": "Barcelona",
@@ -5240,7 +5240,7 @@
     "timestamp": "00:14:43.787"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleix Vidal Parreu",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -5712,7 +5712,7 @@
     "timestamp": "00:17:10.443"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Pedro León Sánchez Gil",
     "player2": "Juan Antonio Rodríguez Villamuela",
     "player1_team": "Getafe",
@@ -6032,7 +6032,7 @@
     "timestamp": "00:18:31.930"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -6320,7 +6320,7 @@
     "timestamp": "00:20:05.727"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Aleix Vidal Parreu",
     "player1_team": "Barcelona",
@@ -6520,7 +6520,7 @@
     "timestamp": "00:20:56.933"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Emiliano Daniel Velázquez Maldonado",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:21:57.753"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -7088,7 +7088,7 @@
     "timestamp": "00:22:42.981"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Vicente Guaita Panadero",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -7200,7 +7200,7 @@
     "timestamp": "00:23:48.779"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Emiliano Buendía",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -7400,7 +7400,7 @@
     "timestamp": "00:24:18.190"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Arda Turan",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -7608,7 +7608,7 @@
     "timestamp": "00:24:48.591"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -7648,7 +7648,7 @@
     "timestamp": "00:25:19.157"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -8736,7 +8736,7 @@
     "timestamp": "00:27:52.585"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleix Vidal Parreu",
     "player2": "Lionel Andrés Messi Cuccittini",
     "player1_team": "Barcelona",
@@ -9008,7 +9008,7 @@
     "timestamp": "00:28:32.591"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Emiliano Daniel Velázquez Maldonado",
     "player2": "Pedro León Sánchez Gil",
     "player1_team": "Getafe",
@@ -9272,7 +9272,7 @@
     "timestamp": "00:29:30.288"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Andrés Iniesta Luján",
     "player1_team": "Barcelona",
@@ -11496,7 +11496,7 @@
     "timestamp": "00:34:58.940"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aleix Vidal Parreu",
     "player2": "",
     "player1_team": "Barcelona",
@@ -11944,7 +11944,7 @@
     "timestamp": "00:36:57.138"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleix Vidal Parreu",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -12160,7 +12160,7 @@
     "timestamp": "00:37:22.060"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andrés Iniesta Luján",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -12240,7 +12240,7 @@
     "timestamp": "00:37:54.286"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Vicente Guaita Panadero",
     "player2": "Pedro León Sánchez Gil",
     "player1_team": "Getafe",
@@ -12744,7 +12744,7 @@
     "timestamp": "00:39:15.308"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -13472,7 +13472,7 @@
     "timestamp": "00:43:22.826"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -13496,7 +13496,7 @@
     "timestamp": "00:43:41.633"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleix Vidal Parreu",
     "player2": "Jérémy Mathieu",
     "player1_team": "Barcelona",
@@ -13888,7 +13888,7 @@
     "timestamp": "00:44:42.992"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Munir El Haddadi Mohamed",
     "player1_team": "Barcelona",
@@ -15464,7 +15464,7 @@
     "timestamp": "00:03:52.905"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Stefan Šćepović",
     "player1_team": "Getafe",
@@ -15584,7 +15584,7 @@
     "timestamp": "00:04:18.712"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Claudio Andrés Bravo Muñoz",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -16776,7 +16776,7 @@
     "timestamp": "00:07:28.694"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Emiliano Daniel Velázquez Maldonado",
     "player1_team": "Getafe",
@@ -16944,7 +16944,7 @@
     "timestamp": "00:08:40.158"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -17800,7 +17800,7 @@
     "timestamp": "00:10:52.521"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Munir El Haddadi Mohamed",
     "player1_team": "Barcelona",
@@ -19552,7 +19552,7 @@
     "timestamp": "00:16:56.425"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -20888,7 +20888,7 @@
     "timestamp": "00:20:23.673"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Wanderson Maciel Sousa Campos",
     "player1_team": "Getafe",
@@ -20936,7 +20936,7 @@
     "timestamp": "00:20:48.992"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Abdoul Karim Yoda",
     "player1_team": "Getafe",
@@ -21712,7 +21712,7 @@
     "timestamp": "00:23:02.428"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Emiliano Buendía",
     "player2": "Santiago Vergini",
     "player1_team": "Getafe",
@@ -22456,7 +22456,7 @@
     "timestamp": "00:25:04.770"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Marc Bartra Aregall",
     "player1_team": "Barcelona",
@@ -23080,7 +23080,7 @@
     "timestamp": "00:27:19.707"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Álvaro Daniel Pereira Barragán",
     "player2": "Abdoul Karim Yoda",
     "player1_team": "Getafe",
@@ -24120,7 +24120,7 @@
     "timestamp": "00:29:55.309"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergi Samper Montaña",
     "player2": "Neymar da Silva Santos Junior",
     "player1_team": "Barcelona",
@@ -24752,7 +24752,7 @@
     "timestamp": "00:32:17.980"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Emiliano Buendía",
     "player2": "Santiago Vergini",
     "player1_team": "Getafe",
@@ -25888,7 +25888,7 @@
     "timestamp": "00:34:31.490"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleix Vidal Parreu",
     "player2": "Arda Turan",
     "player1_team": "Barcelona",
@@ -26816,7 +26816,7 @@
     "timestamp": "00:37:04.535"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -26880,7 +26880,7 @@
     "timestamp": "00:37:18.020"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Neymar da Silva Santos Junior",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -27000,7 +27000,7 @@
     "timestamp": "00:37:32.538"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bernard Mensah",
     "player2": "Emiliano Buendía",
     "player1_team": "Getafe",
@@ -27032,7 +27032,7 @@
     "timestamp": "00:37:56.126"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Santiago Vergini",
     "player2": "Moisés Gómez Bordonado",
     "player1_team": "Getafe",
@@ -27232,7 +27232,7 @@
     "timestamp": "00:38:30.104"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Moisés Gómez Bordonado",
     "player2": "",
     "player1_team": "Getafe",
@@ -27248,7 +27248,7 @@
     "timestamp": "00:39:01.094"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Moisés Gómez Bordonado",
     "player2": "",
     "player1_team": "Getafe",
@@ -28008,7 +28008,7 @@
     "timestamp": "00:41:03.730"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Arda Turan",
     "player2": "Sergi Roberto Carnicer",
     "player1_team": "Barcelona",
@@ -28272,7 +28272,7 @@
     "timestamp": "00:41:46.972"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc Bartra Aregall",
     "player2": "Thomas Vermaelen",
     "player1_team": "Barcelona",
@@ -28824,7 +28824,7 @@
     "timestamp": "00:43:52.691"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Moisés Gómez Bordonado",
     "player2": "",
     "player1_team": "Getafe",
@@ -29472,7 +29472,7 @@
     "timestamp": "00:45:46.366"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Marc Bartra Aregall",
     "player2": "Claudio Andrés Bravo Muñoz",
     "player1_team": "Barcelona",
@@ -29896,7 +29896,7 @@
     "timestamp": "00:46:39.058"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleix Vidal Parreu",
     "player2": "Marc Bartra Aregall",
     "player1_team": "Barcelona",

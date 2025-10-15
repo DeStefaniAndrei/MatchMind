@@ -120,7 +120,7 @@
     "timestamp": "00:00:15.513"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -376,7 +376,7 @@
     "timestamp": "00:00:35.036"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Kirsty Linnett",
     "player1_team": "Liverpool WFC",
@@ -720,7 +720,7 @@
     "timestamp": "00:01:41.893"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aileen Whelan",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -784,7 +784,7 @@
     "timestamp": "00:02:14.036"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aileen Whelan",
     "player2": "Léa Le Garrec",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -832,7 +832,7 @@
     "timestamp": "00:02:24.306"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Felicity Gibbons",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -920,7 +920,7 @@
     "timestamp": "00:03:51.428"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Rinsola Babajide",
     "player1_team": "Liverpool WFC",
@@ -1184,7 +1184,7 @@
     "timestamp": "00:04:32.327"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Rebecca Jane",
     "player2": "",
     "player1_team": "Liverpool WFC",
@@ -1336,7 +1336,7 @@
     "timestamp": "00:05:49.261"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Maya Le Tissier",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -1832,7 +1832,7 @@
     "timestamp": "00:07:21.453"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Kirsty Linnett",
     "player1_team": "Liverpool WFC",
@@ -1920,7 +1920,7 @@
     "timestamp": "00:07:38.404"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -2112,7 +2112,7 @@
     "timestamp": "00:08:33.070"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Melissa Lawley",
     "player2": "Rebecca Jane",
     "player1_team": "Liverpool WFC",
@@ -2344,7 +2344,7 @@
     "timestamp": "00:08:53.633"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danielle Buet",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3320,7 +3320,7 @@
     "timestamp": "00:11:39.240"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Léa Le Garrec",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3392,7 +3392,7 @@
     "timestamp": "00:11:54.025"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Felicity Gibbons",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:13:29.520"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rinsola Babajide",
     "player1_team": "Liverpool WFC",
@@ -3808,7 +3808,7 @@
     "timestamp": "00:13:56.933"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -4688,7 +4688,7 @@
     "timestamp": "00:16:50.687"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -4944,7 +4944,7 @@
     "timestamp": "00:17:35.263"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Kirsty Linnett",
     "player1_team": "Liverpool WFC",
@@ -4984,7 +4984,7 @@
     "timestamp": "00:17:53.402"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Danielle Buet",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -5080,7 +5080,7 @@
     "timestamp": "00:18:20.307"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jade Bailey",
     "player2": "Rinsola Babajide",
     "player1_team": "Liverpool WFC",
@@ -5352,7 +5352,7 @@
     "timestamp": "00:19:30.841"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Rinsola Babajide",
     "player1_team": "Liverpool WFC",
@@ -5440,7 +5440,7 @@
     "timestamp": "00:20:02.419"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jade Bailey",
     "player2": "",
     "player1_team": "Liverpool WFC",
@@ -5784,7 +5784,7 @@
     "timestamp": "00:21:55.565"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Jade Bailey",
     "player1_team": "Liverpool WFC",
@@ -6008,7 +6008,7 @@
     "timestamp": "00:22:30.711"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rinsola Babajide",
     "player1_team": "Liverpool WFC",
@@ -6208,7 +6208,7 @@
     "timestamp": "00:22:57.678"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -6232,7 +6232,7 @@
     "timestamp": "00:24:50.924"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Kirsty Linnett",
     "player1_team": "Liverpool WFC",
@@ -6272,7 +6272,7 @@
     "timestamp": "00:25:16.773"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -7264,7 +7264,7 @@
     "timestamp": "00:29:05.479"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jade Bailey",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -7304,7 +7304,7 @@
     "timestamp": "00:29:50.608"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Megan Walsh",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7440,7 +7440,7 @@
     "timestamp": "00:30:46.741"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danielle Buet",
     "player2": "Felicity Gibbons",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -7488,7 +7488,7 @@
     "timestamp": "00:31:44.067"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Léa Le Garrec",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8240,7 +8240,7 @@
     "timestamp": "00:36:08.460"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Léa Le Garrec",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -8896,7 +8896,7 @@
     "timestamp": "00:38:14.710"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Kirsty Linnett",
     "player1_team": "Liverpool WFC",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:38:25.364"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Maya Le Tissier",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9104,7 +9104,7 @@
     "timestamp": "00:39:10.290"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Frances Kitching",
     "player2": "Kirsty Linnett",
     "player1_team": "Liverpool WFC",
@@ -9128,7 +9128,7 @@
     "timestamp": "00:39:38.753"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rinsola Babajide",
     "player1_team": "Liverpool WFC",
@@ -9200,7 +9200,7 @@
     "timestamp": "00:39:51.729"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Felicity Gibbons",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9488,7 +9488,7 @@
     "timestamp": "00:41:06.144"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Kate Natkiel",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -9616,7 +9616,7 @@
     "timestamp": "00:41:34.292"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Léa Le Garrec",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -10304,7 +10304,7 @@
     "timestamp": "00:43:51.680"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Sophie Elizabeth Bradley-Auckland",
     "player1_team": "Liverpool WFC",
@@ -10400,7 +10400,7 @@
     "timestamp": "00:44:14.680"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jade Bailey",
     "player2": "",
     "player1_team": "Liverpool WFC",
@@ -10424,7 +10424,7 @@
     "timestamp": "00:44:49.081"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Melissa Lawley",
     "player1_team": "Liverpool WFC",
@@ -10464,7 +10464,7 @@
     "timestamp": "00:45:01.559"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Jade Bailey",
     "player1_team": "Liverpool WFC",
@@ -10512,7 +10512,7 @@
     "timestamp": "00:45:12.578"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Rebecca Jane",
     "player2": "Sophie Elizabeth Bradley-Auckland",
     "player1_team": "Liverpool WFC",
@@ -10552,7 +10552,7 @@
     "timestamp": "00:45:47.857"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Kirsty Linnett",
     "player1_team": "Liverpool WFC",
@@ -11224,7 +11224,7 @@
     "timestamp": "00:00:08.871"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11280,7 +11280,7 @@
     "timestamp": "00:00:30.518"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Léa Le Garrec",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11352,7 +11352,7 @@
     "timestamp": "00:01:04.681"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -11400,7 +11400,7 @@
     "timestamp": "00:01:22.458"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -11528,7 +11528,7 @@
     "timestamp": "00:01:41.303"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11616,7 +11616,7 @@
     "timestamp": "00:02:03.212"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -11752,7 +11752,7 @@
     "timestamp": "00:02:37.112"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -11896,7 +11896,7 @@
     "timestamp": "00:03:05.748"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Melissa Lawley",
     "player2": "Niamh Charles",
     "player1_team": "Liverpool WFC",
@@ -11936,7 +11936,7 @@
     "timestamp": "00:03:40.333"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rachel Furness",
     "player2": "Niamh Charles",
     "player1_team": "Liverpool WFC",
@@ -12144,7 +12144,7 @@
     "timestamp": "00:04:26.647"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Niamh Charles",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -12280,7 +12280,7 @@
     "timestamp": "00:05:12.164"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Jade Bailey",
     "player1_team": "Liverpool WFC",
@@ -12328,7 +12328,7 @@
     "timestamp": "00:05:26.637"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Sophie Elizabeth Bradley-Auckland",
     "player2": "Niamh Fahey",
     "player1_team": "Liverpool WFC",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:06:15.257"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danique Kerkdijk",
     "player2": "Kirsty Barton",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -12800,7 +12800,7 @@
     "timestamp": "00:06:29.646"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -12840,7 +12840,7 @@
     "timestamp": "00:06:50.050"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Jade Bailey",
     "player1_team": "Liverpool WFC",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:07:45.732"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danique Kerkdijk",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13416,7 +13416,7 @@
     "timestamp": "00:08:44.478"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -13488,7 +13488,7 @@
     "timestamp": "00:09:22.603"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Niamh Fahey",
     "player2": "Niamh Charles",
     "player1_team": "Liverpool WFC",
@@ -13584,7 +13584,7 @@
     "timestamp": "00:10:25.086"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Niamh Charles",
     "player1_team": "Liverpool WFC",
@@ -13608,7 +13608,7 @@
     "timestamp": "00:10:42.492"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -14048,7 +14048,7 @@
     "timestamp": "00:11:36.856"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -14728,7 +14728,7 @@
     "timestamp": "00:13:45.682"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -15376,7 +15376,7 @@
     "timestamp": "00:16:34.826"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16272,7 +16272,7 @@
     "timestamp": "00:19:57.557"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Niamh Fahey",
     "player2": "Sophie Elizabeth Bradley-Auckland",
     "player1_team": "Liverpool WFC",
@@ -16312,7 +16312,7 @@
     "timestamp": "00:20:35.742"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Felicity Gibbons",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -16352,7 +16352,7 @@
     "timestamp": "00:20:56.203"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Sophie Elizabeth Bradley-Auckland",
     "player1_team": "Liverpool WFC",
@@ -16552,7 +16552,7 @@
     "timestamp": "00:21:18.900"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jade Bailey",
     "player2": "",
     "player1_team": "Liverpool WFC",
@@ -16680,7 +16680,7 @@
     "timestamp": "00:22:02.090"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Melissa Lawley",
     "player2": "Jade Bailey",
     "player1_team": "Liverpool WFC",
@@ -16752,7 +16752,7 @@
     "timestamp": "00:23:41.365"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Melissa Lawley",
     "player1_team": "Liverpool WFC",
@@ -17176,7 +17176,7 @@
     "timestamp": "00:27:28.288"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jade Bailey",
     "player2": "",
     "player1_team": "Liverpool WFC",
@@ -17248,7 +17248,7 @@
     "timestamp": "00:29:11.432"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jade Bailey",
     "player2": "",
     "player1_team": "Liverpool WFC",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:29:54.388"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -17416,7 +17416,7 @@
     "timestamp": "00:30:13.387"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -17704,7 +17704,7 @@
     "timestamp": "00:30:49.020"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:31:18.482"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rhiannon Roberts",
     "player1_team": "Liverpool WFC",
@@ -17992,7 +17992,7 @@
     "timestamp": "00:31:47.281"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -18952,7 +18952,7 @@
     "timestamp": "00:35:10.718"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Rinsola Babajide",
     "player1_team": "Liverpool WFC",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:36:10.223"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Megan Connolly",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19832,7 +19832,7 @@
     "timestamp": "00:38:37.558"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Rinsola Babajide",
     "player1_team": "Liverpool WFC",
@@ -19856,7 +19856,7 @@
     "timestamp": "00:38:44.424"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rinsola Babajide",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:38:53.364"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Megan Walsh",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -19896,7 +19896,7 @@
     "timestamp": "00:39:21.980"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Niamh Fahey",
     "player2": "Niamh Charles",
     "player1_team": "Liverpool WFC",
@@ -20040,7 +20040,7 @@
     "timestamp": "00:39:42.228"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20072,7 +20072,7 @@
     "timestamp": "00:40:08.186"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Niamh Charles",
     "player1_team": "Liverpool WFC",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:40:14.602"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Niamh Fahey",
     "player2": "Rhiannon Roberts",
     "player1_team": "Liverpool WFC",
@@ -20280,7 +20280,7 @@
     "timestamp": "00:40:40.598"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Felicity Gibbons",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20416,7 +20416,7 @@
     "timestamp": "00:41:41.271"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Melissa Lawley",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -20512,7 +20512,7 @@
     "timestamp": "00:41:51.326"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "Rachel Furness",
     "player1_team": "Liverpool WFC",
@@ -20648,7 +20648,7 @@
     "timestamp": "00:42:18.389"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jade Bailey",
     "player2": "Sophie Elizabeth Bradley-Auckland",
     "player1_team": "Liverpool WFC",
@@ -20680,7 +20680,7 @@
     "timestamp": "00:42:53.874"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Megan Walsh",
     "player2": "Aileen Whelan",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -20808,7 +20808,7 @@
     "timestamp": "00:43:35.440"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "Kayleigh Green",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21032,7 +21032,7 @@
     "timestamp": "00:44:40.798"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Leigh-Anne Robe",
     "player2": "Niamh Charles",
     "player1_team": "Liverpool WFC",
@@ -21072,7 +21072,7 @@
     "timestamp": "00:45:00.679"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kirsty Barton",
     "player2": "",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21096,7 +21096,7 @@
     "timestamp": "00:45:14.209"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Danielle Buet",
     "player2": "Iniabasi Anefiok Umotong",
     "player1_team": "Brighton & Hove Albion WFC",
@@ -21168,7 +21168,7 @@
     "timestamp": "00:45:57.486"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Rebecca Jane",
     "player2": "",
     "player1_team": "Liverpool WFC",
@@ -21816,7 +21816,7 @@
     "timestamp": "00:49:28.229"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Megan Walsh",
     "player2": "Emily Simpkins",
     "player1_team": "Brighton & Hove Albion WFC",

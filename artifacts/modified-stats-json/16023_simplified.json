@@ -160,7 +160,7 @@
     "timestamp": "00:00:17.633"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cristiano Piccini",
     "player2": "Carlos Soler Barragán",
     "player1_team": "Valencia",
@@ -336,7 +336,7 @@
     "timestamp": "00:00:46.213"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daniel Parejo Muñoz",
     "player2": "",
     "player1_team": "Valencia",
@@ -520,7 +520,7 @@
     "timestamp": "00:02:31.934"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Thomas Vermaelen",
     "player1_team": "Barcelona",
@@ -1000,7 +1000,7 @@
     "timestamp": "00:03:37.391"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Arthur Henrique Ramos de Oliveira Melo",
     "player1_team": "Barcelona",
@@ -1808,7 +1808,7 @@
     "timestamp": "00:05:14.069"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Daniel Parejo Muñoz",
     "player2": "Gonçalo Manuel Ganchinho Guedes",
     "player1_team": "Valencia",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:07:55.235"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cristiano Piccini",
     "player2": "Michy Batshuayi Tunga",
     "player1_team": "Valencia",
@@ -2304,7 +2304,7 @@
     "timestamp": "00:08:46.881"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Thomas Vermaelen",
     "player1_team": "Barcelona",
@@ -2960,7 +2960,7 @@
     "timestamp": "00:10:03.913"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nélson Cabral Semedo",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -4656,7 +4656,7 @@
     "timestamp": "00:13:54.707"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Norberto Murara Neto",
     "player2": "Ezequiel Marcelo Garay",
     "player1_team": "Valencia",
@@ -4968,7 +4968,7 @@
     "timestamp": "00:14:56.994"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Philippe Coutinho Correia",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -5504,7 +5504,7 @@
     "timestamp": "00:16:05.904"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Norberto Murara Neto",
     "player2": "Kevin Gameiro",
     "player1_team": "Valencia",
@@ -6696,7 +6696,7 @@
     "timestamp": "00:19:33.610"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Arthur Henrique Ramos de Oliveira Melo",
     "player1_team": "Barcelona",
@@ -8288,7 +8288,7 @@
     "timestamp": "00:24:25.946"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -10800,7 +10800,7 @@
     "timestamp": "00:29:47.499"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cristiano Piccini",
     "player2": "Ezequiel Marcelo Garay",
     "player1_team": "Valencia",
@@ -11480,7 +11480,7 @@
     "timestamp": "00:31:01.922"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "",
     "player1_team": "Barcelona",
@@ -12232,7 +12232,7 @@
     "timestamp": "00:33:49.353"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Luis Alberto Suárez Díaz",
     "player1_team": "Barcelona",
@@ -13248,7 +13248,7 @@
     "timestamp": "00:36:03.541"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -14024,7 +14024,7 @@
     "timestamp": "00:37:41.476"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lionel Andrés Messi Cuccittini",
     "player2": "Sergio Busquets i Burgos",
     "player1_team": "Barcelona",
@@ -14880,7 +14880,7 @@
     "timestamp": "00:39:42.617"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "José Luis Gayà Peña",
     "player2": "Denis Cheryshev",
     "player1_team": "Valencia",
@@ -14952,7 +14952,7 @@
     "timestamp": "00:40:39.796"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Marc-André ter Stegen",
     "player2": "Arthur Henrique Ramos de Oliveira Melo",
     "player1_team": "Barcelona",
@@ -15288,7 +15288,7 @@
     "timestamp": "00:41:46.246"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daniel Parejo Muñoz",
     "player2": "Geoffrey Kondogbia",
     "player1_team": "Valencia",
@@ -15456,7 +15456,7 @@
     "timestamp": "00:42:30.568"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Arthur Henrique Ramos de Oliveira Melo",
     "player2": "Marc-André ter Stegen",
     "player1_team": "Barcelona",
@@ -16392,7 +16392,7 @@
     "timestamp": "00:45:06.027"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nélson Cabral Semedo",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -16736,7 +16736,7 @@
     "timestamp": "00:45:40.972"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cristiano Piccini",
     "player2": "Michy Batshuayi Tunga",
     "player1_team": "Valencia",
@@ -17128,7 +17128,7 @@
     "timestamp": "00:46:37.744"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Cristiano Piccini",
     "player2": "",
     "player1_team": "Valencia",
@@ -18240,7 +18240,7 @@
     "timestamp": "00:02:31.057"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -18864,7 +18864,7 @@
     "timestamp": "00:03:56.115"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Philippe Coutinho Correia",
     "player2": "Arthur Henrique Ramos de Oliveira Melo",
     "player1_team": "Barcelona",
@@ -19480,7 +19480,7 @@
     "timestamp": "00:05:35.019"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Ivan Rakitić",
     "player2": "Arthur Henrique Ramos de Oliveira Melo",
     "player1_team": "Barcelona",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:10:17.362"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Daniel Parejo Muñoz",
     "player2": "Michy Batshuayi Tunga",
     "player1_team": "Valencia",
@@ -22480,7 +22480,7 @@
     "timestamp": "00:12:20.214"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Busquets i Burgos",
     "player2": "Thomas Vermaelen",
     "player1_team": "Barcelona",
@@ -23176,7 +23176,7 @@
     "timestamp": "00:14:12.263"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Norberto Murara Neto",
     "player2": "Denis Cheryshev",
     "player1_team": "Valencia",
@@ -23896,7 +23896,7 @@
     "timestamp": "00:15:52.531"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cristiano Piccini",
     "player2": "Daniel Parejo Muñoz",
     "player1_team": "Valencia",
@@ -24424,7 +24424,7 @@
     "timestamp": "00:17:06.302"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nélson Cabral Semedo",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -25128,7 +25128,7 @@
     "timestamp": "00:18:15.471"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Norberto Murara Neto",
     "player2": "Michy Batshuayi Tunga",
     "player1_team": "Valencia",
@@ -25176,7 +25176,7 @@
     "timestamp": "00:18:58.800"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gerard Piqué Bernabéu",
     "player2": "Ivan Rakitić",
     "player1_team": "Barcelona",
@@ -25688,7 +25688,7 @@
     "timestamp": "00:20:13.841"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Luis Gayà Peña",
     "player2": "Kevin Gameiro",
     "player1_team": "Valencia",
@@ -25768,7 +25768,7 @@
     "timestamp": "00:20:36.135"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "José Luis Gayà Peña",
     "player2": "Gabriel Armando de Abreu",
     "player1_team": "Valencia",
@@ -28232,7 +28232,7 @@
     "timestamp": "00:27:19.757"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cristiano Piccini",
     "player2": "Rodrigo Moreno Machado",
     "player1_team": "Valencia",
@@ -30336,7 +30336,7 @@
     "timestamp": "00:31:37.553"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Arthur Henrique Ramos de Oliveira Melo",
     "player2": "Jordi Alba Ramos",
     "player1_team": "Barcelona",
@@ -30848,7 +30848,7 @@
     "timestamp": "00:33:29.704"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Philippe Coutinho Correia",
     "player1_team": "Barcelona",
@@ -32024,7 +32024,7 @@
     "timestamp": "00:36:08.338"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daniel Parejo Muñoz",
     "player2": "",
     "player1_team": "Valencia",
@@ -32040,7 +32040,7 @@
     "timestamp": "00:36:42.979"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Daniel Parejo Muñoz",
     "player2": "",
     "player1_team": "Valencia",
@@ -32080,7 +32080,7 @@
     "timestamp": "00:37:05.290"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Cristiano Piccini",
     "player2": "Carlos Soler Barragán",
     "player1_team": "Valencia",
@@ -32264,7 +32264,7 @@
     "timestamp": "00:38:02.796"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Arthur Henrique Ramos de Oliveira Melo",
     "player1_team": "Barcelona",
@@ -34344,7 +34344,7 @@
     "timestamp": "00:42:17.543"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jordi Alba Ramos",
     "player2": "Thomas Vermaelen",
     "player1_team": "Barcelona",
@@ -35136,7 +35136,7 @@
     "timestamp": "00:44:30.040"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nélson Cabral Semedo",
     "player2": "Gerard Piqué Bernabéu",
     "player1_team": "Barcelona",
@@ -35728,7 +35728,7 @@
     "timestamp": "00:45:38.774"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Thomas Vermaelen",
     "player2": "Rafael Alcântara do Nascimento",
     "player1_team": "Barcelona",
@@ -36200,7 +36200,7 @@
     "timestamp": "00:46:38.768"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Daniel Parejo Muñoz",
     "player2": "",
     "player1_team": "Valencia",

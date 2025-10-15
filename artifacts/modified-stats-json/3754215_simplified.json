@@ -432,7 +432,7 @@
     "timestamp": "00:01:33.126"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -576,7 +576,7 @@
     "timestamp": "00:02:02.757"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -656,7 +656,7 @@
     "timestamp": "00:02:12.781"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -912,7 +912,7 @@
     "timestamp": "00:02:49.124"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jan Vertonghen",
     "player2": "Danny Rose",
     "player1_team": "Tottenham Hotspur",
@@ -1080,7 +1080,7 @@
     "timestamp": "00:03:31.607"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -2144,7 +2144,7 @@
     "timestamp": "00:06:30.664"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -2904,7 +2904,7 @@
     "timestamp": "00:09:15.009"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Chris Brunt",
     "player2": "Jonas Olsson",
     "player1_team": "West Bromwich Albion",
@@ -2920,7 +2920,7 @@
     "timestamp": "00:09:51.329"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -3504,7 +3504,7 @@
     "timestamp": "00:11:30.070"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -3568,7 +3568,7 @@
     "timestamp": "00:11:59.020"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Danny Rose",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -4208,7 +4208,7 @@
     "timestamp": "00:13:46.253"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -5000,7 +5000,7 @@
     "timestamp": "00:16:38.661"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Brunt",
     "player2": "Stéphane Sessègnon",
     "player1_team": "West Bromwich Albion",
@@ -6128,7 +6128,7 @@
     "timestamp": "00:19:07.021"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -6384,7 +6384,7 @@
     "timestamp": "00:20:20.508"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -6848,7 +6848,7 @@
     "timestamp": "00:21:29.150"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -6880,7 +6880,7 @@
     "timestamp": "00:22:13.081"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -7080,7 +7080,7 @@
     "timestamp": "00:23:04.746"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:23:43.744"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -7472,7 +7472,7 @@
     "timestamp": "00:23:58.508"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -7616,7 +7616,7 @@
     "timestamp": "00:24:48.111"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:26:02.530"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -8464,7 +8464,7 @@
     "timestamp": "00:27:36.562"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Harry Kane",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -8472,7 +8472,7 @@
     "timestamp": "00:27:42.071"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:28:06.761"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Brunt",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -8936,7 +8936,7 @@
     "timestamp": "00:29:18.478"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -9264,7 +9264,7 @@
     "timestamp": "00:30:15.255"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -9480,7 +9480,7 @@
     "timestamp": "00:30:52.342"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "Jonathan Grant Evans",
     "player1_team": "West Bromwich Albion",
@@ -9896,7 +9896,7 @@
     "timestamp": "00:32:09.605"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Stéphane Sessègnon",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -10040,7 +10040,7 @@
     "timestamp": "00:33:57.632"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "James McClean",
     "player1_team": "West Bromwich Albion",
@@ -11048,7 +11048,7 @@
     "timestamp": "00:36:35.126"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -11080,7 +11080,7 @@
     "timestamp": "00:36:57.315"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -11640,7 +11640,7 @@
     "timestamp": "00:39:21.125"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -11888,7 +11888,7 @@
     "timestamp": "00:40:05.665"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:42:31.736"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -12880,7 +12880,7 @@
     "timestamp": "00:43:49.682"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -13672,7 +13672,7 @@
     "timestamp": "00:46:49.757"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -13784,7 +13784,7 @@
     "timestamp": "00:00:04.093"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -13912,7 +13912,7 @@
     "timestamp": "00:00:25.400"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -13936,7 +13936,7 @@
     "timestamp": "00:00:43.269"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -14208,7 +14208,7 @@
     "timestamp": "00:01:31.607"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jan Vertonghen",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -14416,7 +14416,7 @@
     "timestamp": "00:02:19.190"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -14592,7 +14592,7 @@
     "timestamp": "00:02:50.882"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -14736,7 +14736,7 @@
     "timestamp": "00:03:44.884"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -14976,7 +14976,7 @@
     "timestamp": "00:04:20.540"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -15256,7 +15256,7 @@
     "timestamp": "00:05:19.595"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -15784,7 +15784,7 @@
     "timestamp": "00:06:45.140"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:07:21.896"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -16232,7 +16232,7 @@
     "timestamp": "00:08:05.820"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Mousa Sidi Yaya Dembélé",
     "player1_team": "Tottenham Hotspur",
@@ -16528,7 +16528,7 @@
     "timestamp": "00:08:49.971"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:09:20.864"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:12:22.800"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -17664,7 +17664,7 @@
     "timestamp": "00:14:06.796"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -17776,7 +17776,7 @@
     "timestamp": "00:14:48.483"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bamidele Alli",
     "player2": "Danny Rose",
     "player1_team": "Tottenham Hotspur",
@@ -18640,7 +18640,7 @@
     "timestamp": "00:16:21.062"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "James Morrison",
     "player1_team": "West Bromwich Albion",
@@ -19416,7 +19416,7 @@
     "timestamp": "00:19:52.044"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kyle Walker",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -20936,7 +20936,7 @@
     "timestamp": "00:23:14.282"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -21640,7 +21640,7 @@
     "timestamp": "00:25:22.919"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -21664,7 +21664,7 @@
     "timestamp": "00:25:45.979"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -21880,7 +21880,7 @@
     "timestamp": "00:27:06.077"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Brunt",
     "player2": "Gareth McAuley",
     "player1_team": "West Bromwich Albion",
@@ -21936,7 +21936,7 @@
     "timestamp": "00:27:53.137"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:28:26.747"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -22000,7 +22000,7 @@
     "timestamp": "00:29:07.416"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -22128,7 +22128,7 @@
     "timestamp": "00:30:13.120"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Chris Brunt",
     "player2": "",
     "player1_team": "West Bromwich Albion",
@@ -22152,7 +22152,7 @@
     "timestamp": "00:30:49.847"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -22624,7 +22624,7 @@
     "timestamp": "00:32:21.609"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -22720,7 +22720,7 @@
     "timestamp": "00:32:42.438"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -22976,7 +22976,7 @@
     "timestamp": "00:33:45.619"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Craig Dawson",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -23696,7 +23696,7 @@
     "timestamp": "00:35:31.548"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Brunt",
     "player2": "Craig Dawson",
     "player1_team": "West Bromwich Albion",
@@ -23864,7 +23864,7 @@
     "timestamp": "00:36:55.352"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jan Vertonghen",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -24864,7 +24864,7 @@
     "timestamp": "00:40:07.219"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Glyn Oliver Myhill",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -25008,7 +25008,7 @@
     "timestamp": "00:42:03.120"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Mousa Sidi Yaya Dembélé",
     "player2": "Danny Rose",
     "player1_team": "Tottenham Hotspur",
@@ -25152,7 +25152,7 @@
     "timestamp": "00:42:58.068"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Heung-Min Son",
     "player1_team": "Tottenham Hotspur",
@@ -25176,7 +25176,7 @@
     "timestamp": "00:43:06.833"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mousa Sidi Yaya Dembélé",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -25576,7 +25576,7 @@
     "timestamp": "00:44:09.367"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Eric Dier",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -26176,7 +26176,7 @@
     "timestamp": "00:46:02.145"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Chris Brunt",
     "player2": "José Salomón Rondón Giménez",
     "player1_team": "West Bromwich Albion",
@@ -26360,7 +26360,7 @@
     "timestamp": "00:46:40.359"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -26592,7 +26592,7 @@
     "timestamp": "00:47:20.991"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Danny Rose",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -26776,7 +26776,7 @@
     "timestamp": "00:48:01.238"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "",
     "player1_team": "Tottenham Hotspur",

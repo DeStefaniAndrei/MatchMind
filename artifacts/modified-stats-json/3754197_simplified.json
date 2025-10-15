@@ -512,7 +512,7 @@
     "timestamp": "00:01:00.049"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -616,7 +616,7 @@
     "timestamp": "00:01:08.609"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kevin De Bruyne",
     "player2": "Martín Gastón Demichelis",
     "player1_team": "Manchester City",
@@ -664,7 +664,7 @@
     "timestamp": "00:01:34.319"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -880,7 +880,7 @@
     "timestamp": "00:02:07.446"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eric Dier",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -1384,7 +1384,7 @@
     "timestamp": "00:03:15.715"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -1616,7 +1616,7 @@
     "timestamp": "00:03:41.726"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martín Gastón Demichelis",
     "player2": "Fernando Francisco Reges",
     "player1_team": "Manchester City",
@@ -1728,7 +1728,7 @@
     "timestamp": "00:04:13.460"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Kevin De Bruyne",
     "player1_team": "Manchester City",
@@ -1952,7 +1952,7 @@
     "timestamp": "00:05:03.811"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Heung-Min Son",
     "player1_team": "Tottenham Hotspur",
@@ -2376,7 +2376,7 @@
     "timestamp": "00:06:07.848"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -3008,7 +3008,7 @@
     "timestamp": "00:07:27.369"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Aleksandar Kolarov",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -3656,7 +3656,7 @@
     "timestamp": "00:09:13.001"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -4144,7 +4144,7 @@
     "timestamp": "00:10:23.670"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -4248,7 +4248,7 @@
     "timestamp": "00:11:10.393"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wilfredo Daniel Caballero",
     "player2": "Aleksandar Kolarov",
     "player1_team": "Manchester City",
@@ -4296,7 +4296,7 @@
     "timestamp": "00:11:49.081"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nicolás Hernán Otamendi",
     "player2": "Martín Gastón Demichelis",
     "player1_team": "Manchester City",
@@ -4456,7 +4456,7 @@
     "timestamp": "00:12:12.982"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Kevin De Bruyne",
     "player1_team": "Manchester City",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:12:54.203"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "",
     "player1_team": "Manchester City",
@@ -5856,7 +5856,7 @@
     "timestamp": "00:15:44.941"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Heung-Min Son",
     "player1_team": "Tottenham Hotspur",
@@ -5888,7 +5888,7 @@
     "timestamp": "00:16:08.291"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Toby Alderweireld",
     "player2": "Hugo Lloris",
     "player1_team": "Tottenham Hotspur",
@@ -6272,7 +6272,7 @@
     "timestamp": "00:17:51.578"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kevin De Bruyne",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -6984,7 +6984,7 @@
     "timestamp": "00:19:31.184"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -7096,7 +7096,7 @@
     "timestamp": "00:20:19.649"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wilfredo Daniel Caballero",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -7208,7 +7208,7 @@
     "timestamp": "00:21:07.456"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -7288,7 +7288,7 @@
     "timestamp": "00:21:19.697"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -7312,7 +7312,7 @@
     "timestamp": "00:21:44.678"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -7416,7 +7416,7 @@
     "timestamp": "00:21:57.459"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Wilfredo Daniel Caballero",
     "player1_team": "Manchester City",
@@ -7888,7 +7888,7 @@
     "timestamp": "00:22:49.032"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -8280,7 +8280,7 @@
     "timestamp": "00:23:50.411"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -9032,7 +9032,7 @@
     "timestamp": "00:26:32.319"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Aleksandar Kolarov",
     "player2": "Fernando Francisco Reges",
     "player1_team": "Manchester City",
@@ -9120,7 +9120,7 @@
     "timestamp": "00:27:07.355"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -9440,7 +9440,7 @@
     "timestamp": "00:27:52.977"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -9720,7 +9720,7 @@
     "timestamp": "00:28:33.224"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -10168,7 +10168,7 @@
     "timestamp": "00:29:22.996"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -10360,7 +10360,7 @@
     "timestamp": "00:29:58.946"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kevin De Bruyne",
     "player2": "",
     "player1_team": "Manchester City",
@@ -11184,7 +11184,7 @@
     "timestamp": "00:33:01.021"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -11760,7 +11760,7 @@
     "timestamp": "00:35:03.654"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Eric Dier",
     "player1_team": "Tottenham Hotspur",
@@ -11880,7 +11880,7 @@
     "timestamp": "00:35:38.771"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -11968,7 +11968,7 @@
     "timestamp": "00:35:54.371"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -12304,7 +12304,7 @@
     "timestamp": "00:36:59.980"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martín Gastón Demichelis",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:37:53.338"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -12640,7 +12640,7 @@
     "timestamp": "00:38:33.701"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "",
     "player1_team": "Manchester City",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:39:30.886"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -12992,7 +12992,7 @@
     "timestamp": "00:39:59.789"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -13152,7 +13152,7 @@
     "timestamp": "00:40:24.253"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -13224,7 +13224,7 @@
     "timestamp": "00:41:05.406"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Christian Dannemann Eriksen",
     "player2": "Ben Davies",
     "player1_team": "Tottenham Hotspur",
@@ -13264,7 +13264,7 @@
     "timestamp": "00:41:17.701"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wilfredo Daniel Caballero",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:42:02.311"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Aleksandar Kolarov",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -14160,7 +14160,7 @@
     "timestamp": "00:44:03.009"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Harry Kane",
     "player2": "Kyle Walker",
     "player1_team": "Tottenham Hotspur",
@@ -14576,7 +14576,7 @@
     "timestamp": "00:45:45.122"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -14976,7 +14976,7 @@
     "timestamp": "00:00:23.482"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -15096,7 +15096,7 @@
     "timestamp": "00:00:55.522"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Christian Dannemann Eriksen",
     "player1_team": "Tottenham Hotspur",
@@ -15920,7 +15920,7 @@
     "timestamp": "00:02:49.713"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Aleksandar Kolarov",
     "player2": "",
     "player1_team": "Manchester City",
@@ -16032,7 +16032,7 @@
     "timestamp": "00:03:34.088"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -16200,7 +16200,7 @@
     "timestamp": "00:03:55.319"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Erik Lamela",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -16696,7 +16696,7 @@
     "timestamp": "00:06:13.934"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Sergio Leonel Agüero del Castillo",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -16800,7 +16800,7 @@
     "timestamp": "00:06:21.991"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Raheem Sterling",
     "player1_team": "Manchester City",
@@ -16912,7 +16912,7 @@
     "timestamp": "00:06:47.113"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -17296,7 +17296,7 @@
     "timestamp": "00:07:40.591"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Raheem Sterling",
     "player2": "Gnégnéri Yaya Touré",
     "player1_team": "Manchester City",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:07:58.943"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Aleksandar Kolarov",
     "player2": "",
     "player1_team": "Manchester City",
@@ -17592,7 +17592,7 @@
     "timestamp": "00:09:21.334"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Erik Lamela",
     "player1_team": "Tottenham Hotspur",
@@ -17784,7 +17784,7 @@
     "timestamp": "00:10:18.981"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -17912,7 +17912,7 @@
     "timestamp": "00:10:43.050"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wilfredo Daniel Caballero",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -18088,7 +18088,7 @@
     "timestamp": "00:11:37.511"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Kevin De Bruyne",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -18256,7 +18256,7 @@
     "timestamp": "00:12:08.894"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bacary Sagna",
     "player2": "Fernando Francisco Reges",
     "player1_team": "Manchester City",
@@ -18864,7 +18864,7 @@
     "timestamp": "00:13:42.071"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nicolás Hernán Otamendi",
     "player2": "Fernando Luiz Rosa",
     "player1_team": "Manchester City",
@@ -19408,7 +19408,7 @@
     "timestamp": "00:16:53.355"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -19448,7 +19448,7 @@
     "timestamp": "00:17:11.715"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Nicolás Hernán Otamendi",
     "player2": "Bacary Sagna",
     "player1_team": "Manchester City",
@@ -19496,7 +19496,7 @@
     "timestamp": "00:17:36.389"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -19520,7 +19520,7 @@
     "timestamp": "00:17:53.126"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Martín Gastón Demichelis",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -19736,7 +19736,7 @@
     "timestamp": "00:18:27.805"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -19760,7 +19760,7 @@
     "timestamp": "00:18:42.837"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Harry Kane",
     "player1_team": "Tottenham Hotspur",
@@ -20120,7 +20120,7 @@
     "timestamp": "00:20:15.215"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Kevin De Bruyne",
     "player2": "",
     "player1_team": "Manchester City",
@@ -20296,7 +20296,7 @@
     "timestamp": "00:21:01.843"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Kyle Walker",
     "player2": "Bamidele Alli",
     "player1_team": "Tottenham Hotspur",
@@ -20616,7 +20616,7 @@
     "timestamp": "00:21:46.424"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -21328,7 +21328,7 @@
     "timestamp": "00:23:59.954"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Aleksandar Kolarov",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -21848,7 +21848,7 @@
     "timestamp": "00:25:18.273"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "",
     "player1_team": "Manchester City",
@@ -22432,7 +22432,7 @@
     "timestamp": "00:26:38.740"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -22568,7 +22568,7 @@
     "timestamp": "00:27:14.169"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Erik Lamela",
     "player2": "Nacer Chadli",
     "player1_team": "Tottenham Hotspur",
@@ -22616,7 +22616,7 @@
     "timestamp": "00:27:43.144"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wilfredo Daniel Caballero",
     "player2": "Samir Nasri",
     "player1_team": "Manchester City",
@@ -24096,7 +24096,7 @@
     "timestamp": "00:31:48.347"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Fernando Francisco Reges",
     "player1_team": "Manchester City",
@@ -24288,7 +24288,7 @@
     "timestamp": "00:32:15.485"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Toby Alderweireld",
     "player1_team": "Tottenham Hotspur",
@@ -24792,7 +24792,7 @@
     "timestamp": "00:34:31.883"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Sergio Leonel Agüero del Castillo",
     "player1_team": "Manchester City",
@@ -24904,7 +24904,7 @@
     "timestamp": "00:34:48.130"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Aleksandar Kolarov",
     "player2": "",
     "player1_team": "Manchester City",
@@ -25040,7 +25040,7 @@
     "timestamp": "00:35:54.081"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Kevin De Bruyne",
     "player1_team": "Manchester City",
@@ -25576,7 +25576,7 @@
     "timestamp": "00:36:57.428"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -25592,7 +25592,7 @@
     "timestamp": "00:37:33.760"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Clinton Mua N''Jie",
     "player1_team": "Tottenham Hotspur",
@@ -25616,7 +25616,7 @@
     "timestamp": "00:37:49.835"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ben Davies",
     "player2": "Jan Vertonghen",
     "player1_team": "Tottenham Hotspur",
@@ -25832,7 +25832,7 @@
     "timestamp": "00:38:30.494"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -26512,7 +26512,7 @@
     "timestamp": "00:40:47.437"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Samir Nasri",
     "player1_team": "Manchester City",
@@ -26592,7 +26592,7 @@
     "timestamp": "00:41:15.286"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Martín Gastón Demichelis",
     "player1_team": "Manchester City",
@@ -27136,7 +27136,7 @@
     "timestamp": "00:43:35.210"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bacary Sagna",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -27464,7 +27464,7 @@
     "timestamp": "00:44:23.174"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Samir Nasri",
     "player2": "Fernando Francisco Reges",
     "player1_team": "Manchester City",
@@ -27632,7 +27632,7 @@
     "timestamp": "00:45:04.817"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wilfredo Daniel Caballero",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -28616,7 +28616,7 @@
     "timestamp": "00:46:58.521"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick Roberts",
     "player2": "Jesús Navas González",
     "player1_team": "Manchester City",
@@ -28792,7 +28792,7 @@
     "timestamp": "00:47:29.908"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Hugo Lloris",
     "player2": "",
     "player1_team": "Tottenham Hotspur",
@@ -28880,7 +28880,7 @@
     "timestamp": "00:48:04.600"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Nicolás Hernán Otamendi",
     "player1_team": "Manchester City",
@@ -29024,7 +29024,7 @@
     "timestamp": "00:48:31.015"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Fernando Francisco Reges",
     "player2": "Samir Nasri",
     "player1_team": "Manchester City",
@@ -29168,7 +29168,7 @@
     "timestamp": "00:48:58.493"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Aleksandar Kolarov",
     "player2": "Raheem Sterling",
     "player1_team": "Manchester City",

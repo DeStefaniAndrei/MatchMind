@@ -112,7 +112,7 @@
     "timestamp": "00:00:12.328"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -176,7 +176,7 @@
     "timestamp": "00:00:33.691"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -632,7 +632,7 @@
     "timestamp": "00:01:56.236"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Bakary Sako",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -640,7 +640,7 @@
     "timestamp": "00:02:25.780"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1032,7 +1032,7 @@
     "timestamp": "00:03:24.042"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -1080,7 +1080,7 @@
     "timestamp": "00:04:16.291"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -1328,7 +1328,7 @@
     "timestamp": "00:04:57.049"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -1984,7 +1984,7 @@
     "timestamp": "00:06:53.637"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "",
     "player1_team": "Norwich City",
@@ -2224,7 +2224,7 @@
     "timestamp": "00:09:32.409"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -2472,7 +2472,7 @@
     "timestamp": "00:10:03.423"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -2616,7 +2616,7 @@
     "timestamp": "00:11:03.120"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -2648,7 +2648,7 @@
     "timestamp": "00:11:34.809"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -3040,7 +3040,7 @@
     "timestamp": "00:12:26.014"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -3200,7 +3200,7 @@
     "timestamp": "00:13:28.394"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -3304,7 +3304,7 @@
     "timestamp": "00:13:42.339"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jason Puncheon",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -3336,7 +3336,7 @@
     "timestamp": "00:14:45.452"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -3728,7 +3728,7 @@
     "timestamp": "00:16:07.483"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -4048,7 +4048,7 @@
     "timestamp": "00:17:09.535"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Bakary Sako",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -4064,7 +4064,7 @@
     "timestamp": "00:17:44.515"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Bakary Sako",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -4128,7 +4128,7 @@
     "timestamp": "00:18:06.597"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jason Puncheon",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:18:38.027"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -4624,7 +4624,7 @@
     "timestamp": "00:20:03.518"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "",
     "player1_team": "Norwich City",
@@ -4664,7 +4664,7 @@
     "timestamp": "00:20:50.482"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -4696,7 +4696,7 @@
     "timestamp": "00:21:08.637"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -4752,7 +4752,7 @@
     "timestamp": "00:22:32.495"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -5072,7 +5072,7 @@
     "timestamp": "00:23:19.690"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -5192,7 +5192,7 @@
     "timestamp": "00:23:50.718"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -5256,7 +5256,7 @@
     "timestamp": "00:23:59.221"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:24:13.375"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -5472,7 +5472,7 @@
     "timestamp": "00:24:50.722"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -5504,7 +5504,7 @@
     "timestamp": "00:25:09.276"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -5608,7 +5608,7 @@
     "timestamp": "00:25:55.744"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Bakary Sako",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -5912,7 +5912,7 @@
     "timestamp": "00:26:45.608"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6112,7 +6112,7 @@
     "timestamp": "00:27:14.349"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -6144,7 +6144,7 @@
     "timestamp": "00:27:53.269"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Bakary Sako",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -6224,7 +6224,7 @@
     "timestamp": "00:28:41.248"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6360,7 +6360,7 @@
     "timestamp": "00:29:11.970"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Timm Klose",
     "player1_team": "Norwich City",
@@ -6472,7 +6472,7 @@
     "timestamp": "00:30:33.437"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6512,7 +6512,7 @@
     "timestamp": "00:31:33.180"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6592,7 +6592,7 @@
     "timestamp": "00:32:06.590"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -6752,7 +6752,7 @@
     "timestamp": "00:32:44.397"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Gary O''Neil",
     "player2": "",
     "player1_team": "Norwich City",
@@ -6784,7 +6784,7 @@
     "timestamp": "00:33:28.820"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -6928,7 +6928,7 @@
     "timestamp": "00:34:03.912"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -7032,7 +7032,7 @@
     "timestamp": "00:34:26.679"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "",
     "player1_team": "Norwich City",
@@ -7048,7 +7048,7 @@
     "timestamp": "00:34:45.165"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -7072,7 +7072,7 @@
     "timestamp": "00:35:27.015"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Matt Jarvis",
     "player1_team": "Norwich City",
@@ -7256,7 +7256,7 @@
     "timestamp": "00:35:45.262"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jason Puncheon",
     "player2": "Pape N''Diaye Souaré",
     "player1_team": "Crystal Palace",
@@ -7496,7 +7496,7 @@
     "timestamp": "00:39:44.212"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Dieumerci Mbokani Bezua",
     "player2": "",
     "player1_team": "Norwich City",
@@ -8192,7 +8192,7 @@
     "timestamp": "00:41:46.836"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Jason Puncheon",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -8560,7 +8560,7 @@
     "timestamp": "00:43:21.930"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -8632,7 +8632,7 @@
     "timestamp": "00:43:46.681"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -9176,7 +9176,7 @@
     "timestamp": "00:45:21.964"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -9400,7 +9400,7 @@
     "timestamp": "00:46:47.404"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -9664,7 +9664,7 @@
     "timestamp": "00:47:37.324"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -9864,7 +9864,7 @@
     "timestamp": "00:48:09.135"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Jason Puncheon",
     "player2": "Bakary Sako",
     "player1_team": "Crystal Palace",
@@ -10840,7 +10840,7 @@
     "timestamp": "00:01:40.191"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Brady",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -10880,7 +10880,7 @@
     "timestamp": "00:02:29.020"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -11056,7 +11056,7 @@
     "timestamp": "00:03:18.608"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -11216,7 +11216,7 @@
     "timestamp": "00:04:17.452"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -11264,7 +11264,7 @@
     "timestamp": "00:04:48.548"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -11328,7 +11328,7 @@
     "timestamp": "00:05:05.681"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "",
     "player1_team": "Crystal Palace",
@@ -11448,7 +11448,7 @@
     "timestamp": "00:05:33.979"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Yohan Cabaye",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -11704,7 +11704,7 @@
     "timestamp": "00:06:53.599"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -11824,7 +11824,7 @@
     "timestamp": "00:07:35.320"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Jason Puncheon",
     "player2": "Scott Dann",
     "player1_team": "Crystal Palace",
@@ -11872,7 +11872,7 @@
     "timestamp": "00:08:42.382"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Scott Dann",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -12496,7 +12496,7 @@
     "timestamp": "00:10:37.533"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12704,7 +12704,7 @@
     "timestamp": "00:11:36.368"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yannick Bolasie Yala",
     "player1_team": "Crystal Palace",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:12:00.677"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -12896,7 +12896,7 @@
     "timestamp": "00:12:21.718"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Yohan Cabaye",
     "player1_team": "Crystal Palace",
@@ -13040,7 +13040,7 @@
     "timestamp": "00:12:46.065"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -13120,7 +13120,7 @@
     "timestamp": "00:13:10.863"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Steven Naismith",
     "player1_team": "Norwich City",
@@ -13216,7 +13216,7 @@
     "timestamp": "00:13:32.367"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13416,7 +13416,7 @@
     "timestamp": "00:14:22.694"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -13520,7 +13520,7 @@
     "timestamp": "00:14:42.553"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matt Jarvis",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -13568,7 +13568,7 @@
     "timestamp": "00:14:52.557"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -14240,7 +14240,7 @@
     "timestamp": "00:16:14.291"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -14448,7 +14448,7 @@
     "timestamp": "00:17:33.849"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14648,7 +14648,7 @@
     "timestamp": "00:19:12.697"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -14712,7 +14712,7 @@
     "timestamp": "00:19:31.115"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Yannick Bolasie Yala",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -15024,7 +15024,7 @@
     "timestamp": "00:20:27.922"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Dwight Gayle",
     "player1_team": "Crystal Palace",
@@ -15056,7 +15056,7 @@
     "timestamp": "00:21:18.927"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -15144,7 +15144,7 @@
     "timestamp": "00:21:36.616"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Jason Puncheon",
     "player1_team": "Crystal Palace",
@@ -15320,7 +15320,7 @@
     "timestamp": "00:22:06.681"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -15368,7 +15368,7 @@
     "timestamp": "00:22:11.746"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Wilfried Zaha",
     "player1_team": "Crystal Palace",
@@ -15632,7 +15632,7 @@
     "timestamp": "00:23:57.873"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gary O''Neil",
     "player2": "Ryan Bennett",
     "player1_team": "Norwich City",
@@ -15672,7 +15672,7 @@
     "timestamp": "00:24:44.511"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -15712,7 +15712,7 @@
     "timestamp": "00:24:53.594"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "",
     "player1_team": "Norwich City",
@@ -15888,7 +15888,7 @@
     "timestamp": "00:25:44.413"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -16568,7 +16568,7 @@
     "timestamp": "00:28:12.754"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17120,7 +17120,7 @@
     "timestamp": "00:30:48.749"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Nathan Redmond",
     "player1_team": "Norwich City",
@@ -17200,7 +17200,7 @@
     "timestamp": "00:31:15.137"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -17464,7 +17464,7 @@
     "timestamp": "00:32:09.004"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gary O''Neil",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -17776,7 +17776,7 @@
     "timestamp": "00:33:40.964"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -17840,7 +17840,7 @@
     "timestamp": "00:34:00.410"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -17968,7 +17968,7 @@
     "timestamp": "00:34:53.463"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John Ruddy",
     "player2": "Dieumerci Mbokani Bezua",
     "player1_team": "Norwich City",
@@ -18312,7 +18312,7 @@
     "timestamp": "00:35:57.113"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Yohan Cabaye",
     "player2": "Mile Jedinak",
     "player1_team": "Crystal Palace",
@@ -18680,7 +18680,7 @@
     "timestamp": "00:37:30.389"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -18896,7 +18896,7 @@
     "timestamp": "00:38:37.699"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",
@@ -18968,7 +18968,7 @@
     "timestamp": "00:38:59.760"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Andre Wisdom",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -19184,7 +19184,7 @@
     "timestamp": "00:40:03.145"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joel Ward",
     "player2": "Joe Ledley",
     "player1_team": "Crystal Palace",
@@ -20048,7 +20048,7 @@
     "timestamp": "00:42:29.444"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Pape N''Diaye Souaré",
     "player2": "Damien Delaney",
     "player1_team": "Crystal Palace",
@@ -20208,7 +20208,7 @@
     "timestamp": "00:43:46.662"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Robert Brady",
     "player1_team": "Norwich City",
@@ -20664,7 +20664,7 @@
     "timestamp": "00:45:18.969"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Brady",
     "player2": "Patrick Bamford",
     "player1_team": "Norwich City",
@@ -20704,7 +20704,7 @@
     "timestamp": "00:46:00.413"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathan Redmond",
     "player2": "Gary O''Neil",
     "player1_team": "Norwich City",
@@ -20944,7 +20944,7 @@
     "timestamp": "00:47:06.888"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Gary O''Neil",
     "player2": "Sébastien Aymar Bassong Nguena",
     "player1_team": "Norwich City",
@@ -21136,7 +21136,7 @@
     "timestamp": "00:47:50.585"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Martin Olsson",
     "player2": "Jonathan Howson",
     "player1_team": "Norwich City",
@@ -21224,7 +21224,7 @@
     "timestamp": "00:48:14.260"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Wayne Hennessey",
     "player2": "Connor Wickham",
     "player1_team": "Crystal Palace",

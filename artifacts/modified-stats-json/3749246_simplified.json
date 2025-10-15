@@ -192,7 +192,7 @@
     "timestamp": "00:00:20.389"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Gary Neville",
     "player2": "Mikaël Silvestre",
     "player1_team": "Manchester United",
@@ -392,7 +392,7 @@
     "timestamp": "00:01:16.754"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eduardo César Daude Gaspar",
     "player2": "Robert Pirès",
     "player1_team": "Arsenal",
@@ -672,7 +672,7 @@
     "timestamp": "00:02:00.558"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -720,7 +720,7 @@
     "timestamp": "00:02:13.366"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -792,7 +792,7 @@
     "timestamp": "00:02:35.033"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "Manchester United",
@@ -808,7 +808,7 @@
     "timestamp": "00:02:58.010"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Ryan Giggs",
     "player2": "",
     "player1_team": "Manchester United",
@@ -888,7 +888,7 @@
     "timestamp": "00:03:38.766"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -1232,7 +1232,7 @@
     "timestamp": "00:04:06.191"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -1712,7 +1712,7 @@
     "timestamp": "00:06:12.573"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -1816,7 +1816,7 @@
     "timestamp": "00:06:27.947"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Patrick Vieira",
     "player2": "Gaël Clichy",
     "player1_team": "Arsenal",
@@ -2248,7 +2248,7 @@
     "timestamp": "00:07:21.536"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Eduardo César Daude Gaspar",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -2536,7 +2536,7 @@
     "timestamp": "00:08:32.621"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -2720,7 +2720,7 @@
     "timestamp": "00:09:20.948"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "José Antonio Reyes Calderón",
     "player1_team": "Arsenal",
@@ -3536,7 +3536,7 @@
     "timestamp": "00:11:57.043"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Darren Fletcher",
     "player2": "Eric Daniel Djemba-Djemba",
     "player1_team": "Manchester United",
@@ -3616,7 +3616,7 @@
     "timestamp": "00:12:28.378"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Darren Fletcher",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -4104,7 +4104,7 @@
     "timestamp": "00:13:40.252"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Roy Carroll",
     "player2": "",
     "player1_team": "Manchester United",
@@ -4184,7 +4184,7 @@
     "timestamp": "00:14:21.932"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Thierry Henry",
     "player2": "Fredrik Ljungberg",
     "player1_team": "Arsenal",
@@ -4216,7 +4216,7 @@
     "timestamp": "00:14:47.899"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Roy Carroll",
     "player2": "Ruud van Nistelrooy",
     "player1_team": "Manchester United",
@@ -4304,7 +4304,7 @@
     "timestamp": "00:15:23.104"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -4376,7 +4376,7 @@
     "timestamp": "00:15:32.872"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:17:31.922"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "",
     "player1_team": "Manchester United",
@@ -5072,7 +5072,7 @@
     "timestamp": "00:18:01.307"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -5128,7 +5128,7 @@
     "timestamp": "00:18:27.137"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Eric Daniel Djemba-Djemba",
     "player1_team": "Manchester United",
@@ -5248,7 +5248,7 @@
     "timestamp": "00:18:44.598"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Darren Fletcher",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -5288,7 +5288,7 @@
     "timestamp": "00:18:53.272"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Darren Fletcher",
     "player1_team": "Manchester United",
@@ -5336,7 +5336,7 @@
     "timestamp": "00:19:04.642"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Darren Fletcher",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -5512,7 +5512,7 @@
     "timestamp": "00:19:53.684"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -6440,7 +6440,7 @@
     "timestamp": "00:22:06.310"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -6704,7 +6704,7 @@
     "timestamp": "00:23:14.953"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "Sulzeer Jeremiah ''Sol' Campbell",
     "player1_team": "Arsenal",
@@ -6776,7 +6776,7 @@
     "timestamp": "00:24:20.788"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -6920,7 +6920,7 @@
     "timestamp": "00:24:38.551"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Kolo Habib Touré",
     "player1_team": "Arsenal",
@@ -7120,7 +7120,7 @@
     "timestamp": "00:25:32.059"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick Vieira",
     "player2": "José Antonio Reyes Calderón",
     "player1_team": "Arsenal",
@@ -7224,7 +7224,7 @@
     "timestamp": "00:26:46.035"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "John O''Shea",
     "player2": "",
     "player1_team": "Manchester United",
@@ -8040,7 +8040,7 @@
     "timestamp": "00:30:59.285"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "",
     "player1_team": "Arsenal",
@@ -8152,7 +8152,7 @@
     "timestamp": "00:31:27.691"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ryan Giggs",
     "player2": "",
     "player1_team": "Manchester United",
@@ -8376,7 +8376,7 @@
     "timestamp": "00:33:02.185"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Darren Fletcher",
     "player1_team": "Manchester United",
@@ -8440,7 +8440,7 @@
     "timestamp": "00:33:19.245"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "José Antonio Reyes Calderón",
     "player1_team": "Arsenal",
@@ -8744,7 +8744,7 @@
     "timestamp": "00:34:06.035"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Roy Keane",
     "player2": "Darren Fletcher",
     "player1_team": "Manchester United",
@@ -9216,7 +9216,7 @@
     "timestamp": "00:34:59.153"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wes Brown",
     "player2": "Ruud van Nistelrooy",
     "player1_team": "Manchester United",
@@ -9528,7 +9528,7 @@
     "timestamp": "00:36:10.279"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -9848,7 +9848,7 @@
     "timestamp": "00:37:17.243"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Sulzeer Jeremiah ''Sol' Campbell",
     "player1_team": "Arsenal",
@@ -9944,7 +9944,7 @@
     "timestamp": "00:37:41.649"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Roy Carroll",
     "player2": "",
     "player1_team": "Manchester United",
@@ -10728,7 +10728,7 @@
     "timestamp": "00:39:51.308"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -10808,7 +10808,7 @@
     "timestamp": "00:40:54.858"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -10888,7 +10888,7 @@
     "timestamp": "00:42:07.159"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Darren Fletcher",
     "player1_team": "Manchester United",
@@ -11064,7 +11064,7 @@
     "timestamp": "00:42:32.770"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "Kolo Habib Touré",
     "player1_team": "Arsenal",
@@ -11264,7 +11264,7 @@
     "timestamp": "00:43:13.279"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Robert Pirès",
     "player1_team": "Arsenal",
@@ -11384,7 +11384,7 @@
     "timestamp": "00:43:37.493"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "",
     "player1_team": "Arsenal",
@@ -11928,7 +11928,7 @@
     "timestamp": "00:45:08.813"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Paul Scholes",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -12528,7 +12528,7 @@
     "timestamp": "00:00:41.247"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -12720,7 +12720,7 @@
     "timestamp": "00:01:48.745"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Darren Fletcher",
     "player2": "",
     "player1_team": "Manchester United",
@@ -13424,7 +13424,7 @@
     "timestamp": "00:05:11.542"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -13496,7 +13496,7 @@
     "timestamp": "00:05:25.450"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "",
     "player1_team": "Manchester United",
@@ -13880,7 +13880,7 @@
     "timestamp": "00:06:20.534"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -13992,7 +13992,7 @@
     "timestamp": "00:07:06.324"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Roy Keane",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -14472,7 +14472,7 @@
     "timestamp": "00:08:54.733"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -14696,7 +14696,7 @@
     "timestamp": "00:09:42.998"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -14768,7 +14768,7 @@
     "timestamp": "00:10:52.125"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Paul Scholes",
     "player2": "Eric Daniel Djemba-Djemba",
     "player1_team": "Manchester United",
@@ -14864,7 +14864,7 @@
     "timestamp": "00:11:11.494"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Paul Scholes",
     "player1_team": "Manchester United",
@@ -14928,7 +14928,7 @@
     "timestamp": "00:11:31.173"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Mikaël Silvestre",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -15112,7 +15112,7 @@
     "timestamp": "00:11:50.306"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Patrick Vieira",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -15344,7 +15344,7 @@
     "timestamp": "00:12:34.559"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Eduardo César Daude Gaspar",
     "player1_team": "Arsenal",
@@ -15416,7 +15416,7 @@
     "timestamp": "00:12:51.801"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Eric Daniel Djemba-Djemba",
     "player1_team": "Manchester United",
@@ -15552,7 +15552,7 @@
     "timestamp": "00:13:29.083"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "José Antonio Reyes Calderón",
     "player1_team": "Arsenal",
@@ -15704,7 +15704,7 @@
     "timestamp": "00:14:05.097"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "",
     "player1_team": "Arsenal",
@@ -16072,7 +16072,7 @@
     "timestamp": "00:14:50.916"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Thierry Henry",
     "player2": "",
     "player1_team": "Arsenal",
@@ -16104,7 +16104,7 @@
     "timestamp": "00:15:20.073"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Roy Carroll",
     "player2": "Louis Saha",
     "player1_team": "Manchester United",
@@ -16936,7 +16936,7 @@
     "timestamp": "00:17:37.700"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -17336,7 +17336,7 @@
     "timestamp": "00:18:59.984"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "",
     "player1_team": "Arsenal",
@@ -17344,7 +17344,7 @@
     "timestamp": "00:19:31.635"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Louis Saha",
     "player1_team": "Manchester United",
@@ -17440,7 +17440,7 @@
     "timestamp": "00:19:51.817"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Darren Fletcher",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -18072,7 +18072,7 @@
     "timestamp": "00:21:18.298"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "",
     "player1_team": "Manchester United",
@@ -18232,7 +18232,7 @@
     "timestamp": "00:22:31.817"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "José Antonio Reyes Calderón",
     "player1_team": "Arsenal",
@@ -18432,7 +18432,7 @@
     "timestamp": "00:23:13.101"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -18600,7 +18600,7 @@
     "timestamp": "00:23:39.417"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -18856,7 +18856,7 @@
     "timestamp": "00:24:28.268"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Robert Pirès",
     "player2": "",
     "player1_team": "Arsenal",
@@ -18920,7 +18920,7 @@
     "timestamp": "00:25:11.005"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -19160,7 +19160,7 @@
     "timestamp": "00:26:05.675"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -19424,7 +19424,7 @@
     "timestamp": "00:26:56.673"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "",
     "player1_team": "Arsenal",
@@ -19488,7 +19488,7 @@
     "timestamp": "00:27:25.562"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Roy Keane",
     "player2": "Mikaël Silvestre",
     "player1_team": "Manchester United",
@@ -19552,7 +19552,7 @@
     "timestamp": "00:27:39.002"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Laureano Bisan-Etame Mayer",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -19648,7 +19648,7 @@
     "timestamp": "00:28:14.560"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Roy Keane",
     "player2": "John O''Shea",
     "player1_team": "Manchester United",
@@ -19736,7 +19736,7 @@
     "timestamp": "00:28:44.363"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "Thierry Henry",
     "player1_team": "Arsenal",
@@ -19888,7 +19888,7 @@
     "timestamp": "00:29:27.925"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "",
     "player1_team": "Arsenal",
@@ -19904,7 +19904,7 @@
     "timestamp": "00:29:44.537"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Gaël Clichy",
     "player2": "",
     "player1_team": "Arsenal",
@@ -19984,7 +19984,7 @@
     "timestamp": "00:30:06.101"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Louis Saha",
     "player1_team": "Manchester United",
@@ -20768,7 +20768,7 @@
     "timestamp": "00:32:02.437"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Louis Saha",
     "player1_team": "Manchester United",
@@ -20896,7 +20896,7 @@
     "timestamp": "00:32:21.390"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -21304,7 +21304,7 @@
     "timestamp": "00:33:32.834"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -21640,7 +21640,7 @@
     "timestamp": "00:34:28.865"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Paul Scholes",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -21736,7 +21736,7 @@
     "timestamp": "00:34:55.573"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ryan Giggs",
     "player2": "Wes Brown",
     "player1_team": "Manchester United",
@@ -21960,7 +21960,7 @@
     "timestamp": "00:35:49.823"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Jens Lehmann",
     "player2": "",
     "player1_team": "Arsenal",
@@ -21992,7 +21992,7 @@
     "timestamp": "00:36:54.023"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Wes Brown",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -22064,7 +22064,7 @@
     "timestamp": "00:37:12.145"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ole Gunnar Solskjær",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -22248,7 +22248,7 @@
     "timestamp": "00:38:10.796"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "John O''Shea",
     "player2": "Ryan Giggs",
     "player1_team": "Manchester United",
@@ -22496,7 +22496,7 @@
     "timestamp": "00:40:11.561"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Gary Neville",
     "player2": "Roy Keane",
     "player1_team": "Manchester United",
@@ -23112,7 +23112,7 @@
     "timestamp": "00:42:11.646"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Thierry Henry",
     "player2": "Gilberto Aparecido da Silva",
     "player1_team": "Arsenal",
@@ -23176,7 +23176,7 @@
     "timestamp": "00:42:56.206"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Ryan Giggs",
     "player2": "",
     "player1_team": "Manchester United",
@@ -23264,7 +23264,7 @@
     "timestamp": "00:43:33.647"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Kolo Habib Touré",
     "player2": "Patrick Vieira",
     "player1_team": "Arsenal",
@@ -24184,7 +24184,7 @@
     "timestamp": "00:46:12.632"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Ole Gunnar Solskjær",
     "player2": "Gary Neville",
     "player1_team": "Manchester United",
@@ -24448,7 +24448,7 @@
     "timestamp": "00:46:54.335"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Dennis Bergkamp",
     "player2": "",
     "player1_team": "Arsenal",

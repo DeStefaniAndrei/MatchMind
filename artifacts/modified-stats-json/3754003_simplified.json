@@ -256,7 +256,7 @@
     "timestamp": "00:00:27.268"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -472,7 +472,7 @@
     "timestamp": "00:00:54.494"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Roberto Firmino Barbosa de Oliveira",
     "player1_team": "Liverpool",
@@ -2064,7 +2064,7 @@
     "timestamp": "00:03:50.611"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Joe Gomez",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -2456,7 +2456,7 @@
     "timestamp": "00:04:46.095"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -3608,7 +3608,7 @@
     "timestamp": "00:07:50.786"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -3696,7 +3696,7 @@
     "timestamp": "00:08:12.378"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -3800,7 +3800,7 @@
     "timestamp": "00:08:43.012"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simon Mignolet",
     "player2": "Christian Benteke Liolo",
     "player1_team": "Liverpool",
@@ -4160,7 +4160,7 @@
     "timestamp": "00:09:58.177"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -4896,7 +4896,7 @@
     "timestamp": "00:11:46.422"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Dejan Lovren",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -5096,7 +5096,7 @@
     "timestamp": "00:12:36.631"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -5376,7 +5376,7 @@
     "timestamp": "00:13:12.652"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Smalling",
     "player2": "Luke Shaw",
     "player1_team": "Manchester United",
@@ -5656,7 +5656,7 @@
     "timestamp": "00:13:56.771"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Lucas Pezzini Leiva",
     "player2": "Roberto Firmino Barbosa de Oliveira",
     "player1_team": "Liverpool",
@@ -5896,7 +5896,7 @@
     "timestamp": "00:14:49.141"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -6016,7 +6016,7 @@
     "timestamp": "00:15:33.135"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "",
     "player1_team": "Manchester United",
@@ -6888,7 +6888,7 @@
     "timestamp": "00:17:43.937"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -7088,7 +7088,7 @@
     "timestamp": "00:18:21.207"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Gomez",
     "player2": "Daniel William John Ings",
     "player1_team": "Liverpool",
@@ -7336,7 +7336,7 @@
     "timestamp": "00:19:26.708"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -7504,7 +7504,7 @@
     "timestamp": "00:19:54.970"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Gomez",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -7696,7 +7696,7 @@
     "timestamp": "00:20:38.370"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Martin Škrtel",
     "player2": "Joe Gomez",
     "player1_team": "Liverpool",
@@ -8024,7 +8024,7 @@
     "timestamp": "00:21:31.804"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Memphis Depay",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -8344,7 +8344,7 @@
     "timestamp": "00:22:54.615"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Chris Smalling",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -8880,7 +8880,7 @@
     "timestamp": "00:24:03.019"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -9360,7 +9360,7 @@
     "timestamp": "00:25:25.560"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -9736,7 +9736,7 @@
     "timestamp": "00:26:18.250"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -9792,7 +9792,7 @@
     "timestamp": "00:26:38.686"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -10136,7 +10136,7 @@
     "timestamp": "00:27:34.446"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -10184,7 +10184,7 @@
     "timestamp": "00:27:51.246"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "",
     "player1_team": "Manchester United",
@@ -10448,7 +10448,7 @@
     "timestamp": "00:29:14.866"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -11264,7 +11264,7 @@
     "timestamp": "00:31:05.265"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Daley Blind",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -11584,7 +11584,7 @@
     "timestamp": "00:31:57.515"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Chris Smalling",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -12016,7 +12016,7 @@
     "timestamp": "00:33:09.127"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "",
     "player1_team": "Liverpool",
@@ -12040,7 +12040,7 @@
     "timestamp": "00:33:31.697"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bastian Schweinsteiger",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -12224,7 +12224,7 @@
     "timestamp": "00:33:58.934"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -12576,7 +12576,7 @@
     "timestamp": "00:34:41.255"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Michael Carrick",
     "player2": "Luke Shaw",
     "player1_team": "Manchester United",
@@ -12640,7 +12640,7 @@
     "timestamp": "00:35:13.516"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Marouane Fellaini-Bakkioui",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -12864,7 +12864,7 @@
     "timestamp": "00:35:50.370"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Michael Carrick",
     "player1_team": "Manchester United",
@@ -13296,7 +13296,7 @@
     "timestamp": "00:36:54.247"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Gomez",
     "player2": "Daniel William John Ings",
     "player1_team": "Liverpool",
@@ -13344,7 +13344,7 @@
     "timestamp": "00:37:13.350"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Gomez",
     "player2": "Roberto Firmino Barbosa de Oliveira",
     "player1_team": "Liverpool",
@@ -13640,7 +13640,7 @@
     "timestamp": "00:38:12.329"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Roberto Firmino Barbosa de Oliveira",
     "player1_team": "Liverpool",
@@ -13968,7 +13968,7 @@
     "timestamp": "00:39:22.099"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Roberto Firmino Barbosa de Oliveira",
     "player1_team": "Liverpool",
@@ -14184,7 +14184,7 @@
     "timestamp": "00:39:56.709"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -14672,7 +14672,7 @@
     "timestamp": "00:41:27.899"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Chris Smalling",
     "player1_team": "Manchester United",
@@ -14792,7 +14792,7 @@
     "timestamp": "00:41:44.043"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -14848,7 +14848,7 @@
     "timestamp": "00:42:01.859"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Christian Benteke Liolo",
     "player1_team": "Liverpool",
@@ -15520,7 +15520,7 @@
     "timestamp": "00:43:47.898"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Bastian Schweinsteiger",
     "player2": "Memphis Depay",
     "player1_team": "Manchester United",
@@ -16600,7 +16600,7 @@
     "timestamp": "00:00:20.181"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -16872,7 +16872,7 @@
     "timestamp": "00:00:58.606"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Gomez",
     "player2": "Christian Benteke Liolo",
     "player1_team": "Liverpool",
@@ -17160,7 +17160,7 @@
     "timestamp": "00:01:48.676"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Bastian Schweinsteiger",
     "player1_team": "Manchester United",
@@ -17432,7 +17432,7 @@
     "timestamp": "00:02:24.563"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Juan Manuel Mata García",
     "player2": "Daley Blind",
     "player1_team": "Manchester United",
@@ -17856,7 +17856,7 @@
     "timestamp": "00:05:07.480"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "Ashley Young",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -18536,7 +18536,7 @@
     "timestamp": "00:07:27.561"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -18848,7 +18848,7 @@
     "timestamp": "00:08:16.008"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Simon Mignolet",
     "player2": "Joe Gomez",
     "player1_team": "Liverpool",
@@ -19248,7 +19248,7 @@
     "timestamp": "00:09:23.183"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Luke Shaw",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -19824,7 +19824,7 @@
     "timestamp": "00:10:42.520"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -19952,7 +19952,7 @@
     "timestamp": "00:11:23.712"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "",
     "player1_team": "Liverpool",
@@ -20352,7 +20352,7 @@
     "timestamp": "00:12:58.246"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "",
     "player1_team": "Manchester United",
@@ -20368,7 +20368,7 @@
     "timestamp": "00:13:18.124"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Juan Manuel Mata García",
     "player1_team": "Manchester United",
@@ -20416,7 +20416,7 @@
     "timestamp": "00:13:39.860"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Gomez",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -20544,7 +20544,7 @@
     "timestamp": "00:14:13.375"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -20736,7 +20736,7 @@
     "timestamp": "00:16:25.056"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Christian Benteke Liolo",
     "player1_team": "Liverpool",
@@ -21432,7 +21432,7 @@
     "timestamp": "00:18:17.110"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -21888,7 +21888,7 @@
     "timestamp": "00:22:05.701"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "",
     "player1_team": "Liverpool",
@@ -23000,7 +23000,7 @@
     "timestamp": "00:26:51.522"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -23336,7 +23336,7 @@
     "timestamp": "00:29:11.240"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Daley Blind",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -23424,7 +23424,7 @@
     "timestamp": "00:29:54.614"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -23560,7 +23560,7 @@
     "timestamp": "00:30:53.848"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
@@ -23848,7 +23848,7 @@
     "timestamp": "00:31:41.173"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -24568,7 +24568,7 @@
     "timestamp": "00:33:22.971"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Anthony Martial",
     "player1_team": "Manchester United",
@@ -25008,7 +25008,7 @@
     "timestamp": "00:34:37.499"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Ander Herrera Agüera",
     "player1_team": "Manchester United",
@@ -25144,7 +25144,7 @@
     "timestamp": "00:35:12.834"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Nathaniel Edwin Clyne",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -25624,7 +25624,7 @@
     "timestamp": "00:36:46.596"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "free_kick",
     "player1": "Matteo Darmian",
     "player2": "",
     "player1_team": "Manchester United",
@@ -25920,7 +25920,7 @@
     "timestamp": "00:37:58.385"
   },
   {
-    "event_type": "pass_failure",
+    "event_type": "corner",
     "player1": "James Philip Milner",
     "player2": "",
     "player1_team": "Liverpool",
@@ -26936,7 +26936,7 @@
     "timestamp": "00:42:46.611"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "free_kick",
     "player1": "Dejan Lovren",
     "player2": "Emre Can",
     "player1_team": "Liverpool",
@@ -27824,7 +27824,7 @@
     "timestamp": "00:44:52.655"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Dejan Lovren",
     "player2": "Martin Škrtel",
     "player1_team": "Liverpool",
@@ -27968,7 +27968,7 @@
     "timestamp": "00:45:22.580"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Gomez",
     "player2": "Alberto Moreno Pérez",
     "player1_team": "Liverpool",
@@ -28072,7 +28072,7 @@
     "timestamp": "00:45:42.852"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Joe Gomez",
     "player2": "James Philip Milner",
     "player1_team": "Liverpool",
@@ -29016,7 +29016,7 @@
     "timestamp": "00:47:58.380"
   },
   {
-    "event_type": "pass_success",
+    "event_type": "throw_in",
     "player1": "Matteo Darmian",
     "player2": "Marouane Fellaini-Bakkioui",
     "player1_team": "Manchester United",
