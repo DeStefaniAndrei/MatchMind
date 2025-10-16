@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { aiPredictionService, getStatsFromCumulative } from '@/lib/ai-prediction-service';
-import { getMatchById } from '@/lib/match-service';
-import { getMatchStats } from '@/lib/sportmonks-api';
+import { getMatchById } from '@/lib/api/match-service';
+// import { getMatchStats } from '@/lib/sportmonks-api';
 
 /**
  * POST /api/questions/generate

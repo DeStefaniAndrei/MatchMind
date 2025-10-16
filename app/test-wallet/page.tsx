@@ -4,7 +4,7 @@ import { WalletConnectButton } from "@/components/wallet/connect-button"
 import { SociosConnect } from "@/components/wallet/socios-connect"
 import { useSociosWallet } from "@/hooks/use-socios-wallet"
 import { useAccount, useBalance } from 'wagmi'
-import { chilizChain, chilizTestnet } from '@/lib/wagmi'
+import { chilizChain, chilizTestnet } from '@/lib/contract/wagmi'
 import { useWallet } from "@/contexts/wallet-context"
 import { TestnetFaucet } from "@/components/stake/testnet-faucet"
 import { BalanceDebug } from "@/components/stake/balance-debug"

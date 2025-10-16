@@ -1,8 +1,7 @@
 import { Header } from "@/components/layout/header"
 import { HeroSection } from "@/components/landing/hero-section"
 import { StatsSection } from "@/components/landing/stats-section"
-import { MatchList } from "@/components/matches/match-list"
-import { LivePreview } from "@/components/matches/live-preview"
+import { LivePreview } from "@/components/match-previews/live-preview"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -140,7 +139,7 @@ export default function HomePage() {
             <p className="text-muted-foreground">Get ready for the next big games</p>
           </div>
           
-          <MatchList />
+          <LivePreview />
         </div>
       </section>
 

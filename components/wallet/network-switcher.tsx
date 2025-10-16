@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 import { useWallet } from "@/contexts/wallet-context"
 import { useSwitchChain } from "wagmi"
 import { AlertTriangle, CheckCircle } from "lucide-react"
-import { chilizChain, chilizTestnet } from "@/lib/wagmi"
+import { chilizChain, chilizTestnet } from "@/lib/contract/wagmi"
 import { useToast } from "@/hooks/use-toast"
 
 export function NetworkSwitcher() {

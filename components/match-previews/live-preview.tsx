@@ -6,7 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Zap } from "lucide-react"
-import { matchSimulator } from "@/lib/match-simulator"
+import { fetchMatches } from "@/lib/api/api"
 import type { Match } from "@/lib/types"
 
 const PREVIEW_MATCHES_COUNT = 3
@@ -18,7 +18,8 @@ export function LivePreview() {
   useEffect(() => {
     const load = async () => {
       try {
-        const data = await matchSimulator.getMatches()
+        const data = await fetchMatches()
+        //TO DO Sort upcoming by time
         // Prefer live first, then upcoming take up to PREVIEW_MATCHES_COUNT
         const sorted = [...data].sort((a, b) => {
           const order = (s: string) => (s === "live" ? 0 : s === "upcoming" ? 1 : 2)

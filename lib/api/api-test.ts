@@ -1,7 +1,7 @@
 // Test file to verify SportMonks API capabilities
 // This will help us validate our question feasibility analysis
 
-import { sportMonksAPI, LiveEvent, LiveMatch } from './sportmonks-api'
+// import { sportMonksAPI, LiveEvent, LiveMatch } from './sportmonks-api'
 import { FEASIBLE_QUESTIONS, PREDICTION_QUESTIONS } from './question-analysis'
 
 interface TestResult {

@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { questionLifecycle } from '@/lib/question-lifecycle';
+import { questionLifecycle } from '@/lib/question/question-lifecycle';
 
 /**
  * GET /api/questions/user-answers

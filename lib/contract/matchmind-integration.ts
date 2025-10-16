@@ -43,28 +43,10 @@ export class MatchMindIntegration {
     }
   }
 
-  // Fetch PSG matches from SportMonks API
-  async fetchPSGMatchesFromAPI(): Promise<PSGMatchFromAPI[]> {
-    try {
-      console.log('Fetching PSG matches from SportMonks API...');
-      
-      const response = await fetch('/api/psg-matches');
-      if (!response.ok) {
-        throw new Error(`API request failed: ${response.status}`);
-      }
-
-      const data = await response.json();
-      console.log('PSG matches fetched:', data.matches?.length || 0);
-      
-      return data.matches || [];
-    } catch (error) {
-      console.error('Error fetching PSG matches:', error);
-      throw error;
-    }
-  }
 
   // Create GamePool contracts and store matches in database
-  async createContractsForPSGMatches(): Promise<{
+  // REMOVED: PSG-specific function
+async createContractsForMatches(): Promise<{
     success: number;
     errors: number;
     results: Array<{

@@ -2,7 +2,7 @@
 
 import type React from "react"
 import { createContext, useContext, useEffect, useState, useRef } from "react"
-import { upsertUserByWallet } from "@/lib/api"
+import { upsertUserByWallet } from "@/lib/api/api"
 
 interface User {
   id: string

@@ -16,8 +16,7 @@ export interface QuestionOption {
 
 export interface EvaluationRule {
   type: QuestionType;
-  source: 'api' | 'manual' | 'derived';
-  config: Record<string, any>;
+  source: 'api' | 'manual' | 'derived';  config: Record<string, any>;
   tolerance?: number; // For numeric questions
 }
 

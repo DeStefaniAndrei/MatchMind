@@ -5,7 +5,7 @@
 // import { GamePool } from '../contracts/GamePool.sol/GamePool.json'
 // import { createPublicClient, http, createWalletClient, parseEther } from 'viem'
 // import { chiliz } from './wagmi'
-import { questionLifecycle } from './question/question-lifecycle'
+import { questionLifecycle } from './question-lifecycle'
 
 // Database-like structure to track matches
 interface MatchRecord {

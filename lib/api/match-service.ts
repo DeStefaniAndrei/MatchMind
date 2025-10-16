@@ -2,7 +2,7 @@
 // Monitors SportMonks API and triggers contract functions for match lifecycle
 // Database integration will be handled separately with Supabase
 
-import { sportMonksAPI, LiveMatch } from './sportmonks-api'
+// import { sportMonksAPI, LiveMatch } from './sportmonks-api'
 import { createPublicClient, http, createWalletClient } from 'viem'
 import { chiliz } from './wagmi'
 

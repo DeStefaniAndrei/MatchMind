@@ -6,7 +6,7 @@ import { useUser } from "@/contexts/user-context"
 import { useWallet } from "@/contexts/wallet-context"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { addStake, fetchStakes, addPrediction, fetchPredictions } from "@/lib/api"
+import { addStake, fetchStakes, addPrediction, fetchPredictions } from "@/lib/api/api"
 import { useState } from "react"
 
 export default function TestUserPage() {

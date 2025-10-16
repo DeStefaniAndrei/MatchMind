@@ -1,7 +1,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { useEffect, useState } from "react"
-import { fetchMatchById } from "@/lib/api"
+import { fetchMatchById } from "@/lib/api/api"
 
 interface MatchResultsProps {
   matchId: string

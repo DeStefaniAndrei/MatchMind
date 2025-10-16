@@ -4,7 +4,7 @@ import '@rainbow-me/rainbowkit/styles.css'
 import { WagmiProvider as WagmiProviderBase } from 'wagmi'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { RainbowKitProvider } from '@rainbow-me/rainbowkit' //Pre made wallet connection functionality
-import { config } from '@/lib/wagmi'
+import { config } from '@/lib/contract/wagmi'
 import { useState } from 'react'
 
 

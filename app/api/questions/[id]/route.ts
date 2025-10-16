@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { questionLifecycle } from '@/lib/question-lifecycle';
+import { questionLifecycle } from '@/lib/question/question-lifecycle';
 import { supabase } from '@/lib/supabaseClient';
-import { Question } from '@/lib/question-domain';
+import { Question } from '@/lib/question/question-domain';
 
 /**
  * GET /api/questions/[id]

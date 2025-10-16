@@ -1,7 +1,7 @@
 // WebSocket-based Match Monitor for MatchMind
 // More efficient than polling - uses real-time connections
 
-import { sportMonksAPI, LiveMatch } from './sportmonks-api'
+// import { sportMonksAPI, LiveMatch } from './sportmonks-api'
 import { createPublicClient, http, createWalletClient } from 'viem'
 import { chiliz } from './wagmi'
 

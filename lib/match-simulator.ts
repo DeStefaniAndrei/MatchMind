@@ -13,10 +13,10 @@ class MatchSimulator {
   private tickHandle: ReturnType<typeof setInterval> | null = null
   private started: boolean = false
 
-  start(): void {
+  async start(): Promise<void> {
     if (this.started) return
     // Seed from simplified JSON at runtime; normalize state per match
-    const seeded = this.loadTrainingMatches()
+    const seeded = await this.loadTrainingMatches()
     for (const m of seeded) {
       const id = String(m.id)
       this.states.set(id, { baseMatch: { ...m, id }, currentMinute: 0 })
@@ -108,13 +108,11 @@ class MatchSimulator {
     return { homeScore, awayScore }
   }
 
-  private loadTrainingMatches(): Match[] {
+  private async loadTrainingMatches(): Promise<Match[]> {
     try {
-      // Lazy-require Node modules to avoid client bundling
-      // eslint-disable-next-line @typescript-eslint/no-var-requires
-      const path: any = require('path')
-      // eslint-disable-next-line @typescript-eslint/no-var-requires
-      const fs: any = require('fs')
+      // Dynamic imports to avoid client bundling
+      const path = await import('path')
+      const fs = await import('fs')
       const trainingDir = path.join(process.cwd(), 'artifacts', 'modified-stats-json')
       const files: string[] = fs.readdirSync(trainingDir).filter((f: string) => f.endsWith('.json')).slice(0, 5)
       const matches: Match[] = []
@@ -176,13 +174,13 @@ class MatchSimulator {
     return 'unknown'
   }
 
-  getMatches(): Match[] {
-    if (!this.started) this.start()
+  async getMatches(): Promise<Match[]> {
+    if (!this.started) await this.start()
     return Array.from(this.states.values()).map(s => this.deriveMatch(s))
   }
 
-  getMatchById(matchId: string): Match | null {
-    if (!this.started) this.start()
+  async getMatchById(matchId: string): Promise<Match | null> {
+    if (!this.started) await this.start()
     const state = this.states.get(String(matchId))
     if (!state) return null
     return this.deriveMatch(state)

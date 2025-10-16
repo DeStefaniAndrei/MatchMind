@@ -1,6 +1,6 @@
-import { supabase } from './supabaseClient'
-import { mockUsers, mockStakes } from './mock-data'
-import { matchSimulator } from './match-simulator'
+import { supabase } from '../supabaseClient'
+import { mockUsers, mockStakes } from '../mock-data'
+import { matchSimulator } from '../match-simulator'
 
 export interface LiveMatchData {
   matchId: string

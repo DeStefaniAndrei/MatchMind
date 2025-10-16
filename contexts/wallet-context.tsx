@@ -4,8 +4,8 @@ import type React from "react"
 import { createContext, useContext, useEffect, useState } from "react"
 import { useAccount, useBalance, useDisconnect, useConnect } from "wagmi"
 import { useToast } from "@/hooks/use-toast"
-import { chilizChain, chilizTestnet } from "@/lib/wagmi"
-import { detectSociosWallet, connectSociosWallet } from "@/lib/socios-wallet"
+import { chilizChain, chilizTestnet } from "@/lib/contract/wagmi"
+import { detectSociosWallet, connectSociosWallet } from "@/lib/contract/socios-wallet"
 import { useUser } from "@/contexts/user-context"
 
 interface WalletContextType {

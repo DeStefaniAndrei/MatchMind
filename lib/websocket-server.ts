@@ -1,7 +1,7 @@
 // WebSocket/SSE Server for MatchMind
 // Provides real-time SportMonks data to clients
 
-import { sportMonksAPI } from './sportmonks-api'
+// import { sportMonksAPI } from './sportmonks-api'
 import { WebSocketServer } from 'ws'
 import { createServer } from 'http'
 

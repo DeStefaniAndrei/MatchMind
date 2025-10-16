@@ -9,7 +9,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { useToast } from "@/hooks/use-toast"
 import { Settings, Save, RotateCcw } from "lucide-react"
-import { realtimeQuestionService } from "@/lib/realtime-question-service"
+import { realtimeQuestionService } from "@/lib/question/realtime-question-service"
 
 interface QuestionConfigProps {
   matchId: string

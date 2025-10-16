@@ -7,9 +7,9 @@ import { Badge } from "@/components/ui/badge"
 import { Progress } from "@/components/ui/progress"
 import { useToast } from "@/hooks/use-toast"
 import { Clock, Users, Trophy, Target, Zap, Brain } from "lucide-react"
-import { fetchMatchById } from "@/lib/api"
+import { fetchMatchById } from "@/lib/api/api"
 import { getSimulatedMinuteMs } from "@/lib/sim-config"
-import { realtimeQuestionService, type LiveQuestion } from "@/lib/realtime-question-service"
+import { realtimeQuestionService, type LiveQuestion } from "@/lib/question/realtime-question-service"
 
 interface LiveMatchProps {
   matchId: string

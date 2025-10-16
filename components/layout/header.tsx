@@ -27,9 +27,6 @@ export function Header() {
             <Link href="/" className="text-sm font-medium hover:text-primary transition-colors">
               Home
             </Link>
-            <Link href="/psg-matches" className="text-sm font-medium hover:text-primary transition-colors">
-              PSG Matches
-            </Link>
             <Link href="/stake" className="text-sm font-medium hover:text-primary transition-colors">
               Stake
             </Link>
@@ -68,13 +65,6 @@ export function Header() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Home
-              </Link>
-              <Link
-                href="/psg-matches"
-                className="text-sm font-medium hover:text-primary transition-colors"
-                onClick={() => setMobileMenuOpen(false)}
-              >
-                PSG Matches
               </Link>
               <Link
                 href="/stake"

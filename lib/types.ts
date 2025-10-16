@@ -1,3 +1,5 @@
+//Declare objects user in runtime
+
 export interface Match {
   id: string
   homeTeam: string
