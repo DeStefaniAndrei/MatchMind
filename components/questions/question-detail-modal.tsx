@@ -5,35 +5,16 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
-import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Clock, Trophy, X } from 'lucide-react';
 import { useUser } from '@/contexts/user-context';
 import { useToast } from '@/hooks/use-toast';
-
-interface Question {
-  id: string;
-  matchId: string;
-  text: string;
-  options: Array<{
-    id: string;
-    label: string;
-    value: string | number | boolean;
-  }>;
-  questionType: string;
-  points: number;
-  startAt: string;
-  endAt: string;
-  state: string;
-  timeRemaining: number;
-  isActive: boolean;
-  isClosed: boolean;
-}
+import { type LiveQuestion } from '@/lib/question/realtime-question-service';
 
 interface QuestionDetailModalProps {
-  question: Question | null;
+  question: LiveQuestion | null;
   onClose: () => void;
-  onAnswerSubmit?: (questionId: string, answer: any) => void;
+  onAnswerSubmit?: (questionId: string, answer: string) => void;
 }
 
 export function QuestionDetailModal({ 
@@ -48,8 +29,7 @@ export function QuestionDetailModal({
 
   if (!question) return null;
 
-  const formatTimeRemaining = (milliseconds: number): string => {
-    const seconds = Math.floor(milliseconds / 1000);
+  const formatTimeRemaining = (seconds: number): string => {
     const minutes = Math.floor(seconds / 60);
     const remainingSeconds = seconds % 60;
     
@@ -82,78 +62,30 @@ export function QuestionDetailModal({
   };
 
   const renderAnswerInput = () => {
-    if (question.isClosed || !question.isActive) {
+    if (question.answered || question.timeLeft <= 0) {
       return (
         <div className="text-center py-4">
           <p className="text-sm text-muted-foreground">
-            {question.isClosed ? 'Question is closed' : 'Question is not active'}
+            {question.answered ? 'You have already answered this question' : 'Question has expired'}
           </p>
         </div>
       );
     }
 
-    switch (question.questionType) {
-      case 'boolean':
-        return (
-          <RadioGroup
-            value={selectedAnswer}
-            onValueChange={setSelectedAnswer}
-          >
-            <div className="flex items-center space-x-2">
-              <RadioGroupItem value="true" id="yes" />
-              <Label htmlFor="yes">Yes</Label>
-            </div>
-            <div className="flex items-center space-x-2">
-              <RadioGroupItem value="false" id="no" />
-              <Label htmlFor="no">No</Label>
-            </div>
-          </RadioGroup>
-        );
-
-      case 'multiple_choice':
-        return (
-          <RadioGroup
-            value={selectedAnswer}
-            onValueChange={setSelectedAnswer}
-          >
-            {question.options.map((option) => (
-              <div key={option.id} className="flex items-center space-x-2">
-                <RadioGroupItem value={String(option.value)} id={option.id} />
-                <Label htmlFor={option.id}>{option.label}</Label>
-              </div>
-            ))}
-          </RadioGroup>
-        );
-
-      case 'numeric':
-        return (
-          <Input
-            type="number"
-            value={selectedAnswer || ''}
-            onChange={(e) => setSelectedAnswer(Number(e.target.value))}
-            placeholder="Enter your answer"
-          />
-        );
-
-      case 'text':
-        return (
-          <Input
-            type="text"
-            value={selectedAnswer || ''}
-            onChange={(e) => setSelectedAnswer(e.target.value)}
-            placeholder="Enter your answer"
-          />
-        );
-
-      default:
-        return (
-          <div className="text-center py-4">
-            <p className="text-sm text-muted-foreground">
-              Unsupported question type: {question.questionType}
-            </p>
+    // LiveQuestion only has Yes/No options
+    return (
+      <RadioGroup
+        value={selectedAnswer}
+        onValueChange={setSelectedAnswer}
+      >
+        {question.options.map((option, index) => (
+          <div key={index} className="flex items-center space-x-2">
+            <RadioGroupItem value={option} id={`option-${index}`} />
+            <Label htmlFor={`option-${index}`}>{option}</Label>
           </div>
-        );
-    }
+        ))}
+      </RadioGroup>
+    );
   };
 
   return (
@@ -169,12 +101,12 @@ export function QuestionDetailModal({
           <div className="flex items-center gap-2">
             <Badge variant="secondary" className="flex items-center gap-1">
               <Trophy className="h-3 w-3" />
-              {question.points} pts
+              {question.pointsAwarded > 0 ? `${question.pointsAwarded} pts` : '10 pts'}
             </Badge>
-            {question.isActive && question.timeRemaining > 0 && (
+            {question.timeLeft > 0 && !question.answered && (
               <Badge variant="outline" className="flex items-center gap-1 text-orange-600">
                 <Clock className="h-3 w-3" />
-                {formatTimeRemaining(question.timeRemaining)}
+                {formatTimeRemaining(question.timeLeft)}
               </Badge>
             )}
           </div>
@@ -182,7 +114,7 @@ export function QuestionDetailModal({
         <CardContent className="space-y-4">
           {renderAnswerInput()}
           
-          {question.isActive && question.timeRemaining > 0 && (
+          {question.timeLeft > 0 && !question.answered && (
             <Button
               onClick={handleAnswerSubmit}
               disabled={!selectedAnswer || isSubmitting}

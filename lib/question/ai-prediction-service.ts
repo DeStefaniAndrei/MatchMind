@@ -1,6 +1,5 @@
 // Loads the models from Artifacts and makes predictions
 
-// Note: This service is now browser-compatible and uses static model loading
 
 import { Question, QuestionType, EvaluationRule, QuestionOption } from './question-domain';
 

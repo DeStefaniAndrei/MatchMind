@@ -84,9 +84,34 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
     // Initialize the real-time question service for this match
     const initializeQuestionService = async () => {
       try {
+        // Set up custom expiration handler
+        realtimeQuestionService.setExpirationHandler((matchId, question) => {
+          console.log('Custom expiration logic triggered!')
+          
+          // Show toast notification when question expires
+          if (question.userAnswer) {
+            toast({
+              title: "Question Closed",
+              description: `"${question.text}" - Your answer: ${question.userAnswer}`,
+            })
+          } else {
+            toast({
+              title: "Question Expired",
+              description: `"${question.text}" - No answer submitted`,
+              variant: "destructive"
+            })
+          }
+          
+          // Here you can add logic to:
+          // - Evaluate answer against actual match events
+          // - Update user scores
+          // - Send to analytics
+          // - Trigger other side effects
+        })
+
         await realtimeQuestionService.initializeMatch(matchId, {
           questionInterval: 30, // 30 seconds between questions
-          answerTimeLimit: 30, // 30 seconds to answer
+          answerTimeLimit: 60, // 60 seconds (1 minute) to answer
           pointsPerCorrect: 10, // 10 points per correct answer
           maxQuestionsPerMatch: 180 // 90 minutes * 2 questions per minute
         })
@@ -232,10 +257,10 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
                 AI Prediction Question
               </CardTitle>
               <Badge variant={isTimeUp ? "destructive" : "secondary"}>
-                {currentQuestion?.timeLeft || 0}s left
+                {currentQuestion.timeLeft}s left
               </Badge>
             </div>
-            <Progress value={currentQuestion ? (currentQuestion.timeLeft / 30) * 100 : 0} className="w-full" />
+            <Progress value={(currentQuestion.timeLeft / 30) * 100} className="w-full" />
           </CardHeader>
           <CardContent className="space-y-4">
             <p className="text-lg font-medium">{currentQuestion.text}</p>

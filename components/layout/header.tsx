@@ -1,6 +1,7 @@
 "use client"
 
 import Link from "next/link"
+import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { WalletConnectButton } from "@/components/wallet/connect-button"
 import { SociosConnect } from "@/components/wallet/socios-connect"
@@ -16,8 +17,8 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
-            <div className="h-8 w-8 rounded-full bg-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-sm">MM</span>
+            <div className="h-16 w-16 rounded-full overflow-hidden flex items-center justify-center">
+              <Image src="/logo.png" alt="MatchMind Logo" width={100} height={100} className="rounded-full object-cover" />
             </div>
             <span className="font-bold text-xl">MatchMind</span>
           </Link>

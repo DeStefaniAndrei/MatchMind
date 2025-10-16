@@ -1,5 +1,6 @@
 // Real-time Question Service
 // Manages question generation, timing, and scoring for live matches
+// Whole class is save locally whenever a question is submitted and removed when the question expires
 
 import { aiPredictionService, getStatsFromCumulative, type MatchStats, type PredictionResult } from './ai-prediction-service'
 import { matchSimulator } from '../match-simulator'
@@ -39,18 +40,102 @@ export interface MatchQuestionState {
 class RealtimeQuestionService {
   private matchStates: Map<string, MatchQuestionState> = new Map()
   private questionTimers: Map<string, NodeJS.Timeout> = new Map()
+  private readonly STORAGE_KEY = 'matchmind_questions'
 
   constructor() {
     // Initialize with default config
     this.defaultConfig = {
       questionInterval: 30, // 30 seconds
-      answerTimeLimit: 30, // 30 seconds to answer
+      answerTimeLimit: 60, // 60 seconds (1 minute) to answer
       pointsPerCorrect: 10, // 10 points per correct answer
       maxQuestionsPerMatch: 180 // 90 minutes * 2 questions per minute
     }
+    
+    // Restore questions from localStorage on initialization
+    this.restoreFromLocalStorage()
   }
 
   private defaultConfig: QuestionConfig
+
+  // Save questions to localStorage
+  private saveToLocalStorage(): void {
+    if (typeof window === 'undefined') return
+
+    try {
+      const data: Record<string, MatchQuestionState> = {}
+      for (const [matchId, state] of this.matchStates.entries()) {
+        data[matchId] = state
+      }
+      localStorage.setItem(this.STORAGE_KEY, JSON.stringify(data))
+    } catch (error) {
+      console.error('Failed to save questions to localStorage:', error)
+    }
+  }
+
+  // Restore questions from localStorage
+  private restoreFromLocalStorage(): void {
+    if (typeof window === 'undefined') return
+
+    try {
+      const saved = localStorage.getItem(this.STORAGE_KEY)
+      if (!saved) return
+
+      const data: Record<string, MatchQuestionState> = JSON.parse(saved)
+      const now = new Date()
+
+      for (const [matchId, state] of Object.entries(data)) {
+        // Restore questions and check expiration
+        const restoredQuestions = state.questions.map(q => ({
+          ...q,
+          createdAt: new Date(q.createdAt),
+          expiresAt: new Date(q.expiresAt),
+          // Recalculate timeLeft based on current time
+          timeLeft: Math.max(0, Math.floor((new Date(q.expiresAt).getTime() - now.getTime()) / 1000))
+        }))
+
+        // Check for expired questions and run expiration logic
+        restoredQuestions.forEach(q => {
+          if (q.timeLeft <= 0 && !q.answered) {
+            this.onQuestionExpired(matchId, q)
+          }
+        })
+
+        this.matchStates.set(matchId, {
+          ...state,
+          questions: restoredQuestions,
+          lastQuestionTime: state.lastQuestionTime ? new Date(state.lastQuestionTime) : null
+        })
+      }
+
+      console.log(`Restored ${Object.keys(data).length} match states from localStorage`)
+    } catch (error) {
+      console.error('Failed to restore questions from localStorage:', error)
+      // Clear corrupted data
+      localStorage.removeItem(this.STORAGE_KEY)
+    }
+  }
+
+  // Hook for when a question expires - override this for custom logic
+  private onQuestionExpired(matchId: string, question: LiveQuestion): void {
+    console.log(`Question expired: ${question.id} for match ${matchId}`)
+    console.log(`Question was: "${question.text}"`)
+    console.log(`User answered: ${question.userAnswer || 'No answer'}`)
+    
+    // Mark as answered if not already
+    question.answered = true
+    question.timeLeft = 0
+    
+    // Call custom expiration handler if set
+    if (this.customExpirationHandler) {
+      try {
+        this.customExpirationHandler(matchId, question)
+      } catch (error) {
+        console.error('Error in custom expiration handler:', error)
+      }
+    }
+    
+    this.saveToLocalStorage()
+  }
 
   // Initialize a match for question generation
   async initializeMatch(matchId: string, config?: Partial<QuestionConfig>): Promise<void> {
@@ -80,7 +165,14 @@ class RealtimeQuestionService {
     matchState.isActive = true
     matchState.lastQuestionTime = new Date()
 
-    // Start the question generation timer
+    // Generate the first question immediately
+    this.generateQuestion(matchId).then(() => {
+      console.log(`First question generated for match ${matchId}`)
+    }).catch(error => {
+      console.error(`Failed to generate first question for match ${matchId}:`, error)
+    })
+
+    // Start the question generation timer for subsequent questions
     this.scheduleNextQuestion(matchId)
     console.log(`Started question generation for match ${matchId}`)
   }
@@ -163,7 +255,13 @@ class RealtimeQuestionService {
       // Generate AI prediction
       const prediction = await aiPredictionService.generateQuestion(currentStats, lagStats)
       
-      // Create the question
+      // Remove ONLY old expired unanswered questions (keep answered ones)
+      const now = Date.now()
+      matchState.questions = matchState.questions.filter(q => 
+        q.answered || new Date(q.expiresAt).getTime() > now
+      )
+
+      // Create the question with 30-second display timer
       const question: LiveQuestion = {
         id: `${matchId}-q${Date.now()}`,
         text: prediction.questionText,
@@ -171,12 +269,12 @@ class RealtimeQuestionService {
         eventType: prediction.eventType,
         predictedCount: prediction.predictedCount,
         correctAnswer: null,
-        timeLeft: matchState.config.answerTimeLimit,
+        timeLeft: 30, // 30 seconds to answer before it disappears
         answered: false,
         userAnswer: null,
         pointsAwarded: 0,
         createdAt: new Date(),
-        expiresAt: new Date(Date.now() + matchState.config.answerTimeLimit * 1000)
+        expiresAt: new Date(Date.now() + 30000) // 30 seconds from now
       }
 
       matchState.questions.push(question)
@@ -184,7 +282,7 @@ class RealtimeQuestionService {
 
       console.log(`Generated question for match ${matchId}:`, question.text)
 
-      // Start countdown timer for this question
+      // Start 30-second countdown for this unanswered question
       this.startQuestionCountdown(matchId, question.id)
 
     } catch (error) {
@@ -218,8 +316,8 @@ class RealtimeQuestionService {
     const question = matchState.questions.find(q => q.id === questionId)
     if (!question || question.answered) return
 
-    question.answered = true
-    question.timeLeft = 0
+    // Run custom expiration logic
+    this.onQuestionExpired(matchId, question)
     console.log(`Question ${questionId} expired for match ${matchId}`)
   }
 
@@ -233,8 +331,14 @@ class RealtimeQuestionService {
       return { success: false, pointsAwarded: 0 }
     }
 
+    // Mark as answered and store the answer
     question.answered = true
     question.userAnswer = answer
+
+    // Reset to 60-second timer for answered question display in ActiveQuestions
+    const expirationTime = matchState.config.answerTimeLimit * 1000 // 60 seconds = 60000ms
+    question.expiresAt = new Date(Date.now() + expirationTime)
+    question.timeLeft = matchState.config.answerTimeLimit
 
     // For now, we'll determine correctness after the time window
     // In a real implementation, this would be determined by actual match events
@@ -246,7 +350,13 @@ class RealtimeQuestionService {
       matchState.totalScore += question.pointsAwarded
     }
 
-    console.log(`Answer submitted for question ${questionId}: ${answer} (${isCorrect ? 'correct' : 'incorrect'})`)
+    console.log(`Answer submitted for question ${questionId}: ${answer} - Now showing in ActiveQuestions for ${matchState.config.answerTimeLimit}s`)
+
+    // Save to localStorage ONLY after submission
+    this.saveToLocalStorage()
+
+    // Restart the countdown timer with new 60-second expiration
+    this.startQuestionCountdown(matchId, question.id)
 
     return { 
       success: true, 
@@ -264,9 +374,12 @@ class RealtimeQuestionService {
     const matchState = this.matchStates.get(matchId)
     if (!matchState) return null
 
-    return matchState.questions
-      .filter(q => !q.answered && q.timeLeft > 0)
-      .sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime())[0] || null
+    // Get the most recent unanswered question (for display in LiveMatch)
+    const unansweredQuestions = matchState.questions
+      .filter(q => !q.answered)
+      .sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime())
+    
+    return unansweredQuestions[0] || null
   }
 
   // Get all questions for a match
@@ -284,6 +397,52 @@ class RealtimeQuestionService {
     console.log(`Updated config for match ${matchId}:`, matchState.config)
   }
 
+  // Set custom expiration handler
+  setExpirationHandler(handler: (matchId: string, question: LiveQuestion) => void): void {
+    this.customExpirationHandler = handler
+  }
+
+  private customExpirationHandler?: (matchId: string, question: LiveQuestion) => void
+
+  // Get all answered questions for a match
+  getAnsweredQuestions(matchId: string): LiveQuestion[] {
+    const matchState = this.matchStates.get(matchId)
+    return matchState?.questions.filter(q => q.answered && q.userAnswer !== null) || []
+  }
+
+  // Get all expired questions for a match
+  getExpiredQuestions(matchId: string): LiveQuestion[] {
+    const now = new Date()
+    const matchState = this.matchStates.get(matchId)
+    return matchState?.questions.filter(q => new Date(q.expiresAt) <= now) || []
+  }
+
+  // Clean up old expired questions (keeps them in localStorage but removes from active memory)
+  cleanupExpiredQuestions(matchId: string, olderThanMinutes: number = 60): void {
+    const matchState = this.matchStates.get(matchId)
+    if (!matchState) return
+
+    const cutoffTime = new Date(Date.now() - olderThanMinutes * 60 * 1000)
+    const before = matchState.questions.length
+    
+    matchState.questions = matchState.questions.filter(q => 
+      new Date(q.expiresAt) > cutoffTime || !q.answered
+    )
+
+    const removed = before - matchState.questions.length
+    if (removed > 0) {
+      console.log(`Cleaned up ${removed} old questions for match ${matchId}`)
+      this.saveToLocalStorage()
+    }
+  }
+
+  // Clear all questions for a match from localStorage
+  clearMatchQuestions(matchId: string): void {
+    this.matchStates.delete(matchId)
+    this.saveToLocalStorage()
+    console.log(`Cleared all questions for match ${matchId}`)
+  }
+
   // Clean up resources
   cleanup(): void {
     // Clear all timers
@@ -292,6 +451,8 @@ class RealtimeQuestionService {
     }
     this.questionTimers.clear()
     this.matchStates.clear()
+    
+    // Don't clear localStorage on cleanup - questions should persist
   }
 }
 

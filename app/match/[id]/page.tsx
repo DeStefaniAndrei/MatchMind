@@ -2,7 +2,7 @@ import { Header } from "@/components/layout/header"
 import { LiveMatch } from "@/components/match/live-match"
 import { MatchLeaderboard } from "@/components/match/match-leaderboard"
 import { UpcomingMatch } from "@/components/match/upcoming-match"
-import { ActiveQuestionsSidebar } from "@/components/questions/active-questions-sidebar"
+import { ActiveQuestions } from "@/components/questions/active-questions"
 
 interface MatchPageProps {
   params: Promise<{
@@ -27,7 +27,7 @@ export default async function MatchPage({ params }: MatchPageProps) {
             </div>
           </div>
           <div>
-            <ActiveQuestionsSidebar matchId={id} />
+              <ActiveQuestions matchId={id} />
           </div>
           <div>
             <MatchLeaderboard matchId={id} />
