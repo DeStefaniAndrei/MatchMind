@@ -47,60 +47,17 @@ export function ActiveQuestionsWidget({
   useEffect(() => {
     if (!matchId || !user?.id) return;
 
-    const fetchQuestions = async () => {
-      try {
-        setLoading(true);
-        const response = await fetch(
-          `/api/questions?matchId=${matchId}&userId=${user.id}`
-        );
-        
-        if (!response.ok) {
-          throw new Error('Failed to fetch questions');
-        }
-
-        const data = await response.json();
-        setQuestions((data.data || []).slice(0, maxQuestions));
-      } catch (err) {
-        console.error('Error fetching questions:', err);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchQuestions();
-
-    // Refresh every 30 seconds
-    const interval = setInterval(fetchQuestions, 30000);
-    return () => clearInterval(interval);
+    // Questions are now handled in memory only - no API calls needed
+    setLoading(false);
+    setQuestions([]); // Empty for now - questions will be managed differently
   }, [matchId, user?.id, maxQuestions]);
 
   const handleGenerateQuestions = async () => {
     setIsGenerating(true);
     try {
-      const response = await fetch('/api/questions/generate', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          matchId,
-          startDelay: 0
-        }),
-      });
-
-      if (!response.ok) {
-        throw new Error('Failed to generate questions');
-      }
-
-      // Refresh questions after generation
-      const questionsResponse = await fetch(
-        `/api/questions?matchId=${matchId}&userId=${user?.id}`
-      );
-      
-      if (questionsResponse.ok) {
-        const questionsData = await questionsResponse.json();
-        setQuestions((questionsData.data || []).slice(0, maxQuestions));
-      }
+      // Question generation is now handled in memory only
+      console.log('Question generation disabled - questions handled in memory');
+      // TODO: Implement in-memory question generation
     } catch (error) {
       console.error('Error generating questions:', error);
     } finally {

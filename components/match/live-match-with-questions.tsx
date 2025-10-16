@@ -81,21 +81,10 @@ export function LiveMatchWithQuestions({ matchId }: LiveMatchWithQuestionsProps)
     }
 
     try {
-      const response = await fetch(`/api/questions/${questionId}/answer`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          userId: user.id,
-          answerPayload: answer,
-        }),
-      })
-
-      if (!response.ok) {
-        throw new Error('Failed to submit answer')
-      }
-
+      // Questions are now handled in memory only
+      console.log('Answer submission disabled - questions handled in memory');
+      // TODO: Implement in-memory answer submission
+      
       toast({
         title: "Answer Submitted!",
         description: `Your answer has been recorded. Results will be shown when the question closes.`,

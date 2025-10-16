@@ -3,11 +3,12 @@
  * 
  * This service manages the lifecycle of questions, including state transitions,
  * timing, and evaluation orchestration.
+ * 
+ * NOTE: This service now uses in-memory storage instead of Supabase
  */
 
 import { Question, QuestionState, UserAnswer, QuestionResult } from './question-domain';
 import { questionEvaluator, EvaluationContext, EvaluationResult } from './question-evaluator';
-import { supabase } from '../supabaseClient';
 
 export interface QuestionLifecycleEvents {
   onQuestionActivated?: (question: Question) => void;
@@ -19,9 +20,14 @@ export interface QuestionLifecycleEvents {
 /**
  * Question Lifecycle Service
  * Handles state transitions, timing, and evaluation of questions
+ * 
+ * NOTE: Now uses in-memory storage instead of Supabase
  */
 export class QuestionLifecycleService {
   private events: QuestionLifecycleEvents = {};
+  private questions: Map<string, Question> = new Map();
+  private userAnswers: Map<string, UserAnswer[]> = new Map();
+  private questionResults: Map<string, QuestionResult> = new Map();
 
   constructor(events?: QuestionLifecycleEvents) {
     if (events) {
@@ -30,24 +36,38 @@ export class QuestionLifecycleService {
   }
 
   /**
+   * Add a question to the in-memory store
+   */
+  addQuestion(question: Question): void {
+    this.questions.set(question.id, question);
+  }
+
+  /**
+   * Get a question by ID
+   */
+  getQuestion(questionId: string): Question | undefined {
+    return this.questions.get(questionId);
+  }
+
+  /**
    * Process questions that need state transitions based on current time
    */
   async processScheduledQuestions(now: Date = new Date()): Promise<void> {
     try {
       // Find questions that should be activated
-      const questionsToActivate = await this.getQuestionsToActivate(now);
+      const questionsToActivate = this.getQuestionsToActivate(now);
       for (const question of questionsToActivate) {
         await this.activateQuestion(question);
       }
 
       // Find questions that should be closed
-      const questionsToClose = await this.getQuestionsToClose(now);
+      const questionsToClose = this.getQuestionsToClose(now);
       for (const question of questionsToClose) {
         await this.closeQuestion(question);
       }
 
       // Find questions that should be evaluated
-      const questionsToEvaluate = await this.getQuestionsToEvaluate(now);
+      const questionsToEvaluate = this.getQuestionsToEvaluate(now);
       for (const question of questionsToEvaluate) {
         await this.evaluateQuestion(question);
       }
@@ -65,7 +85,7 @@ export class QuestionLifecycleService {
     }
 
     const activatedQuestion = question.activate();
-    await this.updateQuestionInDatabase(activatedQuestion);
+    this.questions.set(activatedQuestion.id, activatedQuestion);
     
     this.events.onQuestionActivated?.(activatedQuestion);
     
@@ -81,7 +101,7 @@ export class QuestionLifecycleService {
     }
 
     const closedQuestion = question.close();
-    await this.updateQuestionInDatabase(closedQuestion);
+    this.questions.set(closedQuestion.id, closedQuestion);
     
     this.events.onQuestionClosed?.(closedQuestion);
     
@@ -98,7 +118,7 @@ export class QuestionLifecycleService {
 
     try {
       // Get all user answers for this question
-      const userAnswers = await this.getUserAnswersForQuestion(question.id);
+      const userAnswers = this.getUserAnswersForQuestion(question.id);
       
       // Create evaluation context
       const context: EvaluationContext = {
@@ -112,13 +132,13 @@ export class QuestionLifecycleService {
       
       // Update question with correct answer
       const evaluatedQuestion = question.evaluate(evaluationResult.correctAnswer);
-      await this.updateQuestionInDatabase(evaluatedQuestion);
+      this.questions.set(evaluatedQuestion.id, evaluatedQuestion);
       
       // Store evaluation result
-      await this.storeEvaluationResult(evaluationResult);
+      this.storeEvaluationResult(evaluationResult);
       
-      // Update user scores
-      await this.updateUserScores(evaluationResult);
+      // Update user scores (in-memory only)
+      this.updateUserScores(evaluationResult);
       
       this.events.onQuestionEvaluated?.(evaluatedQuestion, evaluationResult);
       
@@ -138,7 +158,7 @@ export class QuestionLifecycleService {
     }
 
     const settledQuestion = question.settle();
-    await this.updateQuestionInDatabase(settledQuestion);
+    this.questions.set(settledQuestion.id, settledQuestion);
     
     this.events.onQuestionSettled?.(settledQuestion);
     
@@ -148,125 +168,58 @@ export class QuestionLifecycleService {
   /**
    * Get questions that should be activated now
    */
-  private async getQuestionsToActivate(now: Date): Promise<Question[]> {
-    const { data, error } = await supabase
-      .from('questions')
-      .select('*')
-      .eq('state', 'scheduled')
-      .lte('start_at', now.toISOString());
-
-    if (error) throw error;
-    
-    return data.map(row => Question.fromDatabaseRow(row));
+  private getQuestionsToActivate(now: Date): Question[] {
+    return Array.from(this.questions.values()).filter(question => 
+      question.state === 'scheduled' && question.startAt <= now
+    );
   }
 
   /**
    * Get questions that should be closed now
    */
-  private async getQuestionsToClose(now: Date): Promise<Question[]> {
-    const { data, error } = await supabase
-      .from('questions')
-      .select('*')
-      .eq('state', 'active')
-      .lte('end_at', now.toISOString());
-
-    if (error) throw error;
-    
-    return data.map(row => Question.fromDatabaseRow(row));
+  private getQuestionsToClose(now: Date): Question[] {
+    return Array.from(this.questions.values()).filter(question => 
+      question.state === 'active' && question.endAt <= now
+    );
   }
 
   /**
    * Get questions that should be evaluated now
    */
-  private async getQuestionsToEvaluate(now: Date): Promise<Question[]> {
-    const { data, error } = await supabase
-      .from('questions')
-      .select('*')
-      .eq('state', 'closed');
-
-    if (error) throw error;
-    
-    const questions = data.map(row => Question.fromDatabaseRow(row));
-    
-    // Filter questions that can be evaluated (past grace period)
-    return questions.filter(question => question.canEvaluate(now));
+  private getQuestionsToEvaluate(now: Date): Question[] {
+    return Array.from(this.questions.values()).filter(question => 
+      question.state === 'closed' && question.canEvaluate(now)
+    );
   }
 
   /**
    * Get user answers for a specific question
    */
-  private async getUserAnswersForQuestion(questionId: string): Promise<UserAnswer[]> {
-    const { data, error } = await supabase
-      .from('user_answers')
-      .select('*')
-      .eq('question_id', questionId);
-
-    if (error) throw error;
-    
-    return data.map(row => UserAnswer.fromDatabaseRow(row));
+  private getUserAnswersForQuestion(questionId: string): UserAnswer[] {
+    return this.userAnswers.get(questionId) || [];
   }
 
   /**
-   * Update question in database
+   * Store evaluation result in memory
    */
-  private async updateQuestionInDatabase(question: Question): Promise<void> {
-    const { error } = await supabase
-      .from('questions')
-      .update({
-        state: question.state,
-        correct_answer: question.correctAnswer,
-        updated_at: new Date().toISOString()
-      })
-      .eq('id', question.id);
-
-    if (error) throw error;
-  }
-
-  /**
-   * Store evaluation result in database
-   */
-  private async storeEvaluationResult(result: EvaluationResult): Promise<void> {
+  private storeEvaluationResult(result: EvaluationResult): void {
     const questionResult = QuestionResult.create({
       questionId: result.questionId,
       correctAnswer: result.correctAnswer,
       evaluationSource: result.evaluationSource
     });
 
-    const { error } = await supabase
-      .from('question_results')
-      .insert({
-        id: questionResult.id,
-        question_id: questionResult.questionId,
-        correct_answer: questionResult.correctAnswer,
-        evaluation_source: questionResult.evaluationSource,
-        evaluated_at: questionResult.evaluatedAt.toISOString()
-      });
-
-    if (error) throw error;
+    this.questionResults.set(result.questionId, questionResult);
   }
 
   /**
-   * Update user scores based on evaluation results
+   * Update user scores based on evaluation results (in-memory only)
    */
-  private async updateUserScores(result: EvaluationResult): Promise<void> {
-    // Update leaderboard scores
+  private updateUserScores(result: EvaluationResult): void {
+    // In-memory score tracking - could be extended to use a separate service
+    console.log('User scores updated for question:', result.questionId);
     for (const userResult of result.userResults) {
-      const { error } = await supabase
-        .from('leaderboard')
-        .upsert({
-          user_id: userResult.userId,
-          match_id: result.questionId, // This should be match_id, not question_id
-          score: userResult.pointsEarned,
-          total_points: userResult.pointsEarned,
-          correct_predictions: userResult.isCorrect ? 1 : 0,
-          total_predictions: 1
-        }, {
-          onConflict: 'user_id,match_id'
-        });
-
-      if (error) {
-        console.error('Failed to update user score:', error);
-      }
+      console.log(`User ${userResult.userId}: ${userResult.pointsEarned} points, correct: ${userResult.isCorrect}`);
     }
   }
 
@@ -274,38 +227,23 @@ export class QuestionLifecycleService {
    * Get active questions for a specific match
    */
   async getActiveQuestionsForMatch(matchId: string): Promise<Question[]> {
-    const { data, error } = await supabase
-      .from('questions')
-      .select('*')
-      .eq('match_id', matchId)
-      .eq('state', 'active')
-      .order('start_at', { ascending: true });
-
-    if (error) throw error;
-    
-    return data.map(row => Question.fromDatabaseRow(row));
+    return Array.from(this.questions.values())
+      .filter(question => question.matchId === matchId && question.state === 'active')
+      .sort((a, b) => a.startAt.getTime() - b.startAt.getTime());
   }
 
   /**
    * Get all questions for a specific match with their states
    */
   async getQuestionsForMatch(matchId: string, states?: QuestionState[]): Promise<Question[]> {
-    let query = supabase
-      .from('questions')
-      .select('*')
-      .eq('match_id', matchId);
+    let questions = Array.from(this.questions.values())
+      .filter(question => question.matchId === matchId);
 
     if (states && states.length > 0) {
-      query = query.in('state', states);
+      questions = questions.filter(question => states.includes(question.state));
     }
 
-    query = query.order('start_at', { ascending: true });
-
-    const { data, error } = await query;
-
-    if (error) throw error;
-    
-    return data.map(row => Question.fromDatabaseRow(row));
+    return questions.sort((a, b) => a.startAt.getTime() - b.startAt.getTime());
   }
 
   /**
@@ -316,15 +254,11 @@ export class QuestionLifecycleService {
     const activeQuestions = await this.getActiveQuestionsForMatch(matchId);
     
     // Get user's existing answers
-    const { data: userAnswers, error } = await supabase
-      .from('user_answers')
-      .select('question_id')
-      .eq('user_id', userId)
-      .in('question_id', activeQuestions.map(q => q.id));
-
-    if (error) throw error;
+    const userAnswers = Array.from(this.userAnswers.values())
+      .flat()
+      .filter(answer => answer.userId === userId);
     
-    const answeredQuestionIds = new Set(userAnswers.map(a => a.question_id));
+    const answeredQuestionIds = new Set(userAnswers.map(a => a.questionId));
     
     // Return questions the user hasn't answered
     return activeQuestions.filter(question => !answeredQuestionIds.has(question.id));
@@ -335,15 +269,10 @@ export class QuestionLifecycleService {
    */
   async submitUserAnswer(userId: string, questionId: string, answerPayload: any): Promise<UserAnswer> {
     // Get the question to validate the answer
-    const { data: questionData, error: questionError } = await supabase
-      .from('questions')
-      .select('*')
-      .eq('id', questionId)
-      .single();
-
-    if (questionError) throw questionError;
-    
-    const question = Question.fromDatabaseRow(questionData);
+    const question = this.questions.get(questionId);
+    if (!question) {
+      throw new Error('Question not found');
+    }
     
     // Validate the question is active
     if (!question.isActive()) {
@@ -362,20 +291,11 @@ export class QuestionLifecycleService {
       answerPayload
     });
 
-    // Store in database (upsert to allow updates)
-    const { error } = await supabase
-      .from('user_answers')
-      .upsert({
-        id: userAnswer.id,
-        user_id: userAnswer.userId,
-        question_id: userAnswer.questionId,
-        answer_payload: userAnswer.answerPayload,
-        submitted_at: userAnswer.submittedAt.toISOString()
-      }, {
-        onConflict: 'user_id,question_id'
-      });
-
-    if (error) throw error;
+    // Store in memory (replace existing answer if any)
+    const existingAnswers = this.userAnswers.get(questionId) || [];
+    const filteredAnswers = existingAnswers.filter(a => a.userId !== userId);
+    filteredAnswers.push(userAnswer);
+    this.userAnswers.set(questionId, filteredAnswers);
     
     return userAnswer;
   }
@@ -384,35 +304,46 @@ export class QuestionLifecycleService {
    * Get user's answers for a specific match
    */
   async getUserAnswersForMatch(userId: string, matchId: string): Promise<UserAnswer[]> {
-    const { data, error } = await supabase
-      .from('user_answers')
-      .select(`
-        *,
-        questions!inner(match_id)
-      `)
-      .eq('user_id', userId)
-      .eq('questions.match_id', matchId);
-
-    if (error) throw error;
-    
-    return data.map(row => UserAnswer.fromDatabaseRow(row));
+    const allAnswers = Array.from(this.userAnswers.values()).flat();
+    return allAnswers.filter(answer => 
+      answer.userId === userId && 
+      this.questions.get(answer.questionId)?.matchId === matchId
+    );
   }
 
   /**
    * Get question results for a specific match
    */
   async getQuestionResultsForMatch(matchId: string): Promise<QuestionResult[]> {
-    const { data, error } = await supabase
-      .from('question_results')
-      .select(`
-        *,
-        questions!inner(match_id)
-      `)
-      .eq('questions.match_id', matchId);
-
-    if (error) throw error;
+    const matchQuestions = Array.from(this.questions.values())
+      .filter(question => question.matchId === matchId);
     
-    return data.map(row => QuestionResult.fromDatabaseRow(row));
+    return matchQuestions
+      .map(question => this.questionResults.get(question.id))
+      .filter(result => result !== undefined) as QuestionResult[];
+  }
+
+  /**
+   * Clear all in-memory data (useful for testing)
+   */
+  clear(): void {
+    this.questions.clear();
+    this.userAnswers.clear();
+    this.questionResults.clear();
+  }
+
+  /**
+   * Get all questions (for debugging)
+   */
+  getAllQuestions(): Question[] {
+    return Array.from(this.questions.values());
+  }
+
+  /**
+   * Get all user answers (for debugging)
+   */
+  getAllUserAnswers(): UserAnswer[] {
+    return Array.from(this.userAnswers.values()).flat();
   }
 }
 

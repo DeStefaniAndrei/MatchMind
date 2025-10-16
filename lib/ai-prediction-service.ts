@@ -3,7 +3,6 @@
 // Note: This service is now browser-compatible and uses static model loading
 
 import { Question, QuestionType, EvaluationRule, QuestionOption } from './question/question-domain';
-import { supabase } from './supabaseClient';
 
 export interface MatchStats {
   minute: number
@@ -386,44 +385,14 @@ class AIPredictionService {
         }
       });
 
-      // Save to database
-      await this.saveQuestionToDatabase(question);
+      // Questions are now stored in memory only
       questions.push(question);
     }
 
     return questions;
   }
 
-  /**
-   * Save question to database
-   */
-  private async saveQuestionToDatabase(question: Question): Promise<void> {
-    try {
-      const { error } = await supabase
-        .from('questions')
-        .insert({
-          id: question.id,
-          match_id: question.matchId,
-          text: question.text,
-          options: question.options,
-          question_type: question.questionType,
-          points: question.points,
-          start_at: question.startAt.toISOString(),
-          end_at: question.endAt.toISOString(),
-          grace_seconds: question.graceSeconds,
-          state: question.state,
-          evaluation_rule: question.evaluationRule,
-          metadata: question.metadata,
-          created_at: question.createdAt.toISOString(),
-          updated_at: question.updatedAt.toISOString()
-        });
-
-      if (error) throw error;
-    } catch (error) {
-      console.error('Failed to save question to database:', error);
-      throw error;
-    }
-  }
+  // Question storage removed - questions are now handled in memory only
 
   /**
    * Utility function to shuffle array

@@ -21,23 +21,9 @@ export function QuestionSystemDemo({ matchId }: QuestionSystemDemoProps) {
   const handleGenerateQuestions = async () => {
     setIsGenerating(true);
     try {
-      const response = await fetch('/api/questions/generate', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          matchId,
-          startDelay
-        }),
-      });
-
-      if (!response.ok) {
-        throw new Error('Failed to generate questions');
-      }
-
-      const data = await response.json();
-      setQuestionsGenerated(data.data.questionsGenerated);
+      // Question generation is now handled in memory only
+      console.log('Question generation disabled - questions handled in memory');
+      // TODO: Implement in-memory question generation
     } catch (error) {
       console.error('Error generating questions:', error);
     } finally {

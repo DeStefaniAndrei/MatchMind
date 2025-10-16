@@ -40,33 +40,10 @@ export function ActiveQuestionsList({ matchId, onQuestionSelect }: ActiveQuestio
   useEffect(() => {
     if (!matchId || !user?.id) return;
 
-    const fetchQuestions = async () => {
-      try {
-        setLoading(true);
-        const response = await fetch(
-          `/api/questions?matchId=${matchId}&userId=${user.id}`
-        );
-        
-        if (!response.ok) {
-          throw new Error('Failed to fetch questions');
-        }
-
-        const data = await response.json();
-        setQuestions(data.data || []);
-        setError(null);
-      } catch (err) {
-        console.error('Error fetching questions:', err);
-        setError(err instanceof Error ? err.message : 'Failed to fetch questions');
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchQuestions();
-
-    // Refresh every 30 seconds
-    const interval = setInterval(fetchQuestions, 30000);
-    return () => clearInterval(interval);
+    // Questions are now handled in memory only - no API calls needed
+    setLoading(false);
+    setQuestions([]); // Empty for now - questions will be managed differently
+    setError(null);
   }, [matchId, user?.id]);
 
   const formatTimeRemaining = (milliseconds: number): string => {

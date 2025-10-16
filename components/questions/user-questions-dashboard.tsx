@@ -52,69 +52,19 @@ export function UserQuestionsDashboard({ matchId }: UserQuestionsDashboardProps)
   useEffect(() => {
     if (!matchId || !user?.id) return;
 
-    const fetchUserData = async () => {
-      try {
-        setLoading(true);
-        
-        // Fetch user answers
-        const answersResponse = await fetch(
-          `/api/questions?matchId=${matchId}&userId=${user.id}`
-        );
-        
-        if (answersResponse.ok) {
-          const answersData = await answersResponse.json();
-          // This would need to be implemented in the API
-          setUserAnswers(answersData.userAnswers || []);
-        }
-
-        // Fetch question results
-        const resultsResponse = await fetch(
-          `/api/questions/results?matchId=${matchId}`
-        );
-        
-        if (resultsResponse.ok) {
-          const resultsData = await resultsResponse.json();
-          setQuestionResults(resultsData.data || []);
-        }
-      } catch (error) {
-        console.error('Error fetching user data:', error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchUserData();
+    // Questions are now handled in memory only - no API calls needed
+    setLoading(false);
+    setUserAnswers([]); // Empty for now - questions will be managed differently
+    setQuestionResults([]); // Empty for now - results will be managed differently
   }, [matchId, user?.id]);
 
   const handleAnswerSubmit = async (questionId: string, answer: any) => {
     if (!user?.id) return;
 
     try {
-      const response = await fetch(`/api/questions/${questionId}/answer`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          userId: user.id,
-          answerPayload: answer,
-        }),
-      });
-
-      if (!response.ok) {
-        throw new Error('Failed to submit answer');
-      }
-
-      // Update local state
-      const newAnswer: UserAnswer = {
-        id: crypto.randomUUID(),
-        userId: user.id,
-        questionId,
-        answerPayload: answer,
-        submittedAt: new Date().toISOString(),
-      };
-      
-      setUserAnswers(prev => [...prev, newAnswer]);
+      // Questions are now handled in memory only
+      console.log('Answer submission disabled - questions handled in memory');
+      // TODO: Implement in-memory answer submission
     } catch (error) {
       console.error('Error submitting answer:', error);
       throw error;

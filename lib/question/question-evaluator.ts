@@ -466,14 +466,8 @@ export class QuestionEvaluatorFactory {
       let statsData = null;
       let eventsData = null;
       
-      if (matchData?.sportmonks_id) {
-        try {
-          statsData = await getMatchStats(matchData.sportmonks_id);
-          eventsData = await getMatchEvents(matchData.sportmonks_id);
-        } catch (error) {
-          console.warn('Failed to fetch live data for evaluation:', error);
-        }
-      }
+      // Live data fetching disabled - questions are now handled in memory only
+      console.log('Live data fetching disabled - questions handled in memory');
       
       return {
         ...context,

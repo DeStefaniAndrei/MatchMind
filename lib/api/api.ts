@@ -144,16 +144,10 @@ export async function upsertUserByWallet(walletAddress: string) {
   }
 }
 
-// Fetch questions for a match
+// Fetch questions for a match (now returns empty array - questions handled in memory)
 export async function fetchMatchQuestions(matchId: string) {
-  try {
-    const { data, error } = await supabase.from('questions').select('*').eq('match_id', matchId)
-    if (error) throw error
-    return data
-  } catch (error) {
-    console.log('Using mock questions data fallback (empty)')
-    return []
-  }
+  console.log('Questions are now handled in memory only')
+  return []
 }
 
 // Fetch live events for a match
