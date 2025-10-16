@@ -7,7 +7,7 @@
 
 import { Question, QuestionState, UserAnswer, QuestionResult } from './question-domain';
 import { questionEvaluator, EvaluationContext, EvaluationResult } from './question-evaluator';
-import { supabase } from './supabaseClient';
+import { supabase } from '../supabaseClient';
 
 export interface QuestionLifecycleEvents {
   onQuestionActivated?: (question: Question) => void;

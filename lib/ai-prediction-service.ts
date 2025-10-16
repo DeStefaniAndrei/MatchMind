@@ -2,7 +2,7 @@
 
 // Note: This service is now browser-compatible and uses static model loading
 
-import { Question, QuestionType, EvaluationRule, QuestionOption } from './question-domain';
+import { Question, QuestionType, EvaluationRule, QuestionOption } from './question/question-domain';
 import { supabase } from './supabaseClient';
 
 export interface MatchStats {

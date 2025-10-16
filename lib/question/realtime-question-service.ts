@@ -1,8 +1,8 @@
 // Real-time Question Service
 // Manages question generation, timing, and scoring for live matches
 
-import { aiPredictionService, getStatsFromCumulative, type MatchStats, type PredictionResult } from './ai-prediction-service'
-import { matchSimulator } from './match-simulator'
+import { aiPredictionService, getStatsFromCumulative, type MatchStats, type PredictionResult } from '../ai-prediction-service'
+import { matchSimulator } from '../match-simulator'
 
 export interface LiveQuestion {
   id: string
@@ -147,11 +147,11 @@ class RealtimeQuestionService {
 
     try {
       // Build stats from Match.cumulativeStats
-      const simMatch = matchSimulator.getMatchById(matchId)
-      const getSnapshot = (m: number) => simMatch?.cumulativeStats?.find(s => s.minute === Math.max(0, m))
+      const simMatch = await matchSimulator.getMatchById(matchId);
+      const getSnapshot = (m: number) => simMatch?.cumulativeStats?.find((s: any) => s.minute === Math.max(0, m));
       
-      const currentSnapshot = getSnapshot(matchState.currentMinute)
-      const currentStats = getStatsFromCumulative(currentSnapshot)
+      const currentSnapshot = getSnapshot(matchState.currentMinute);
+      const currentStats = getStatsFromCumulative(currentSnapshot);
 
       const lag5 = getSnapshot(matchState.currentMinute - 5);
       const lag20 = getSnapshot(matchState.currentMinute - 20);

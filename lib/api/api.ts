@@ -43,10 +43,10 @@ export async function fetchMatchById(matchId: string) {
       if (res.ok) return await res.json()
     }
   } catch {}
-  const sim = matchSimulator.getMatchById(matchId)
+  const sim = await matchSimulator.getMatchById(matchId)
   if (sim) return sim
-  const first = matchSimulator.getMatches()[0]
-  return first ?? null
+  const matches = await matchSimulator.getMatches()
+  return matches[0] ?? null
 }
 
 // Add a stake
@@ -163,7 +163,7 @@ export async function fetchLiveEvents(matchId: string) {
     if (error) throw error
     return data
   } catch (error) {
-    const sim = matchSimulator.getMatchById(matchId)
+    const sim = await matchSimulator.getMatchById(matchId)
     if (sim && sim.events) return sim.events as MatchEvent[]
     return []
   }
@@ -180,24 +180,22 @@ export async function fetchLiveMatchData(matchId: string): Promise<LiveMatchData
   console.log(`Fetching live data for match ${matchId}`)
 
   // In real implementation, this would call a sports data API like:
-  // - SportRadar API
-  // - ESPN API
-  // - Football-Data.org API
-  // - RapidAPI Sports
+
 
   await new Promise((resolve) => setTimeout(resolve, 1000))
 
   const sim = matchSimulator.getMatchById(matchId)
   if (sim) {
+    const simData = await sim;
     return {
       matchId,
-      homeTeam: sim.homeTeam,
-      awayTeam: sim.awayTeam,
-      homeScore: sim.homeScore ?? 0,
-      awayScore: sim.awayScore ?? 0,
-      minute: sim.minute ?? 0,
-      status: (sim.status === 'completed' ? 'completed' : 'live'),
-      events: (sim.events || []) as MatchEvent[],
+      homeTeam: simData?.homeTeam ?? '',
+      awayTeam: simData?.awayTeam ?? '',
+      homeScore: simData?.homeScore ?? 0,
+      awayScore: simData?.awayScore ?? 0,
+      minute: simData?.minute ?? 0,
+        status: (simData?.status === 'completed' ? 'completed' : 'live'),
+        events: (simData?.events || []) as MatchEvent[],
     }
   }
   return {

@@ -16,7 +16,8 @@ export interface QuestionOption {
 
 export interface EvaluationRule {
   type: QuestionType;
-  source: 'api' | 'manual' | 'derived';  config: Record<string, any>;
+  source: 'api' | 'manual' | 'derived';
+  config: Record<string, any>;
   tolerance?: number; // For numeric questions
 }
 
@@ -28,7 +29,8 @@ export interface QuestionMetadata {
   difficulty?: 'easy' | 'medium' | 'hard';
 }
 
-export interface UserAnswer {
+//data transfer object (stops user accesing DB without having to make readonly))
+export interface UserAnswerDTO {
   id: string;
   userId: string;
   questionId: string;
@@ -36,7 +38,8 @@ export interface UserAnswer {
   submittedAt: Date;
 }
 
-export interface QuestionResult {
+//data transfer object (stops user accesing DB without having to make readonly)
+export interface QuestionResultDTO {
   id: string;
   questionId: string;
   correctAnswer: any;
