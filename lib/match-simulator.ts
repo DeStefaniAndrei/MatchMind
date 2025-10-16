@@ -14,22 +14,21 @@ class MatchSimulator {
   private states: Map<string, SimState> = new Map()
   private tickHandle: ReturnType<typeof setInterval> | null = null
   private started: boolean = false
+  private lastTickTime: number = 0
 
   async start(): Promise<void> {
     if (this.started) return
-    console.log('Starting match simulator...')
     // Seed from simplified JSON at runtime; normalize state per match
     const seeded = await this.loadTrainingMatches()
-    console.log('Loaded training matches:', seeded.length)
     for (const m of seeded) {
       const id = String(m.id)
       this.states.set(id, { baseMatch: { ...m, id }, currentMinute: 0 })
     }
-    console.log('States initialized:', this.states.size)
 
     const interval = getSimulatedMinuteMs()
     this.tickHandle = setInterval(() => this.tick(), interval)
     this.started = true
+    this.lastTickTime = Date.now()
   }
 
   stop(): void {
@@ -39,9 +38,15 @@ class MatchSimulator {
   }
 
   private tick(): void {
+    const now = Date.now()
+    this.lastTickTime = now
+    
+    const updates: string[] = []
     for (const [id, state] of this.states) {
+      const prev = state.currentMinute
       const next = Math.min((state.currentMinute ?? 0) + 1, 90)
       state.currentMinute = next
+      updates.push(`${id}:${prev}->${next}`)
     }
   }
 
@@ -181,11 +186,9 @@ class MatchSimulator {
 
   async getMatches(): Promise<Match[]> {
     if (!this.started) {
-      console.log('Starting match simulator...')
       await this.start()
     }
     const matches = Array.from(this.states.values()).map(s => this.deriveMatch(s))
-    console.log('Returning matches:', matches.length)
     return matches
   }
 
@@ -194,6 +197,26 @@ class MatchSimulator {
     const state = this.states.get(String(matchId))
     if (!state) return null
     return this.deriveMatch(state)
+  }
+
+  // Method to ensure simulator is always running
+  ensureRunning(): void {
+    if (!this.started) {
+      this.start().catch(console.error)
+    }
+  }
+
+  // Get current status for debugging
+  getStatus(): { started: boolean, matchCount: number, currentMinutes: Record<string, number> } {
+    const currentMinutes: Record<string, number> = {}
+    for (const [id, state] of this.states) {
+      currentMinutes[id] = state.currentMinute
+    }
+    return {
+      started: this.started,
+      matchCount: this.states.size,
+      currentMinutes
+    }
   }
 }
 

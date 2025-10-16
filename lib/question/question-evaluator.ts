@@ -7,7 +7,7 @@
 
 import { Question, QuestionType, EvaluationRule, UserAnswer } from './question-domain';
 // import { getMatchStats, getMatchEvents } from './sportmonks-api';
-import { getMatchById } from '../api/match-service';
+// import { getMatchById } from '../api/match-service';
 
 export interface EvaluationContext {
   matchId: string;

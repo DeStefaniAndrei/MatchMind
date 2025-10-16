@@ -22,14 +22,12 @@ export default async function MatchPage({ params }: MatchPageProps) {
       <main className="container mx-auto px-4 py-8">
         <div className="grid gap-8 lg:grid-cols-4">
           <div className="lg:col-span-2">
-            <div className="grid gap-6 lg:grid-cols-2">
-              <div>
-                <ActiveQuestionsSidebar matchId={id} />
-              </div>
-              <div>
-                <LiveMatch matchId={id} />
-              </div>
+            <div>
+              <LiveMatch matchId={id} />
             </div>
+          </div>
+          <div>
+            <ActiveQuestionsSidebar matchId={id} />
           </div>
           <div>
             <MatchLeaderboard matchId={id} />

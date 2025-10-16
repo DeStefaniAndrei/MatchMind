@@ -1,7 +1,7 @@
 // Real-time Question Service
 // Manages question generation, timing, and scoring for live matches
 
-import { aiPredictionService, getStatsFromCumulative, type MatchStats, type PredictionResult } from '../ai-prediction-service'
+import { aiPredictionService, getStatsFromCumulative, type MatchStats, type PredictionResult } from './ai-prediction-service'
 import { matchSimulator } from '../match-simulator'
 
 export interface LiveQuestion {

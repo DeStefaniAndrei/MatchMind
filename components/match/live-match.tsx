@@ -15,7 +15,7 @@ interface LiveMatchProps {
   matchId: string
 }
 
-// Maintainable lists of event types to show in the Live Events pane
+// -- EVENT TYPES THAT SHOW--
 const GOAL_EVENT_TYPES = [
   'shot_goal', // from simplified JSON normalization
   'goal' // fallback
@@ -44,6 +44,10 @@ function isDisplayableEvent(type: string): boolean {
     isSetPiece(type)
   )
 }
+
+
+
+
 
 export function LiveMatch({ matchId }: LiveMatchProps) {
   const [currentQuestion, setCurrentQuestion] = useState<LiveQuestion | null>(null)
@@ -108,18 +112,19 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
       try {
         const match = await fetchMatchById(matchId)
         if (!match) return
-        const prevMinute = matchMinute
+        
         setHomeTeam(match.homeTeam || "Home Team")
         setAwayTeam(match.awayTeam || "Away Team")
         setHomeScore(match.homeScore ?? 0)
         setAwayScore(match.awayScore ?? 0)
         setMatchMinute(match.minute ?? 0)
         setEvents(Array.isArray(match.events) ? match.events : [])
-        if ((match.minute ?? 0) > prevMinute) {
+        
+        if ((match.minute ?? 0) > matchMinute) {
           realtimeQuestionService.updateMatchMinute(matchId, match.minute ?? 0)
         }
       } catch (e) {
-        // ignore transient errors
+        console.error('[LiveMatch] Poll error:', e)
       }
     }, minuteMs)
 

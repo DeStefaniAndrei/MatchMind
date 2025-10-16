@@ -29,9 +29,19 @@ export async function fetchMatches() {
   try {
     if (typeof window !== 'undefined') {
       const res = await fetch('/api/matches', { cache: 'no-store' })
-      return await res.json()
+      const data = await res.json()
+      
+      // Handle new API response format
+      if (data.matches) {
+        return data.matches
+      }
+      
+      // Fallback for old format
+      return data
     }
-  } catch {}
+  } catch (error) {
+    console.error('Error fetching matches:', error)
+  }
   return matchSimulator.getMatches()
 }
 

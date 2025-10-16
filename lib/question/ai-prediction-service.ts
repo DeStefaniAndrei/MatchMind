@@ -2,7 +2,7 @@
 
 // Note: This service is now browser-compatible and uses static model loading
 
-import { Question, QuestionType, EvaluationRule, QuestionOption } from './question/question-domain';
+import { Question, QuestionType, EvaluationRule, QuestionOption } from './question-domain';
 
 export interface MatchStats {
   minute: number
@@ -413,7 +413,7 @@ export const aiPredictionService = new AIPredictionService()
 
 
 // Build stats from a Match cumulative snapshot
-import type { CumulativeMinuteStats } from './types'
+import type { CumulativeMinuteStats } from '../types'
 export function getStatsFromCumulative(snapshot?: CumulativeMinuteStats): MatchStats {
   if (!snapshot) return { minute: 0, events: {} }
   const byTeam = snapshot.byTeam || { home: {}, away: {}, unknown: {} }
