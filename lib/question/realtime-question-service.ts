@@ -20,6 +20,7 @@ export interface LiveQuestion {
   expiresAt: Date
 }
 
+//defaulted at line 50
 export interface QuestionConfig {
   questionInterval: number // seconds between questions (default: 30)
   answerTimeLimit: number // seconds to answer (default: 30)
@@ -35,6 +36,7 @@ export interface MatchQuestionState {
   config: QuestionConfig
   isActive: boolean
   lastQuestionTime: Date | null
+  nextQuestionTime: Date | null // When the next question will be generated
 }
 
 class RealtimeQuestionService {
@@ -148,7 +150,8 @@ class RealtimeQuestionService {
       totalScore: 0,
       config: fullConfig,
       isActive: false,
-      lastQuestionTime: null
+      lastQuestionTime: null,
+      nextQuestionTime: null
     }
 
     this.matchStates.set(matchId, matchState)
@@ -164,6 +167,8 @@ class RealtimeQuestionService {
 
     matchState.isActive = true
     matchState.lastQuestionTime = new Date()
+    // Set next question time to 30 seconds from now
+    matchState.nextQuestionTime = new Date(Date.now() + matchState.config.questionInterval * 1000)
 
     // Generate the first question immediately
     this.generateQuestion(matchId).then(() => {
@@ -212,6 +217,9 @@ class RealtimeQuestionService {
     const matchState = this.matchStates.get(matchId)
     if (!matchState || !matchState.isActive) return
 
+    // Update next question time
+    matchState.nextQuestionTime = new Date(Date.now() + matchState.config.questionInterval * 1000)
+
     const timer = setTimeout(async () => {
       try {
         await this.generateQuestion(matchId)
@@ -237,6 +245,13 @@ class RealtimeQuestionService {
       return
     }
 
+    // Don't generate a new question if there's already an unanswered question
+    const hasUnansweredQuestion = matchState.questions.some(q => !q.answered)
+    if (hasUnansweredQuestion) {
+      console.log(`Match ${matchId} already has an unanswered question, skipping generation`)
+      return
+    }
+
     try {
       // Build stats from Match.cumulativeStats
       const simMatch = await matchSimulator.getMatchById(matchId);
@@ -255,7 +270,7 @@ class RealtimeQuestionService {
       // Generate AI prediction
       const prediction = await aiPredictionService.generateQuestion(currentStats, lagStats)
       
-      // Remove ONLY old expired unanswered questions (keep answered ones)
+      // Remove ONLY expired unanswered questions (keep all answered questions)
       const now = Date.now()
       matchState.questions = matchState.questions.filter(q => 
         q.answered || new Date(q.expiresAt).getTime() > now
@@ -302,23 +317,27 @@ class RealtimeQuestionService {
       question.timeLeft -= 1
 
       if (question.timeLeft <= 0) {
+        this.expireUnansweredQuestion(matchId, questionId)
         clearInterval(countdownInterval)
-        this.expireQuestion(matchId, questionId)
       }
     }, 1000)
   }
 
-  // Handle question expiration
-  private expireQuestion(matchId: string, questionId: string): void {
+  // Handle question expiration for UNANSWERED questions
+  private expireUnansweredQuestion(matchId: string, questionId: string): void {
     const matchState = this.matchStates.get(matchId)
     if (!matchState) return
 
     const question = matchState.questions.find(q => q.id === questionId)
     if (!question || question.answered) return
 
-    // Run custom expiration logic
-    this.onQuestionExpired(matchId, question)
-    console.log(`Question ${questionId} expired for match ${matchId}`)
+    // // Run custom expiration logic
+    // this.onQuestionExpired(matchId, question)
+    
+    // Remove the expired unanswered question from the array
+    matchState.questions = matchState.questions.filter(q => q.id !== questionId)
+    
+    console.log(`Question ${questionId} expired and removed for match ${matchId}`)
   }
 
   // Submit an answer for a question
@@ -441,6 +460,21 @@ class RealtimeQuestionService {
     this.matchStates.delete(matchId)
     this.saveToLocalStorage()
     console.log(`Cleared all questions for match ${matchId}`)
+  }
+
+  // Get time until next question (in seconds)
+  getTimeUntilNextQuestion(matchId: string): number {
+    const matchState = this.matchStates.get(matchId)
+    if (!matchState || !matchState.nextQuestionTime) return 0
+    
+    const timeLeft = Math.max(0, Math.ceil((matchState.nextQuestionTime.getTime() - Date.now()) / 1000))
+    return timeLeft
+  }
+
+  // Get next question time
+  getNextQuestionTime(matchId: string): Date | null {
+    const matchState = this.matchStates.get(matchId)
+    return matchState?.nextQuestionTime || null
   }
 
   // Clean up resources

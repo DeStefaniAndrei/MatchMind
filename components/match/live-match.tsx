@@ -11,9 +11,17 @@ import { fetchMatchById } from "@/lib/api/api"
 import { getSimulatedMinuteMs } from "@/lib/sim-config"
 import { realtimeQuestionService, type LiveQuestion } from "@/lib/question/realtime-question-service"
 
+  // Question config (set here as some componet scale size with it)
+  const QUESTION_INTERVAL = 10 // seconds between questions
+  const ANSWER_TIME_LIMIT = 60 // seconds to answer
+  const POINTS_PER_CORRECT = 10 // points for correct answer
+  const MAX_QUESTIONS_PER_MATCH = 180 // max questions per match
+
 interface LiveMatchProps {
   matchId: string
 }
+
+
 
 // -- EVENT TYPES THAT SHOW--
 const GOAL_EVENT_TYPES = [
@@ -59,7 +67,10 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
   const [homeScore, setHomeScore] = useState<number>(0)
   const [awayScore, setAwayScore] = useState<number>(0)
   const [isQuestionServiceActive, setIsQuestionServiceActive] = useState(false)
+  const [timeUntilNextQuestion, setTimeUntilNextQuestion] = useState<number>(0)
   const { toast } = useToast()
+
+
 
   useEffect(() => {
     const loadFromMatch = async () => {
@@ -109,11 +120,12 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
           // - Trigger other side effects
         })
 
+        //set as global variable in start of file as some componet scale size with it
         await realtimeQuestionService.initializeMatch(matchId, {
-          questionInterval: 30, // 30 seconds between questions
-          answerTimeLimit: 60, // 60 seconds (1 minute) to answer
-          pointsPerCorrect: 10, // 10 points per correct answer
-          maxQuestionsPerMatch: 180 // 90 minutes * 2 questions per minute
+          questionInterval: QUESTION_INTERVAL, 
+          answerTimeLimit: ANSWER_TIME_LIMIT,    
+          pointsPerCorrect: POINTS_PER_CORRECT, 
+          maxQuestionsPerMatch: MAX_QUESTIONS_PER_MATCH 
         })
         
         realtimeQuestionService.startMatch(matchId)
@@ -159,16 +171,21 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
     }
   }, [matchId, toast])
 
-  // Poll for current question updates
+  // Poll for current question updates and countdown timer
   useEffect(() => {
     if (!isQuestionServiceActive) return
 
     const pollInterval = setInterval(() => {
+      // Update current question
       const question = realtimeQuestionService.getCurrentQuestion(matchId)
       if (question && question.id !== currentQuestion?.id) {
         setCurrentQuestion(question)
         setSelectedAnswer(null)
       }
+      
+      // Update countdown to next question timer (independent of question state) 
+      const timeLeft = realtimeQuestionService.getTimeUntilNextQuestion(matchId)
+      setTimeUntilNextQuestion(timeLeft)
     }, 1000) // Poll every second
 
     return () => clearInterval(pollInterval)
@@ -184,21 +201,6 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
       setCurrentQuestion({ ...currentQuestion, answered: true })
       // Score is user-specific and not in Match type; integrate later if needed
       
-      // Show immediate submission feedback
-      toast({
-        title: "Answer Submitted!",
-        description: `You selected: ${selectedAnswer}. ${result.pointsAwarded > 0 ? `+${result.pointsAwarded} points!` : 'Calculating...'}`,
-      })
-
-      // If points were awarded immediately, show success
-      if (result.pointsAwarded > 0) {
-        setTimeout(() => {
-          toast({
-            title: "Correct!",
-            description: `You earned ${result.pointsAwarded} points for your prediction!`,
-          })
-        }, 2000)
-      }
     } else {
       toast({
         title: "Error",
@@ -238,29 +240,35 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
         <CardContent>
           <div className="text-center">
             <div className="text-3xl font-bold mb-2">{homeScore} - {awayScore}</div>
-            {/* Your Score is not part of Match; omitted to keep data strictly from Match */}
-            <div className="mt-2 flex items-center justify-center gap-2">
-              <Target className="h-4 w-4 text-green-500" />
-              <span className="text-sm text-green-600">Rank #3</span>
-            </div>
+          
           </div>
         </CardContent>
+      </Card>
+
+      {/* Next Question Countdown Timer (Always visible, independent of current question) */}
+      <Card>
+        <CardHeader>
+          <div className="flex items-center justify-between">
+            <CardTitle className="flex items-center gap-2">
+              <Clock className="h-5 w-5 text-blue-500" />
+              Next Question
+            </CardTitle>
+            <Badge variant={timeUntilNextQuestion <= 5 ? "destructive" : "secondary"}>
+              {timeUntilNextQuestion}s
+            </Badge>
+          </div>
+          <Progress value={(timeUntilNextQuestion / QUESTION_INTERVAL) * 100} className="w-full" />
+        </CardHeader>
       </Card>
 
       {/* Current Question */}
       {currentQuestion ? (
         <Card>
           <CardHeader>
-            <div className="flex items-center justify-between">
-              <CardTitle className="flex items-center gap-2">
-                <Brain className="h-5 w-5 text-blue-500" />
-                AI Prediction Question
-              </CardTitle>
-              <Badge variant={isTimeUp ? "destructive" : "secondary"}>
-                {currentQuestion.timeLeft}s left
-              </Badge>
-            </div>
-            <Progress value={(currentQuestion.timeLeft / 30) * 100} className="w-full" />
+            <CardTitle className="flex items-center gap-2">
+              <Brain className="h-5 w-5 text-blue-500" />
+              AI Prediction Question
+            </CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
             <p className="text-lg font-medium">{currentQuestion.text}</p>
@@ -284,6 +292,11 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
             >
               Submit Answer
             </Button>
+            {currentQuestion.answered && (
+              <div className="text-center text-sm text-green-600">
+                ✓ Answer submitted! Check Active Questions for results.
+              </div>
+            )}
           </CardContent>
         </Card>
       ) : (
@@ -302,10 +315,6 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
                   : "Question service is starting up..."
                 }
               </p>
-              <div className="mt-4">
-                <div className="animate-pulse bg-muted h-4 rounded w-3/4 mx-auto mb-2"></div>
-                <div className="animate-pulse bg-muted h-4 rounded w-1/2 mx-auto"></div>
-              </div>
             </div>
           </CardContent>
         </Card>
@@ -319,10 +328,10 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
         <CardContent>
           <div className="space-y-3">
             {events
-              //ony type of events that are displated sorted by time max 15
+              // Filter displayable events, sort by time (most recent first), show most recent 10
               .filter((e) => isDisplayableEvent(String(e.type)))
               .sort((a, b) => (b.minute ?? 0) - (a.minute ?? 0))
-              .slice(-10)
+              .slice(0, 10)
               .map((event) => (
               <div key={event.id} className="flex items-center gap-3 p-3 bg-muted rounded-lg">
                 <div className={`w-3 h-3 rounded-full ${
