@@ -11,11 +11,6 @@ import { fetchMatchById } from "@/lib/api/api"
 import { getSimulatedMinuteMs } from "@/lib/sim-config"
 import { realtimeQuestionService, type LiveQuestion } from "@/lib/question/realtime-question-service"
 
-  // Question config (set here as some componet scale size with it)
-  const QUESTION_INTERVAL = 10 // seconds between questions
-  const ANSWER_TIME_LIMIT = 60 // seconds to answer
-  const POINTS_PER_CORRECT = 10 // points for correct answer
-  const MAX_QUESTIONS_PER_MATCH = 180 // max questions per match
 
 interface LiveMatchProps {
   matchId: string
@@ -112,21 +107,10 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
               variant: "destructive"
             })
           }
-          
-          // Here you can add logic to:
-          // - Evaluate answer against actual match events
-          // - Update user scores
-          // - Send to analytics
-          // - Trigger other side effects
+
         })
 
-        //set as global variable in start of file as some componet scale size with it
-        await realtimeQuestionService.initializeMatch(matchId, {
-          questionInterval: QUESTION_INTERVAL, 
-          answerTimeLimit: ANSWER_TIME_LIMIT,    
-          pointsPerCorrect: POINTS_PER_CORRECT, 
-          maxQuestionsPerMatch: MAX_QUESTIONS_PER_MATCH 
-        })
+        realtimeQuestionService.initializeMatch(matchId)
         
         realtimeQuestionService.startMatch(matchId)
         setIsQuestionServiceActive(true)
@@ -257,7 +241,7 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
               {timeUntilNextQuestion}s
             </Badge>
           </div>
-          <Progress value={(timeUntilNextQuestion / QUESTION_INTERVAL) * 100} className="w-full" />
+          <Progress value={(timeUntilNextQuestion / (realtimeQuestionService.getMatchState(matchId)?.config.questionInterval || 30)) * 100} className="w-full" />
         </CardHeader>
       </Card>
 

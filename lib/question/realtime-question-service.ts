@@ -4,6 +4,7 @@
 
 import { aiPredictionService, getStatsFromCumulative, type MatchStats, type PredictionResult } from './ai-prediction-service'
 import { matchSimulator } from '../match-simulator'
+import { leaderboardService } from '../leaderboard-service'
 
 export interface LiveQuestion {
   id: string
@@ -11,6 +12,7 @@ export interface LiveQuestion {
   options: string[]
   eventType: string
   predictedCount: number
+  questionFormat: 'more_than' | 'less_than' | 'will_happen' // Question type for evaluation
   correctAnswer: boolean | null // null = not yet determined
   timeLeft: number
   answered: boolean
@@ -18,6 +20,9 @@ export interface LiveQuestion {
   pointsAwarded: number
   createdAt: Date
   expiresAt: Date
+  // Stats for evaluation
+  statsAtCreation: { home: number, away: number, total: number } // Event count when question was asked
+  statsAtResolution?: { home: number, away: number, total: number } // Event count when question expires
 }
 
 //defaulted at line 50
@@ -37,6 +42,7 @@ export interface MatchQuestionState {
   isActive: boolean
   lastQuestionTime: Date | null
   nextQuestionTime: Date | null // When the next question will be generated
+  userId?: string // User ID for score tracking
 }
 
 class RealtimeQuestionService {
@@ -47,7 +53,7 @@ class RealtimeQuestionService {
   constructor() {
     // Initialize with default config
     this.defaultConfig = {
-      questionInterval: 30, // 30 seconds
+      questionInterval: 10, // 30 seconds
       answerTimeLimit: 60, // 60 seconds (1 minute) to answer
       pointsPerCorrect: 10, // 10 points per correct answer
       maxQuestionsPerMatch: 180 // 90 minutes * 2 questions per minute
@@ -59,7 +65,7 @@ class RealtimeQuestionService {
 
   private defaultConfig: QuestionConfig
 
-  // Save questions to localStorage
+  // Save questions to localStorage (happens if answered)
   private saveToLocalStorage(): void {
     if (typeof window === 'undefined') return
 
@@ -140,7 +146,7 @@ class RealtimeQuestionService {
   }
 
   // Initialize a match for question generation
-  async initializeMatch(matchId: string, config?: Partial<QuestionConfig>): Promise<void> {
+  async initializeMatch(matchId: string, userId?: string, config?: Partial<QuestionConfig>): Promise<void> {
     const fullConfig = { ...this.defaultConfig, ...config }
     
     const matchState: MatchQuestionState = {
@@ -151,11 +157,22 @@ class RealtimeQuestionService {
       config: fullConfig,
       isActive: false,
       lastQuestionTime: null,
-      nextQuestionTime: null
+      nextQuestionTime: null,
+      userId
     }
 
     this.matchStates.set(matchId, matchState)
     console.log(`Initialized match ${matchId} with config:`, fullConfig)
+    
+    // Initialize leaderboard entry for this user
+    if (userId) {
+      try {
+        await leaderboardService.initializeUserEntry(matchId, userId)
+        console.log(`Initialized leaderboard entry for user ${userId} in match ${matchId}`)
+      } catch (error) {
+        console.error('Failed to initialize leaderboard entry:', error)
+      }
+    }
   }
 
   // Start question generation for a match
@@ -245,12 +262,7 @@ class RealtimeQuestionService {
       return
     }
 
-    // Don't generate a new question if there's already an unanswered question
-    const hasUnansweredQuestion = matchState.questions.some(q => !q.answered)
-    if (hasUnansweredQuestion) {
-      console.log(`Match ${matchId} already has an unanswered question, skipping generation`)
-      return
-    }
+ 
 
     try {
       // Build stats from Match.cumulativeStats
@@ -276,6 +288,12 @@ class RealtimeQuestionService {
         q.answered || new Date(q.expiresAt).getTime() > now
       )
 
+      // Get current cumulative stats for this event type
+      const eventTypeLower = prediction.eventType.toLowerCase().replace(/\s+/g, '_')
+      const homeCount = currentSnapshot?.byTeam?.home?.[prediction.eventType] || 0
+      const awayCount = currentSnapshot?.byTeam?.away?.[prediction.eventType] || 0
+      const totalCount = homeCount + awayCount
+
       // Create the question with 30-second display timer
       const question: LiveQuestion = {
         id: `${matchId}-q${Date.now()}`,
@@ -283,13 +301,15 @@ class RealtimeQuestionService {
         options: ['Yes', 'No'],
         eventType: prediction.eventType,
         predictedCount: prediction.predictedCount,
+        questionFormat: prediction.questionFormat,
         correctAnswer: null,
         timeLeft: 30, // 30 seconds to answer before it disappears
         answered: false,
         userAnswer: null,
         pointsAwarded: 0,
         createdAt: new Date(),
-        expiresAt: new Date(Date.now() + 30000) // 30 seconds from now
+        expiresAt: new Date(Date.now() + 30000), // 30 seconds from now
+        statsAtCreation: { home: homeCount, away: awayCount, total: totalCount }
       }
 
       matchState.questions.push(question)
@@ -313,14 +333,24 @@ class RealtimeQuestionService {
     const question = matchState.questions.find(q => q.id === questionId)
     if (!question) return
 
+    // Clear any existing countdown for this question to prevent double-counting (as counter form when being asked still exists )
+    const existingTimer = this.questionTimers.get(questionId)
+    if (existingTimer) {
+      clearInterval(existingTimer)
+    }
+
     const countdownInterval = setInterval(() => {
       question.timeLeft -= 1
 
       if (question.timeLeft <= 0) {
         this.expireUnansweredQuestion(matchId, questionId)
         clearInterval(countdownInterval)
+        this.questionTimers.delete(questionId)
       }
     }, 1000)
+    
+    // Store the timer so we can clear it if needed
+    this.questionTimers.set(questionId, countdownInterval)
   }
 
   // Handle question expiration for UNANSWERED questions
@@ -331,13 +361,101 @@ class RealtimeQuestionService {
     const question = matchState.questions.find(q => q.id === questionId)
     if (!question || question.answered) return
 
-    // // Run custom expiration logic
-    // this.onQuestionExpired(matchId, question)
-    
     // Remove the expired unanswered question from the array
     matchState.questions = matchState.questions.filter(q => q.id !== questionId)
     
-    console.log(`Question ${questionId} expired and removed for match ${matchId}`)
+    console.log(`Unanswered question ${questionId} expired and removed for match ${matchId}`)
+  }
+
+  // Handle question expiration for ANSWERED questions
+  private async expireAnsweredQuestion(matchId: string, questionId: string): Promise<void> {
+    const matchState = this.matchStates.get(matchId)
+    if (!matchState) return
+
+    const question = matchState.questions.find(q => q.id === questionId)
+    if (!question || !question.answered) return
+
+    try {
+      // Get current cumulative stats for this event type
+      const simMatch = await matchSimulator.getMatchById(matchId)
+      const currentSnapshot = simMatch?.cumulativeStats?.find((s: any) => s.minute === matchState.currentMinute)
+      
+      const homeCount = currentSnapshot?.byTeam?.home?.[question.eventType] || 0
+      const awayCount = currentSnapshot?.byTeam?.away?.[question.eventType] || 0
+      const totalCount = homeCount + awayCount
+
+      // Store stats at resolution
+      question.statsAtResolution = { home: homeCount, away: awayCount, total: totalCount }
+
+      // Calculate how many events occurred
+      const eventsOccurred = totalCount - question.statsAtCreation.total
+
+      // Evaluate based on question format
+      let isCorrect = false
+      
+      if (question.questionFormat === 'will_happen') {
+        // For "Will a <event> happen?" - correct if at least 1 occurred
+        isCorrect = eventsOccurred >= 1
+      } else if (question.questionFormat === 'more_than') {
+        // For "Will more than X happen?" - correct if events > predictedCount
+        isCorrect = eventsOccurred > question.predictedCount
+      } else if (question.questionFormat === 'less_than') {
+        // For "Will less than X happen?" - correct if events < predictedCount
+        isCorrect = eventsOccurred < question.predictedCount
+      }
+
+      // Check if user's answer was correct
+      const userAnsweredYes = question.userAnswer?.toLowerCase() === 'yes'
+      const userWasCorrect = userAnsweredYes === isCorrect
+
+      // Award points if correct
+      if (userWasCorrect) {
+        question.pointsAwarded = matchState.config.pointsPerCorrect
+        matchState.totalScore += question.pointsAwarded
+        question.correctAnswer = true
+      } else {
+        question.pointsAwarded = 0
+        question.correctAnswer = false
+      }
+
+      console.log(`Answered question ${questionId} evaluated:`, {
+        eventType: question.eventType,
+        format: question.questionFormat,
+        predictedCount: question.predictedCount,
+        eventsOccurred,
+        userAnswer: question.userAnswer,
+        isCorrect: userWasCorrect,
+        pointsAwarded: question.pointsAwarded
+      })
+
+      // Save score to database if userId is available
+      if (matchState.userId) {
+        try {
+          await leaderboardService.updateUserScore(
+            matchId,
+            matchState.userId,
+            question.pointsAwarded,
+            userWasCorrect
+          )
+          console.log(`Updated leaderboard for user ${matchState.userId}: +${question.pointsAwarded} points`)
+        } catch (error) {
+          console.error('Failed to update leaderboard:', error)
+        }
+      }
+
+      // Save to localStorage with updated evaluation
+      this.saveToLocalStorage()
+
+      // Run custom expiration handler
+      this.onQuestionExpired(matchId, question)
+
+    } catch (error) {
+      console.error(`Failed to evaluate answered question ${questionId}:`, error)
+    }
+
+    // Remove from array after evaluation
+    matchState.questions = matchState.questions.filter(q => q.id !== questionId)
+    console.log(`Answered question ${questionId} expired, evaluated, and removed`)
   }
 
   // Submit an answer for a question
@@ -359,17 +477,6 @@ class RealtimeQuestionService {
     question.expiresAt = new Date(Date.now() + expirationTime)
     question.timeLeft = matchState.config.answerTimeLimit
 
-    // For now, we'll determine correctness after the time window
-    // In a real implementation, this would be determined by actual match events
-    const isCorrect = Math.random() > 0.5 // Placeholder logic
-    question.correctAnswer = isCorrect
-
-    if (isCorrect) {
-      question.pointsAwarded = matchState.config.pointsPerCorrect
-      matchState.totalScore += question.pointsAwarded
-    }
-
-    console.log(`Answer submitted for question ${questionId}: ${answer} - Now showing in ActiveQuestions for ${matchState.config.answerTimeLimit}s`)
 
     // Save to localStorage ONLY after submission
     this.saveToLocalStorage()
@@ -377,9 +484,10 @@ class RealtimeQuestionService {
     // Restart the countdown timer with new 60-second expiration
     this.startQuestionCountdown(matchId, question.id)
 
+    // Return 0 points for now - actual points awarded after evaluation
     return { 
       success: true, 
-      pointsAwarded: question.pointsAwarded 
+      pointsAwarded: 0 // Will be set after evaluation when timer expires
     }
   }
 

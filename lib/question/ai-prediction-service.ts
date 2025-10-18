@@ -18,6 +18,7 @@ export interface PredictionResult {
   predictedCount: number
   confidence: number
   questionText: string
+  questionFormat: 'more_than' | 'less_than' | 'will_happen'
 }
 
 export interface AIQuestionTemplate {
@@ -162,8 +163,26 @@ class AIPredictionService {
     
     const predictedCount = await this.predictEventCount(eventType, currentStats, lagStats)
     
-    // Generate question text
-    const questionText = `Will there be more than ${predictedCount} ${eventType.toLowerCase()}s in the next minute?`
+    // Generate question text based on predicted count
+    let questionText: string
+    let questionFormat: 'more_than' | 'less_than' | 'will_happen'
+    
+    if (predictedCount <= 1) {
+      // Rare events: Use "Will a <eventtype> happen" format
+      questionText = `Will a ${eventType.toLowerCase()} happen in the next minute?`
+      questionFormat = 'will_happen'
+    } else {
+      // Common events: Randomly choose between "more than" or "less than"
+      const questionType = Math.random() > 0.5 ? 'more' : 'less'
+      
+      if (questionType === 'more') {
+        questionText = `Will more than ${predictedCount} ${eventType.toLowerCase()}s happen in the next minute?`
+        questionFormat = 'more_than'
+      } else {
+        questionText = `Will less than ${predictedCount} ${eventType.toLowerCase()}s happen in the next minute?`
+        questionFormat = 'less_than'
+      }
+    }
     
     // Calculate confidence based on model performance (simplified)
     const confidence = Math.min(0.9, Math.max(0.3, 1 - (predictedCount / 20)))
@@ -172,7 +191,8 @@ class AIPredictionService {
       eventType,
       predictedCount,
       confidence,
-      questionText
+      questionText,
+      questionFormat
     }
   }
 
