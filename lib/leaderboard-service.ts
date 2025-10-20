@@ -6,9 +6,9 @@
 import { supabase } from './supabaseClient'
 
 export interface LeaderboardEntry {
-  id?: string
-  matchId: string
-  userId: string
+  id?: number
+  matchId: number
+  userId: number
   username?: string
   rank: number
   score: number
@@ -20,7 +20,7 @@ export interface LeaderboardEntry {
 }
 
 export interface UserScoreUpdate {
-  userId: string
+  userId: number
   pointsEarned: number
   isCorrect: boolean
 }
@@ -30,28 +30,33 @@ export class LeaderboardService {
    * Update or insert a user's score for a match
    */
   async updateUserScore(
-    matchId: string, 
-    userId: string, 
+    matchId: number, 
+    userId: number, 
     pointsEarned: number, 
     isCorrect: boolean
   ): Promise<void> {
     try {
+      console.log(`🔍 Looking for leaderboard entry: matchId=${matchId}, userId=${userId}`)
+      
       // Get current leaderboard entry or create new one
       const { data: existing, error: fetchError } = await supabase
-        .from('leaderboard')
+        .from('leaderboard_entry')
         .select('*')
         .eq('match_id', matchId)
         .eq('user_id', userId)
         .single()
 
       if (fetchError && fetchError.code !== 'PGRST116') { // PGRST116 = no rows returned
+        console.error('❌ Error fetching leaderboard entry:', fetchError)
         throw fetchError
       }
 
       if (existing) {
+        console.log(`📝 Updating existing entry. Current score: ${existing.score}, Adding: ${pointsEarned}`)
+        
         // Update existing entry
         const { error: updateError } = await supabase
-          .from('leaderboard')
+          .from('leaderboard_entry')
           .update({
             score: existing.score + pointsEarned,
             total_points: existing.total_points + pointsEarned,
@@ -62,11 +67,18 @@ export class LeaderboardService {
           .eq('match_id', matchId)
           .eq('user_id', userId)
 
-        if (updateError) throw updateError
+        if (updateError) {
+          console.error('❌ Error updating entry:', updateError)
+          throw updateError
+        }
+        
+        console.log(`✅ Successfully updated score. New score: ${existing.score + pointsEarned}`)
       } else {
+        console.log(`📝 No existing entry found, creating new one with score: ${pointsEarned}`)
+        
         // Insert new entry
         const { error: insertError } = await supabase
-          .from('leaderboard')
+          .from('leaderboard_entry')
           .insert({
             match_id: matchId,
             user_id: userId,
@@ -78,13 +90,20 @@ export class LeaderboardService {
             reward_amount: 0
           })
 
-        if (insertError) throw insertError
+        if (insertError) {
+          console.error('❌ Error inserting new entry:', insertError)
+          throw insertError
+        }
+        
+        console.log(`✅ Successfully created new entry with score: ${pointsEarned}`)
       }
 
       // Recalculate ranks for this match
+      console.log(`🔄 Recalculating ranks for match ${matchId}`)
       await this.recalculateRanks(matchId)
+      console.log(`✅ Ranks recalculated successfully`)
     } catch (error) {
-      console.error('Error updating user score:', error)
+      console.error('❌ Error updating user score:', error)
       throw error
     }
   }
@@ -92,7 +111,7 @@ export class LeaderboardService {
   /**
    * Update multiple users' scores in batch (more efficient)
    */
-  async batchUpdateScores(matchId: string, updates: UserScoreUpdate[]): Promise<void> {
+  async batchUpdateScores(matchId: number, updates: UserScoreUpdate[]): Promise<void> {
     try {
       // Process all updates
       for (const update of updates) {
@@ -112,11 +131,11 @@ export class LeaderboardService {
   /**
    * Recalculate ranks for all users in a match based on their scores
    */
-  async recalculateRanks(matchId: string): Promise<void> {
+  async recalculateRanks(matchId: number): Promise<void> {
     try {
       // Fetch all entries for this match, ordered by score
       const { data: entries, error: fetchError } = await supabase
-        .from('leaderboard')
+        .from('leaderboard_entry')
         .select('id, user_id, score')
         .eq('match_id', matchId)
         .order('score', { ascending: false })
@@ -127,7 +146,7 @@ export class LeaderboardService {
       // Update ranks
       for (let i = 0; i < entries.length; i++) {
         const { error: updateError } = await supabase
-          .from('leaderboard')
+          .from('leaderboard_entry')
           .update({ rank: i + 1 })
           .eq('id', entries[i].id)
 
@@ -142,10 +161,10 @@ export class LeaderboardService {
   /**
    * Get leaderboard for a specific match with user details
    */
-  async getMatchLeaderboard(matchId: string, limit?: number): Promise<LeaderboardEntry[]> {
+  async getMatchLeaderboard(matchId: number, limit?: number): Promise<LeaderboardEntry[]> {
     try {
       let query = supabase
-        .from('leaderboard')
+        .from('leaderboard_entry')
         .select(`
           id,
           match_id,
@@ -178,7 +197,7 @@ export class LeaderboardService {
         id: entry.id,
         matchId: entry.match_id,
         userId: entry.user_id,
-        username: entry.users?.username || `User ${entry.user_id.slice(0, 8)}`,
+        username: entry.users?.username || `User ${entry.user_id.toString().slice(0, 8)}`,
         rank: entry.rank,
         score: entry.score,
         totalPoints: entry.total_points,
@@ -196,10 +215,10 @@ export class LeaderboardService {
   /**
    * Get a user's rank and score for a specific match
    */
-  async getUserRank(matchId: string, userId: string): Promise<LeaderboardEntry | null> {
+  async getUserRank(matchId: number, userId: number): Promise<LeaderboardEntry | null> {
     try {
       const { data, error } = await supabase
-        .from('leaderboard')
+        .from('leaderboard_entry')
         .select(`
           id,
           match_id,
@@ -223,11 +242,13 @@ export class LeaderboardService {
         throw error
       }
 
+      const users = Array.isArray(data.users) ? data.users[0] : data.users;
+      
       return {
         id: data.id,
         matchId: data.match_id,
         userId: data.user_id,
-        username: data.users?.username,
+        username: users?.username,
         rank: data.rank,
         score: data.score,
         totalPoints: data.total_points,
@@ -244,21 +265,32 @@ export class LeaderboardService {
   /**
    * Initialize leaderboard entry for a user who stakes in a match
    */
-  async initializeUserEntry(matchId: string, userId: string): Promise<void> {
+  async initializeUserEntry(matchId: number, userId: number): Promise<void> {
     try {
+      console.log(`🔍 Checking if leaderboard entry exists: matchId=${matchId}, userId=${userId}`)
+      
       // Check if entry already exists
-      const { data: existing } = await supabase
-        .from('leaderboard')
+      const { data: existing, error: checkError } = await supabase
+        .from('leaderboard_entry')
         .select('id')
         .eq('match_id', matchId)
         .eq('user_id', userId)
         .single()
 
-      if (existing) return // Already initialized
+      if (checkError && checkError.code !== 'PGRST116') {
+        console.error('❌ Error checking existing entry:', checkError)
+      }
 
+      if (existing) {
+        console.log(`✅ Leaderboard entry already exists for user ${userId} in match ${matchId}`)
+        return // Already initialized
+      }
+
+      console.log(`📝 Creating new leaderboard entry for user ${userId} in match ${matchId}`)
+      
       // Create initial entry with 0 score
       const { error } = await supabase
-        .from('leaderboard')
+        .from('leaderboard_entry')
         .insert({
           match_id: matchId,
           user_id: userId,
@@ -271,20 +303,23 @@ export class LeaderboardService {
         })
 
       if (error && error.code !== '23505') { // Ignore unique constraint violations
+        console.error('❌ Error creating leaderboard entry:', error)
         throw error
       }
+      
+      console.log(`✅ Successfully created leaderboard entry for user ${userId}`)
     } catch (error) {
-      console.error('Error initializing user entry:', error)
+      console.error('❌ Error initializing user entry:', error)
     }
   }
 
   /**
    * Clear leaderboard for a match (useful for testing)
    */
-  async clearMatchLeaderboard(matchId: string): Promise<void> {
+  async clearMatchLeaderboard(matchId: number): Promise<void> {
     try {
       const { error } = await supabase
-        .from('leaderboard')
+        .from('leaderboard_entry')
         .delete()
         .eq('match_id', matchId)
 

@@ -31,7 +31,7 @@ export default function HomePage() {
             </Link>
             <Link href="/match/1">
               <Button size="lg" variant="outline" className="text-lg px-8">
-                Watch Live Match
+                Join Live Match
               </Button>
             </Link>
           </div>

@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useRef } from "react"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Trophy, Medal, Award, RefreshCw } from "lucide-react"
@@ -11,7 +11,7 @@ interface LeaderboardEntry {
   username: string
   score: number
   isCurrentUser: boolean
-  userId?: string
+  userId?: number
 }
 
 interface MatchLeaderboardProps {
@@ -23,6 +23,7 @@ export function MatchLeaderboard({ matchId }: MatchLeaderboardProps) {
   const [isLoading, setIsLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const { user } = useUser()
+  const intervalRef = useRef<NodeJS.Timeout | null>(null)
 
   const fetchLeaderboard = async () => {
     try {
@@ -36,16 +37,19 @@ export function MatchLeaderboard({ matchId }: MatchLeaderboardProps) {
       }
       
       const data = await response.json()
+      console.log('Leaderboard data received:', data)
+      console.log('Current user ID:', user?.id)
       
       // Transform data to match component interface
       const transformedData: LeaderboardEntry[] = data.map((entry: any) => ({
         rank: entry.rank,
-        username: entry.username || `User ${entry.userId.slice(0, 8)}`,
+        username: entry.username || `User ${entry.userId.toString().slice(0, 8)}`,
         score: entry.score,
-        isCurrentUser: user?.id === entry.userId,
-        userId: entry.userId
+        isCurrentUser: user?.id === entry.userId.toString(),
+        userId: entry.userId.toString()
       }))
       
+      console.log('Transformed leaderboard:', transformedData)
       setLeaderboard(transformedData)
     } catch (err) {
       console.error('Error fetching leaderboard:', err)
@@ -56,15 +60,38 @@ export function MatchLeaderboard({ matchId }: MatchLeaderboardProps) {
   }
 
   useEffect(() => {
+    // Clear any existing interval
+    if (intervalRef.current) {
+      clearInterval(intervalRef.current)
+    }
+
+    // Initial fetch
     fetchLeaderboard()
 
-    // Poll for updates every 10 seconds during match
-    const interval = setInterval(() => {
+    // Set up interval for polling
+    intervalRef.current = setInterval(() => {
       fetchLeaderboard()
-    }, 10000)
+    }, 3000) // Poll every 3 seconds for more responsive updates
 
-    return () => clearInterval(interval)
-  }, [matchId, user?.id])
+    // Cleanup function
+    return () => {
+      if (intervalRef.current) {
+        clearInterval(intervalRef.current)
+        intervalRef.current = null
+      }
+    }
+  }, [matchId]) // Only depend on matchId
+
+  // Update leaderboard when user changes to refresh isCurrentUser flags
+  useEffect(() => {
+    if (leaderboard.length > 0) {
+      const updatedLeaderboard = leaderboard.map(entry => ({
+        ...entry,
+        isCurrentUser: user?.id === entry.userId
+      }))
+      setLeaderboard(updatedLeaderboard)
+    }
+  }, [user?.id])
 
   const getRankIcon = (rank: number) => {
     switch (rank) {
@@ -135,7 +162,7 @@ export function MatchLeaderboard({ matchId }: MatchLeaderboardProps) {
         {leaderboard.length > 0 && (
           <div className="mt-4 p-3 bg-muted rounded-lg">
             <p className="text-sm text-muted-foreground text-center">
-              Leaderboard updates every 10 seconds
+              Leaderboard updates every 3 seconds
             </p>
           </div>
         )}

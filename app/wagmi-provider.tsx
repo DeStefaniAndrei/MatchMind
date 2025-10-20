@@ -3,8 +3,9 @@
 import '@rainbow-me/rainbowkit/styles.css'
 import { WagmiProvider as WagmiProviderBase } from 'wagmi'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
-import { RainbowKitProvider } from '@rainbow-me/rainbowkit' //Pre made wallet connection functionality
+import { RainbowKitProvider, getDefaultWallets } from '@rainbow-me/rainbowkit' //Pre made wallet connection functionality
 import { config } from '@/lib/contract/wagmi'
+import { sepolia } from 'wagmi/chains'
 import { useState } from 'react'
 
 
@@ -23,8 +24,11 @@ export function WagmiProvider({ children }: { children: React.ReactNode }) {
     <WagmiProviderBase config={config}>
       {/* allows use of hooks functions like useSociosWallet */}
       <QueryClientProvider client={queryClient}>
-         {/*Rainbow kit provider*/}
-        <RainbowKitProvider>
+         {/*Rainbow kit provider with custom chain support*/}
+        <RainbowKitProvider 
+          initialChain={sepolia}
+          showRecentTransactions={true}
+        >
           {children}
         </RainbowKitProvider>
       </QueryClientProvider>

@@ -1,50 +1,62 @@
 import { createPublicClient, http } from 'viem'
+import { defineChain } from 'viem'
 
 // Socios Wallet ID
 export const SOCIOS_WALLET_ID = '56843177b5e89d4bcb19a27dab7c49e0f33d8d3a6c8c4c7e5274f605e92befd6'
 
-// Create Viem client for Chiliz Chain
-export const chilizClient = createPublicClient({
-  transport: http('https://rpc.chiliz.com'),
-})
-
-// Chiliz Chain configuration
-export const chilizChain = {
+// Chiliz Chain configuration - properly defined for WalletConnect
+export const chilizChain = defineChain({
   id: 88888,
   name: 'Chiliz Chain',
-  network: 'chiliz',
   nativeCurrency: {
     decimals: 18,
     name: 'CHZ',
     symbol: 'CHZ',
   },
   rpcUrls: {
-    public: { http: ['https://rpc.chiliz.com'] },
-    default: { http: ['https://rpc.chiliz.com'] },
+    default: { 
+      http: ['https://rpc.chiliz.com'],
+    },
   },
   blockExplorers: {
-    default: { name: 'Chiliz Explorer', url: 'https://explorer.chiliz.com' },
+    default: { 
+      name: 'Chiliz Explorer', 
+      url: 'https://explorer.chiliz.com',
+      apiUrl: 'https://explorer.chiliz.com/api'
+    },
   },
-} as const
+  testnet: false,
+})
 
-// Chiliz Testnet configuration (Spicy Testnet)
-export const chilizTestnet = {
+// Chiliz Testnet configuration (Spicy Testnet) - properly defined for WalletConnect
+export const chilizTestnet = defineChain({
   id: 88882,
-  name: 'Chiliz Testnet',
-  network: 'chiliz-testnet',
+  name: 'Chiliz Spicy Testnet',
   nativeCurrency: {
     decimals: 18,
     name: 'CHZ',
     symbol: 'CHZ',
   },
   rpcUrls: {
-    public: { http: ['https://spicy-rpc.chiliz.com'] },
-    default: { http: ['https://spicy-rpc.chiliz.com'] },
+    default: { 
+      http: ['https://spicy-rpc.chiliz.com'],
+    },
   },
   blockExplorers: {
-    default: { name: 'Chiliz Testnet Explorer', url: 'https://spicy-explorer.chiliz.com' },
+    default: { 
+      name: 'Chiliz Testnet Explorer', 
+      url: 'https://spicy-explorer.chiliz.com',
+      apiUrl: 'https://spicy-explorer.chiliz.com/api'
+    },
   },
-} as const
+  testnet: true,
+})
+
+// Create Viem client for Chiliz Chain
+export const chilizClient = createPublicClient({
+  chain: chilizChain,
+  transport: http(),
+})
 
 // Function to detect Socios wallet
 export function detectSociosWallet(): boolean {

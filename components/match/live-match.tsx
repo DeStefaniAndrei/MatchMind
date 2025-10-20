@@ -10,6 +10,7 @@ import { Clock, Users, Trophy, Target, Zap, Brain } from "lucide-react"
 import { fetchMatchById } from "@/lib/api/api"
 import { getSimulatedMinuteMs } from "@/lib/sim-config"
 import { realtimeQuestionService, type LiveQuestion } from "@/lib/question/realtime-question-service"
+import { useUser } from "@/contexts/user-context"
 
 
 interface LiveMatchProps {
@@ -64,6 +65,7 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
   const [isQuestionServiceActive, setIsQuestionServiceActive] = useState(false)
   const [timeUntilNextQuestion, setTimeUntilNextQuestion] = useState<number>(0)
   const { toast } = useToast()
+  const { user } = useUser()
 
 
 
@@ -92,29 +94,40 @@ export function LiveMatch({ matchId }: LiveMatchProps) {
       try {
         // Set up custom expiration handler
         realtimeQuestionService.setExpirationHandler((matchId, question) => {
-          console.log('Custom expiration logic triggered!')
           
           // Show toast notification when question expires
           if (question.userAnswer) {
-            toast({
-              title: "Question Closed",
-              description: `"${question.text}" - Your answer: ${question.userAnswer}`,
-            })
+            // User answered - show if they were correct or not
+            if (question.correctAnswer === true) {
+              toast({
+                title: "✅ Correct!",
+                description: `"${question.text}" -closed \nYou earned ${question.pointsAwarded} points!`,
+                variant: "default"
+              })
+            } else if (question.correctAnswer === false) {
+              toast({
+                title: "❌ Incorrect",
+                description: `"${question.text}" -closed `,
+                variant: "destructive"
+              })
+            } else {
+              // Still evaluating (shouldn't normally happen)
+              toast({
+                title: "Question Closed",
+                description: `"${question.text}" - Your answer: ${question.userAnswer}`,
+              })
+            }
           } else {
-            toast({
-              title: "Question Expired",
-              description: `"${question.text}" - No answer submitted`,
-              variant: "destructive"
-            })
           }
 
         })
 
-        realtimeQuestionService.initializeMatch(matchId)
+        console.log('Initializing match with user ID:', user?.id)
+        realtimeQuestionService.initializeMatch(matchId, user?.id)
         
         realtimeQuestionService.startMatch(matchId)
         setIsQuestionServiceActive(true)
-        console.log(`Question service started for match ${matchId}`)
+        console.log(`Question service started for match ${matchId} with user ${user?.id}`)
       } catch (error) {
         console.error('Failed to initialize question service:', error)
         toast({

@@ -7,20 +7,38 @@ import { leaderboardService } from '@/lib/leaderboard-service'
  * 
  * Query params:
  * - limit: number (optional) - limit number of entries
- * - userId: string (optional) - get specific user's rank
+ * - userId: number (optional) - get specific user's rank
  */
 export async function GET(
   request: NextRequest,
-  { params }: { params: { matchId: string } }
+  { params }: { params: Promise<{ matchId: string }> }
 ) {
   try {
-    const { matchId } = params
+    const { matchId: matchIdStr } = await params
+    const matchId = parseInt(matchIdStr)
+    
+    if (isNaN(matchId)) {
+      return NextResponse.json(
+        { error: 'Invalid matchId' },
+        { status: 400 }
+      )
+    }
+    
     const searchParams = request.nextUrl.searchParams
     const limit = searchParams.get('limit')
-    const userId = searchParams.get('userId')
+    const userIdStr = searchParams.get('userId')
 
     // If userId is provided, return just that user's entry
-    if (userId) {
+    if (userIdStr) {
+      const userId = parseInt(userIdStr)
+      
+      if (isNaN(userId)) {
+        return NextResponse.json(
+          { error: 'Invalid userId' },
+          { status: 400 }
+        )
+      }
+      
       const userRank = await leaderboardService.getUserRank(matchId, userId)
       
       if (!userRank) {
@@ -54,14 +72,23 @@ export async function GET(
  * Initialize a user's leaderboard entry for a match
  * 
  * Body:
- * - userId: string
+ * - userId: number
  */
 export async function POST(
   request: NextRequest,
-  { params }: { params: { matchId: string } }
+  { params }: { params: Promise<{ matchId: string }> }
 ) {
   try {
-    const { matchId } = params
+    const { matchId: matchIdStr } = await params
+    const matchId = parseInt(matchIdStr)
+    
+    if (isNaN(matchId)) {
+      return NextResponse.json(
+        { error: 'Invalid matchId' },
+        { status: 400 }
+      )
+    }
+    
     const body = await request.json()
     const { userId } = body
 
@@ -71,8 +98,17 @@ export async function POST(
         { status: 400 }
       )
     }
+    
+    const userIdNum = typeof userId === 'string' ? parseInt(userId) : userId
+    
+    if (isNaN(userIdNum)) {
+      return NextResponse.json(
+        { error: 'Invalid userId' },
+        { status: 400 }
+      )
+    }
 
-    await leaderboardService.initializeUserEntry(matchId, userId)
+    await leaderboardService.initializeUserEntry(matchId, userIdNum)
 
     return NextResponse.json({ success: true })
   } catch (error) {
@@ -90,10 +126,18 @@ export async function POST(
  */
 export async function DELETE(
   request: NextRequest,
-  { params }: { params: { matchId: string } }
+  { params }: { params: Promise<{ matchId: string }> }
 ) {
   try {
-    const { matchId } = params
+    const { matchId: matchIdStr } = await params
+    const matchId = parseInt(matchIdStr)
+    
+    if (isNaN(matchId)) {
+      return NextResponse.json(
+        { error: 'Invalid matchId' },
+        { status: 400 }
+      )
+    }
 
     // TODO: Add admin authentication check here
     

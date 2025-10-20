@@ -36,9 +36,9 @@ export function LivePreview() {
 
   if (loading) {
     return (
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        {[...Array(4)].map((_, i) => (
-          <div key={i} className="h-48 bg-muted animate-pulse rounded-lg" />
+      <div className="flex flex-wrap justify-center gap-6 mx-auto max-w-7xl">
+        {[...Array(3)].map((_, i) => (
+          <div key={i} className="h-48 w-full md:w-[calc(50%-0.75rem)] lg:w-[280px] bg-muted animate-pulse rounded-lg" />
         ))}
       </div>
     )
@@ -49,11 +49,11 @@ export function LivePreview() {
   }
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mx-auto max-w-7xl">
+    <div className="flex flex-wrap justify-center gap-6 mx-auto max-w-7xl">
       {matches.map((m) => {
         const isLive = m.status === "live"
         return (
-          <Card key={m.id} className={isLive ? "border-2 border-red-500" : undefined}>
+          <Card key={m.id} className={`w-full md:w-[calc(50%-0.75rem)] lg:w-[280px] flex flex-col ${isLive ? "border-2 border-red-500" : ""}`}>
             <CardHeader>
               <div className="flex items-center justify-between">
                 <CardTitle className="text-base md:text-lg">
@@ -64,7 +64,7 @@ export function LivePreview() {
                 </Badge>
               </div>
             </CardHeader>
-            <CardContent>
+            <CardContent className="flex-grow flex flex-col justify-end">
               <div className="text-center space-y-3">
                 <div className="text-2xl font-bold">
                   {m.homeScore ?? 0} - {m.awayScore ?? 0}

@@ -1,17 +1,11 @@
 -- MatchMind Database Schema for Supabase
 -- This file contains all the SQL commands to create the database structure
 
--- Enable necessary extensions
-CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
-
 -- Users table
-
---TO DO REMOVE EMAAIL IF FINE
 CREATE TABLE IF NOT EXISTS users (
-    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    id SERIAL PRIMARY KEY,
     wallet_address VARCHAR(42) UNIQUE NOT NULL,
     username VARCHAR(50) UNIQUE,
-    email VARCHAR(255), 
     chz_balance DECIMAL(18, 8) DEFAULT 0,
     total_staked DECIMAL(18, 8) DEFAULT 0,
     total_rewards DECIMAL(18, 8) DEFAULT 0,
@@ -21,7 +15,7 @@ CREATE TABLE IF NOT EXISTS users (
 
 -- Matches table
 CREATE TABLE IF NOT EXISTS matches (
-    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    id SERIAL PRIMARY KEY,
     sportmonks_id INTEGER UNIQUE,
     home_team VARCHAR(100) NOT NULL,
     away_team VARCHAR(100) NOT NULL,
@@ -42,9 +36,9 @@ CREATE TABLE IF NOT EXISTS matches (
 
 -- Stakes table
 CREATE TABLE IF NOT EXISTS stakes (
-    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
-    user_id UUID NOT NULL REFERENCES users(id) ON DELETE CASCADE,
-    match_id UUID NOT NULL REFERENCES matches(id) ON DELETE CASCADE,
+    id SERIAL PRIMARY KEY,
+    user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    match_id INTEGER NOT NULL REFERENCES matches(id) ON DELETE CASCADE,
     amount DECIMAL(18, 8) NOT NULL,
     contract_tx_hash VARCHAR(66), -- Transaction hash from blockchain
     status VARCHAR(20) DEFAULT 'pending' CHECK (status IN ('pending', 'confirmed', 'withdrawn')),
@@ -53,19 +47,12 @@ CREATE TABLE IF NOT EXISTS stakes (
     UNIQUE(user_id, match_id)
 );
 
--- Questions table removed - questions are now handled in memory only
 
--- User answers table removed - questions and answers are now handled in memory only
-
--- Question results table removed - questions and results are now handled in memory only
-
--- Predictions table removed - questions and predictions are now handled in memory only
-
--- Leaderboard table (for match rankings)
-CREATE TABLE IF NOT EXISTS leaderboard (
-    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
-    match_id UUID NOT NULL REFERENCES matches(id) ON DELETE CASCADE,
-    user_id UUID NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+-- leaderboard_entry table (for match rankings)
+CREATE TABLE IF NOT EXISTS leaderboard_entry (
+    id SERIAL PRIMARY KEY,
+    match_id INTEGER NOT NULL REFERENCES matches(id) ON DELETE CASCADE,
+    user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
     rank INTEGER NOT NULL,
     score INTEGER DEFAULT 0,
     total_points INTEGER DEFAULT 0,
@@ -79,7 +66,7 @@ CREATE TABLE IF NOT EXISTS leaderboard (
 
 -- Contract events table (for tracking blockchain events)
 CREATE TABLE IF NOT EXISTS contract_events (
-    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    id SERIAL PRIMARY KEY,
     contract_address VARCHAR(42) NOT NULL,
     event_type VARCHAR(50) NOT NULL,
     tx_hash VARCHAR(66) NOT NULL,
@@ -91,11 +78,11 @@ CREATE TABLE IF NOT EXISTS contract_events (
 
 -- Admin actions table (for tracking admin operations)
 CREATE TABLE IF NOT EXISTS admin_actions (
-    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
-    admin_user_id UUID REFERENCES users(id),
+    id SERIAL PRIMARY KEY,
+    admin_user_id INTEGER REFERENCES users(id),
     action_type VARCHAR(50) NOT NULL,
     target_type VARCHAR(50), -- 'match', 'contract', 'user', etc.
-    target_id UUID,
+    target_id INTEGER,
     details JSONB,
     tx_hash VARCHAR(66),
     created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
@@ -108,12 +95,12 @@ CREATE INDEX IF NOT EXISTS idx_matches_sportmonks_id ON matches(sportmonks_id);
 CREATE INDEX IF NOT EXISTS idx_stakes_user_id ON stakes(user_id);
 CREATE INDEX IF NOT EXISTS idx_stakes_match_id ON stakes(match_id);
 -- Question-related indexes removed - questions are now handled in memory only
-CREATE INDEX IF NOT EXISTS idx_leaderboard_match_id ON leaderboard(match_id);
-CREATE INDEX IF NOT EXISTS idx_leaderboard_user_id ON leaderboard(user_id);
+CREATE INDEX IF NOT EXISTS idx_leaderboard_entry_match_id ON leaderboard_entry(match_id);
+CREATE INDEX IF NOT EXISTS idx_leaderboard_entry_user_id ON leaderboard_entry(user_id);
 CREATE INDEX IF NOT EXISTS idx_contract_events_contract_address ON contract_events(contract_address);
 CREATE INDEX IF NOT EXISTS idx_contract_events_processed ON contract_events(processed);
 
--- Question-related indexes removed - questions are now handled in memory only
+
 
 -- Create updated_at trigger function
 CREATE OR REPLACE FUNCTION update_updated_at_column()
@@ -124,19 +111,39 @@ BEGIN
 END;
 $$ language 'plpgsql';
 
--- Create triggers for updated_at
+-- Create triggers for updated_at (drop if exists to avoid conflicts)
+DROP TRIGGER IF EXISTS update_users_updated_at ON users;
 CREATE TRIGGER update_users_updated_at BEFORE UPDATE ON users FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
+
+DROP TRIGGER IF EXISTS update_matches_updated_at ON matches;
 CREATE TRIGGER update_matches_updated_at BEFORE UPDATE ON matches FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
+
+DROP TRIGGER IF EXISTS update_stakes_updated_at ON stakes;
 CREATE TRIGGER update_stakes_updated_at BEFORE UPDATE ON stakes FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
-CREATE TRIGGER update_leaderboard_updated_at BEFORE UPDATE ON leaderboard FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
+
+DROP TRIGGER IF EXISTS update_leaderboard_entry_updated_at ON leaderboard_entry;
+CREATE TRIGGER update_leaderboard_entry_updated_at BEFORE UPDATE ON leaderboard_entry FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
 
 -- Row Level Security (RLS) policies
 ALTER TABLE users ENABLE ROW LEVEL SECURITY;
 ALTER TABLE matches ENABLE ROW LEVEL SECURITY;
 ALTER TABLE stakes ENABLE ROW LEVEL SECURITY;
-ALTER TABLE leaderboard ENABLE ROW LEVEL SECURITY;
+ALTER TABLE leaderboard_entry ENABLE ROW LEVEL SECURITY;
 ALTER TABLE contract_events ENABLE ROW LEVEL SECURITY;
 ALTER TABLE admin_actions ENABLE ROW LEVEL SECURITY;
+
+-- Drop existing policies to avoid conflicts
+DROP POLICY IF EXISTS "Users can view own data" ON users;
+DROP POLICY IF EXISTS "Anyone can view matches" ON matches;
+DROP POLICY IF EXISTS "Users can view own stakes" ON stakes;
+DROP POLICY IF EXISTS "Users can insert own stakes" ON stakes;
+DROP POLICY IF EXISTS "Anyone can view leaderboard_entry" ON leaderboard_entry;
+DROP POLICY IF EXISTS "Admin can manage all data" ON users;
+DROP POLICY IF EXISTS "Admin can manage all data" ON matches;
+DROP POLICY IF EXISTS "Admin can manage all data" ON stakes;
+DROP POLICY IF EXISTS "Admin can manage all data" ON leaderboard_entry;
+DROP POLICY IF EXISTS "Admin can manage all data" ON contract_events;
+DROP POLICY IF EXISTS "Admin can manage all data" ON admin_actions;
 
 -- Users can read their own data
 CREATE POLICY "Users can view own data" ON users FOR SELECT USING (auth.uid()::text = wallet_address);
@@ -156,14 +163,14 @@ CREATE POLICY "Users can insert own stakes" ON stakes FOR INSERT WITH CHECK (
 
 -- Question-related policies removed - questions are now handled in memory only
 
--- Anyone can read leaderboard
-CREATE POLICY "Anyone can view leaderboard" ON leaderboard FOR SELECT USING (true);
+-- Anyone can read leaderboard_entry
+CREATE POLICY "Anyone can view leaderboard_entry" ON leaderboard_entry FOR SELECT USING (true);
 
 -- Admin can manage all data (you'll need to set up admin role)
 CREATE POLICY "Admin can manage all data" ON users FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON matches FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON stakes FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
-CREATE POLICY "Admin can manage all data" ON leaderboard FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
+CREATE POLICY "Admin can manage all data" ON leaderboard_entry FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON contract_events FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 CREATE POLICY "Admin can manage all data" ON admin_actions FOR ALL USING (auth.jwt() ->> 'role' = 'admin');
 

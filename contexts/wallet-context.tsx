@@ -171,15 +171,16 @@ export function WalletProvider({ children }: { children: React.ReactNode }) {
   }
 
   // Show warning if not on Chiliz Chain or Testnet
-  useEffect(() => {
-    if (isConnected && !isChilizChain && !isChilizTestnet) {
-      toast({
-        title: "Wrong Network",
-        description: "Please switch to Chiliz Chain or Chiliz Testnet to use MatchMind",
-        variant: "destructive",
-      })
-    }
-  }, [isConnected, isChilizChain, isChilizTestnet, toast])
+  // TEMPORARILY DISABLED FOR TESTING
+  // useEffect(() => {
+  //   if (isConnected && !isChilizChain && !isChilizTestnet) {
+  //     toast({
+  //       title: "Wrong Network",
+  //       description: "Please switch to Chiliz Chain or Chiliz Testnet to use MatchMind",
+  //       variant: "destructive",
+  //     })
+  //   }
+  // }, [isConnected, isChilizChain, isChilizTestnet, toast])
 
   return (
     <WalletContext.Provider

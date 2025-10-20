@@ -54,7 +54,7 @@ class RealtimeQuestionService {
     // Initialize with default config
     this.defaultConfig = {
       questionInterval: 10, // 30 seconds
-      answerTimeLimit: 60, // 60 seconds (1 minute) to answer
+      answerTimeLimit: 20, // 60 seconds (1 minute) to answer
       pointsPerCorrect: 10, // 10 points per correct answer
       maxQuestionsPerMatch: 180 // 90 minutes * 2 questions per minute
     }
@@ -167,11 +167,20 @@ class RealtimeQuestionService {
     // Initialize leaderboard entry for this user
     if (userId) {
       try {
-        await leaderboardService.initializeUserEntry(matchId, userId)
-        console.log(`Initialized leaderboard entry for user ${userId} in match ${matchId}`)
+        // Convert string IDs to integers for database interaction
+        // Note: IDs are stored as strings internally for localStorage compatibility,
+        // but converted to integers when interacting with the database
+        const matchIdNum = parseInt(matchId)
+        const userIdNum = parseInt(userId)
+        
+        console.log(`Attempting to initialize leaderboard entry: matchId=${matchIdNum}, userId=${userIdNum}`)
+        await leaderboardService.initializeUserEntry(matchIdNum, userIdNum)
+        console.log(`✅ Successfully initialized leaderboard entry for user ${userId} in match ${matchId}`)
       } catch (error) {
-        console.error('Failed to initialize leaderboard entry:', error)
+        console.error('❌ Failed to initialize leaderboard entry:', error)
       }
+    } else {
+      console.warn('⚠️ No userId provided to initializeMatch - leaderboard entry NOT created')
     }
   }
 
@@ -343,7 +352,14 @@ class RealtimeQuestionService {
       question.timeLeft -= 1
 
       if (question.timeLeft <= 0) {
-        this.expireUnansweredQuestion(matchId, questionId)
+        // Route to appropriate expiration handler based on whether question was answered
+        if (question.answered) {
+          // Answered questions need evaluation and leaderboard update
+          this.expireAnsweredQuestion(matchId, questionId)
+        } else {
+          // Unanswered questions just get removed
+          this.expireUnansweredQuestion(matchId, questionId)
+        }
         clearInterval(countdownInterval)
         this.questionTimers.delete(questionId)
       }
@@ -414,7 +430,8 @@ class RealtimeQuestionService {
         matchState.totalScore += question.pointsAwarded
         question.correctAnswer = true
       } else {
-        question.pointsAwarded = 0
+        question.pointsAwarded = 1 // Give 1 point for wrong answers
+        matchState.totalScore += question.pointsAwarded
         question.correctAnswer = false
       }
 
@@ -431,16 +448,25 @@ class RealtimeQuestionService {
       // Save score to database if userId is available
       if (matchState.userId) {
         try {
+          // Convert string IDs to integers for database interaction
+          // Note: IDs are stored as strings internally for localStorage compatibility,
+          // but converted to integers when interacting with the database
+          const matchIdNum = parseInt(matchId)
+          const userIdNum = parseInt(matchState.userId)
+          
+          console.log(`Updating leaderboard: matchId=${matchIdNum}, userId=${userIdNum}, points=${question.pointsAwarded}, correct=${userWasCorrect}`)
           await leaderboardService.updateUserScore(
-            matchId,
-            matchState.userId,
+            matchIdNum,
+            userIdNum,
             question.pointsAwarded,
             userWasCorrect
           )
-          console.log(`Updated leaderboard for user ${matchState.userId}: +${question.pointsAwarded} points`)
+          console.log(`✅ Updated leaderboard for user ${matchState.userId}: +${question.pointsAwarded} points`)
         } catch (error) {
-          console.error('Failed to update leaderboard:', error)
+          console.error('❌ Failed to update leaderboard:', error)
         }
+      } else {
+        console.warn('⚠️ No userId in matchState - leaderboard NOT updated')
       }
 
       // Save to localStorage with updated evaluation
