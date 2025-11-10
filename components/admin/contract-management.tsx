@@ -5,13 +5,12 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Alert, AlertDescription } from '@/components/ui/alert';
-import { matchMindIntegration } from '@/lib/matchmind-integration';
+import { matchMindIntegration } from '@/lib/contract/matchmind-integration';
 import { dbService } from '@/lib/database-service';
-import { CONTRACT_CONFIG } from '@/lib/contract-config';
-import { syncPSGMatchesToDatabase } from '@/lib/sportmonks-api';
+import { CONTRACT_CONFIG } from '@/lib/contract/contract-config';
 
 interface MatchData {
-  sportmonksId: number;
+  id: number;
   homeTeam: string;
   awayTeam: string;
   startTime: string;
@@ -20,7 +19,7 @@ interface MatchData {
 }
 
 interface SyncResult {
-  sportmonksId: number;
+  matchId: number;
   gameId: number;
   poolAddress: string;
   success: boolean;
@@ -77,52 +76,7 @@ export default function ContractManagement() {
     }
   };
 
-  const syncPSGMatchesFromAPI = async () => {
-    setIsLoading(true);
-    setError(null);
-    setSyncStatus('Fetching PSG matches from SportMonks API...');
 
-    try {
-      const result = await syncPSGMatchesToDatabase();
-      setSyncStatus(`Sync completed: ${result.success} matches added/updated, ${result.errors} errors`);
-      
-      // Reload matches to show the new data
-      await loadMatches();
-      
-      console.log('PSG matches synced from API:', result);
-    } catch (error) {
-      console.error('Failed to sync PSG matches from API:', error);
-      setError(error instanceof Error ? error.message : 'Failed to sync PSG matches from API');
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
-  const createContractsForPSGMatches = async () => {
-    if (!isInitialized) {
-      setError('Please initialize the integration first');
-      return;
-    }
-
-    setIsLoading(true);
-    setError(null);
-    setSyncStatus('Creating GamePool contracts for PSG matches...');
-
-    try {
-      const result = await matchMindIntegration.createContractsForPSGMatches();
-      setSyncStatus(`Contract creation completed: ${result.success} successful, ${result.errors} errors`);
-      
-      // Reload matches to show the new data
-      await loadMatches();
-      
-      console.log('Contracts created for PSG matches:', result);
-    } catch (error) {
-      console.error('Failed to create contracts for PSG matches:', error);
-      setError(error instanceof Error ? error.message : 'Failed to create contracts for PSG matches');
-    } finally {
-      setIsLoading(false);
-    }
-  };
 
   const syncMatchesWithContracts = async () => {
     if (!isInitialized) {
@@ -231,7 +185,7 @@ export default function ContractManagement() {
         <CardHeader>
           <CardTitle>Contract Management</CardTitle>
           <CardDescription>
-            Manage smart contracts for PSG matches on the Chiliz blockchain
+            Manage smart contracts for matches on the Chiliz blockchain
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">
@@ -298,23 +252,8 @@ export default function ContractManagement() {
 
           {/* Action Buttons */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <Button 
-              onClick={syncPSGMatchesFromAPI}
-              disabled={isLoading}
-              className="w-full"
-            >
-              {isLoading ? 'Fetching...' : 'Fetch PSG Matches from API'}
-            </Button>
-            
             {isInitialized && (
               <>
-                <Button 
-                  onClick={createContractsForPSGMatches}
-                  disabled={isLoading}
-                  className="w-full"
-                >
-                  {isLoading ? 'Creating...' : 'Create Contracts for PSG Matches'}
-                </Button>
                 
                 <Button 
                   onClick={syncMatchesWithContracts}
@@ -370,7 +309,7 @@ export default function ContractManagement() {
               {syncResults.map((result, index) => (
                 <div key={index} className="flex items-center justify-between p-2 border rounded">
                   <div>
-                    <span className="font-medium">Match {result.sportmonksId}</span>
+                    <span className="font-medium">Match {result.matchId}</span>
                     {result.success ? (
                       <div className="text-sm text-gray-600">
                         Game ID: {result.gameId}, Pool: {result.poolAddress.slice(0, 10)}...
@@ -409,7 +348,7 @@ export default function ContractManagement() {
                     {new Date(match.start_time).toLocaleString()}
                   </div>
                   <div className="text-xs text-gray-500">
-                    SportMonks ID: {match.sportmonks_id}
+                    Match ID: {match.id}
                     {match.contract_game_id && ` | Game ID: ${match.contract_game_id}`}
                   </div>
                 </div>

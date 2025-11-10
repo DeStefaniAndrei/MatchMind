@@ -39,12 +39,13 @@ export function WalletButton() {
             {address?.slice(0, 6)}...{address?.slice(-4)}
           </span>
           <span className="sm:hidden">Wallet</span>
-          {!isChilizChain && (
+          {/* TEMPORARILY DISABLED - hide wrong network warning for testing */}
+          {/* {!isChilizChain && (
             <Badge variant="destructive" className="ml-2">
               <AlertTriangle className="h-3 w-3 mr-1" />
               Wrong Network
             </Badge>
-          )}
+          )} */}
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end" className="w-64">
@@ -61,7 +62,7 @@ export function WalletButton() {
         <div className="px-2 py-1.5">
           <p className="text-sm font-medium">Network</p>
           <p className="text-xs text-muted-foreground">
-            {isChilizChain ? "Chiliz Chain" : "Wrong Network"}
+            {isChilizChain ? "Chiliz Chain" : "Connected"}
           </p>
         </div>
         {sociosWalletAvailable && (

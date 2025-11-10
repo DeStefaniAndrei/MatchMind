@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { useWallet } from "@/contexts/wallet-context"
 import { createPublicClient, http, getBalance } from "viem"
-import { chilizChain, chilizTestnet } from "@/lib/wagmi"
+import { chilizChain, chilizTestnet } from "@/lib/contract/wagmi"
 
 export function BalanceDebug() {
   const { isConnected, address, chainId, isChilizTestnet } = useWallet()

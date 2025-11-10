@@ -1,15 +1,17 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useRef } from "react"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Trophy, Medal, Award } from "lucide-react"
+import { Trophy, Medal, Award, RefreshCw } from "lucide-react"
+import { useUser } from "@/contexts/user-context"
 
 interface LeaderboardEntry {
   rank: number
   username: string
   score: number
   isCurrentUser: boolean
+  userId?: number
 }
 
 interface MatchLeaderboardProps {
@@ -18,40 +20,78 @@ interface MatchLeaderboardProps {
 
 export function MatchLeaderboard({ matchId }: MatchLeaderboardProps) {
   const [leaderboard, setLeaderboard] = useState<LeaderboardEntry[]>([])
+  const [isLoading, setIsLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
+  const { user } = useUser()
+  const intervalRef = useRef<NodeJS.Timeout | null>(null)
+
+  const fetchLeaderboard = async () => {
+    try {
+      setIsLoading(true)
+      setError(null)
+      
+      const response = await fetch(`/api/leaderboard/${matchId}?limit=20`)
+      
+      if (!response.ok) {
+        throw new Error('Failed to fetch leaderboard')
+      }
+      
+      const data = await response.json()
+      console.log('Leaderboard data received:', data)
+      console.log('Current user ID:', user?.id)
+      
+      // Transform data to match component interface
+      const transformedData: LeaderboardEntry[] = data.map((entry: any) => ({
+        rank: entry.rank,
+        username: entry.username || `User ${entry.userId.toString().slice(0, 8)}`,
+        score: entry.score,
+        isCurrentUser: user?.id === entry.userId.toString(),
+        userId: entry.userId.toString()
+      }))
+      
+      console.log('Transformed leaderboard:', transformedData)
+      setLeaderboard(transformedData)
+    } catch (err) {
+      console.error('Error fetching leaderboard:', err)
+      setError('Failed to load leaderboard')
+    } finally {
+      setIsLoading(false)
+    }
+  }
 
   useEffect(() => {
-    // Mock leaderboard data - in real app, fetch from API
-    const mockLeaderboard: LeaderboardEntry[] = [
-      { rank: 1, username: "PredictorPro", score: 850, isCurrentUser: false },
-      { rank: 2, username: "FootballFan99", score: 820, isCurrentUser: false },
-      { rank: 3, username: "You", score: 780, isCurrentUser: true },
-      { rank: 4, username: "MatchMaster", score: 750, isCurrentUser: false },
-      { rank: 5, username: "GoalGuesser", score: 720, isCurrentUser: false },
-      { rank: 6, username: "ScoreSeeker", score: 690, isCurrentUser: false },
-      { rank: 7, username: "WinPredictor", score: 660, isCurrentUser: false },
-      { rank: 8, username: "ChampChaser", score: 630, isCurrentUser: false },
-    ]
+    // Clear any existing interval
+    if (intervalRef.current) {
+      clearInterval(intervalRef.current)
+    }
 
-    setLeaderboard(mockLeaderboard)
+    // Initial fetch
+    fetchLeaderboard()
 
-    // Simulate real-time updates
-    const interval = setInterval(() => {
-      setLeaderboard((prev) =>
-        prev
-          .map((entry) => ({
-            ...entry,
-            score: entry.score + Math.floor(Math.random() * 20),
-          }))
-          .sort((a, b) => b.score - a.score)
-          .map((entry, index) => ({
-            ...entry,
-            rank: index + 1,
-          })),
-      )
-    }, 10000)
+    // Set up interval for polling
+    intervalRef.current = setInterval(() => {
+      fetchLeaderboard()
+    }, 3000) // Poll every 3 seconds for more responsive updates
 
-    return () => clearInterval(interval)
-  }, [matchId])
+    // Cleanup function
+    return () => {
+      if (intervalRef.current) {
+        clearInterval(intervalRef.current)
+        intervalRef.current = null
+      }
+    }
+  }, [matchId]) // Only depend on matchId
+
+  // Update leaderboard when user changes to refresh isCurrentUser flags
+  useEffect(() => {
+    if (leaderboard.length > 0) {
+      const updatedLeaderboard = leaderboard.map(entry => ({
+        ...entry,
+        isCurrentUser: user?.id === entry.userId
+      }))
+      setLeaderboard(updatedLeaderboard)
+    }
+  }, [user?.id])
 
   const getRankIcon = (rank: number) => {
     switch (rank) {
@@ -72,13 +112,28 @@ export function MatchLeaderboard({ matchId }: MatchLeaderboardProps) {
         <CardTitle className="flex items-center gap-2">
           <Trophy className="h-5 w-5" />
           Live Leaderboard
+          {isLoading && <RefreshCw className="h-4 w-4 animate-spin ml-auto" />}
         </CardTitle>
       </CardHeader>
       <CardContent>
+        {error && (
+          <div className="mb-4 p-3 bg-destructive/10 text-destructive rounded-lg text-sm">
+            {error}
+          </div>
+        )}
+
+        {leaderboard.length === 0 && !isLoading && (
+          <div className="text-center py-8 text-muted-foreground">
+            <Trophy className="h-12 w-12 mx-auto mb-2 opacity-50" />
+            <p>No participants yet</p>
+            <p className="text-sm">Be the first to answer questions!</p>
+          </div>
+        )}
+
         <div className="space-y-2">
           {leaderboard.map((entry) => (
             <div
-              key={entry.username}
+              key={entry.userId || entry.username}
               className={`flex items-center justify-between p-3 rounded-lg transition-colors ${
                 entry.isCurrentUser ? "bg-primary/10 border border-primary/20" : "bg-muted/50"
               }`}
@@ -104,9 +159,13 @@ export function MatchLeaderboard({ matchId }: MatchLeaderboardProps) {
           ))}
         </div>
 
-        <div className="mt-4 p-3 bg-muted rounded-lg">
-          <p className="text-sm text-muted-foreground text-center">Leaderboard updates in real-time during the match</p>
-        </div>
+        {leaderboard.length > 0 && (
+          <div className="mt-4 p-3 bg-muted rounded-lg">
+            <p className="text-sm text-muted-foreground text-center">
+              Leaderboard updates every 3 seconds
+            </p>
+          </div>
+        )}
       </CardContent>
     </Card>
   )

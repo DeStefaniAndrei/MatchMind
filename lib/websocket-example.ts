@@ -84,103 +84,103 @@ const startWebSocketSystem = async () => {
   }
 }
 
-// Example: Create a new match with WebSocket monitoring
-const createNewMatchWithWebSocket = async (
-  sportMonksId: number,
-  homeTeam: string,
-  awayTeam: string,
-  startTime: Date
-) => {
-  const { monitor, supabaseService } = initializeWebSocketSystem()
+// // Example: Create a new match with WebSocket monitoring
+// const createNewMatchWithWebSocket = async (
+//   sportMonksId: number,
+//   homeTeam: string,
+//   awayTeam: string,
+//   startTime: Date
+// ) => {
+//   const { monitor, supabaseService } = initializeWebSocketSystem()
 
-  try {
-    // 1. Create game in contract (you'll need to implement this)
-    const contractGameId = await createContractGame() // Implement this function
-    const contractAddress = await getGameAddress(contractGameId) // Implement this function
+//   try {
+//     // 1. Create game in contract (you'll need to implement this)
+//     const contractGameId = await createContractGame() // Implement this function
+//     const contractAddress = await getGameAddress(contractGameId) // Implement this function
 
-    // 2. Save to Supabase
-    await supabaseService.createMatch({
-      sport_monks_id: sportMonksId,
-      contract_game_id: contractGameId,
-      contract_address: contractAddress,
-      home_team: homeTeam,
-      away_team: awayTeam,
-      start_time: startTime.toISOString(),
-      status: 'scheduled',
-      contract_state: 'pre_match'
-    })
+//     // 2. Save to Supabase
+//     await supabaseService.createMatch({
+//       sport_monks_id: sportMonksId,
+//       contract_game_id: contractGameId,
+//       contract_address: contractAddress,
+//       home_team: homeTeam,
+//       away_team: awayTeam,
+//       start_time: startTime.toISOString(),
+//       status: 'scheduled',
+//       contract_state: 'pre_match'
+//     })
 
-    // 3. Register for WebSocket monitoring
-    await monitor.registerMatch(
-      sportMonksId,
-      contractGameId,
-      contractAddress,
-      homeTeam,
-      awayTeam,
-      startTime
-    )
+//     // 3. Register for WebSocket monitoring
+//     await monitor.registerMatch(
+//       sportMonksId,
+//       contractGameId,
+//       contractAddress,
+//       homeTeam,
+//       awayTeam,
+//       startTime
+//     )
 
-    console.log(`Created new match with WebSocket monitoring: ${homeTeam} vs ${awayTeam}`)
-  } catch (error) {
-    console.error('Failed to create new match:', error)
-    throw error
-  }
-}
+//     console.log(`Created new match with WebSocket monitoring: ${homeTeam} vs ${awayTeam}`)
+//   } catch (error) {
+//     console.error('Failed to create new match:', error)
+//     throw error
+//   }
+// }
 
-// Example: Client-side WebSocket connection
-const connectToWebSocket = (matchIds: number[]) => {
-  const ws = new WebSocket('ws://localhost:3001')
+// // Example: Client-side WebSocket connection
+// const connectToWebSocket = (matchIds: number[]) => {
+//   const ws = new WebSocket('ws://localhost:3001')
 
-  ws.onopen = () => {
-    console.log('Connected to WebSocket server')
+//   ws.onopen = () => {
+//     console.log('Connected to WebSocket server')
     
-    // Subscribe to specific matches
-    ws.send(JSON.stringify({
-      type: 'subscribe',
-      matchIds
-    }))
-  }
+//     // Subscribe to specific matches
+//     ws.send(JSON.stringify({
+//       type: 'subscribe',
+//       matchIds
+//     }))
+//   }
 
-  ws.onmessage = (event) => {
-    try {
-      const data = JSON.parse(event.data)
+//   ws.onmessage = (event) => {
+//     try {
+//       const data = JSON.parse(event.data)
       
-      switch (data.type) {
-        case 'match_start':
-          console.log(`Match ${data.matchId} has started!`)
-          // Update your UI or trigger contract functions
-          break
+//       switch (data.type) {
+//         case 'match_start':
+//           console.log(`Match ${data.matchId} has started!`)
+//           // Update your UI or trigger contract functions
+//           break
           
-        case 'match_end':
-          console.log(`Match ${data.matchId} has ended!`)
-          // Update your UI or trigger contract functions
-          break
+//         case 'match_end':
+//           console.log(`Match ${data.matchId} has ended!`)
+//           // Update your UI or trigger contract functions
+//           break
           
-        case 'goal':
-          console.log(`Goal in match ${data.matchId}:`, data.data)
-          // Update your UI
-          break
+//         case 'goal':
+//           console.log(`Goal in match ${data.matchId}:`, data.data)
+//           // Update your UI
+//           break
           
-        case 'match_update':
-          console.log(`Match ${data.matchId} updated:`, data.data)
-          // Update your UI with latest match data
-          break
-      }
-    } catch (error) {
-      console.error('Failed to parse WebSocket message:', error)
-    }
-  }
+//         case 'match_update':
+//           console.log(`Match ${data.matchId} updated:`, data.data)
+//           // Update your UI with latest match data
+//           break
+//       }
+//     } catch (error) {
+//       console.error('Failed to parse WebSocket message:', error)
+//     }
+//   }
 
-  ws.onerror = (error) => {
-    console.error('WebSocket error:', error)
-  }
+//   ws.onerror = (error) => {
+//     console.error('WebSocket error:', error)
+//   }
 
-  ws.onclose = () => {
-    console.log('WebSocket connection closed')
-  }
+//   ws.onclose = () => {
+//     console.log('WebSocket connection closed')
+//   }
 
-  return ws
-}
+//   return ws
+// }
 
 // Example: Server-Sent Events connection (alternative to WebSocket)
 const connectToSSE = (matchIds: number[]) => {
@@ -239,8 +239,8 @@ const getGameAddress = async (gameId: number): Promise<string> => {
 // Export functions for use in your app
 export {
   startWebSocketSystem,
-  createNewMatchWithWebSocket,
-  connectToWebSocket,
+  // createNewMatchWithWebSocket,
+  // connectToWebSocket,
   connectToSSE,
   SupabaseService
 }

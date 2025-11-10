@@ -1,18 +1,28 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { mockMatches } from "@/lib/mock-data"
+import { useEffect, useState } from "react"
+import { fetchMatchById } from "@/lib/api/api"
 
 interface MatchResultsProps {
   matchId: string
 }
 
 export function MatchResults({ matchId }: MatchResultsProps) {
-  // In a real app, fetch match data from API
-  const match = mockMatches.find((m) => m.id === matchId)
+  const [match, setMatch] = useState<any | null>(null)
 
-  if (!match) {
-    return <div>Match not found</div>
-  }
+  useEffect(() => {
+    const load = async () => {
+      try {
+        const data = await fetchMatchById(matchId)
+        setMatch(data)
+      } catch (e) {
+        setMatch(null)
+      }
+    }
+    load()
+  }, [matchId])
+
+  if (!match) return <div>Match not found</div>
 
   return (
     <Card>

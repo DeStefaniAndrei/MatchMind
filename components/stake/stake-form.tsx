@@ -9,12 +9,13 @@ import { Input } from "@/components/ui/input"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useToast } from "@/hooks/use-toast"
-import { fetchMatches, addStake, upsertUserByWallet } from "@/lib/api"
+import { fetchMatches, addStake, upsertUserByWallet } from "@/lib/api/api"
 import { useWallet } from "@/contexts/wallet-context"
+import { useUser } from "@/contexts/user-context"
 import { useRouter } from "next/navigation"
 import { createPublicClient, http, getContract, parseUnits } from "viem"
 import { useAccount, useChainId, useWalletClient } from "wagmi"
-import { mockMatches, mockWalletData } from "@/lib/mock-data"
+import { mockWalletData } from "@/lib/mock-data"
 
 import GamePoolABI from "../../artifacts/contracts/GamePool.sol/GamePool.json"
 
@@ -29,6 +30,7 @@ export function StakeForm() {
   const [loading, setLoading] = useState(false)
   const [activeTab, setActiveTab] = useState("staking")
   const { address, isConnected, chzBalance, isChilizTestnet } = useWallet()
+  const { user } = useUser()
   const { toast } = useToast()
   const router = useRouter()
   const { chain } = useAccount()
@@ -46,8 +48,8 @@ export function StakeForm() {
         const data = await fetchMatches()
         setMatches(data)
       } catch (error) {
-        // Fallback to mock data for demo
-        setMatches(mockMatches)
+        // Fallback to empty array for demo
+        setMatches([])
       }
     }
     fetchData()
@@ -125,9 +127,11 @@ export function StakeForm() {
       console.log('User Address:', address)
       console.log('Bet Amount:', amount)
 
-      // 2. Upsert user in DB
-      const user = await upsertUserByWallet(address)
-      if (!user || !user.id) throw new Error("User DB error")
+      // 2. Check if user is available from context
+      if (!user || !user.id) {
+        toast({ title: "User Error", description: "Please wait for user to be loaded or try reconnecting your wallet." })
+        return
+      }
 
       // 3. Prepare native CHZ amount
       const publicClient = createPublicClient({

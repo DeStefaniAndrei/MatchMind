@@ -4,8 +4,9 @@ import type React from "react"
 import { createContext, useContext, useEffect, useState } from "react"
 import { useAccount, useBalance, useDisconnect, useConnect } from "wagmi"
 import { useToast } from "@/hooks/use-toast"
-import { chilizChain, chilizTestnet } from "@/lib/wagmi"
-import { detectSociosWallet, connectSociosWallet } from "@/lib/socios-wallet"
+import { chilizChain, chilizTestnet } from "@/lib/contract/wagmi"
+import { detectSociosWallet, connectSociosWallet } from "@/lib/contract/socios-wallet"
+import { useUser } from "@/contexts/user-context"
 
 interface WalletContextType {
   isConnected: boolean
@@ -27,6 +28,7 @@ export function WalletProvider({ children }: { children: React.ReactNode }) {
   const [isClient, setIsClient] = useState(false)
   const [sociosWalletAvailable, setSociosWalletAvailable] = useState(false)
   const { toast } = useToast()
+  const { setUserFromWallet, setAnonymousUser } = useUser()
   
   // Wagmi hooks
   const { address, isConnected, chainId } = useAccount()
@@ -42,6 +44,19 @@ export function WalletProvider({ children }: { children: React.ReactNode }) {
     },
   })
   
+  // Handle wallet connection changes - update user context
+  useEffect(() => {
+    console.log('Wallet context effect triggered:', { isConnected, address })
+    
+    if (isConnected && address) {
+      console.log('Wallet connected, setting user from wallet:', address)
+      setUserFromWallet(address)
+    } else if (!isConnected) {
+      console.log('Wallet disconnected, setting anonymous user')
+      setAnonymousUser()
+    }
+  }, [isConnected, address, setUserFromWallet, setAnonymousUser])
+
   // Debug logging
   useEffect(() => {
     if (isConnected && address) {
@@ -156,15 +171,16 @@ export function WalletProvider({ children }: { children: React.ReactNode }) {
   }
 
   // Show warning if not on Chiliz Chain or Testnet
-  useEffect(() => {
-    if (isConnected && !isChilizChain && !isChilizTestnet) {
-      toast({
-        title: "Wrong Network",
-        description: "Please switch to Chiliz Chain or Chiliz Testnet to use MatchMind",
-        variant: "destructive",
-      })
-    }
-  }, [isConnected, isChilizChain, isChilizTestnet, toast])
+  // TEMPORARILY DISABLED FOR TESTING
+  // useEffect(() => {
+  //   if (isConnected && !isChilizChain && !isChilizTestnet) {
+  //     toast({
+  //       title: "Wrong Network",
+  //       description: "Please switch to Chiliz Chain or Chiliz Testnet to use MatchMind",
+  //       variant: "destructive",
+  //     })
+  //   }
+  // }, [isConnected, isChilizChain, isChilizTestnet, toast])
 
   return (
     <WalletContext.Provider
